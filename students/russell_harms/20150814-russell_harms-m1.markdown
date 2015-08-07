@@ -29,7 +29,7 @@ I didn't set goals for the module. I joined turing with the goal of learning to 
 
 ### Attendance
 
-(Summary of any missed time 1/2 day or more)
+No missed time.
 
 ### Work
 
