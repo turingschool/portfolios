@@ -8,7 +8,24 @@ I didn't set goals for the module. I joined turing with the goal of learning to 
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+#### Notes
+
+* Does not create a new invoice.
+* Sanitation - Zero complaints
+* Great test of randomness.
+* Spec Harness generates 9 errors. 12 minutes, 19 seconds.
+* Test suite consists of 149 tests, missing unit tests and some coverage of models.
+* 5 failing tests.
+* Application only made use of #each
+
+#### Scores
+
+* Functional Expectations: 2
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby and Style: 3
+* Enumerables and Collections: 2
+* Code Sanitation: 4
 
 ### Attendance
 
