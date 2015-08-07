@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I didn't set goals for the module. I joined turing with the goal of learning to program and to work with other programmers better. I didn't segregate this module from the larger goals I had for these seven months.
 
 ### End of Module Assessment
 
