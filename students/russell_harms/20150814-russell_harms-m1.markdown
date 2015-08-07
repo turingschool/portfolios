@@ -33,18 +33,24 @@ No missed time.
 
 ### Work
 
-(Intro)
+I completed the following individual projects this module:
 
-#### (Project Name)
+#### Robodoku
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/russelleh/robodoku)
+* [Original Assignment](https://github.com/turingschool/challenges/blob/master/robodoku.markdown)
 
-(description)
+The first project assigned was to build an automated sudoku solver. This was my first experience building test driven software from the ground up.
 
-(evaluation comments)
+* use more commits / smaller steps, not manual backups
+* good implementation of a Cell and good tests
+* able to solve many problems
 
-(evaluation scores)
+1. Functional Expectations: 4, solved 40 of Horace's puzzles
+2. TDD: 3, good test count and coverage
+3. Encapsulation: 3, like the cell/solver split
+4. Fundamental Ruby: 3, good code
+5. Enumerable: 3, functional but watch out for patterns
 
 ## Team
 
