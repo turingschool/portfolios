@@ -143,7 +143,9 @@ Score:
 * Enumerables and Collections: 2
 * Code Sanitation: 4
 
-(feedback to me)
+From George:
+
+Russell is super sharp and excellent at noticing details and ways to improve code. I felt a bit intimidated with how fast he can move once he understood what he want to achieve and felt like I slowed him down whenever we were pairing. He was good at asking questions when he didn’t understand work flow concepts, but beyond that could improve the amount of communication he gives in a group.
 
 ## Community
 
