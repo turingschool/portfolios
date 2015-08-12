@@ -93,6 +93,8 @@ Score:
 
 This was the first scary assignment. I was trying to juggle helping classmates and finishing the project on time, and I was overconfident about how much work I could get done at home (not very much, which is why I'm here in the first place.) I had a lot of experience helping classmates and realizing how hard things are to explain.
 
+Assessed By: Jeff
+
 Assessment Notes:
 
 * Solid encrypt/decrypt, didn't get crack
@@ -111,18 +113,35 @@ Score:
 
 ### Projects
 
-(Intro)
+I only had one group project this module.
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/russelleh/sales_engine)
+* [Original Assignment](http://tutorials.jumpstartlab.com/projects/sales_engine.html)
 
-(description)
+This project went badly. It was coincidentally also my first group project. My partner and I have a general understanding that most of the pairing issues came from schedule differences, but as with most things there are probably more subtle influences. I hope that with future pairs I can try to address and refine my pairing ability.
 
-(evaluation comments)
+Assessed By: Mike
 
-(evaluation scores)
+Assessment Notes:
+
+* Does not create a new invoice.
+* Sanitation - Zero complaints
+* Great test of randomness.
+* Spec Harness generates 9 errors. 12 minutes, 19 seconds.
+* Test suite consists of 149 tests, missing unit tests and some coverage of models.
+* 5 failing tests.
+* Application only made use of #each
+
+Score:
+
+* Functional Expectations: 2
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby and Style: 3
+* Enumerables and Collections: 2
+* Code Sanitation: 4
 
 (feedback to me)
 
@@ -130,7 +149,11 @@ Score:
 
 ### Giving Feedback
 
-(feedback from me)
+To George:
+
+It seems unfair to give feedback around scheduling differences, because they are A) largely outside of your control, and B) not likely to influence your ability as a developer in a real work environment, so I'll try to refine my criticism: I don't think the divide and conquer method was a good idea before we really understood the project, and I feel that at the beginning of the project that you were pushing back against my idea of setting out time for trying to understand our codebase inside and out. That being said, I know I wasn't doing a great job of pairing at the beginning either.
+
+Mostly you seem like a good and diligent programmer, which is one of the things which made it easier to let you do your own thing. I think if we had coordinated better that we would have nailed it.
 
 ### Playing a Part
 
