@@ -7,9 +7,7 @@
 Prior to joining Turing, I had no programming experience. During the first
 module I've learned to break problems down into smaller components, utilize an
 iterative process to map out a solution and to implement the solution through
-test-driven design. Through a lot of trial and error, I've come to understand that
-learning to program requires a logical process, a supportive learning environment,
-and a strong determination to learn.
+test-driven design.
 
 ### End of Module Assessment
 
@@ -27,14 +25,14 @@ absence on Friday, July 17th.
 
 ### Work
 
-I completed the following individual work this module:
+I completed the following individual projects this module:
 
 #### Sales Engine
 
 * [GitHub URL](https://github.com/rebekahsosa/SalesEngine)
 * [Original Assignment](http://tutorials.jumpstartlab.com/projects/sales_engine.html)
 
-In this ten-day project I implemented a data reporting tool that manipulates and
+During this six day project I implemented a data reporting tool that manipulates and
 reports on merchant transactional data. It was evaluated by Mike Dao with the
 following results:
 
@@ -42,6 +40,34 @@ following results:
 * Decomposition: TBD
 * Functionality: TBD
 * Test-Driven Development: TBD
+
+### Chisel
+
+* [GitHub URL](https://github.com/rebekahsosa/chisel)
+* [Original Assignment](https://github.com/turingschool/ruby-submissions/blob/master/1507/03-chisel.markdown)
+
+During this ten-day project I implemented a parser that converts markdown to
+html. It was evaluated by Mike Dao with the following results:
+
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Functionality: 1.5
+* Breaking Logic into Components: 3
+
+### Linked Lists
+
+* [GitHub URL](https://github.com/rebekahsosa/Linked-Lists)
+* [Original Assignment](https://github.com/turingschool/challenges/blob/master/linked_lists.markdown)
+
+During this four-day project I implemented a linked list that models a collection
+of data as a series of "nodes" which link to one another in a chain. It was
+evaluated by Jeff Casimir with the following results:
+
+* Functional Expectations: 1
+* Test-Driven Development: 3
+* Encapsulation: 3
+* Fundamental Ruby & Style: 3
+* Looping / Recursion: 3
 
 ### Team Projects
 
