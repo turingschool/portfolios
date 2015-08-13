@@ -94,14 +94,40 @@ Score: 3
 Breaking Logic into Components:
 Score: 3+
 
-(feedback to me)
-
 
 Sales Engine
 
 -https://github.com/Unsafepond/Sales-engine-v2
 -https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown
 -In this project you'll practice building a system of several interacting Ruby objects using TDD.
+
+1. Functional Expectations
+  3: Application fulfills all base expectations as tested by the spec harness
+
+  2. Test-Driven Development
+  * Tests looked a little sloppy and could have used better refactoring, but the
+    suite was extremely thorough, robust, and broken into the correct files.
+  4: Application is broken into components which are well tested in both isolation
+  and integration using appropriate data
+
+  3. Encapsulation / Breaking Logic into Components
+  * No use of modules, but the logic was where it needed to be and as pushed
+    down the stack as they could manage.
+  3: Application effectively breaks logical components apart but breaks the
+  principle of SRP
+
+  4. Fundamental Ruby & Style
+  * Several quirky things caught my eye, but no serious violations to mention.
+  3: Application shows strong effort towards organization, content, and
+  refactoring
+
+  5. Enumerable & Collections
+  * Caught on to the best enumerables by the deadline, but did not get time to
+    implement them or demonstrate their understanding of when to use which.
+  3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+  6. Code Sanitation
+  4: Zero complaints
 
 Community
 
