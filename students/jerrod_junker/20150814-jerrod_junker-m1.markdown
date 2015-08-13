@@ -3,7 +3,7 @@ Individual
 
 Areas of Emphasis
 
-At the beggining of this module I thought I needed improvement on my ruby skills and my communication. I did a lot of after school studying on the fundamentals of ruby and now feel fairly strong with it. Every time I was paired I set out to improve my communication. Before it was difficult for me to approach most people, but now I feel that I can communicate my thoughts much more easily.
+At the beggining of this module I needed improvement on my ruby skills and my communication. I did a lot of after school studying on the fundamentals of ruby and now feel fairly strong with it. Every time I was paired I set out to improve my communication by talking through my thought process. now I feel that I can communicate my thoughts much more easily. Goals for the future are: Talk to more mentors, do more programming, and doing stuff that involves my posse much more than I have in the past.
 
 End of Module Assessment
 
@@ -105,7 +105,6 @@ Sales Engine
 
 Community
 
-Giving Feedback
 
 
 Playing a Part
