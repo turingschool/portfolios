@@ -159,7 +159,9 @@ Mostly you seem like a good and diligent programmer, which is one of the things 
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I treat the people here the way I do because they're people, not because they're turing students, and that is all I want from anyone here. If a student from another programming school asked for my help, should I turn them down because I can't write on my turing portfolio how it benefited the turing community? I don't want to be that kind of person.
+
+It is at the discretion of other people at turing whether I have benefitted the community or not. What I can say is that I asked more questions than anyone else in the lectures I attended, that I lent my ear to frustrated and failing students, that I supplied milk for coffee, that I attempted twice to deliver a presentation on cryptography, that I have helped my fellow students in Echo and Foxtrot both. I think turing would be worse off without me.
 
 ## Review
 
