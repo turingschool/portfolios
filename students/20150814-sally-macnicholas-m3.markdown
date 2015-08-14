@@ -70,6 +70,7 @@ Notes:
 * Would like to see more model/unit testing and more use of PORO's.
 * Also my photo is somewhat low res.
 
+Scores:
 * Feature Completion: 3
 * Organization: 4
 * Development: 3
