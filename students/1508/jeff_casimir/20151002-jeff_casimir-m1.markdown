@@ -1,10 +1,10 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Jeff Casimir - M1 Portfolio
 
 ## Individual
 
 ### Your Mission
 
-(What did you set out to accomplish this module?)
+Crush it.
 
 ### End of Module Assessment
 
