@@ -99,7 +99,7 @@ Ion is a modern missed connection app, which consumes the facebook and mapbox ap
 
 ### Playing a Part
 
-I don't know why, but I tend to be console for a few people who go to this school and I like to think I supply wisdom. Turing can be pretty chaotic at times and I'm happy to give advice that puts things in perspective. I feel like I've played the part by being a sounding board for quite a few people here.
+Turing can be pretty chaotic at times and I'm happy to give advice that puts things in perspective for other students. I feel like I've played the part by being a sounding board for quite a few people here.
 
 ## Review
 
