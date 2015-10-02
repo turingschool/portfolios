@@ -159,7 +159,11 @@ I've participated in the larger Turing Community in the following ways:
 
 ### Notes
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 4
+* Individual Work and Projects: 3
+* Group Work and Projects: 3
+* Community Participation: 4
+* Peer and Instructor Feedback: 3
 
 ### Outcome
 

@@ -157,7 +157,11 @@ space when it was my posse's turn to do so. In addition, I've volunteered to hel
 
 ### Notes
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 3
+* Individual Work and Projects: 3
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
 
 ### Outcome
 

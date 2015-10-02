@@ -166,7 +166,11 @@ I stayed up until 2:30 helping people with their sales engine projects.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 4
+* Individual Work and Projects: 3
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
 
 ### Outcome
 

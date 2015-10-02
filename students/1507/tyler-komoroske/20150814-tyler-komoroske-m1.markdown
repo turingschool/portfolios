@@ -133,3 +133,14 @@ things to work on: There were many times where Jeff would write a bunch of code 
 * I always liked to ask my classmated how they were doing and if they needed help to let me know.
 * I made an effort to come to Turing everyday with a smile on my face and take on every challenge with a positive attitude regardless of how overwhelmed I may have felt.
 * I'm going to make an effort to be mre involved next module and help out in any way I can.
+
+
+## Review
+
+### Notes
+
+* End of Module Assessment: 2
+* Individual Work and Projects: 2
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3

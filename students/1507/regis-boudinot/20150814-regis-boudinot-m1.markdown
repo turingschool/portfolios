@@ -150,7 +150,11 @@ in that week's Posse Post as well as being featured on the Turing Blog.
 
 ### Notes
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 3
+* Individual Work and Projects: 3
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
 
 ### Outcome
 

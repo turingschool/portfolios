@@ -68,3 +68,14 @@ women in the tech community:
 
 * I attend private events and meetups with students at Turing
 * I pair frequently with professional mentors as well as students
+
+## Review
+
+### Notes
+
+* End of Module Assessment: 2
+* Individual Work and Projects: 2
+* Group Work and Projects: 2
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
+

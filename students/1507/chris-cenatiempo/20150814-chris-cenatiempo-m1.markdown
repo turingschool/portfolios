@@ -115,3 +115,13 @@ In addition to learning and applying new skills, I plan on taking part community
 * Creating a personal website
 * Delivering a student-led session
 * Helping organize community events
+
+## Review
+
+### Notes
+
+* End of Module Assessment: 4
+* Individual Work and Projects: 3
+* Group Work: 3
+* Community Participation: 3
+* Feedback: 3

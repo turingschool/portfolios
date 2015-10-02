@@ -194,7 +194,11 @@ I try and help out as much as possible with other students and feel that I am be
 
 ### Notes
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 4
+* Individual Work and Projects: 3
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
 
 ### Outcome
 

@@ -200,7 +200,11 @@ Joan Clarke Society on 7/28.  I talked with Miriam about her new job.  I talked 
 
 ### Notes
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 2
+* Individual Work and Projects: 2
+* Group Work and Projects: 2
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
 
 ### Outcome
 

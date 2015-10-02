@@ -269,7 +269,11 @@ I did also try to help out with small things I knew I could contribute, like mak
 
 ### Notes
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 3
+* Individual Work and Projects: 3
+* Group Work: 3
+* Community Participation: 4
+* Feedback: 4
 
 ### Outcome
 

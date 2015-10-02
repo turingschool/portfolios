@@ -214,7 +214,11 @@ I tried to share ideas and act on advice given to me by Jeff to play the part of
 
 ### Notes
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 4
+* Individual Work and Projects: 3 
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
 
 ### Outcome
 

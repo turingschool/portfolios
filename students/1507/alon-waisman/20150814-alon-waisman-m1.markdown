@@ -244,6 +244,10 @@ Outside of that tutoring, I generally aim to be inclusive and create some opport
 
 ### Notes
 
-
+* End of Module Assessment: 4
+* Individual Work and Projects: 4
+* Group Work: 3
+* Community Participation: 4
+* Feedback: 3
 
 ### Outcome

@@ -1,0 +1,213 @@
+# Pat Wey - M1 Portfolio
+
+## Individual
+
+### Areas of Emphasis
+
+My mission as a Turing student is to embrace discomfort in social situations, invest my time and effort into the Turing community, welcome challenges, confidently voice my opinions, and seek constructive, actionable feedback.
+
+### End of Module Assessment
+I was assessed by Josh Cheek on September 28th, and we paired on the challenge of reading Scrabble game data in from a csv file. The challenge touched on my understanding OOP, Test-Driven Development, as well as my workflow.
+
+Feedback:
+* "Good understanding of what is going on and what is going to happen"
+* "Nice refactoring in the tests"
+* "Good use of `:map`, and `:group_by`"
+* "Good approach to describing behaviour and turning them into tests"
+* "Nice use of command+d to highlight and replace"
+* "Great use of pry / tests"
+* Good explanation and descriptions
+
+Evaluation:
+- Ruby Syntax & API: 4
+- Ruby Style: 4
+- Blocks & Enumerations: 3.5
+- Testing: 4
+- Workflow: 3
+- Collaboration: 3.5
+
+### Attendance
+
+I missed the field day on Friday, September 18th. My partner Jason and I decided that we'd prefer to spend that day working, and take Sunday off that weekend instead. Jason has kids, and we prioritized him spending more time with his kids during the weekend over us attending field day.
+
+### Work
+
+I worked on four individual assignments during Module one.  The projects improved my algorithmic thinking skills and my understanding of computer science concepts.  They also gave me an opportunity to hone my problem-solving approach and workflow.
+
+### Night Writer
+[Github](https://github.com/patwey/night_writer)
+
+[Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
+
+A project where I built an application to translate between Braille and English.
+
+Evaluation Comments:
+- "Take smaller incremental steps in testing"
+- "Prefer instances and instance methods over class methods"
+- "Look for opportunities to extract methods and small objects"
+
+Scores:
+- Overall: 3
+- Fundamental Ruby & Style: 3
+- Test-Driven Developent: 2
+- Components: 3
+
+### Binary Search Tree
+  [Github](https://github.com/patwey/binary-search-tree)
+
+  [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
+
+  A project where I constructed a binary search tree.
+
+  - Functional Expectations: 4
+  - Test-Driven Development: 4
+  - Encapsulation / Breaking Logic into Components: 3
+  - Fundamental Ruby & Style: 3
+  - Enumerable & Collections: 3
+
+
+#### Linked List
+  [Github](https://github.com/patwey/linked-list)
+
+  [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown)
+
+  A project where I built a linked list.
+
+  - Functional Expectations: 4
+  - Test-Driven Development: 4
+  - Encapsulation / Breaking Logic into Components: 3
+  - Fundamental Ruby & Style: 3
+  - Looping or Recursion: 3
+
+
+#### Sorting Suite
+  [Github](https://github.com/patwey/sorting-suite)
+
+  [Original Assignment](https://github.com/turingschool/sorting-suite)
+
+  A project where I implemented 3 sorting algorithms: bubble sort, insertion sort, and merge sort.
+
+  - Functional Expectations: 3
+  - Testing: 3
+  - Ruby Style: 3
+  - Organization: 3
+
+## Team
+
+### Projects
+
+I teamed up with Jason Pilz for both group projects this module.  Working on a programming project with a teammate was entirely new to me, and pushed me to learn and grow communication skills on the fly. By the time we were assigned the second project, we were totally in sync and able to leverage our individual talents effectively.
+
+#### HTTPYeahYouKnowMe
+  [Github](https://github.com/patwey/httpyeahyouknowme)
+
+  [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+
+  A group project where the dream team, Jason Pilz and I, are reunited to build a web server to serve my Night Writer.
+
+  - Overall Functionality: 4
+  - Test Driven Development: 3.5
+  - Code Sanitation: True
+  - Adoration Points: None
+  - Knowledge Retention: Both members got 10/10
+
+#### Headcount
+  [Github](https://github.com/jasonpilz/Headcount)
+
+  [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
+
+  A group project where Jason Pilz and I built an application to parse and analyze a dataset of Colorado schools.
+
+  - Functionality: 4
+  - Test-Driven Development: 3.5
+  - Fundamental Ruby & Style: 3
+  - Encapsulation: 3
+
+## Community
+
+### Giving Feedback
+
+"Working with Jason for two projects has been a pleasure.  He is easy-going and flexible, independent of the fact that he has a family who wants to spend time with him!  I'm impressed with his ability to take charge of the big picture items - he kept both me and the project on track from day one, carefully considering the implications of our design decisions. Furthermore, his ability to stay calm in the face of adversity (i.e. the spec harness) bolstered me when my confidence wavered. Despite his modesty, I've gathered that Jason has a great command of the concepts and processes we were taught in Module 1. He worked tirelessly on our project, and "hey I pushed some new commits" became a slack message I was used to waking up to. Finally, I've noticed that Jason regularly feeds his healthy curiosity. Almost daily, he'd share something with me that he discovered digging around in the docs or online."
+
+"I had the pleasure of pairing with Ryan toward when we were working on our Night Writer projects. He was easy and fun to work with, and he has a genuine conviction about programming that is inspiring. He's open and receptive to feedback, and an awesome communicator.  I sincerely hope the random group generator puts us together soon."
+
+"Torie is one of the most, if not the most impressive people in our cohort. She is a strong and quiet leader, and inspires us by the example she sets. Her combination of her aptitude, drive, curiosity and humility makes it hard to picture a ceiling for her potential. She's kind and considerate on top of all of this, which is perhaps most rare."
+
+"RossedFort has been a great asset to our cohort over the course of Mod 1.  He's regularly available for help and willing to drop what he's doing to take a look at your code.  The combination of his technical skill and patience make him someone I'll continue to ask for help, and look forward to working with in the future."
+
+### Being a Community Member
+
+Feedback:
+
+* "This module I have had the pleasure to work on not just 1, but 2 paired projects with Pat. His technical skills are superior to my own, so I have been able to learn and increase my skill by working with him. He is always open to different opinions or approaches, which makes collaboration very easy and enjoyable. I have observed numerous cohort-mates ask Pat for assistance on various projects, and he is always willing and able to help." - Jason
+
+* "Pat has been incredibly helpful this module. He's always willing to spend large amounts of time working through problems with you, and has had a very positive influence on the cohort." - Torie
+
+* "You showed me your mission statement at the beginning of the module.  When Jeff first explained the mission statement and said to write one over the weekend, I had no what it should include without sounding ‘hokey’.  Thanks very much for guiding me and making the mission statement feel less intimidating.  You are such a great person and I’m very impressed with both your technical skills and your interpersonal skills." - Nicole
+
+* "Pat was one of my favorite people to work with. His knowledge of Ruby is incredible for having
+only programed for six weeks. While pairing, Pat has a way of remaining jovial and relaxed,
+yet hard-working and efficient. It is something I strive to duplicated in my next module. His
+motivation and grit are unmatched." - Ross
+
+### Playing a Part
+
+I organized a few social events on the weekend, most notably: a hike up the flatirons in Boulder and a group that checked out Oktoberfest(and decided it was too crowded).
+
+Around school, I've tried to pick up stray trash/water cups whenever possible, and I've even started the dishwasher a few times!  I've also been diligent about closing up classroom A and turning off the lights whenever I've worked late.
+
+## Review
+
+### Notes
+
+* Would like to see you invite people to thrive in the halo of your example. 
+
+### Outcome
+
+## A: End-of-Module Assessment
+
+A Turing student is able to demonstrate proficiency at programming in accordance
+with the module's content and expectations.
+
+* 4: Student achieved two or more "4s" on the assessment
+
+## B: Individual Work & Projects
+
+A Turing student works to maximize their skill growth and demonstrates
+that skill across a variety of work.
+
+
+* 3: Student demonstrates commitment and growth in their work through satisfactory
+evaluations of each project or a clearly upward-sloping trend.
+
+## C: Group Work & Projects
+
+A Turing student contributes significantly to group projects, helps the team
+develop their technical skills, and delivers a high-quality product.
+
+* 4: Student consistently helps their teammates be their best selves, learn at
+an accelerated pace, and achieve great results.
+
+## D: Community Participation
+
+A Turing student builds up the community around them by participating and
+supporting other students, the larger Turing family, and persons outside our
+walls who want to develop their own skills.
+
+* 3: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.
+* 2: Student participates in most required community activities (demos, lightning talks, etc)
+but does not do anything else of significance.
+* 1: Student stays in their lane and focuses just on their own learning.
+
+## E: Peer & Instructor Feedback
+
+A Turing student accelerates the growth of those around
+them by delivering specific, kind, and actionable feedback. They accelerate their
+own growth by taking in and acting on the feedback of their peers and instructors.
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
+
+
+

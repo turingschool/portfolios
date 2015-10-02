@@ -289,7 +289,11 @@ Comic Relief - Emoji creator and founder of the Slack channel 'Hot Cross Puns'
 
 ### Notes
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 4
+* Individual Work and Projects: 3
+* Group Work: 3
+* Community Participation: 3
+* Feedback: 3
 
 ### Outcome
 

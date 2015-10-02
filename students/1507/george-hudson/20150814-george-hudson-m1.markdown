@@ -168,3 +168,14 @@ In addition to the written feedback I was asked to give about Russell Harms, my 
 * I started teaching my daughters the basics of Ruby and programming in general through the use of Scratch (thanks Mike Dao) and Ruby Warrior.
 * I have an ongoing blog, http://turingwithgeorge.tumblr.com that gets regular updates.
 * I gave regular shout outs on twitter (@georgehudson78) to fellow classmates, prior gSchool classmates (many now Turing mentors), guest speakers, and instructors.
+
+## Review
+
+### Notes
+
+* End of Module Assessment: 4
+* Individual Work and Projects: 3
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
+

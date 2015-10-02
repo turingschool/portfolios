@@ -98,8 +98,19 @@ Jack Yeh, Vanessa Gomez, Margarett Ly
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Self directed project didn't come together as desired
+* Some projects show strengths where this was weak (e.g. TDD) but
+don't seem to be able to hit all the facets together (TDD _and_ feature delivery)
+* Need to focus on achieving consistent results across all criteria
+* Community engagement and connection is strong; Individual Technical progress
+not keeping pace
+* Would like to see another pass at module 3 to make sure process and individual progress
+are prepared for the chaos of module 4
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* __A: End-of-Module Assessment:__ 1
+* __B: Individual Work & Projects:__ 2
+* __C: Group Work and Projects:__ 3
+* __D: Community Participation:__ 3
+* __E: Peer & Instructor Feedback:__ 3

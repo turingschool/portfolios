@@ -146,7 +146,11 @@ My peers said:
 
 ### Notes
 
-( Leave blanks for reviewers )
+* End of Module Assessment: 3
+* Individual Work and Projects: 3
+* Group Work: 3
+* Community Participation: 3
+* Feedback: 3
 
 ### Outcome
 
