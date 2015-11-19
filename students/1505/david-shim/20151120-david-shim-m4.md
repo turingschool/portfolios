@@ -62,6 +62,24 @@ This 3 day project was a nice break from JavaScript.  It really helped sharpen m
 * Solidified my previous knowledge of caching from Module 3
 * Learned how to navigate through a foreign codebase.
 
+
+#### RealTime
+
+* [GitHub URL](https://github.com/dsshim/crowdsource)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
+
+This week-long project was our first introduction to web sockets. While the project was pretty complex, I think I learned a lot.  I plan on refactoring the codebase a bit to make this a marquee project in my portfolio.
+
+
+
+
+##### Takeaway
+
+* Learned how to update client pages in real-time using web sockets.
+* Became more comfortable with JQuery and AJAX.
+* More practice using Node.js and Express
+
+
 ## Community
 
 ### Giving Feedback
