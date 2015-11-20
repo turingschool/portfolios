@@ -10,10 +10,6 @@
 
 (Notes & scores from your assessment rubric)
 
-### Attendance
-
-(Summary of any missed time 1/2 day or more)
-
 ### Work
 
 (Intro)
