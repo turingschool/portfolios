@@ -5,12 +5,12 @@
 
 #### Your Mission
 
-Module two represented a very different type of challenge for me compared to my first six weeks at Turing. While I felt supremely confident in the more heavily logic-oriented problem solving in module one, web development and styling were unexplored territory for me. My primary goal for this module was to develop my comfort and skill in these areas.
+Module two represented a very different type of challenge for me compared to my first six weeks at Turing. While I felt supremely confident in the more heavily logic-oriented problem solving in module one, web development and styling were unexplored territory for me. My primary goal for this module was to develop my comfort and skill in these areas while also improving my ability to collaborate and communicate on larger group projects.
 
 
 #### End of Module Assessment
 
-Challenge: Implement scoring for a typing test program and add database columns and an index page to display attempts and scores for a given user
+Challenge: Implement scoring for a typing test program and add database columns and an index page to display attempts and scores for a given user.
 
 Assessed By: Rachel Warbelow
 
@@ -40,6 +40,7 @@ Assessed By: Rachel Warbelow
 
 I had no absences during module 2.
 
+
 #### Two Ruby Challenges Completed
 
 Repository: https://github.com/jwperry/mod2_ruby_challenges
@@ -53,7 +54,7 @@ Repository: https://github.com/jwperry/mod2_ruby_challenges
 
 Turing blog post, expounding on my experiences transitioning into working with larger teams and groups.
 
-<!-- <link here> -->
+http://jwperry.github.io/2016/01/20/learning-to-work-in-development-teams.html
 
 
 ## Team
@@ -127,6 +128,13 @@ Awesomeness - <TBA but clearly, obviously 4>
 I had the pleasure of working with J.P. on a project based in Sinatra called TrafficSpy. He has an amazing ability to patiently hone in on a problem and tease it apart until it makes sense, or until he knows the right question to ask. This makes his questions and comments meaningful and hold significant weight. I see so much skill and forethought in J.P.'s coding and problem solving abilities, my only criticism is that he may not see that in himself - I have no doubt that once he finds that confidence he will be a coding powerhouse!
 
 
+1510 - Jordan Lawler
+
+Me and JP worked together for the TrafficSpy project.  JP proved to be an invaluable member to our team due to his attention to detail, effective communication skills, leadership through example, and incredible work ethic.   From the start of the project JP had a keen eye for errors, potential future shortcomings, and styling problems with our code.  Rather than just fix these and move on, JP spoke with both of us about the change, and if there were better options.  The benefit of this to our team cannot be understated.  When it became clear we would have a late night or two, JP was not only okay with the long hours, but pushed through enthusiastically helping the team pull through when moral was low.  Outside of small team engagements  JP quick to offer help to others, and always positive,  making him an integral part to our cohort and Turing in general.  
+
+If I had to pick a point of critique for JP (which is very difficult to do),  it would be that his voice is one of reason, kindness, and value that is rare to come by (not the critique).  While leading by example is an incredible trait to have, it would be to everyones at Turing's benefit to hear more of JPs voice on a day to day basis!
+
+
 1510 - Aaron Greenspan
 
 It’s been an absolute blast working with you on Little Shop.  You are perhaps the most level headed guy I’ve yet worked with, and are also perhaps the most in tune with where our group is at an where it needs to go.  I especially appreciate the care you take in asserting your opinions, and the careful clarity you provide about what you want and think is best.  Pressed to give negative feedback, I think you should be more willing to strike out on your own earlier on in a project… Your work these past few days building out new functionality and styling is of the highest quality in my mind, and you are definitely doing some of your best work on your own.
@@ -134,11 +142,12 @@ It’s been an absolute blast working with you on Little Shop.  You are perhaps 
 
 1510 - Hector Huertas
 
+Feedback: Its a pleasure working with you.  I have a hard time finding constructive feedback to give you. I think you could benefit from using more shorcuts, since your typing is already fast. And another small thing is that sometimes you wait too much to ask for help. Specially with weird errors, I think is great to pick someone for a fast “do you see something weird here”? Your are an awesome partner man, keep up the good work!
+
 
 1510 - Steve Pentler
 
-
-1511 - Marina Corona
+JP doesn’t take shortcuts. When everyone else is getting lazy about GitHub, testing, or convention, he speaks up and defends his points. I also appreciate how he was confident enough to question the aesthetics of my design decisions and encourage me to think from a user’s perspective. When I listened, he was generally correct. I know I wouldn’t be as apt to question his design decisions on the back-end, so I admire his inquisitive nature. JP  is exceptionally easy to work with. On a few instances, he clearly communicated his needs/expectations to the group with a very palatable demeanor. I can sincerely say he is in the top three pairing partners I’ve had thus far at Turing.
 
 
 1511 - Nicholas Dorans
