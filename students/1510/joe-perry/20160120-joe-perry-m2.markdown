@@ -154,6 +154,10 @@ JP doesn’t take shortcuts. When everyone else is getting lazy about GitHub, te
 
 I met JP in my second week of module 1 and from the very beginning he has been an extremely active asset in helping me learn the ins and outs of Ruby programming. He has a very simplistic and positive style of teaching. At no point did I ever feel like he’s just "given me the answer", instead he instills the confidence in me to figure it out myself. He has always made himself available for any and all questions that I, or others, may have. And he breaks down those questions into clear and logical solutions. A good amount of my success in the program has to be attributed to me reaching out to JP about things that may not have been clear to me at first. Like I said he has a great way of breaking down complex issues and explaining them in the most understandable manner possible. I would even go as far as to say that JP has been mentor of mine throughout module 1. I only hope that I can pay the favor forward as well as he has to help out whoever I can in the upcoming cohort(s). I wish him nothing but the best of luck throughout the rest of the program and look forward to working with JP in the future. You da man, DAWG!!
 
+1511 - Sunny Khalsa
+
+I hear JP’s name so much in my cohort that sometimes it seems like he is in my module. I’ve witnessed the countless pairing sessions and assignment sit-downs, but I’ve also been extremely lucky in getting the chance to pair with him as well. He is highly adept at taking complex problems and dishing them out in digestible bite size portions. Fundamental parts of ruby such as Classes, methods, blocks, arguments, the stack, etc were difficult for me in the beginning and I attribute a lot of the progress that I made early on to JP. He is a wonderful addition to Turing and a great part of this community.
+
 
 #### Playing a Part
 
