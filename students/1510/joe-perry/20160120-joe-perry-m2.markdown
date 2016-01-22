@@ -47,7 +47,9 @@ Repository: https://github.com/jwperry/mod2_ruby_challenges
 
 1) SwiftStats
 
-2) Plumber
+2) Pig Latin Translator
+
+3) Plumber
 
 
 #### Blog Post
@@ -101,21 +103,23 @@ https://github.com/stevepentler/Hire-My-Tribe
 
 Teammates: Aaron Greenspan, Hector Huertas, Steve Pentler
 
-Reviewed by: <TBA>
+Reviewed by: Rachel Warbelow
 
 #### Scores:
 
-Functionality - <TBA but probably 4>
-Test-Driven Development - <TBA but probably 4>
-Encapsulation / Breaking Logic into Components - <TBA but probably 4>
-Fundamental Ruby & Style - <TBA but probably 4>
-Sinatra / Web Business Logic - <TBA but probably 4>
-View Layer - <TBA but probably 4>
-Awesomeness - <TBA but clearly, obviously 4>
+Feature Completeness: 4 (lite) - All features are correctly implemented along with two extensions.
 
-#### Notes:
+Views: 4 - Views show logical refactoring into layout(s), partials and helpers, with no logic present.
 
-<TBA>
+Controllers: 3 - Controllers are generally well organized with three or fewer particularly ugly parts.
+
+Models: 3.5 - Models show satisfactory organization, refactoring, and appropriate use of Rails features.
+
+Testing: 4 - Project has a running test suite that exercises the application at multiple levels.
+
+Usability: 3 - Project is highly usable, but needs more polish before it'd be customer-ready.
+
+Workflow: 3.5
 
 
 ## Community
@@ -171,6 +175,7 @@ I've participated in the larger Turing Community in the following ways:
 * Have assisted with workspace cleanup with Goldberg posse and 1510 cohort.
 * Have attended weekly lightning talks and student-led sessions.
 * Did my first lightning talk, covering the role of programming in energy and commodities trading.
+* My group attended and presented our Little Shop project at Turing's January end-of-module demo night.
 
 
 ## Review
