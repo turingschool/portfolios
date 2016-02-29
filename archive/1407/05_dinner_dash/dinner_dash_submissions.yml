@@ -1,0 +1,37 @@
+submissions:
+  Ian, Jessica, Luke:
+    repository: 
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Feature Completeness: 4
+        Views: 4
+        Controllers: 3
+        Models: 4
+        TDD: 3
+        Usability: 4
+  Sara, Rolando, Jim:
+    repository: 
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Feature Completeness: 3.5
+        Views: 3
+        Controllers: 2.5
+        Models: 3
+        TDD: 2.5
+        Usability: 4
+  Kavita, Glen, Aaron:
+    repository: 
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Feature Completeness: 3
+        Views: 4
+        Controllers: 4
+        Models: 4
+        TDD: 3
+        Usability: 2.5

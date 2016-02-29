@@ -1,0 +1,17 @@
+Checkin with: Horace
+
+
+Done:
+  - schema starting to come together
+  - user auth seems ok
+  - frontend looking ok; seem like there are some pieces hanging out
+  - need to trim unused bits out of frontend
+
+
+todo:
+  - fix dem tests
+  - migrate admin resources into admin namespace
+  - cleanup unused templates
+  - get menu_item schema in place
+  - los links! link to the other parts of the site from root
+  - would try to focus more on user stories and wrapping up loose ends

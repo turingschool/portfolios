@@ -1,0 +1,29 @@
+Checkin with: Josh Cheek
+Herbert, Danny, Kate
+
+To do:
+  everybody do this first
+    merge all relevant branches
+      fix conflicts as appropriate (e.g. one kind of auth ;)
+    delete merged branches (git push origin :branch-name)
+
+  2 people do
+    in conjunction
+      Fill in values in the views from database
+      When submitting the forms from the admin side, save them into the database
+
+  1 person gets it on Heroku
+    You'll have to do something like this:
+      development do
+        set :database, Sequel.sqlite('development.db')
+      end
+      production do
+        credentials = ??
+        set :database, Sequel.postgresql(credentials) # or maybe url
+      end
+    How to get credentials?
+      ```
+      $ heroku run bash
+      $ echo $DATABASE_URL
+      ```
+      figure out how to parse that url

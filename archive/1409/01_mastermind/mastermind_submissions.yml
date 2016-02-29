@@ -1,0 +1,201 @@
+submissions:
+  Alex Jensen:
+    repository: https://github.com/danajensen/mastermind
+    notes: "Shows strong effort toward organization. Some closely-coupled objects.
+            Good use of best-choice enumerables (collect, any? zip).
+            Well-tested in isolation and integration.
+            Integrated difficulty level in REPL. Clear to use.
+            Saw intent to break apart logical components, but some objects tied together that will make future iterations or changes difficult to implement."
+    evaluation:
+      Fundamental Ruby & Style: 3.5
+      Enumerable & Collections: 4
+      Test-Driven Development: 4
+      REPL Interface: 3.5
+      Breaking Logic into Components: 3
+  Herbert Joseph:
+    repository: https://github.com/Copywright/mastermind
+    notes: "Don't kill me...
+            Complex code with long methods, but saw logic ____.
+            Saw map and include?; used .each for generating color sequence (look into better choice enumerable).
+            Small, encapsulated classes had solid tests, but game_manager was difficult because of too much going on.
+            Game was pleasant to play, but did not always behave as expected.
+            Pulled out input, printer, color sequence, and guess checker into small, manageable classes; would like to see game manager separated into objects that perform certain responsibilities.
+            "
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 2.5
+      REPL Interface: 2.5
+      Breaking Logic into Components: 2.5
+  Sam Kuhlmann:
+    repository: https://github.com/skuhlmann/turing_mastermind
+    notes: "Showed effort toward good organization and refactoring.
+            Saw use of each_with_index, map, count for enumerables.
+            Small classes well-tested, but missing tests for game logic.
+            Some rough edges in game play (not major features), but clear and pleasant to play otherwise.
+            Broke out responsibilities into small classes (timer, code generator, message printer, etc.), but game class could be smaller."
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 2.5
+      REPL Interface: 2.5
+      Breaking Logic into Components: 3
+  Gregory Narajka:
+    repository: https://github.com/gregnar/mastermind.git
+    notes: "Saw good naming conventions; some long methods with nested loops/case/until statements.
+            Saw map, each_with_index, count; check use of destructive .map! and chaining each_with_index and count together.
+            Good use of StringIO for testing input/output. Well-tested in isolation and integration.
+            Game is easy and pleasant to use; implemented turns and difficulty options.
+            Encapsulated responsibilities into separate objects (printer, checker, cli, game, sequence generator, color sequence), but would like to see less logic per method (especially with loops and case statements)."
+    evaluation:
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 3
+      Test-Driven Development: 4
+      REPL Interface: 4
+      Breaking Logic into Components: 3
+  Kate Lane:
+    repository: https://github.com/katelane/mastermind.git
+    notes: "Good naming conventions; shows effort toward organization and refactoring.
+            Saw each_with_index and count -- and chained together! :)
+            Well-tested with guess checker, but missing tests on game, board, and printer.
+            Couldn't find edge-cases to break REPL. Pleasant to use.
+            Able to pull board and game apart easily; would like to see case statements pulled out from within methods."
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 3
+  Timothy Mee:
+    repository: https://github.com/Tmee/MASTERMIND/tree/take_2
+    notes: "and that's that.
+            Some methods clean and single-responsibility; others need refactoring.
+            Saw use of each to iterate. Would like to see enumerables used in place of stacked if statements.
+            Attempt at testing to get user input but not implemented.
+            REPL easy to use; clear and easy to play.
+            Broke apart printer, CLI, and game (run), but Run class included a lot of responsibilities.
+            "
+    evaluation:
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 2
+      Test-Driven Development: 1
+      REPL Interface: 3
+      Breaking Logic into Components: 2
+  Konr Larson:
+    repository: https://github.com/larsonkonr/mastermind.git
+    notes: "Game plays well. Good use of colors. Needs tests!!! Some weak spots
+            in enumerable usage and if/else vs unless vs case."
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 2
+      Test-Driven Development: 1
+      REPL Interface: 4
+      Breaking Logic into Components: 3
+  Zachary Routhier:
+    repository: https://github.com/zRouth/Mastermind.git
+    notes: "Game plays well. Separate files out to subfolders (lib, test). Nine
+            tests total, they pass. Get rid of dead code/files."
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 1
+      REPL Interface: 3
+      Breaking Logic into Components: 3
+  David Bayendor:
+    repository: git@github.com:bayendor/mastermind.git
+    notes: "Game plays well. Decent job of testing (w/ 17 tests). Many good
+            unit tests, need some tests at a higher level that imitate the user.
+            Ruby uses small methods, simple code, solid Ruby API. Pull some
+            responsibilities like sequence generation out into their own classes."
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 2
+  Adam Smith:
+    repository:
+    notes: "Doesn't quite follow spec for the game. Really no tests. Code works
+            but is difficult to follow/read. Work on breaking out components."
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 2
+      Test-Driven Development: 1
+      REPL Interface: 3
+      Breaking Logic into Components: 2
+  Christopher Bynum:
+    repository:
+    notes: "Game plays well. About 36 tests across six files. Ruby is very good,
+            shows effort in refactoring. Love how things are divided up."
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 4
+      REPL Interface: 4
+      Breaking Logic into Components: 4
+  Chase van Hekken:
+    repository: https://github.com/ChasevanHekken/mastermind-game.git
+    notes: "Definitely shows a growing grasp of OO concepts and idiomatic Ruby.
+            had some long and methods that did multiple things.
+            Also had a few classes that had to reach a bit too deeply to keep the game logic together."
+    evaluation:
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 2.5
+      REPL Interface: 3
+      Breaking Logic into Components: 2.5
+  Victoria Harrod:
+    repository: https://github.com/VikiAnn/mastermind
+    notes: "Had some components that were well thought out.
+            Some of the tests were superficial.
+            Developing a good grasp of OO concepts."
+    evaluation:
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 3
+      Test-Driven Development: 2.5
+      REPL Interface: 3
+      Breaking Logic into Components: 2.5
+  Kalah Cheek:
+    repository: https://github.com/kcheek/mastermind.git
+    notes: "Was able to defend design decisions.
+            Limited test coverage."
+    evaluation:
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 3
+  Travis Yoder:
+    repository: "https://github.com/trayo/mastermind.git"
+    notes: "Some incomplete tests.
+            Several good attempts at trying to split up logical components into
+            individual classes."
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 3
+  Danny Glunz:
+    repository: [Mastermind](https://github.com/dglunz/mastermind) & [Battleship](https://github.com/dglunz/battleship)
+    notes: "Completed both Mastermind and Battleship.
+            Lacking sufficient test coverage.
+            Excellent REPL interface; included game board.
+            Packed as a gem (`gem install mastermind-dglunz`)"
+    evaluation:
+      Fundamental Ruby & Style: 4
+      Enumerable & Collections: 4
+      Test-Driven Development: 2
+      REPL Interface: 4
+      Breaking Logic into Components: 3.5
+  Chandra Carney:
+    repository:
+    notes: "Lacking test coverage --- needs more tests.
+            Broke out several components into their own classes.
+            Good use of enumerable and Ruby style."
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 2.5

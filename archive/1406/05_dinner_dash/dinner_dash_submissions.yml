@@ -1,0 +1,88 @@
+# NOTE: You can verify that you haven't broken the format with
+# $ ruby -rpp -ryaml -e 'pp YAML.load File.read("1406/04_clone_wars/clone_wars_submissions.yml")
+submissions:
+  Andrew Watkins, Jonmichael Chambers, Marc Garreau, Chad Brading:
+    repository: https://github.com/marcgarreau/grubhub_v2
+    setup_notes: ""
+    instructor_evaluation:
+      notes: |
+        Evaluated by Josh
+        can't log out ;p~~~~~~
+        users and accounts are the same thing
+        nice use of presenters
+        Good tests in general, tiny bit not covered, but not for a particularly good reason
+        Can't log out, yo, sharing my cart with mah homies
+        no link to category
+        orders "all" counts current order
+      rubric:
+        Feature Completeness: 3
+        Views: 4
+        Controllers: 3
+        Models: 4
+        TDD: 4-
+        Usability: 3
+  Horacio Chavez, Corey Davis, Tan Doan, Hilary Denton:
+    repository:
+    setup_notes: ""
+    instructor_evaluation:
+      notes: |
+        Evaluated by Josh
+        Feature Completeness
+          No link to my profile/orders
+          can see other people's orders
+          cart is gone forever when I logout :(
+          Can't edit user info
+          admin orders missing total
+          some links to transition that aren't actually available
+          no Heroku :P
+        Views
+          use state machine instead of logic in admin orders view
+          the logic that was there was wrong
+          correctly indent the code
+          find balance between the pristine pages (menu, front page) and the rest
+        Controllers
+          lots of dead code
+          unnecessary json stuff
+          session helper is better in application controller
+          need to push knowledge of things like `role == 'admin'` down
+        Models
+        TDD
+          high coverage, if you delete dead code :)
+          things tested at feature level that would be better at a more focused level
+            (e.g. I don't want to deal with the internet just to test how long a password can be)
+        Usability
+          most of the reasons are documented under features
+          Unused routes
+          most pages need aesthetic work
+          the map doesn't show
+      rubric:
+        Feature Completeness: 1.5
+        Views: 3
+        Controllers: 3
+        Models: 3.5
+        TDD: 3
+        Usability: 2
+  Emily Davis, Tim Proctor, Gustavo Villagrana, Robert Gu:
+    repository: git@github.com:BobGu/dinner_dash.git
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Feature Completeness: 1
+        Views: 3
+        Controllers: 3.5
+        Models: 4
+        TDD: 2.5
+        Usability: 1.5
+  Allison Larson, Andy Mention, Alan Smith, Will Faurot, Eric Fransen:
+    repository: git@github.com:ericfransen/dinner_dash.git
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Feature Completeness: 2.5
+        Views: 3
+        Controllers: 3
+        Models: 4
+        TDD: 4
+        Usability: 4

@@ -1,0 +1,62 @@
+submissions:
+  Kyle, Kristina, Michelle:
+    repository: https://github.com/kristinabrown/traffic-spy
+    setup_notes: "parse_payload.rb:47:in `find_url_id'; payload saying it exists when it doesn't exist yet; get rid of duplicated code in your tests;"
+    instructor_evaluation:
+      notes: 
+      rubric:
+        Functional Expectations: 2.5
+        Test-Driven Development: 3
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 4
+        Sinatra / Web and Business Logic: 4
+        View Layer: 4
+  Kenny, Jack:
+    repository: 
+    setup_notes: "need more robust tests; source registration works; can see all event data per identifier; problem with superclass mismatch for class UserAgent; views are on the right track -- would have liked to see more views implemented; great job delegating business logic to models instead of keeping in controller; "
+    instructor_evaluation:
+      notes: 
+      rubric:
+        Functional Expectations: 1.5
+        Test-Driven Development: 2
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3.5
+        View Layer: 2.5
+  Andrew, Dave, Eric:
+    repository: https://github.com/Carmer/traffic-spy-skeleton
+    setup_notes: "tests look awesome, great coverage; check weird behavior of posting payload with nonexistant source; all statistical data appears correctly in views"
+    instructor_evaluation:
+      notes: 
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 4
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 4
+        Sinatra / Web and Business Logic: 3.5
+        View Layer: 3
+ Minnie, Patrick, Mihir:
+    repository: https://github.com/MLee21/Traffic_Spy
+    setup_notes: "source_creator.rb:7:in `raw_source' when missing param; Payload created even when sending in empty params, move 'new_payload.validate' from controller to model; send minimal instance variables to views"
+    instructor_evaluation:
+      notes: 
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 3
+        Encapsulation / Components: 2.5
+        Fundamental Ruby & Style: 2.5
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
+ Tracy, Tess, Tom:
+    repository: 
+    setup_notes: "tests look pretty good, make sure to test all models (payload helper, etc.); excellent job with clean views"
+    instructor_evaluation:
+      notes: 
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 3.5
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3.5
+        View Layer: 3.5
+ 

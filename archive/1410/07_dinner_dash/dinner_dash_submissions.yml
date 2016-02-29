@@ -1,0 +1,57 @@
+Chris, Brandon, Laura, Bhargavi:
+    repository: "https://github.com/bhargavisatpathy/dinner_dash"
+    setup_notes: 
+    instructor_evaluation: "all features working -- admin dashboard not protected, would be nice to see flash errors when not passing validations."
+      notes:
+      rubric:
+        Feature Completeness: 2
+        Views: 3
+        Controllers: 3
+        Models: 3
+        TDD: 3
+        Usability: 3
+        Workflow: 4
+
+Bryce, Rich, Alex, Kit:
+    repository: 
+    setup_notes: 
+    instructor_evaluation: "most base expectations fulfilled; can view all orders regardless of authentication status and authorization; would like to see better error messages for invalid form submissions; user interface is kind of strange; cart doesn't clear when logging out and logging back in as admin."
+      notes:
+      rubric:
+        Feature Completeness: 2
+        Views: 3.5
+        Controllers: 3
+        Models: 3.5
+        TDD: 3
+        Usability: 2.5
+        Workflow: 4
+
+Scott, Lydia, Orion, Jeff:
+    repository: 
+    setup_notes: 
+    instructor_evaluation:
+      notes: "all functionality implemented, pushed logic down the stack, good use of partials in views"
+      rubric:
+        Feature-completeness: 3
+        Views: 4
+        Controllers: 4
+        Models: 4
+        TDD: 3
+        Usability: 4
+        Workflow: 3
+
+Nathan, Krista, Mike, Emily:
+    repository: 
+    setup_notes: 
+    instructor_evaluation:
+      notes: "all base features implemented; can see other users' orders; "
+      rubric:
+        Feature Completeness: 3
+        Views: 3
+        Controllers: 4
+        Models: 4
+        TDD: 3
+        Usability: 3.5
+        Workflow: 4
+
+

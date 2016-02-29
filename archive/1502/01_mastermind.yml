@@ -1,0 +1,322 @@
+submissions:
+  Andrew Carmer
+    repository: https://github.com/Carmer/Mastermind/tree/final_mastermind
+    notes: 'Good number of tests overall, but the tests themselves need to dig deeper into the code.
+            Game play is fine.'
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 2
+      REPL Interface and Game Functionality: 3
+      Breaking Logic into Components: 3
+  Chelsea Worrel
+      repository: https://github.com/chelseaworrel/mastermind_2.0.git
+    notes: 'Good sense of how to break up code. Needs integration tests. Ran into issues testing time, but figured out why time is hard to test on her own. Went above and beyond with colorization.'
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 3
+      REPL Interface and Game Functionality: 4
+      Breaking Logic into Components: 4
+  David Daniel
+    repository: https://github.com/davedan7/Mastermind_Game.git
+    notes: '(filled in by instructor)'
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Test-Driven Development: 3
+      REPL Interface and Game Functionality: 4
+      Breaking Logic into Components: 2.5
+  Dmitry Vizersky
+    repository: https://github.com/Dmitry1007/master_mind
+    notes: 'One test failing out of the box. Some test coverage of core game logic. Gameplay is fine with some
+            disagreement on feedback. Few objects with too many jobs.'
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 2
+      REPL Interface and Game Functionality: 3
+      Breaking Logic into Components: 2
+  Eric Dowty
+    repository: your_github_repo_url
+    notes: |
+      1. Fundamental Ruby & Style
+        Score: 4
+
+      2. Test-Driven Development
+        Score: 4
+
+      3. REPL Interface and Game Functionality
+        Score: 3
+        * Aesthetically pleasing
+        * Timeouts seem less effective than waiting for input
+        * After a win probably should be back at the menu so I can play again
+
+      4. Breaking Logic into Components
+        Score: 3.5
+    evaluation:
+      Fundamental Ruby & Style: 4
+      Test-Driven Development: 4
+      REPL Interface and Game Functionality: 3
+      Breaking Logic into Components: 3.5
+  Eugene Khanutin
+    repository: your_github_repo_url
+    notes: '(filled in by instructor)'
+    evaluation:
+      Fundamental Ruby & Style: 2.5
+      Test-Driven Development: 3
+      REPL Interface and Game Functionality: 2.5
+      Breaking Logic into Components: 3
+  Jack Yeh
+    repository: your_github_repo_url
+    notes: '(filled in by instructor)'
+    evaluation:
+      Fundamental Ruby & Style: 0
+      Test-Driven Development: 0
+      REPL Interface and Game Functionality: 0
+      Breaking Logic into Components: 0
+  Jamie Kawahara
+    repository: https://github.com/androidgrl/mastermind2
+    notes: |
+      1. Fundamental Ruby & Style
+        Score: 3
+        I had no issues
+        Note that `Time` in your lib/time.rb is the same as Ruby's toplevel Time class (ie the one you talk to when you say `Time.now`)
+
+      2. Test-Driven Development
+        Score: 2
+        * Low coverage
+        * Make the changes that make your code easier to test,
+          this will improve the design so that the code is flexible when your
+          requirements change and you need to use it in a different context
+
+      3. REPL Interface and Game Functionality
+        Score: 4
+        * Everything did what I expected
+        * The aesthetics are a nice touch
+
+      4. Breaking Logic into Components
+        Score: 3
+        I didn't feel confused by anything
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 2
+      REPL Interface and Game Functionality: 4
+      Breaking Logic into Components: 3
+  Kenny Chen
+    repository: https://github.com/boomkenster/Mastermind
+    notes: |
+      1. Fundamental Ruby & Style
+        Score: 2.8
+
+        Incorrect indentation
+        Use alias (eg `alias r="ruby mastermind_string_validator_test.rb"`) instead of capital letters in filename
+
+      2. Test-Driven Development
+        Score: 3.5
+
+        * 1 test failed (implies not running as making changes)
+        * Good tests on MastermindStringValidator
+        * Printer spams test output
+
+      3. REPL Interface and Game Functionality
+        Score: 3
+        * The banner is pretty
+        * 89.45sec should probably be displayed in minutes
+        * After playing, I should probably be able to play again
+        * Should probably be warned if my input is nonsensical (eg "asdf")
+
+      4. Breaking Logic into Components
+        Score: 2
+        MastermindStringValidator doesn't depend on knowledge of mastermind colours or length
+        Move as much of the logic (but not the dependencies on stdin and stdout (gets and puts) down into some class you can test and reuse)
+    evaluation:
+      Fundamental Ruby & Style: 2.8
+      Test-Driven Development: 3.5
+      REPL Interface and Game Functionality: 3
+      Breaking Logic into Components: 2
+  Kristina Brown
+    repository: https://github.com/kristinabrown/mastermind
+    notes: '(filled in by instructor)'
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 4
+      REPL Interface and Game Functionality: 3.5
+      Breaking Logic into Components: 3.5
+  Kyle Henson
+    repository: git@github.com:kylehenson/mastermind.git
+    notes: 'Need more tests. Mastermind.rb is too powerful. Guess feedback is not quite right. Write more of your own code.'
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Test-Driven Development: 2
+      REPL Interface and Game Functionality: 2
+      Breaking Logic into Components: 2
+  Michael Merrill
+    repository: https://github.com/michaelkm/mastermind
+    notes: |
+      https://github.com/JoshCheek/dotfiles/blob/89356e1840414e7375cb771ea37358a39e28603a/bin/colours
+      https://github.com/turingschool/lesson_plans/tree/master/electives/building-a-gem
+
+      1. Fundamental Ruby & Style
+        Score: 3.5
+        * Watch indentation
+        * conditions go on the same line as the `if/elsif`
+        * Using Bundler
+        * Using Rake
+
+      2. Test-Driven Development
+        Score: 3
+
+      3. REPL Interface and Game Functionality
+        Score: 3
+        Everything logically makes sense
+        Some small aesthetic changes would go a long way
+
+      4. Breaking Logic into Components
+        Score: 3
+    evaluation:
+      Fundamental Ruby & Style: 3.5
+      Test-Driven Development: 3
+      REPL Interface and Game Functionality: 3
+      Breaking Logic into Components: 3
+  Michelle Golle
+    repository: https://github.com/MichelleGolle/Mastermind
+    notes: 'Clean and tidy code, with nothing unnecessary. Unclear on responsibilities between Runner and main game class. Would have been nice to see additional REPL features.'
+    evaluation:
+      Fundamental Ruby & Style: 4
+      Test-Driven Development: 3
+      REPL Interface and Game Functionality: 3
+      Breaking Logic into Components: 3
+  Mihir Parikh
+    repository: https://github.com/mihir787/mastermind.git
+    notes: |
+      1. Fundamental Ruby & Style
+        Score: 3
+        Some verbosity
+
+      2. Test-Driven Development
+        Score: 2
+
+      3. REPL Interface and Game Functionality
+        Score: 3
+        Flows as I'd expect
+        Could be clearer
+
+      4. Breaking Logic into Components
+        Score: 3
+        ValidityChecker is a good refactoring (but test it ;)
+        Generally reasonable
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 2
+      REPL Interface and Game Functionality: 3
+      Breaking Logic into Components: 3
+  Minnie Lee
+    repository: your_github_repo_url
+    notes: 'Needs to break down runon methods. Nice use of modules, but no clarity on why. More and better tests required.'
+    repository: https://github.com/MLee21/Mastermind
+    notes: '(filled in by instructor)'
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 2
+      REPL Interface and Game Functionality: 3
+      Breaking Logic into Components: 3
+  Patrick Medaugh
+    repository: https://github.com/patrickmedaugh/Mastermind
+    notes: |
+      1. Fundamental Ruby & Style
+        Score: 2.5
+        Indentation
+        runner probably needs to be broken apart or extracted
+
+      2. Test-Driven Development
+        Score: 3
+        Some tests, tests can use some refactoring
+        Listen to the pains you experience to decide what you need to change within your code
+          (remember how we extracted that secret generator to allow us to decide what the secret is)
+
+      3. REPL Interface and Game Functionality
+        Score: 4
+        Beginner, Intermediate, Expert extension
+
+      4. Breaking Logic into Components
+        Score: 3
+    evaluation:
+      Fundamental Ruby & Style: 2.5
+      Test-Driven Development: 3
+      REPL Interface and Game Functionality: 3
+      Breaking Logic into Components: 3
+  Rob Cornell
+    repository: git@github.com:kurohyou108/mastermind.git
+    notes: 'No tests. Guess feedback is good for correct element in correct position, but misses right element
+            in the wrong position. Code needs more refinement. Extract small classes with a single responsibility.'
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Test-Driven Development: 1
+      REPL Interface and Game Functionality: 2
+      Breaking Logic into Components: 2
+  Tess Griffin
+    repository: https://github.com/tessgriffin/mastermind-1
+    notes: 'Lots of good, interesting ideas. A little bit tangled in some implementation
+            details. '
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 3
+      REPL Interface and Game Functionality: 3
+      Breaking Logic into Components: 3
+  Thomas Leskin
+    repository: your_github_repo_url
+    notes: 'Two failing tests, 10% of tests. Need tests to cover more of the functionality. Incorrect feedback
+            on guesses. Decent job breaking out components. Not bad ruby style.'
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 2
+      REPL Interface and Game Functionality: 2
+      Breaking Logic into Components: 3
+  Tony DiNitto
+    repository: https://github.com/think41c/mastermind_v2
+    notes: 'Could use guidance on method and class naming, but good sense of components. Some overly complicated methods for performing game logic. Added high scores to file.'
+    evaluation:
+      Fundamental Ruby & Style: 4
+      Test-Driven Development: 3
+      REPL Interface and Game Functionality: 4
+      Breaking Logic into Components: 4
+  Tracy Caruso
+    repository: https://github.com/ycartc/MasterMindFinal
+    repository2: https://github.com/ycartc/MasterMinded
+    notes: '(filled in by instructor)'
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Test-Driven Development: 4
+      REPL Interface and Game Functionality: 3.5
+      Breaking Logic into Components: 2.5
+  Tyler Graham
+    repository: https://github.com/tgraham777/master_mind
+    notes: '(filled in by instructor)'
+=======
+    repository: your_github_repo_url
+    notes: |
+      1. Fundamental Ruby & Style
+        Score: 3
+        * indentation
+
+      2. Test-Driven Development
+        Score: 3.5
+
+      3. REPL Interface and Game Functionality
+        Score: 3
+        * Good use of colour
+        * Some UX is confusing
+
+      4. Breaking Logic into Components
+        Score: 3
+
+        Plusses
+        * Printer's #play method records the decision, and does not kick off a game -- this is good
+        * Prompting happening in multiple places
+        * Printer not doing prompting
+
+        Minuses
+        * Hard to follow the flow of prompting and the decisions
+        * interpretation of input shouldn't be in the printer
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 3.5
+      REPL Interface and Game Functionality: 3
+      Breaking Logic into Components: 3

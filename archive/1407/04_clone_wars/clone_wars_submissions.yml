@@ -1,0 +1,75 @@
+# NOTE: You can verify that you haven't broken the format with
+# $ ruby -rpp -ryaml -e 'pp YAML.load File.read("1406/04_clone_wars/clone_wars_submissions.yml")
+submissions:
+  "Cara Dennis & Jim Sutton & Kavita Sachdeva & Rolando Navarrete":
+    repository: "git@github.com:objectParadigm/jimmys-urban-bar-and-grill.git"
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "all base expectations fulfilled; added one interactive element.
+              admin menu able to be edited w/o being logged in as administrator.
+              some acceptance tests (creating user, creating menu items), but unit tests missing.
+              used all http verbs; some mixing of web & business logic.
+              views used layouts and partials to avoid code replication.
+              many concerns about order of lessons and lack of important concepts in lessons."
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 2
+        Encapsulation / Components: 2.5
+        Fundamental Ruby & Style: 2.5
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3.5
+  "Sara Simon & Ian Andersen & Glen Egbert":
+    repository: "git@github.com:ianderse/clone_wars.git"
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "recreated original site; added banner, contact, reservation, and reviews.
+              admin able to edit items (name, size, price, image).
+              saw good testing at feature level; would like to see more things tested in isolation.
+              good divisions of logic and encapsulation; content store probably could  have been broken into a repository and a seracher.
+              easy to read and follow code.
+              saw use of layout and partials to avoid code duplication; did not see use of helpers.
+              "
+      rubric:
+        Functional Expectations: 4
+        Test-Driven Development: 2
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 4
+        Sinatra / Web and Business Logic: 3.5
+        View Layer: 3.5
+  "Jessica Goulding & Luke Aiken & Aaron Paul Wortham":
+    repository: "https://github.com/JessicaG/slice_works_clone"
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "several routes that do not work (missing template, error pages).
+              content on pages well-tested; missing tests for user authentication and ability to edit.
+              started classes for menu and menu item, but not implemented.
+              would like to see controller not as responsible for executing DB commands and raw sql.
+              app crashed during execution, but code showed effort toward organization and refactoring.
+              web and business logic mixed, but used features of Sinatra (Rack::Session, setting variables based on ENV); used helpers to authenticate user
+              views contain minimal logic; make use of layout and partials; did not see built-in view helpers.
+              "
+      rubric:
+        Functional Expectations: 1
+        Test-Driven Development: 2.5
+        Encapsulation / Components: 2
+        Fundamental Ruby & Style: 1.5
+        Sinatra / Web and Business Logic: 2.5
+        View Layer: 3.5
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        

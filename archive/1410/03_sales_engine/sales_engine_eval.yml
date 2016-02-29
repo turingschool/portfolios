@@ -1,0 +1,260 @@
+submissions:
+  Bhargavi Satpathy & Lori Culberson:
+    repository:
+    evaluation:
+      notes: |
+        Assessor: Josh Cheek
+
+        1. Functional Expectations
+        Score: 4
+        Merchant Extension
+        Customer Extension
+
+        2. Test-Driven Development
+        Score: 3
+        * If not for spec harness, would need integration tests
+        * Business logic would benefit from more thorough testing
+
+        3. Encapsulation / Breaking Logic into Components
+        Score: 3
+        CSV knowledge would be better pushed up out of repo and into caller (SalesEngine)
+
+        4. Fundamental Ruby & Style
+        Score: 4
+        No issues (candidates for messiness were clean)
+
+        No issues so far, the `find_by_X` is usually not capitalized, but that's because we
+        said it in instructions, meaning that `X` should be replaced with specific attributes
+        but that wasn't very clear.
+
+        5. Enumerable & Collections
+        Score: 4
+        Lots of good stuff
+
+        6. Code Sanitation
+        Score: 4
+        The output from rake sanitation: happiness
+      Functional Expectations: 4
+      Test-Driven Development: 3
+      Encapsulation / Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 4
+      Enumerable & Collections: 4
+      Code Sanitation: 4
+  Alexandra Robinson & Laura Whalin & Orion Osborn:
+    repository:
+    evaluation:
+      notes: |
+        Assessed by Josh
+
+        1. Functional Expectations
+        Score: 4
+        * All fulfilled
+
+        2. Test-Driven Development
+        Score: 4
+        * Good fast unit tests b/c decoupling csvs from repositories
+        * Integration tests
+        * Large number of tests
+
+        3. Encapsulation / Breaking Logic into Components
+        Score: 4
+        * CSVs pulled up into SalesEngine
+
+        4. Fundamental Ruby & Style
+        Score: 3
+        * Indent continuation lines (lines that are continued from prev line) so that it's clearer to reader that the aren't their own expression
+
+        5. Enumerable & Collections
+        Score: 4
+        * Good use of enums in place of reimplementations `*_by`, `find`, `select`, etc
+
+        6. Code Sanitation
+        Score: 4
+        The output from rake sanitation: zero complaints
+      Functional Expectations: 4
+      Test-Driven Development: 4
+      Encapsulation / Breaking Logic into Components: 4
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 4
+      Code Sanitation: 4
+  Kit Pearson & Andrew Overby:
+    repository:
+    evaluation:
+      notes: |
+        Assessed by Josh
+
+        NOTE: http://guides.rubygems.org/patterns/
+
+        1. Functional Expectations
+        Score: 2
+        Associations: good
+        Missing 4 Business Intelligence: customers_with_pending_invoices, most_items, most_revenue, create
+
+        2. Test-Driven Development
+        Score: 4
+        * 96% code coverage :)
+        * All the other shit I said
+
+        3. Encapsulation / Breaking Logic into Components
+        Score: 4
+        * Repo independent of CSV coupling
+
+        4. Fundamental Ruby & Style
+        Score: 3
+        * Namespacing on CSVHandler (place in Production module)
+
+        5. Enumerable & Collections
+        Score: 4
+        * Nice use of enums, esp `map.max`
+
+        6. Code Sanitation
+        Score: 4
+        The output from rake sanitation: 0 failures
+      Functional Expectations: 2
+      Test-Driven Development: 4
+      Encapsulation / Breaking Logic into Components: 4
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 4
+      Code Sanitation: 4
+  Brandon Mrsny & Chris Luhring:
+    repository: https://github.com/bmrsny/sales_engine
+    evaluation:
+      notes: "TDD is strong, but some functionality is missing. Check naming of variables in sales engine test.
+              Well-factored code. Some repetition in terms of functionality, but clean.
+              No business intelligence implemented."
+      Functional Expectations: 2
+      Test-Driven Development: 3
+      Encapsulation / Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Code Sanitation: 2.5
+  Nathan Owsiany & Scott Crawford:
+    repository: https://github.com/ndwhtlssthr/sales_engine
+    evaluation:
+      notes: "Very well-factored code.
+              Implemented all base expectations and two extensions.
+              One hundred percent test coverage.
+              Good use of enumerables.
+              Used modules to encapsulate reused code.
+              Used inheritance to encapsulate reused code."
+      Functional Expectations: 4
+      Test-Driven Development: 4
+      Encapsulation / Breaking Logic into Components: 3.5
+      Fundamental Ruby & Style: 4
+      Enumerable & Collections: 4
+      Code Sanitation: 4
+  Jeffrey Wan & Krista A Nelson:
+    repository: https://github.com/KristaANelson/sales_engine.git
+    evaluation:
+      notes: "All base expectations fulfilled.
+              Used modules to encapsulate code.
+              Good use of appropriate enumerables."
+      Functional Expectations: 3
+      Test-Driven Development: 3.5
+      Encapsulation / Breaking Logic into Components: 3.5
+      Fundamental Ruby & Style: 4
+      Enumerable & Collections: 4
+      Code Sanitation: 4
+  Juan Manuel Navarro & Emily Berkeley:
+    repository: https://github.com/gomav/sales_engine
+    evaluation:
+      notes: |
+        Assessed by Josh
+
+        1. Functional Expectations
+        Score: 2
+        * Missing 3 of 13 business intelligence
+
+        2. Test-Driven Development
+        Score: 3
+        * 1 test failure on spec harness (mismatched method name)
+        * Unit tests are fast
+        * Good number of unit tests
+
+        3. Encapsulation / Breaking Logic into Components
+        Score: 3
+        * Would be better to receive directory of data
+        * Csv is pulled up out of repo and into SalesEngine
+
+        4. Fundamental Ruby & Style
+        Score: 3
+        * A few indentation issues
+
+        5. Enumerable & Collections
+        Score: 4
+        * Uses enums instead of each (e.g. in repo)
+
+        6. Code Sanitation
+        Score: 3.5
+        The output from rake sanitation: It dislikes line lengths
+      Functional Expectations: 2
+      Test-Driven Development: 3
+      Encapsulation / Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 4
+      Code Sanitation: 3.5
+  Rich Shea & Michael Dao:
+    repository:
+    evaluation:
+      notes: "Well-factored code.
+              Passes all tests without crashes.
+              Solid TDD and use of appropriate data.
+              Good understanding of enumerables, but possibly shorter ways to get from one collection to another.
+              Check naming of variables -- some are unclear."
+      Functional Expectations: 3
+      Test-Driven Development: 4
+      Encapsulation / Breaking Logic into Components: 3.5
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Code Sanitation: 4
+  Lydia Shafer & Bryce Holcomb:
+    repository: https://github.com/bryceholcomb/sales_engine
+    evaluation:
+      notes: |
+        1. Functional Expectations
+        Score: 3+
+        * Half of 1 extension
+
+        2. Test-Driven Development
+        Score: 4
+        * Tests are fast :)
+        * Spec harness all passes
+
+        3. Encapsulation / Breaking Logic into Components
+        Score: 4
+        * CSV's broken out
+        * Generally look good
+
+        4. Fundamental Ruby & Style
+        Score: 3
+        * Indent continuation lines
+        * People don't put `do` after `while`
+
+        5. Enumerable & Collections
+        Score: 4
+        * Good use of enums (`*_by`, `reduce`, etc)
+
+        6. Code Sanitation
+        Score: 4
+        The output from rake sanitation: Zero complaints
+      Functional Expectations: 3
+      Test-Driven Development: 4
+      Encapsulation / Breaking Logic into Components: 4
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 4
+      Code Sanitation: 4
+  Edward McCarthy & Dustin Gault:
+    repository: https://github.com/DSynergy/sales_engine/tree/dustin2.0
+    evaluation:
+      notes: "Some missing functionality (business intelligence), but no crashes.
+              Included tests are written solidly, but missing tests for some functionality (traversing down through SE, traversing from individual objects).
+              Functionality is encapsulated well. Broke out reused repository functionality into generic class. Did not break SRP for code that was written, but not all functionality was implemented.
+              Ruby style looks good.
+              Used appropriate enumerables for what needed to be accomplished.
+              "
+      Functional Expectations: 2
+      Test-Driven Development: 2.5
+      Encapsulation / Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Code Sanitation: 4

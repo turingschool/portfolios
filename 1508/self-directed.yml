@@ -1,0 +1,241 @@
+submissions:
+  Aaron Careaga:
+    repo:
+    instructor: Josh M.
+    notes: Mostly JS and very little Ruby. Pushed boundries on what was taught in class. All data on the page is loading using AJAX.
+    completion: 4
+    organization: 4
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 4: Project exhibits a production-ready and polished UX.
+    performance: 2: Project pages load on average under 500 milliseconds.
+  Adam Jensen:
+    repo:
+    instructor: Josh M.
+    notes:
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 3: Project pages load on average under 400 milliseconds.
+  Amber Crawford:
+    repo:
+    instructor: Josh M.
+    notes: Solid project. Great use of abstractions. Created an internal API to consume from AJAX calls. Used background workers to consume Trelora API.
+    completion: 3: Developer completed all the user stories and requirements set by the client.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 4: Project demonstrates exceptionally well factored code.
+    user-experience: 4: Project exhibits a production-ready and polished UX.
+    performance: 4: Project pages load on average under 300 milliseconds.
+  Edgar Duran:
+    repo: https://github.com/edgarduran/playlist_planner
+    instructor: Tess
+    notes: Changed email last night. Got it fixed while we were together
+    completion: 3
+    organization: 3
+    test-driven-development: 3
+    code-quality: 3
+    user-experience: 3
+    performance: 4
+  Emily Dowdle:
+    repo: https://github.com/emilydowdle/lactation-station
+    instructor: Tess
+    notes: Really polished app and worked a lot with ajax. The passion for the project shows.
+    completion: 4
+    organization: 3
+    test-driven-development: 4
+    code-quality: 3
+    user-experience: 4
+    performance: 4
+  Jason Pilz:
+    repo: https://github.com/jasonpilz/autolizer
+    instructor: Tess
+    notes: Great app. Needs to fix the background images for larger screens.
+    completion: 3
+    organization: 4
+    test-driven-development: 4
+    code-quality: 3
+    user-experience: 3
+    performance: 4
+  Jerrod Paul Junker:
+    repo:
+    instructor: Josh M.
+    notes:
+    completion: 2: Developer completed most of the user stories and requirements set by the client.
+    organization: 4: Developer used a project management tool and updated their progress in real-time.
+    test-driven-development: 1: Project lacks sufficient testing (under 85% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 2: Project exhibits some gaps in the UX.
+    performance: 2: Project pages load on average under 500 milliseconds.
+  Jhun de Andres:
+    repo:
+    instructor: Josh M.
+    notes: Mostly JS and very little Ruby. Pushed boundries on what was taught in class. All data on the page is loading using AJAX.
+    completion: 4
+    organization: 4
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 4: Project exhibits a production-ready and polished UX.
+    performance: 2: Project pages load on average under 500 milliseconds.
+  Jill Donohue:
+    repo:
+    instructor: Josh M.
+    notes: Solid project. Great use of abstractions. Created an internal API to consume from AJAX calls. Used background workers to consume Trelora API.
+    completion: 3: Developer completed all the user stories and requirements set by the client.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 4: Project demonstrates exceptionally well factored code.
+    user-experience: 4: Project exhibits a production-ready and polished UX.
+    performance: 4: Project pages load on average under 300 milliseconds.
+  John Slota:
+    repo:
+    instructor: Josh M.
+    notes: Overall good. Good use of services and creation of a Parser class. Could have split apart methods into separate parser classes to make for more clear classes. Some of the Ruby implementation was reaching for not ideal enumerables.
+    completion: 3: Developer completed all the user stories and requirements set by the client.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 4: Project pages load on average under 300 milliseconds.
+  Justin Pease:
+    repo:
+    instructor:
+    notes:
+    completion:
+    organization:
+    test-driven-development:
+    code-quality:
+    user-experience:
+    performance:
+  Marlo Major:
+    repo:
+    instructor: Josh M.
+    notes:
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+    code-quality: 4: Project demonstrates exceptionally well factored code.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 3: Project pages load on average under 400 milliseconds.
+  Matt Rooney:
+    repo: https://github.com/mattrooney/koncert
+    instructor: Tess
+    notes: Great job of last minute pulling api calls into ajax
+    completion: 3.5
+    organization: 4
+    test-driven-development: 3
+    code-quality: 3
+    user-experience: 3
+    performance: 3
+  Matt Stjernholm:
+    repo: https://github.com/matt-stj/snow_alert
+    instructor: Tess
+    notes:
+    completion: 4
+    organization: 3
+    test-driven-development: 4
+    code-quality: 3.5
+    user-experience: 4
+    performance: 4
+  Michael Wong:
+    repo: https://github.com/Kealii/wasting_steam
+    instructor: Tess
+    notes: Nice to see works for large accounts.
+    completion: 3
+    organization: 3
+    test-driven-development: 3
+    code-quality: 3
+    user-experience: 4
+    performance: 3
+  Nicole Hall:
+    repo:
+    instructor:
+    notes:
+    completion:
+    organization:
+    test-driven-development:
+    code-quality:
+    user-experience:
+    performance:
+  Pat Wey:
+    repo: https://github/patwey/corkboard
+    instructor: Tess
+    notes: Great polished app.
+    completion: 4
+    organization: 4
+    test-driven-development: 3
+    code-quality: 3.5
+    user-experience: 4
+    performance: 4
+  Robbie Lane:
+    repo:
+    instructor: Josh M.
+    notes:
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+    code-quality: 4: Project demonstrates exceptionally well factored code.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 3: Project pages load on average under 400 milliseconds.
+  Ross Edfort:
+    repo: https://github.com/rossedfort/git_better_graphs
+    instructor: Tess
+    notes: Great UX, very polished app. Lagged bad on large repos
+    completion: 3.5
+    organization: 3
+    test-driven-development: 3
+    code-quality: 4
+    user-experience: 4
+    performance: 3
+  Ryan Johnson:
+    repo:
+    instructor: Josh M.
+    notes:
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 4: Developer used a project management tool and updated their progress in real-time.
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 3: Project pages load on average under 400 milliseconds.
+  Sekhar Paladugu:
+    repo: https://github.com/sekharp/kids-catalog
+    instructor: Tess
+    notes:
+    completion: 3
+    organization: 3
+    test-driven-development: 4
+    code-quality: 3
+    user-experience: 3
+    performance: 4
+  Shannon Paige:
+    repo:
+    instructor:
+    notes:
+    completion: 3: Developer completed all the user stories and requirements set by the client.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 1: Project lacks sufficient testing (under 85% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 3: Project pages load on average under 400 milliseconds.
+  Torie Warren:
+    repo: https://github/toriejw/gluscription
+    instructor: Tess
+    notes: Nice and polished. Switched entire test suite to rspec. Would've like to see more features
+    completion: 4
+    organization: 3
+    test-driven-development: 4
+    code-quality: 3
+    user-experience: 3.5
+    performance: 4
+  Tyler Komoroske:
+    repo:
+    instructor: Josh M.
+    notes: Overall good. Good use of services and creation of a Parser class. Could have split apart methods into separate parser classes to make for more clear classes. Some of the Ruby implementation was reaching for not ideal enumerables.
+    completion: 3: Developer completed all the user stories and requirements set by the client.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 4: Project pages load on average under 300 milliseconds.

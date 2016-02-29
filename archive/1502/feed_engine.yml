@@ -1,0 +1,49 @@
+Kristina Patrick David
+-----------------------
+
+### Server-Side Application and APIs
+2 APIS
+
+Score: 3
+
+4. Project wraps/isolates external APIs, tests API interaction without actual connectivity dependencies, provides a tested API, and provides a tested wrapper gem
+3. Project wraps/isolates external APIs, provides an API, and provides an effective wrapper gem, but does not test them effectively
+2. Project has an internal API and gem, but external APIs are scattered across the application OR external APIs are consolidated but the internal API isn’t built/tested/wrapped
+1. Project does not offer its own API and wrapper gem
+
+### Test-Driven Development
+Score: 3
+
+* High coverage
+* Somewhat useful, not much low-level testing
+
+4. The code demonstrates high test coverage (>80%), tests at the feature and unit levels, and does not rely on external services.
+3. The code demonstrates high test coverage (>80%), tests at feature and unit levels, but relies on external services
+2. The code demonstrates high test coverage (>80%), but does not adequately balance feature and unit tests
+1. The code does not have 80% test coverage
+
+
+
+Andrew Kyle Tess
+----------------
+
+### Server-Side Application and APIs
+Score: 3
+
+* Apis are client-side
+
+4. Project wraps/isolates external APIs, tests API interaction without actual connectivity dependencies, provides a tested API, and provides a tested wrapper gem
+3. Project wraps/isolates external APIs, provides an API, and provides an effective wrapper gem, but does not test them effectively
+2. Project has an internal API and gem, but external APIs are scattered across the application OR external APIs are consolidated but the internal API isn’t built/tested/wrapped
+1. Project does not offer its own API and wrapper gem
+
+### Test-Driven Development
+Score: 3
+
+* Some "unit" tests on models would be easy to add and ensure some of these low-level things do, in fact, do what you think they do.
+
+
+4. The code demonstrates high test coverage (>80%), tests at the feature and unit levels, and does not rely on external services.
+3. The code demonstrates high test coverage (>80%), tests at feature and unit levels, but relies on external services
+2. The code demonstrates high test coverage (>80%), but does not adequately balance feature and unit tests
+1. The code does not have 80% test coverage

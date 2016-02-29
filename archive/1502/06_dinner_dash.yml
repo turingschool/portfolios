@@ -1,0 +1,112 @@
+Andrew, Kenny, Mihir, Tom:
+  Repo:
+  Feature Completeness: "4: All features are correctly implemented along with two extensions"
+  Views: "3: Views make use of layout(s), partials and helpers, but some logic leaks through"
+  Controllers: "3: Controllers are generally well organized with three or fewer particularly ugly parts"
+  Models: "3.5"
+  Testing: "3.5"
+  Usability: "3: Project is highly usable, but needs more polish before it’d be customer-ready"
+  Workflow: "3: Good use of branches, pull requests, and a project-management tool."
+
+Eric, Kyle, Tess:
+  Repo: "https://github.com/eric-dowty/dinner-dash"
+  Feature Completeness: "4: All features are correctly implemented along with two extensions"
+  Views: "4: Views show logical refactoring into layout(s), partials and helpers, with no logic present"
+  Controllers: "3: Controllers are generally well organized with three or fewer particularly ugly parts"
+  Models: "3.5"
+  Testing: "3.5"
+  Usability: "3.5"
+  Workflow: "3: Good use of branches, pull requests, and a project-management tool."
+
+Dave, Kristina, Minnie, Tracy:
+  Repo: https://github.com/kristinabrown/dinner-dash.git
+  Takeaways from the review: https://gist.github.com/JoshCheek/b62eff04b99669b107f7
+  Feature Completeness:
+    * Score: 4
+    * Extensions: Stripe, AWS integration for avatars
+    * Can add stuff to my cart while signed out
+    * It's available when I sign in
+    * I can order it
+    * Order shows up (confusingly ;) in the admin orders page
+    * Non admin users can't access admin endpoints
+    * Non logged in users can't access other user's orders
+    * Can cancel an order
+    * Cancelled orders can't be modified
+    * Can pay and complete orders
+    * Paying done via Stripe
+    * Can remove items
+    * Adding the same item multiple times gets consolidated
+    * Can edit profile
+    * Can see old orders
+    * Can delete and retire items, which makes them unavailable
+  Views:
+    * Score: 3
+    * Aesthetically pleasing
+    * Some interfaces are confusing, eg admin orders page
+    * Can't update the order from the order show
+  Controllers:
+    * Score: 3
+    * Nothing really problematic
+  Models:
+    * Score: 3.5
+    * I like your Cart
+    * Some commented out stuff
+  Testing:
+    * Score: 4
+    * Tests pass
+    * I liked your names a lot
+    * Using RSpec
+  Usability:
+    * Score: 3
+  Workflow:
+    * Score: 4
+    * Many commits
+    * Good workflow
+
+Jack, Michelle, Patrick:
+  Repo: https://github.com/patrickmedaugh/dinner_dash
+  Takeaways from the review: https://gist.github.com/JoshCheek/27fd45795c1ce31b71d8
+  Feature Completeness:
+    * Score: 3.5
+    * Order stuff logged out
+    * It's there when I log in
+    * I can remove items
+    * I can change quantities
+    * Admin can update the statuses
+    * I can updaet my profile
+    * I can see my past orders
+  Views:
+    * Score: 2
+    * Password fields should have type passwords, to prevent people from seeing what I type
+    * Use partials to ensure consistency, less work, less clutter, etc
+    * Use the number helpers to fix the money stuff
+      * rendering pennies instead of dollars
+      * manually entering $
+      * losing the cents from the dollar amount
+      * Try using the snippet at https://github.com/JoshCheek/playgrounds#view-helpers
+  Controllers:
+    * Score: 4
+    * Nice Service Objects (Cart, OrderCreator, maybe others)
+  Models:
+    * Score: 4
+    * Integer division issue
+    * Good choice on keeping amounts as pennies
+    * I <3 the cart!
+  Testing:
+    * Score: 4
+    * 64 specs
+    * 0 failures
+    * Generally like the spec names, esp the ones on the features
+    * I like the model tests, they look like they test just enough to be helpful, without becoming painful
+    * I like that the feature tests do just enough to show that it does what ti says that it does
+    * I <3 the cart specs!
+  Usability:
+    * Score: 3
+    * Views need <3
+    * Amounts shown in pennies, switch to dollars
+    * Switch time zones to local
+    * Walk through the app yourselves, write down the things that will get you big wins with little effort.
+      Then make that happen!
+  Workflow:
+    * Score: 3
+    * 79 commits

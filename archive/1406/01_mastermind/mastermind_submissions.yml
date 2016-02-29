@@ -1,0 +1,172 @@
+submissions:
+  Alan Smith:
+    repository: https://github.com/alanbsmith/Mastermind.git
+    notes: "Notes about extensions or things a reviewer needs to know"
+    evaluation:
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+      Test-Driven Development: 0
+      REPL Interface: 0
+      Breaking Logic into Components: 0
+  Allison Larson:
+    repository: git@github.com:allisonlarson/mastermind.git
+    notes: "Notes about extensions or things a reviewer needs to know"
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 2
+      Test-Driven Development: 2
+      REPL Interface: 4
+      Breaking Logic into Components: 3
+  Andrew Watkins:
+    repository: git@github.com:WwaattsS/mastermind.git
+    notes: "Notes about extensions or things a reviewer needs to know"
+    evaluation:
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+      Test-Driven Development: 0
+      REPL Interface: 0
+      Breaking Logic into Components: 0
+  Andy Mention:
+    repository: git@github.com:AndyDangerous/mastermind.git
+    notes: "Notes about extensions or things a reviewer needs to know"
+    evaluation:
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 3
+      Test-Driven Development: 2.5
+      REPL Interface: 2.5
+      Breaking Logic into Components: 3
+  Cara Dennis:
+    repository: git@github.com:objectParadigm/master-octo-mind-wallhack.git
+    notes: "Notes about extensions or things a reviewer needs to know"
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 4
+      Breaking Logic into Components: 2
+  Chad Brading:
+    repository: git@github.com:chadbrading/mastermind.git
+    notes: "Notes about extensions or things a reviewer needs to know"
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 2.5
+  Corey Davis:
+    repository: git@github.com:coreyd303/mastermind--c.davis.git
+    notes: "Can be run with $ruby mastermind. I did complete a turns counter that will give you info when you beat the game. I also added color, and was able to make the executable run with $mastermind from my terminal."
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 3
+      Test-Driven Development: 2.5
+      REPL Interface: 3
+      Breaking Logic into Components: 2
+  Emily Davis:
+    repository: git@github.com:emilyadavis303/mastermind.git
+    notes: "Whew!"
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 2
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 3
+  Eric Fransen:
+    repository: git@github.com:ericfransen/mastermind.git
+    notes: "Notes about extensions or things a reviewer needs to know"
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 2
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 2
+  Gustavo Villagrana:
+    repository: git@github.com:GusVilla303/Mastermind.git
+    notes: "Did not have enough time to implement guess counter and timer.  Also- due to last minute changes to my sequence_matcher.rb, my sequence_matcher_tests are blowing up.  Commented out GameBuilder.rb file"
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 2
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 3
+  Hilary Denton:
+    repository: git@github.com:Hilaryous/Mastermind.git
+    notes: "Notes about extensions or things a reviewer needs to know"
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 1.5
+      REPL Interface: 1.5
+      Breaking Logic into Components: 3
+  Horacio Chavez:
+    repository: git@github.com:H6C5/mastermind.git
+    notes: "Really cool experience, I learn that I need to prioritize better. I really enjoy this project, it was fun. Let's see what's next."
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 3
+      Test-Driven Development: 1.5
+      REPL Interface: 2.5
+      Breaking Logic into Components: 3
+  Jessica Goulding:
+    repository: git@github.com:JessicaG/mastermind-game.git
+    notes: "Added in timer for game and enhanced user features of colors."
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 4
+      Breaking Logic into Components: 3
+  Jonmichael Chambers:
+    repository: git@github.com:tyrbo/mastermind.git
+    notes: "Added some ASCII art and colors. Added top scores. Added guessing history. Submitted as a gem to Rubygems. Didn't get to multiple players or difficulty levels."
+    evaluation:
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+      Test-Driven Development: 0
+      REPL Interface: 0
+      Breaking Logic into Components: 0
+  Marc Garreau:
+    repository: git@github.com:MarcGarreau/turing_mastermind.git
+    notes: "Notes about extensions or things a reviewer needs to know"
+    evaluation:
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+      Test-Driven Development: 0
+      REPL Interface: 0
+      Breaking Logic into Components: 0
+  Robert Gu:
+    repository: git@github.com:hokiehokiehi/mastermind.git
+    notes: "Notes about extensions or things a reviewer needs to know"
+    evaluation:
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+      Test-Driven Development: 0
+      REPL Interface: 0
+      Breaking Logic into Components: 0
+  Tan Doan:
+    repository: git@github.com:tdoan87/Mastermind.git
+    notes: "Notes about extensions or things a reviewer needs to know"
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 1
+      Test-Driven Development: 3
+      REPL Interface: 2
+      Breaking Logic into Components: 3
+  Tim Proctor:
+    repository: git@github.com:timproctor/master-mind.git
+    notes: "I grew a lot, and also realized how far I still need to go."
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 2
+      Test-Driven Development: 1.5
+      REPL Interface: 2.5
+      Breaking Logic into Components: 2
+  Will Faurot:
+    repository: git@github.com:wfro/mastermind.git
+    notes: "Notes about extensions or things a reviewer needs to know"
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 2
+      Test-Driven Development: 2
+      REPL Interface: 2
+      Breaking Logic into Components: 2

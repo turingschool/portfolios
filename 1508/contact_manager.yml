@@ -1,0 +1,111 @@
+submissions:
+  Tyler Komoroske:
+    repo: https://github.com/tjkomor/contact_manager
+    checkpoint 1 sha: 27084ed8e1da700a386f4441b36079cc4dc79c40
+    checkpoint 2 sha:
+    checkpoint 3 sha:
+  Chad Minnerath:
+    repo:
+    checkpoint 1 sha:
+    checkpoint 2 sha:
+    checkpoint 3 sha: 
+  Nicole Hall:
+    repo: https://github.com/NicoleHall/Contact-Manager
+    checkpoint 1 sha: 890e3ac
+    checkpoint 2 sha: 8911c47
+    checkpoint 3 sha: 6dbc026
+  Torie Joy-Warren:
+    repo: https://github.com/toriejw/contact-manager
+    checkpoint 1 sha: 8a1ddf8cede1547fdee75af0c7a627b296ade573
+    checkpoint 2 sha: c05dc6015faa5c9538844e2d197e570161d25092
+    checkpoint 3 sha: f593c05fb527b3c69ff9493f53c09813b2b56a94
+  Jhun de Andres:
+    repo:https://github.com/joshuajhun/contact-manager-
+    checkpoint 1 sha:commit dc59ec0c5ebaaaa239f00350fb567c95531d5783
+    checkpoint 2 sha: 760d3b6480947ebc6b16960730cbacdcca038dfa
+    checkpoint 3 sha: commit 1e4fec7e51dc5c5b05237856581d7c8286dc74a9
+  Pat Wey:
+    repo: https://github.com/patwey/contact_manager
+    checkpoint 1 sha: 4cfd56c3a5b6c54a79634612163a95704bdb2825
+    checkpoint 2 sha: ba69aacc1389aaa3e03f3492b958aaab684c0d6e
+    checkpoint 3 sha: fe98527d2cd2cf113bc22207a0d5fd9f6f5ed911
+  Aaron Careaga:
+    repo: https://github.com/acareaga/contact-manager
+    checkpoint 1 sha: 88a26a7ced219a807546e30f75efbd040afaa165
+    checkpoint 2 sha: 89f1660ae0a5ec57029036867121927a8093839
+    checkpoint 3 sha: 
+  Ross Edfort:
+    repo: https://github.com/rossedfort/contact_manager
+    checkpoint 1 sha: 4421c8d9d05c01b7ac53950ae90e3c77c382e08c
+    checkpoint 2 sha: 3721e97eec65c4a6b008cc62952c7e345c932fd6
+    checkpoint 3 sha: 
+  Marlo Major:
+    repo: http://github.com/marlomajor/contact_manager
+    checkpoint 1 sha: 42d42c271396545c7a563ee8374a87f7b34086bf
+    checkpoint 2 sha:
+    checkpoint 3 sha:
+  Jill Donohue:
+    repo: https://github.com/jillmd501/Contact-Manager
+    checkpoint 1 sha: c61b2efb6122cbee9ec28deefa4094026f0e4408
+    checkpoint 2 sha: 4fa9732ac362c3390d3ea904bf6335a3717c18c5
+    checkpoint 3 sha:
+  Amber Crawford:
+    repo: https://github.com/amcrawford/contact-manager
+    checkpoint 1 sha:b223f89997e04cb30b97cd7a23581c1f7d9ab1f1
+    checkpoint 2 sha: 569c1007beea47f0fc8ec3edbbcdf4fd9e28edb9
+    checkpoint 3 sha: 
+  Ryan Johnson:
+    repo:
+    checkpoint 1 sha: 9d06e41
+    checkpoint 2 sha: 35f6a33
+    checkpoint 3 sha: 7147d7a
+  Sekhar Paladugu:
+    repo: https://github.com/sekharp/contact-manager.git
+    checkpoint 1 sha: c5c5a5e3a2f6f93de619c12e8070edb69b4f0d22
+    checkpoint 2 sha: 90a9b24564d875b9115d52aad50305d495389424
+    checkpoint 3 sha: 
+  Jason Pilz:
+    repo: https://github.com/jasonpilz/ContactManager.git
+    checkpoint 1 sha: ae5b012b904f4c2044e09988aa9979ffbd5d05a1
+    checkpoint 2 sha: 15b0f74cae9b63740624ae0614dd58d2f47cf8e5
+    checkpoint 3 sha: 
+  Matt Stjernholm:
+    repo: https://github.com/matt-stj/contact_manager
+    checkpoint 1 sha: a8c814a
+    checkpoint 2 sha: a76cb7b
+    checkpoint 3 sha: aadb397
+  Matt Rooney:
+    repo: https://github.com/MattRooney/contact-manager
+    checkpoint 1 sha: ac89e978ff714d9ae8b1036830bc7ecc6df9e6c2
+    checkpoint 2 sha:
+    checkpoint 3 sha: 9f68282dd677070f3fb2c9b2910fc3d1e48e9463
+  Edgar Duran:
+    repo:https://github.com/edgarduran/contact_manager
+    checkpoint 1 sha: 96caea8271d4cbd4526b046c98937543e2dc442f
+    checkpoint 2 sha: 08f3cf34dfe3a0a4c6890091db69ca49e2d5e6f0
+    checkpoint 3 sha:
+  Emily Dowdle:
+    repo: https://github.com/emilydowdle/contact_manager
+    checkpoint 1 sha: 7cd78ee1366f1f5d78758cf1fc25d194d1cc5404
+    checkpoint 2 sha: ba17f969b29f3857aca8f2e90c17460219f14201
+    checkpoint 3 sha: 
+  Charissa Lawrence:
+    repo: https://github.com/JaggedLaw/Contact_Manager
+    checkpoint 1 sha: 333593373194d26cd7ad2c1048a3e3b9188d0647
+    checkpoint 2 sha: 309029789821cbbcb4246d6f86aa80c1dd39c934
+    checkpoint 3 sha: 6129639c6faa2d3bee92fcf7015ebed3f9c7f61e
+  Robbie Lane: 
+    repo: https://github.com/robbielane/contact_manager
+    checkpoint 1 sha: bea8f0235d6699e1a5c2861bff0023c65b747f5a
+    checkpoint 2 sha: c2fc827e0259b7d4f1622d7f2bf5f698ebedeaf1
+    checkpoint 3 sha: 2cd69a0de81ae52750c6b8829f1296841e3b9069
+  Shannon Paige:
+    repo: https://github.com/ShannonPaige/contact_manager
+    checkpoint 1 sha: 953172bc2f0c369cb67f0b51bb556c6d7972a2f1
+    checkpoint 2 sha: 51869d162712feaafc7fee280b3df18dab157433
+    checkpoint 3 sha: 
+  John Slota:
+    repo:https://github.com/slotaj/contact_manager
+    checkpoint 1 sha: 0dd62b802f207f713b1c7eccc7cfd9cf5509ba26
+    checkpoint 2 sha:
+    checkpoint 3 sha: 

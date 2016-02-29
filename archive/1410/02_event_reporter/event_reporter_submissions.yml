@@ -1,0 +1,114 @@
+submissions:
+  Alexandra Robinson & Juan Manuel Navarro:
+    repository: https://github.com/scottalexandra/event_reporter
+    evaluation:
+      notes: "Some base functionality; missing print by functionality. One crash when user entered invalid help command.
+              REPL is easy to read, but missing some functionality.
+              Good intent with TDD but tests were not updated as application grew and changed.
+              Can see effort toward organization and refactoring.
+              Good understanding of basic enums (collect, select, sort)."
+      Functional Expectations: 2
+      REPL Interface: 2.5
+      Test-Driven Development: 2
+      Breaking Logic into Components: 2.5
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+  Andrew Overby & Chris Luhring:
+    repository: https://github.com/cluhring/event_reporter
+    evaluation:
+      notes: git issues, flustered, possibly discouraged
+      Functional Expectations: 1
+      REPL Interface: 1
+      Test-Driven Development: 2
+      Breaking Logic into Components: 2.5
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 2.5
+  Kit Pearson & Orion Osborn:
+    repository: https://github.com/oorion/event_reporter
+    evaluation:
+      notes: ""
+      Functional Expectations: 2
+      REPL Interface: 3
+      Test-Driven Development: 2
+      Breaking Logic into Components: 2.5
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+  Brandon Mrsny & Nathan Owsiany:
+    repository: https://github.com/bmrsny/event_reporter
+    evaluation:
+      notes: ""
+      Functional Expectations: 4
+      REPL Interface: 4
+      Test-Driven Development: 4
+      Breaking Logic into Components: 4
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 4
+  Dustin Gault & Emily Berkeley:
+    repository: https://github.com/DSynergy/Event_Reporter
+    evaluation:
+      notes: ""
+      Functional Expectations: 3.5
+      REPL Interface: 4
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 4
+  Lori Culberson & Michael Dao:
+    repository: https://github.com/mikedao/event_reporter
+    evaluation:
+      notes: "Application fulfills all base expectations.
+              REPL clear to use -- possibly would have been nice to have a message to user when input cannot be processed instead of another >.
+              Watch for where 'puts' is being called.
+              "
+      Functional Expectations: 3
+      REPL Interface: 3
+      Test-Driven Development: 3.5
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+  Bhargavi Satpathy & Jeffrey Wan & Edward McCarthy:
+    repository: https://github.com/bhargavisatpathy/event_manager
+    evaluation:
+      notes: "One problem loading a generated file, but all other base expectations fulfilled and two extensions implemented.
+              Break down 'Session' class further.
+              "
+      Functional Expectations: 3.5
+      REPL Interface: 3
+      Test-Driven Development: 3.5
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+  Bryce Holcomb & Laura Whalin:
+    repository: https://github.com/bryceholcomb/event_reporter
+    evaluation:
+      notes: "All base expectations fulfilled; implemented 'and' searching (need to account for invalid user input on this feature).
+              Test coverage is sufficient -- great testing of isolated pieces; also good testing of saving a csv and using mocks.
+              Fairly well broken-down logic."
+      Functional Expectations: 3
+      REPL Interface: 3.5
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+  Rich Shea & Scott Crawford:
+    repository: https://github.com/scottcrawford03/event_reporter
+    evaluation:
+      notes: "All base expectations fulfilled; partially implemented two extensions.
+              REPL is easy to use; tables are nicely formatted.
+              Well-factored code; processor could use some refactoring."
+      Functional Expectations: 3
+      REPL Interface: 3.5
+      Test-Driven Development: 3.5
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+  Lydia Shafer & Krista A Nelson:
+    repository: https://github.com/KristaANelson/event_reporter
+    evaluation:
+      notes: ""
+      Functional Expectations: 3
+      REPL Interface: 4
+      Test-Driven Development: 3.5
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3

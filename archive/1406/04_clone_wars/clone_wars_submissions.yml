@@ -1,0 +1,142 @@
+# NOTE: You can verify that you haven't broken the format with
+# $ ruby -rpp -ryaml -e 'pp YAML.load File.read("1406/04_clone_wars/clone_wars_submissions.yml")
+submissions:
+  Chad Brading, Gustavo Villagrana, Hilary Denton:
+    repository: git@github.com:GusVilla303/Clone-Wars.git
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Sinatra / Web and Business Logic: 0
+        View Layer: 0
+    peer_evaluation:
+      notes: "Very nice working site and ordering system with extensive menu database. Site had routing issues, could use breaking out methods from the database, they are using SQL instead of Sequel, file structure needs organizing."
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 1.5
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 2.5
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
+  Corey Davis, Marc Garreau, Robert Gu:
+    repository: git@github.com:MarcGarreau/clonewars_uncubed.git
+    setup_notes: "run bundle install to pull dependencies, then run bundle exec to rack up"
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 4
+        Test-Driven Development: 3
+        Encapsulation / Components: 2
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3
+        View Layer: 2
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Sinatra / Web and Business Logic: 0
+        View Layer: 0
+  Andy Mention, Emily Davis:
+    repository: git@github.com:AndyDangerous/lodojimmys.git
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 2.5
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Sinatra / Web and Business Logic: 0
+        View Layer: 0
+  Jonmichael Chambers, Eric Fransen, Alan Smith:
+    repository: https://github.com/tyrbo/hapa-sushi
+    setup_notes: "Needs (brew install imagemagick) ImageMagick. init.rb file will build a database for whatever env we are in."
+    instructor_evaluation:
+      notes: "Backend has powerful control of the front end.
+              Wish that there were uses of Sequel's SQL tools rather than AR-style.
+              Good mix of testing types and decent coverage.
+              Break up big folders like your views into subfolders.
+              Good work on the app.rb, but find out how to pull routes into different components.
+              "
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 3
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 4
+        View Layer: 4
+    peer_evaluation:
+      notes: "We had a bit of trouble getting things up and running. (Rackup vs Shotgun).
+      There is limited functionality without inputting a bunch of items into the database."
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development:2-3 -> no coverage of admin area
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3.5
+        Sinatra / Web and Business Logic: 4
+        View Layer: 3.5
+  Andrew Watkins, Allison Larson, Horacio Chavez:
+    repository: https://github.com/allisonlarson/clone_wars.git
+    setup_notes: "clone of http://playersclothing.com/"
+    instructor_evaluation:
+      notes: "Adding a new page would be difficult.
+              Could re-use some view templates / components.
+              Hate Sequel::Model.
+              A little bit of business logic leaking into app.rb.
+              Overall a strong app but missed some learning goals."
+      rubric:
+        Functional Expectations: 4
+        Test-Driven Development: 2
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 2
+        View Layer: 3
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Sinatra / Web and Business Logic: 0
+        View Layer: 0
+  Tim Proctor, Tan Doan, Will Faurot:
+    repository: https://github.com/timproctor/clone_wars.git
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "Pretty small collection of tests.
+              Views have redundant HTML/wrapping.
+              Unfortunate that view templates don't display database data.
+              Needs about 2-3 days work on the view layer."
+      rubric:
+        Functional Expectations: 2
+        Test-Driven Development: 2
+        Encapsulation / Components: 2
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 2
+        View Layer: 2
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Sinatra / Web and Business Logic: 0
+        View Layer: 0

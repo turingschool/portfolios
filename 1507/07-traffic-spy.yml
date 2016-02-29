@@ -1,0 +1,95 @@
+submissions:
+  Regis, David, Jerrod:
+    repository: https://github.com/dastinnette/traffic-spy
+    setup_notes:
+    group_discussion_notes: https://gist.github.com/selfup/e36ee298f1b88913785b
+    instructor_evaluation: Josh M.
+      notes: Missing error message for 403s. OS, Screen Res, and Browser breakdown is incomplete.
+      rubric:
+        Functional Expectations: 1.5
+        Test-Driven Development: 4
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
+  Travis and Matt and Adam:
+    repository: https://github.com/travishaby/traffic_spy
+    setup_notes:
+    group_discussion_notes: https://gist.github.com/travishaby/c873b65c804095812f23
+    instructor_evaluation: Josh M.
+      notes:
+      rubric:
+        Functional Expectations: 4
+        Test-Driven Development: 4
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 4
+        View Layer: 3
+  Jeff and Alon and Michael and Mimi:
+    repository:
+    setup_notes:
+    group_discussion_notes: https://gist.github.com/Kealii/2cb124bd7f287e1a6c69
+    instructor_evaluation: Josh M.
+      notes:
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 4
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3
+        View Layer: 4
+  Rose and Ryan and Matt and Russell:
+    repository:
+    setup_notes:
+    group_discussion_notes: https://gist.github.com/rasensio1/fe9fe922a2e7b511c880
+    instructor_evaluation: Josh M.
+      notes:
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 4
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3
+
+Bret and Justin and Justin:
+  repository: https://github.com/jpease1020/traffic-spy
+    setup_notes: Clone repo, yolo, shotgun, test script
+    group_discussion_notes: https://gist.github.com/philmphoenix/e9b5ade10d4f8fb60f2c
+    instructor_evaluation: Mike
+      notes:
+        * Some better separation of tests could be used.
+        * Some methods were very long
+        * Some lines > 80 characters
+        * Would like to have seen better breaking out of view into partials.
+        * 275 assertions, test coverage was 98 percent 65 tests
+        * Design was clean
+        * Worked as advertised.
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 3
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3*
+
+George and Mary Beth and Chris
+  repository: http://github.com/mbburch/traffic-spy
+    setup_notes:
+    group_discussion_notes: https://gist.github.com/mbburch/42a2d75608c63fd9d619
+    instructor_evaluation: Mike
+      notes:
+        * Good pulling out of things into partials
+        * Methods in controller were a little heavy and could stand to be
+        refactored
+        * Good use of helper classes, would like to have seen more
+        * More logic could be pushed to the models
+        * design was pleasant
+        * JSon works, and campaigns work
+        * 38 tests
+      rubric:
+        Functional Expectations: 4
+        Test-Driven Development: 3
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 4
+        Sinatra / Web and Business Logic: 4
+        View Layer: 3

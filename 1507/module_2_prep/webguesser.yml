@@ -1,0 +1,67 @@
+submissions:
+  Bret Doucette:
+    repo: https://github.com/bad6e/Web_Guesser
+    notes: The price is right!
+  Travis Haby:
+    repo: https://github.com/travishaby/web_guesser.git
+    notes: Got it working with colors, as well as limiting the number of allowed guesses to five. Also tried to add an array that tracks previous guesses which works but annoyingly starts off with nil and keeps the nil value as one of the guesses...will try to fix if I have more time.
+  Rose Kohn:
+    repo: https://github.com/roseak/web_guesser
+    notes:
+  Mary Beth Burch:
+    repo: https://github.com/mbburch/web_guesser
+    notes: color extension done, would like to finish other two.
+  Alon Waisman:
+    repo: https://github.com/MowAlon/web_guesser
+    notes: The SECRET NUMBER is 42
+  Chris Cenatiempo:
+    repo:https://github.com/ChrisCenatie/web_guesser
+    notes: Added color extension and working on the other two extensions
+  Mimi Schatz:
+    repo: https://github.com/mcschatz/web_guesser
+    notes:
+  Ryan Asensio:
+    repo:https://github.com/rasensio1/webguesser
+    notes:
+  Michael Wong:
+   repo:
+    notes:
+  Matt Ewell:
+    repo: https://github.com/plato721/web_guesser
+    notes:
+  Regis Boudinot:
+    repo: https://github.com/selfup/web_guesser
+    notes: It changes colors!! (Extension)
+  Adam Jensen:
+    repo: https://github.com/adamki/webguesser
+    notes: Don't Panic.
+  Jeff Ruane:
+    repo:
+    notes:
+  Matt Hecker:
+    repo: https://github.com/HoffsMH/web_guesser
+    notes:Did extensions
+  George Hudson:
+    repo: https://github.com/Egogre/web_guesser
+    notes:
+  Russell Harms:
+    repo: https://github.com/russelleh/task_manager
+    notes:
+  Jerrod Paul Junker:
+    repo:
+    notes:
+  Justin Pease: https://github.com/Jpease1020/Web-guesser
+    repo:
+    notes: Still working on extentions
+  David Stinnette:
+    repo: https://github.com/dastinnette/web_guesser
+    notes: Note the tasteful use of "hotpink"
+  Justin Holzmann:
+    repo: https://github.com/philmphoenix/web_guesser
+    notes: Implemented all extensions
+  Rebekah Sosa:
+    repo: https://github.com/rebekahsosa/web_guesser
+    
+    Nicole Hall
+    repo: https://github.com/NicoleHall/Web-Guesser
+

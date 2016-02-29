@@ -1,0 +1,47 @@
+submissions:
+  Dustin:
+    repository: https://github.com/DSynergy/IdeaBox
+    setup_notes: "user: d, pass: g"
+  Trey:
+    repository: https://github.com/...
+    setup_notes: ""
+  Teresa:
+    repository: https://github.com/...
+    setup_notes: ""
+  Jeff:
+    repository: https://github.com/...
+    setup_notes: ""
+  Markus:
+    repository: https://github.com/neslom/point-box
+    setup_notes: ""
+  Stanley:
+    repository: https://github.com/...
+    setup_notes: ""
+  Kyra:
+    repository: https://github.com/kyraweber/point_box
+    setup_notes: ""
+  Austin:
+    repository: https://github.com/...
+    setup_notes: ""
+  Paul:
+    repository: https://github.com/paulgrever/idea_box
+    setup_notes: ""
+  Lori:
+    repository: https://github.com/loriculberson/idea_box
+    setup_notes: ""
+  Tino:
+    repository: https://github.com/...
+    setup_notes: ""
+  Mac:
+    repository: https://github.com/mcshakes/IdeaBox
+    setup_notes: "admin username: admin password: hammer. Had trouble viewing individual users' ideas."
+  Fred:
+    repository: https://github.com/...
+    setup_notes: ""
+  DJ:
+    repository: https://github.com/AllPurposeName/point-box
+    setup_notes: "run ```rake db:drop db:create db:migrate db:seed``` the two seeded users are DJ password: pw and Kaitryn password: pw"
+  Miriam:
+    repository: https://github.com/mirjoy/point_box
+    setup_notes: ""
+

@@ -1,0 +1,46 @@
+Please add the link to your technical blog post below:
+
+* Aaron Paul Wortham: 
+* Adam Smith: this is provisional:  http://limitless-basin-1982.herokuapp.com/
+* Alan Smith: 
+* Alex Jensen: http://rubywithalex.herokuapp.com/
+* Allison Larson: 
+* Andrew Watkins: 
+* Andy Mention: 
+* Cara Dennis: 
+* Chad Brading: 
+* Chandra Carney: 
+* Chase van Hekken: https://medium.com/@ChasevH/the-ruby-send-method-afe882a8191c
+* Christopher Bynum: 
+* Corey Davis: 
+* Danny Glunz: http://www.danielglunz.com/github/gitting-started/ 
+* David Bayendor: 
+* Emily Davis: 
+* Eric Fransen: 
+* Glen Egbert: 
+* Gregory Narajka: https://greg-turing.ghost.io/how-to-print-tables-to-the-command-line-a-pastiche-of-real-korean-high-school-student-essays/
+* Gustavo Villagrana: 
+* Herbert Joseph: 
+* Hilary Denton: 
+* Horacio Chavez: 
+* Ian Andersen: http://www.mindfulprogramming.com/creating-an-admin-controller-in-rails/
+* Jessica Goulding: 
+* Jim Sutton: 
+* Jonmichael Chambers: 
+* Kalah Cheek: 
+* Kate Lane: http://t.co/nMzendlnZK
+* Kavita Sachdeva: 
+* Konr Josef Laron: 
+* Luke Aiken: 
+* Marc Garreau: 
+* Robert Gu: 
+* Rolando Navarrete: http://chaosruby.com
+* Sam Kuhlmann: 
+* Sara Simon: 
+* Tan Doan: 
+* Tim Proctor: 
+* Timothy Mee: 
+* Travis Yoder: 
+* Victoria Harrod: http://viki-at-turing.herokuapp.com/2014/10/03/first-pair-project-observations.html
+* Will Faurot: 
+* Zachary Routhier: https://medium.com/@z_Routh/turing-event_reporter-89683517faac

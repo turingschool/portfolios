@@ -1,0 +1,424 @@
+---
+submissions:
+  Travis Yoder & Kalah Cheek:
+    repository: https://github.com/trayo/event_reporter.git
+    evaluation:
+      notes: ""
+      Functional Expectations: 1
+      REPL Interface: 2.5
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3.5
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+    peer_evaluation:
+      notes: ""
+      Functional Expectations: 0
+      REPL Interface: 0
+      Test-Driven Development: 0
+      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+  Gregory Narajka & Herbert Joseph:
+    repository: https://github.com/gregnar/event_reporter
+    evaluation:
+      notes: ""
+      Functional Expectations: 2.5
+      REPL Interface: 3
+      Test-Driven Development: 2.5
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 4
+    peer_evaluation:
+      notes: ""
+      Functional Expectations: 0
+      REPL Interface: 0
+      Test-Driven Development: 0
+      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+  Christopher Bynum & Alex Jensen:
+    repository:
+    evaluation:
+      notes: |
+        1. Functional Expectations
+          Score: 4
+          Completes requirements
+          Nightmare find mode works
+          File extensions work
+
+          4: Application fulfills all base expectations and two extensions
+          3: Application fulfills all base expectations
+          2: Application has some missing functionality but no crashes
+          1: Application crashes during normal usage
+
+        2. REPL Interface
+          Score: 4
+
+          4: Application’s REPL goes above and beyond expectations to improve the interface
+          3: Application’s REPL is clear and pleasant to use
+          2: Application’s REPL has some inconsistencies or rough edges
+          1: Application’s REPL has enough problems as to make play difficult
+
+        3. Test-Driven Development
+          Score: 4-
+          Tests: 123, all passing
+          100% code coverage
+
+          4: Application is broken into components which are well tested in both isolation and integration
+          3: Application is well tested but does not balance isolation and integration tests
+          2: Application makes some use of tests, but the coverage is insufficient
+          1: Application does not demonstrate strong use of TDD
+
+        4. Breaking Logic into Components
+          Score: 3
+          Good Commands object
+          Some ideas spread around the system
+          Some naming could be better
+
+          4: Application is expertly divided into logical components such that individual pieces could be reused or replaced without difficulty
+          3: Application effectively breaks logical components apart with clear intent and usage
+          2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+          1: Application logic shows poor decomposition with too much logic mashed together
+
+        5. Fundamental Ruby & Style
+          Score: 4
+          No syntax issues
+          Code was refactored
+
+          4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+          3: Application shows strong effort towards organization, content, and refactoring
+          2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
+          1: Application generates syntax error or crashes during execution
+
+        6. Enumerable & Collections
+          Score: 4
+
+          4: Application consistently makes use of the best-choice Enumerable methods
+          3: Application demonstrates comfortable use of several Enumerable techniques
+          2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
+          1: Application demonstrates deficiencies with Enumerable and struggles with collections
+
+      Functional Expectations: 4
+      REPL Interface: 4
+      Test-Driven Development: 4-
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 4
+      Enumerable & Collections: 4
+    peer_evaluation:
+      notes: ""
+      Functional Expectations: 0
+      REPL Interface: 0
+      Test-Driven Development: 0
+      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+  Timothy Mee & Adam Smith:
+    repository: https://github.com/AdamSmith910/practice_event_reporter.git
+    evaluation:
+      notes: |
+        1. Functional Expectations
+          Score: 3
+          Saves to csv
+          Loads from csv, but loses some columns
+
+          4: Application fulfills all base expectations and two extensions
+          3: Application fulfills all base expectations
+          2: Application has some missing functionality but no crashes
+          1: Application crashes during normal usage
+
+        2. REPL Interface
+          Score: 4
+          Nice colours
+          Clearing the screen between commands
+          Nice title
+          Nice Use of Gems
+          Using ascii escape sequences
+
+          4: Application’s REPL goes above and beyond expectations to improve the interface
+          3: Application’s REPL is clear and pleasant to use
+          2: Application’s REPL has some inconsistencies or rough edges
+          1: Application’s REPL has enough problems as to make play difficult
+
+        3. Test-Driven Development
+          Score: 1
+          A lot of test files
+          Most commented out or empty
+          The one that works needed some help
+
+          4: Application is broken into components which are well tested in both isolation and integration
+          3: Application is well tested but does not balance isolation and integration tests
+          2: Application makes some use of tests, but the coverage is insufficient
+          1: Application does not demonstrate strong use of TDD
+
+        4. Breaking Logic into Components
+          Score: 2
+          Attendee :D not Entry
+          Queue only needs to do queue things, then the user can use the results as they like (e.g. saving and printing)
+          Similar behaviour in Run and CLI
+
+          4: Application is expertly divided into logical components such that individual pieces could be reused or replaced without difficulty
+          3: Application effectively breaks logical components apart with clear intent and usage
+          2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+          1: Application logic shows poor decomposition with too much logic mashed together
+
+        5. Fundamental Ruby & Style
+          Score: 3
+          Message printer prints directly to stdout/CLI gets from stdin
+          Could do more with refactoring
+          Syntax was good
+
+          4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+          3: Application shows strong effort towards organization, content, and refactoring
+          2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
+          1: Application generates syntax error or crashes during execution
+
+        6. Enumerable & Collections
+          Score: 4
+          No bad use of enumerable
+          Several reasonably good ones
+
+          4: Application consistently makes use of the best-choice Enumerable methods
+          3: Application demonstrates comfortable use of several Enumerable techniques
+          2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
+          1: Application demonstrates deficiencies with Enumerable and struggles with collections
+      Functional Expectations: 3
+      REPL Interface: 4
+      Test-Driven Development: 1
+      Breaking Logic into Components: 2
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 4
+    peer_evaluation:
+      notes: ""
+      Functional Expectations: 0
+      REPL Interface: 0
+      Test-Driven Development: 0
+      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+  Konr Josef Larson & Victoria Harrod:
+    repository: https://github.com/larsonkonr/Event-Reporter.git
+    evaluation:
+      notes: |
+        1. Functional Expectations
+          Score: 3
+          lose the "id" (or w/e it is) when saving, but doesn't wind up mattering in printing
+
+
+          4: Application fulfills all base expectations and two extensions
+          3: Application fulfills all base expectations
+          2: Application has some missing functionality but no crashes
+          1: Application crashes during normal usage
+
+        2. REPL Interface
+          Score: 3-
+
+          table printing not always right
+          Would be nice to have an error message on incorrect commands
+          Blows up if loading a nonexistent file
+
+          4: Application’s REPL goes above and beyond expectations to improve the interface
+          3: Application’s REPL is clear and pleasant to use
+          2: Application’s REPL has some inconsistencies or rough edges
+          1: Application’s REPL has enough problems as to make play difficult
+
+        3. Test-Driven Development
+          Score: 2
+
+          tests passing, 29 of them
+          low coverage
+
+          4: Application is broken into components which are well tested in both isolation and integration
+          3: Application is well tested but does not balance isolation and integration tests
+          2: Application makes some use of tests, but the coverage is insufficient
+          1: Application does not demonstrate strong use of TDD
+
+        4. Breaking Logic into Components
+          Score: 4
+
+          On the whole, pretty well split up
+          Loading/saving CSV available as "class" methods on Repository, but not coupled to the instance
+
+          If stdin was injected (like stdout is), you could use SiB with your CLI like this:
+          ```ruby
+          require 'stringio'
+          stdin = StringIO.new("load\nfind first_name john\nprint queue\nquit")
+          CLI.new(stdin, $stdout).start
+          ```
+
+          Naming Attendee after the domain (as opposed to "Entry" aka "where I copied it from" :P)
+
+          4: Application is expertly divided into logical components such that individual pieces could be reused or replaced without difficulty
+          3: Application effectively breaks logical components apart with clear intent and usage
+          2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+          1: Application logic shows poor decomposition with too much logic mashed together
+
+        5. Fundamental Ruby & Style
+          Score: 3
+          At least one indentation issue
+          Code was easy to read
+
+          4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+          3: Application shows strong effort towards organization, content, and refactoring
+          2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
+          1: Application generates syntax error or crashes during execution
+
+        6. Enumerable & Collections
+          Score: 4
+          No bad enumerations
+          Some select/collect and find_by
+
+          4: Application consistently makes use of the best-choice Enumerable methods
+          3: Application demonstrates comfortable use of several Enumerable techniques
+          2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
+          1: Application demonstrates deficiencies with Enumerable and struggles with collections
+      Functional Expectations: 3
+      REPL Interface: 3-
+      Test-Driven Development: 2
+      Breaking Logic into Components: 4
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 4
+    peer_evaluation:
+      notes: ""
+      Functional Expectations: 0
+      REPL Interface: 0
+      Test-Driven Development: 0
+      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+  Danny Glunz & Chandra Carney & Sam Kuhlmann:
+    repository: https://github.com/dglunz/event-reporter
+    evaluation:
+      notes: |
+        1. Functional Expectations
+          Score: 4
+
+          It works
+          Prints as a pretty table
+          can add/subtract
+          improved find with multiple criteria
+
+          4: Application fulfills all base expectations and two extensions
+          3: Application fulfills all base expectations
+          2: Application has some missing functionality but no crashes
+          1: Application crashes during normal usage
+
+        2. REPL Interface
+          Score: 3
+
+          pretty table printing
+          help is missing things
+          Nice help details
+
+          4: Application’s REPL goes above and beyond expectations to improve the interface
+          3: Application’s REPL is clear and pleasant to use
+          2: Application’s REPL has some inconsistencies or rough edges
+          1: Application’s REPL has enough problems as to make play difficult
+
+        3. Test-Driven Development
+          Score: 4
+
+          good test coverage
+          rake task to run the suite
+          nice integration tests
+          Uses SimpleCov
+
+          4: Application is broken into components which are well tested in both isolation and integration
+          3: Application is well tested but does not balance isolation and integration tests
+          2: Application makes some use of tests, but the coverage is insufficient
+          1: Application does not demonstrate strong use of TDD
+
+        4. Breaking Logic into Components
+          Score: 4
+          Processor is getting a bit heavy, but working on that in a different branch
+          Good Printer class (simple, reusable, no dependencies), but misnamed (maybe Messages)
+          Entry is misnamed (probably Attendee)
+          Entry attribute information is sprinkled around the system
+
+          4: Application is expertly divided into logical components such that individual pieces could be reused or replaced without difficulty
+          3: Application effectively breaks logical components apart with clear intent and usage
+          2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+          1: Application logic shows poor decomposition with too much logic mashed together
+
+        5. Fundamental Ruby & Style
+          Score: 4
+          lib/bin dir, bin is a binary
+          Gemfile
+          absolute filepath
+
+          4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+          3: Application shows strong effort towards organization, content, and refactoring
+          2: Application runs but the code has many long methods (>8 lines) and needs significant refactoring
+          1: Application generates syntax error or crashes during execution
+
+        6. Enumerable & Collections
+          Score: 3
+          Nice use of enumerables
+          the one `each` could be a map (hidden b/c operates on instance variables instead of args)
+
+          4: Application consistently makes use of the best-choice Enumerable methods
+          3: Application demonstrates comfortable use of several Enumerable techniques
+          2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
+          1: Application demonstrates deficiencies with Enumerable and struggles with collections
+      Functional Expectations: 4
+      REPL Interface: 3
+      Test-Driven Development: 4
+      Breaking Logic into Components: 4
+      Fundamental Ruby & Style: 4
+      Enumerable & Collections: 3
+    peer_evaluation:
+      notes: "Had four extensions, testing was great, used Rake and integration tests, process class could have
+      been seperated better"
+      Functional Expectations: 4
+      REPL Interface: 3
+      Test-Driven Development: 4
+      Breaking Logic into Components: 3.5
+      Fundamental Ruby & Style: 3.5
+      Enumerable & Collections: 3.5
+  Kate Lane & David Bayendor:
+    repository: https://github.com/bayendor/eventreporter.git
+    evaluation:
+      notes: |
+        All base functionality working except for save.
+        REPL was pleasant to use. Included courtesy responses to indicate num of records and empty results.
+        Test coverage sufficient for smaller pieces of app; would like to see CLI test with StringIO.
+        Entry, message printer, repository, file handler all effectively broken into components. CLI has a little too much logic mashed together in one class.
+        Aside from CLI, methods and classes were concise.
+        Saw collect, sort!, find_all, and each (used appropriately) for enumerables.
+      Functional Expectations: 1.5
+      REPL Interface: 3.5
+      Test-Driven Development: 3
+      Breaking Logic into Components: 2.5
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+    peer_evaluation:
+      notes: ""
+      Functional Expectations: 0
+      REPL Interface: 0
+      Test-Driven Development: 0
+      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+  Zachary Routhier & Chase van Hekken:
+    repository: https://github.com/zRouth/Event_Reporter
+    evaluation:
+      notes: |
+        All base expectations plus 'find -- and' for two attributes.
+        REPL is functional and easy to use.
+        Good use of tests for most classes; missing reliable testing for find (and some for CLI).
+        Most of program well separated into components.
+        Shows strong effort toward organization and refactoring for clarity.
+        Saw appropriate use of each, map, select, sort!
+      Functional Expectations: 3.5
+      REPL Interface: 3
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+    peer_evaluation:
+      notes: ""
+      Functional Expectations: 0
+      REPL Interface: 0
+      Test-Driven Development: 0
+      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
