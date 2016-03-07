@@ -102,13 +102,13 @@ submissions:
   Justin Pease:
     repo:
     instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    notes: Issues in development. Many crashes. Logging in with Google. Saving to recipe list crashes on redirect.
+    completion: 2
+    organization: 4
+    test-driven-development: 1
+    code-quality: 3
+    user-experience: 2
+    performance: 4
   Marlo Major:
     repo:
     instructor: Josh M.

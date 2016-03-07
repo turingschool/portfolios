@@ -4,7 +4,7 @@
 [My Repo](http://github.com/robbielane/idea_box_js)
 
 ### Link to the Deployed Application
-[My Application](http://idea-box-js.herokuapp.com)
+[My Application](http://idea-box-rl.herokuapp.com)
 
 ### Link to Your Commits in the Github Repository for the Project
 [My Commits](https://github.com/robbielane/idea_box_js/commits/master)
@@ -51,3 +51,32 @@
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+---
+
+## Points
+
+Good UX and functionality. Added two extensions. A bit more polish needed on tag functionality to remove unused tags and to add new tags without reloading. Testing is uneven. Monkey patching String prototype to add functionality is not recommended. Solid work overall, good quality.
+
+**Overall Points**: 171
+
+### Project Requirements
+
+* Data Model - 5 points
+* Viewing Ideas - 10 points
+* Adding a New Idea - 15 points
+* Deleting an Existing Idea - 15 points
+* Changing the Quality of the Idea - 15 points
+* Editing an Existing Idea - 20 points
+* Idea Filtering and Searching - 15 points
+* Tagging - 20 points
+* Sorting - 10 points
+
+### Instructor Evaluation Points
+
+* Specification Adherence - 10 points
+* User Interface - 5 points
+* Testing - 5 points
+* Ruby on Rails Quality - 8 points
+* JavaScript Style - 8 points
+* Workflow - 10 points

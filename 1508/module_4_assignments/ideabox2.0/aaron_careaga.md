@@ -55,4 +55,42 @@
 
 ### Please feel free to ask any other questions or make any other statements below!
 * What's a better way to organize file structure?
+```
+So, organization of file structure isn't as strict here in jQuery land as it is in Rails land or as it will be in React or another framework. Generally, I think you have a good file structure. You can start thinking of your JS code as controllers (ajax calls), view manipulators and logic - but you don't have to split your files up in that way, per se.
+-Meeka
+```
 * TDD JavaScript?
+```
+The struggle is real.
+
+So - a lot of the struggle is splitting the code so you _can_ test it. Separate functions so that your actual logic (like the truncation method) is in a separate testable function, and unit test those things. Then, split your ajax calls from your view manipulation, and you can test that stuff using mocks and stubs. And finally, for how it all fits together, you can cover that with integration tests.
+
+Ruby is easy to test, JavaScript is not. It's still worth it, but it's not going to be easy.
+```
+-----
+
+## Points
+
+Strong project, good work! See my answers above for more feedback ^
+
+**Overall Points**: 156 points
+
+### Project Requirements
+
+* Data Model - 5 points
+* Viewing Ideas - 10 points
+* Adding a New Idea - 15 points
+* Deleting an Existing Idea - 15 points
+* Changing the Quality of the Idea - 15 points
+* Editing an Existing Idea - 20 points
+* Idea Filtering and Searching - 15 points
+* Inline Idea Editing - 10 points
+
+### Instructor Evaluation Points
+
+* Specification Adherence - 10 points
+* User Interface - 5 points
+* Testing - 8 points
+* Ruby on Rails Quality - 10 points
+* JavaScript Style - 8 points
+* Workflow - 10 points

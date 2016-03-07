@@ -61,4 +61,27 @@ I feel not awesome about the rendering ideas code, because I have to pass the id
 
 -----
 
-### Please feel free to ask any other questions or make any other statements below!
+## Points
+
+Yay for puppies! Good job, good implementation. Recommended looking at the `window.CONSTANTS` usage and compare it to the way Steve sets things in his sample app. Very strong showing of understanding all of the code. 
+
+**Overall Points**: 141
+
+### Project Requirements
+
+* Data Model - 5 points
+* Viewing Ideas - 5 points
+* Adding a New Idea - 15 points
+* Deleting an Existing Idea - 15 points
+* Changing the Quality of the Idea - 15 points
+* Editing an Existing Idea - 20 points
+* Idea Filtering and Searching - 15 points
+
+### Instructor Evaluation Points
+
+* Specification Adherence - 10 points
+* User Interface - 5 points
+* Testing - 8 points
+* Ruby on Rails Quality - 10 points
+* JavaScript Style - 8 points
+* Workflow - 10 points
