@@ -1,8 +1,8 @@
 # Mark Miranda - M1 Portfolio
-___
+---
 
 ## Individual
-___
+---
 ### Areas of Emphasis
 
 My main goal is to build a solid foundation for the rest of my career at Turing
@@ -122,6 +122,8 @@ ___
 
 >**To Jared Roth:** Jared is great at breaking problems down into bite sized portions and really working through them one piece at a time. It was a weird short project that we don't actually need to finish, so yeah. Not too much feedback.
 
+>**To Claudia Kiesenhofer:** Claudia is a great partner. She has a strong grasp on problem solving without tying it to programming, which makes the programming process so much easier. She is deeply rooted in TDD and has a strong attention to detail. I would love to partner with Claudia on other projects. It was great to work with her and I feel like we had a good understanding of each others' strengths and weaknesses before going into the project. Claudia could use a tiny bit of work on workflow and shortcuts (using the mouse less), but other than that, she was great to work with!
+
 
 
 ### Feedback to Me
@@ -132,9 +134,26 @@ ___
 
 >**From Jared Roth:** Mark is great at keeping the overall objective in mind and ensuring that whatever we're working on is furthering that goal. While I was getting held up on how to best implement one relatively small aspect of the exercise, he was reminding me of what the time was trying to accomplish.
 
+>**From Jeneve Parrish:** I’m really liking working with you. We are moving slow but I am optimistic that we will be happy we rebooted yesterday, and I know things will speed up from here. I really appreciate being given the chance to drive sometimes, and you have always been very patient and kind when I do. I have learned several short cuts from watching you drive too. Also, your spreadsheet-fu is unexpectedly super-useful in the project. Not least, I am having fun whenever we work together; your ability to put people at ease will take you a long way.
+
+>**From Orion Osbourne:** I think your workflow and how you use the editor is solid.  I would recommend testing your assumptions more when you encounter a failing test.  I usually do this by throwing in a binding.pry right before where it's failing in the implementation and seeing if I get back what I expect. You're pretty solid overall though
+
 ### Playing a Part
 * I am very active in the Dennis Ritchie Posse. I try to contribute to discussions and the logic of solving challenges despite not having as much code knowledge as the other posse members.
+  * Posse Challenges:
+    * [College Scorecard](https://github.com/brennanholtzclaw/posse_challenges/tree/master/college_scorecard)
+    * [Code Breakers](https://github.com/brennanholtzclaw/posse_challenges/tree/master/codebreakers)
+    * [Enumerables & Procs](https://github.com/brennanholtzclaw/posse_challenges/tree/master/enumerables_and_procs)
+    * [People Database](https://github.com/brennanholtzclaw/posse_challenges/tree/master/people_database)
+    * [Tower of Hanoi](#)
+
 
 * I have weekly screen hero mentor sessions with Travis Yoder and Orion Osbourne. We generally work on refactoring whatever current project I'm working on or work on Exercisms I'm not comfortable with or stuck on.
 
 * I also attended the 10-year anniversary of the National Association of Asian-American Professionals with the Turing counterpart (Turing Association of Asian-American Programmers). It has given me the opportunity to meet students from other cohorts, alumni and staff and discuss topics that may not affect Turing at large as an Asian-American.
+
+* ReadMe Sample from [Enigma](https://github.com/notmarkmiranda/enigma/blob/master/readme.md)
+
+* Pull Request from [Black Thursday](https://github.com/notmarkmiranda/black_thursday/pull/17)
+
+* Blog posts from [markmiranda.ninja](http://www.markmiranda.ninja)
