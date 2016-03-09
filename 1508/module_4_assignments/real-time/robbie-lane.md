@@ -58,3 +58,34 @@
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+## Instructor Feedback
+
+Sweet bar chart and React usage! Some bugginess in the barchart showing vote data prior to a vote. Nice usage of firebase as well!
+
+Score: 175
+
+Concept and Features
+
+Does it have the expected features?
+
+100 points - Exceeded expectations. There are more features than we planned.
+
+Code Quality (JavaScript and/or Ruby)
+
+25 points - Developer solves problems with a balance between conciseness and clarity and often extracts logical components. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+Client-Side Application
+
+30 points - Your application has exceptionally well-factored code with little or now duplication and all components separated out into logical components.
+
+Test-Driven Development
+
+10 points - Many areas of the code are not covered by tests.
+Interface
+
+5 points - The application is pleasant, logical, and easy to use
+
+Workflow
+
+5 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.

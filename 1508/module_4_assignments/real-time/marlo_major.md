@@ -61,3 +61,37 @@ I am much better prepared to turn in a finished and complete project. Turns out 
 bad and that crossing the finish line successfully is something I should always strive for. However, something I am not proud of is my git workflow once I start a project. I get off on a good workflow, then while trying to
 figure out the logic, I always stop committing and pushing until the very end. I normally always get points taken
 away for this and so moving forward, I would like to make many more smaller and dedicated commits.
+
+---
+
+## Evaluation Criteria
+
+103 points
+
+Test are lacking. Good use of functions to separate business logic. Good use of object to handle polls abstraction. Missing functionality to expire poll.
+
+### Concept and Features
+
+Does it have the expected features?
+
+* 50 points - Some features were sacrificed to meet the deadline. At best, this is a prototype. Major features covered by the learning goals listed above were not written by the developer.
+
+### Code Quality (JavaScript and/or Ruby)
+
+* 25 points - Developer solves problems with a balance between conciseness and clarity and often extracts logical components. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### Client-Side Application
+
+* 20 points - Your application has a significant amount of duplication and one or major bugs.
+
+### Test-Driven Development
+
+* 0 points - No tests were written or the testing framework does not work.
+
+### Interface
+
+* 5 points - The application is pleasant, logical, and easy to use
+
+### Workflow
+
+* 3 points - The developer makes large commits covering multiple features that make it difficult for the evaluator to determine the evolution of the application.

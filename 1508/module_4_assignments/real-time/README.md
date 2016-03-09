@@ -27,7 +27,7 @@
 ## Completion
 
 ### Were you able to complete what you feel is the base functionality?
-#### If not, list what functionality you think may be missing missing.
+#### If not, list what functionality you think may be missing.
 
 ### What features did you complete which you feel 'exceeded expectations'?
 

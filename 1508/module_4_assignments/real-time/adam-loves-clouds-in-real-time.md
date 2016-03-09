@@ -1,51 +1,51 @@
-Real-Time Submission Form
+# Real-Time Submission Form
 [Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
 # Basics
 
 ### Link to the Github Repository for the Project
-[My-Repo](https://github.com/rjohnson4444/real-poll)
+[cloud-source](http://github.com/adamki/real-time)
 
 ### Link to the Deployed Application
-[Production](https://real-poll-ryan-johnson.herokuapp.com/)
+[cloud-source](http://cloud-source.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[My-commits](https://github.com/rjohnson4444/real-poll/commits/master)
+[Your Commits](https://github.com/adamki/real-time/commits/master)
 
 ### Provide a Screenshot of your Application
-![gif](http://g.recordit.co/zvDXGMgrPc.gif)
+![cloud-source](images/clouds-by-adam.png)
 
 ## Completion
 
 ### Were you able to complete what you feel is the base functionality?
 #### If not, list what functionality you think may be missing missing.
 
-- I was not able to complete the real time viewing of the results for each voter and
-  I did not finish the ability to close the poll at a specified time.
+I was not able to figure out how to use schedule a poll to close. I have since found out that
+there is an [npm scheduler](https://www.npmjs.com/package/node-schedule). This would have been handy.
 
 ### What features did you complete which you feel 'exceeded expectations'?
-- None
+
+My clouds
 
 ### Attach a .gif, or images of any extensions work being used on the site.
+![clouds](http://recordit.co/ygUReTq5Ha/gif/notify)
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
 #### Why were you proud of this piece of code?
-[My Code](https://github.com/rjohnson4444/real-poll/blob/master/server.js#L118)
 
-- I like this part of my code because it took me a lot of thinking of how to implement. I think its pretty clean.
+[look at this socket stufff](https://github.com/adamki/real-time/blob/master/server.js#L59-L79) It's so cool!!! im only proud of this in the sense that
+if is my "very first websocket". Other than that, it is not terribly exceptional.
 
 ### Link to a specific block of your code on Github that you feel not great about
 #### Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+[testing!!!!](https://github.com/adamki/real-time/blob/master/test/server-test.js)
 
-[Not-Nice!](https://github.com/rjohnson4444/real-poll/blob/master/test/server-test.js#L5)
-
-- I didn't like this part of my code because there are zero tests!
+This testing didn't start until such a late time. I just didn't really get it down like I had hoped. It was rushed, and not excellent testing.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-
-### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
+![test-suite](images/adams-tests.png)
 
 -----
 
@@ -53,7 +53,9 @@ Real-Time Submission Form
 
 ## Instructor Feedback
 
-Total Score: 130
+Not saying anything you didn't already know, but while the CSS is super awesome, starting on the feature work for this project a little late definitely hurt you here. The final app isn't done visually (miss-matching visual elements) or functionally (bugs and functionality missing).
+
+Score: 124
 
 Concept and Features
 
@@ -67,7 +69,7 @@ Code Quality (JavaScript and/or Ruby)
 
 Client-Side Application
 
-30 points - Your application has exceptionally well-factored code with little or now duplication and all components separated out into logical components.
+25 points - Your application is thoughtfully put together with some duplication and no major bugs.
 
 Test-Driven Development
 
@@ -75,7 +77,7 @@ Test-Driven Development
 
 Interface
 
-5 points - The application is pleasant, logical, and easy to use
+4 points - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
 
 Workflow
 

@@ -31,7 +31,7 @@ at all of their polls.
 
 ### Attach a .gif, or images of any extensions work being used on the site.
 
-![woooooop](http://recordit.co/nAfFkRRJwk)
+![woooooop](http://g.recordit.co/nAfFkRRJwk.gif)
 
 # Code Quality
 
@@ -63,3 +63,35 @@ find refactoring opportunities in these blocks of code.
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+## Instructor Feedback
+
+Solid implementation with some tricky bugs!
+
+Score: 165
+
+Concept and Features
+
+Does it have the expected features?
+
+100 points - Exceeded expectations. There are more features than we planned.
+
+Code Quality (JavaScript and/or Ruby)
+
+25 points - Developer solves problems with a balance between conciseness and clarity and often extracts logical components. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+Client-Side Application
+
+20 points - Your application has a significant amount of duplication and one or major bugs.
+
+Test-Driven Development
+
+10 points - Many areas of the code are not covered by tests.
+
+Interface
+
+5 points - The application is pleasant, logical, and easy to use
+
+Workflow
+
+5 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.

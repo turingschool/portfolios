@@ -68,3 +68,37 @@ The past week was one of the hardest I've had at Turing, with the mock assessmen
 
 * How can I better refactor the client/socket relationship without emits/events breaking?
 * What's the trick for setting up server tests and adding websocket coverage? Nightmare?
+
+## Instructor Feedback
+
+Decent implementation with some bugs - where I would expect a project to be while the person writing it has two code challenges to also do!
+
+Score: 155
+
+Evaluation Criteria
+Please read the entire rubric before beginning the project.
+
+Concept and Features
+
+Does it have the expected features?
+
+75 points - Met expectations as outlined by the user personas, the application is a solid first version. All planned features were delivered.
+
+Code Quality (JavaScript and/or Ruby)
+
+25 points - Developer solves problems with a balance between conciseness and clarity and often extracts logical components. Developer can speak to choices made in the code and knows what every line of code is doing.
+Client-Side Application
+
+25 points - Your application is thoughtfully put together with some duplication and no major bugs.
+
+Test-Driven Development
+
+20 points - The code demonstrates high test coverage. One or more enpoints are not tested or the internal business logic is not fully tested.
+
+Interface
+
+5 points - The application is pleasant, logical, and easy to use
+
+Workflow
+
+5 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.

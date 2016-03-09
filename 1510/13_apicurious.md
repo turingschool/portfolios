@@ -34,15 +34,14 @@ Assessor: Lovisa
 
 Notes:
 
-completion: (4) user repos, user commits, following/followers, starred, streak, contributions, recent activity
-test: (4)
-code quality: (3) UsersController - refactour out the instance variables  
+Nicole and I did an evaluation of the project to get official scores for her portfolio. The project meets all the base requirements. The project works in development and production and has a good user experience.
 
-Using Nokogiri + API
-Good test coverage
-A lot of instance variables in the UsersController actions (#show, #index)
-Ruby in the GithubService could be refactored to improve readability and reduce duplication
-When writing/refactoring methods: strive towards single responsibility
+completion: (3)
+test: (4)
+code quality: (2.5)
+  * UsersController - refactour out the instance variables
+  * Remove duplication in models and GitHubService (scraping)
+user experience: (3)
 
 ### Dan Winter
 
@@ -183,7 +182,7 @@ Had some troubles getting testing and VCR implemented, we worked through it toge
 Using Nokogiri + API
 Better naming
 Refactor out duplication
-Overall a very nice project, duplication and naming are things he would have gotten to  
+Overall a very nice project, duplication and naming are things he would have gotten to
 
 ### Toni Rib
 

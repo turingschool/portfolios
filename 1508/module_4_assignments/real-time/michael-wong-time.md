@@ -41,7 +41,7 @@ N/A
 #### Why were you proud of this piece of code?
 
 I'm proud of this piece of code because in its initial state, it was even messier. Spending some time building out
-helper functions helps significantly with readability and it made it was easier for me to reason about what 
+helper functions helps significantly with readability and it made it was easier for me to reason about what
 was going on when trying to work on other things.
 
 ### Link to a specific block of your code on Github that you feel not great about
@@ -64,3 +64,35 @@ N/A
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+## Instructor Feedback
+
+The project shows a solid understanding of what is going on - Don't be afraid to refactor as you go. The problem with refactoring out functionality at the end of the project is that it slows you down as you go, and then the code becomes more intimidating to break down. Even if you're not testing driving with written tests, 'red, green, refactor' can still guide the process.
+
+Total Score: 120
+
+Concept and Features
+
+Does it have the expected features?
+
+50 points - Some features were sacrificed to meet the deadline. At best, this is a prototype. Major features covered by the learning goals listed above were not written by the developer.
+
+Code Quality (JavaScript and/or Ruby)
+
+25 points - Developer solves problems with a balance between conciseness and clarity and often extracts logical components. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+Client-Side Application
+
+25 points - Your application is thoughtfully put together with some duplication and no major bugs.
+
+Test-Driven Development
+
+10 points - Many areas of the code are not covered by tests.
+
+Interface
+
+5 points - The application is pleasant, logical, and easy to use
+
+Workflow
+
+5 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.

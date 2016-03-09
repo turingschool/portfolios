@@ -54,3 +54,37 @@
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+## Instructor Feedback
+
+The chat messaging is so awesome! Good job implementing a feature that really enhances the UX for the project.
+
+I think working on JavaScript testing for you is less about understanding testing, and more about refactoring and writing less coupled JS code. Having a 'poll' object and 'pollStorage' (which would be the layer over your 'database' that would allow you to create, fing, etc polls) and splitting logic out of the server would make unit testing much easier.
+
+Total Score: 170
+
+Concept and Features
+
+Does it have the expected features?
+
+100 points - Exceeded expectations. There are more features than we planned.
+
+Code Quality (JavaScript and/or Ruby)
+
+25 points - Developer solves problems with a balance between conciseness and clarity and often extracts logical components. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+Client-Side Application
+
+25 points - Your application is thoughtfully put together with some duplication and no major bugs.
+
+Test-Driven Development
+
+10 points - Many areas of the code are not covered by tests.
+
+Interface
+
+5 points - The application is pleasant, logical, and easy to use
+
+Workflow
+
+5 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
