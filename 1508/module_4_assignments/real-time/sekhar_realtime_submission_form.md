@@ -61,3 +61,37 @@ I also had tried refactoring this into a separate .js file like counting-votes a
 
 ### Please feel free to ask any other questions or make any other statements below!
 This project was surprisingly hard, but really is a cool showcase of Websockets/deep introduction to Express.js!
+
+## Instructor Feedback
+
+Solid implementation for a final project - way to go out strong! Good feature choice with the ability to open and close polls.
+
+Concept and Features
+
+179
+
+Score
+
+Does it have the expected features?
+
+100 points - Exceeded expectations. There are more features than we planned.
+
+Code Quality (JavaScript and/or Ruby)
+
+25 points - Developer solves problems with a balance between conciseness and clarity and often extracts logical components. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+Client-Side Application
+
+30 points - Your application has exceptionally well-factored code with little or now duplication and all components separated out into logical components.
+
+Test-Driven Development
+
+25 points - The code demonstrates high test coverage. It is tests at controller and unit levels. All controller/routes are tested. There are no failing tests..
+
+Interface
+
+5 points - The application is pleasant, logical, and easy to use
+
+Workflow
+
+4 points - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
