@@ -144,7 +144,6 @@ ___
     * [Code Breakers](https://github.com/brennanholtzclaw/posse_challenges/tree/master/codebreakers)
     * [Enumerables & Procs](https://github.com/brennanholtzclaw/posse_challenges/tree/master/enumerables_and_procs)
     * [People Database](https://github.com/brennanholtzclaw/posse_challenges/tree/master/people_database)
-    * [Tower of Hanoi](#)
 
 
 * I have weekly screen hero mentor sessions with Travis Yoder and Orion Osbourne. We generally work on refactoring whatever current project I'm working on or work on Exercisms I'm not comfortable with or stuck on.
