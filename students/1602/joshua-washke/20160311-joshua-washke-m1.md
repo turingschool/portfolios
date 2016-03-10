@@ -132,7 +132,7 @@ Notes:
 
 * 4: Application makes excellent use of loop/recursion techniques
 
-##### Sorting Suite
+#### Sorting Suite
 
 * [GitHub URL](https://github.com/jwashke/sorting_suite)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
