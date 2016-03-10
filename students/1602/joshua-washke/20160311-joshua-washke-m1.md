@@ -50,22 +50,23 @@ Subjective evaluation will be made on your work/process according to the followi
 ### End of Module Assessment
 Assessed by: Mike
 #### 1. Ruby Syntax & API
+
 * 3: Developer is able to write Ruby with some debugging of fundamental concepts
 #### 2. Completion and Progress
+
 * 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
 #### 3. Testing
+
 * 4: Developer excels at taking small steps and using the tests for both design and verification
 #### 4. Workflow
+
 * 4: Developer is a master of their tools, efficiently moving between phases of development
 #### 5. Collaboration
-​
-* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
-​
-### 6. Enumerable & Collections
-​
-​
-* 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+### 6. Enumerable & Collections
+
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
 ### Work
 
 I completed the following individual work this module
