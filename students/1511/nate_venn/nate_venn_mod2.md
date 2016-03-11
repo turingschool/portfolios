@@ -96,11 +96,9 @@ feedback:
 * [Americas Funnies Home Gifs] (https://github.com/natevenn/americas_funnies_home_gifs)
 
 ### Blog Post
-
 * [Blog post] (natevenn.github.io)
 
 ### Posse challenges
-
 * [GitHub URL] (https://github.com/natevenn/posse_challenges)
 
 ### Peer Feedback
@@ -166,10 +164,13 @@ feedback:
 
 #### Rails Mini Project
 * [GitHub URL] (https://github.com/natevenn/americas_funnies_home_gifs)
+
 #### Mix Master
 * [GitHub URL] (https://github.com/natevenn/mix_master)
+
 #### Tool Chest
 * [GitHub URL] (https://github.com/natevenn/tool_chest)
+
 #### Sinatra CRUD
 * [GitHub URL] (https://github.com/natevenn/skill-inventory-crud)
 
