@@ -81,6 +81,8 @@ The following projects are included as an evaluation of my technical progress th
 [GitHub URL](https://github.com/ksk5280/headcount)
 [Original Assignment](https://github.com/turingschool/curriculum/tree/master/source/projects/headcount)
 
+Assessed By: **Mary Cutrali**
+
 ##### Project Description:
 Build an app to analyze a dataset centered around schools in Colorado provided by the Annie E. Casey foundation.
 
@@ -94,7 +96,7 @@ Learn an agile approach to building software
 ##### Evaluation Comments:
 dynamically load CSVs
 great use of enumerables & ruby data structures
-good test coverage w/ pretty good performance (>10 hits/line!!!)
+good test coverage w/ pretty good performance (< 10 hits/line!!!)
 documentation in tests!!!!
 small classes w/ single responsibilities
 evidence of refactoring
