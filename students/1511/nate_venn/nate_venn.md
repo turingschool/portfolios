@@ -253,7 +253,7 @@ Specify only as much as you care about (you know how much you care about by read
 def test_client_returns_body
   client = Hurley::Client.new "http://127.0.0.1:9292"
   response = client.get("http://127.0.0.1:9292")
-  assert response.body.include? "html"              
+  assert response.body.include? "html"
 end
 
 #### Breaking Logic into Components
