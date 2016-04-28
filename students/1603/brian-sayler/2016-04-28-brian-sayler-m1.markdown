@@ -1,4 +1,4 @@
-Brian Sayler) - (M1) Portfolio
+Brian Sayler - (M1) Portfolio
 
 ## Individual
 
