@@ -43,7 +43,48 @@ goals
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Challenge: Option 1: Shopping List
+
+
+Notes:
+
+* make sure to take small steps with testing
+* able to choose correct collection structure (hash) for storing ingredients and values
+* able to comfortably set a default value for hash
+* good use of keyboard shortcuts
+* remember to write tests before implementing anything
+* able to debug with pry
+* can use each to iterate through hash with appropriate block parameters
+* comfortable with string interpolation
+* knew that map would return new array; used join to put together array of strings
+
+Students will be evaluated according to the following rubric:
+
+### Notes
+
+#### 1. Ruby Syntax & API
+
+* 3: Developer is able to write Ruby with some debugging of fundamental concepts
+
+#### 2. Completion and Progress
+
+* 4: Developer fully completes baseline assignment and one of the Challenge options.
+
+#### 3. Testing
+
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+
+#### 4. Workflow
+
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+#### 5. Collaboration
+
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
+### 6. Enumerable & Collections
+
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### Work
 
