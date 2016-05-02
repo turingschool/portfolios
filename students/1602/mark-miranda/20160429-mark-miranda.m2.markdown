@@ -213,7 +213,7 @@ ___
 
 ### Feedback to Me
 
->**From Drew Thompson:** This will be my second time partnering with Charmander on a project. He is a steady partner with a rich inner life. I learned to be braver in exploring options and refactoring in the problem-solving process from him. He was markedly proactive with writing tests, which was something he had been working on since working together on Black Thursday in module 1. The only area for improvement I can identify for Charmander is that sometimes he can get caught up in his thought process and not communicate it immediately with his project partner. This is something I'm flexible with but it might be misleading for a more sensitive project partner. It'll be hilarious if I get paired with Charmander again.
+>**From Drew Thompson:** Mark was very helpful throughout the project.  He was instrumental in styling our site as well.  He was constantly working alongside Ling and myself providing input to whatever we were working on at the time.  He paired very well and let everyone suggest ideas and provided useful and positive feedback regularly.
 
 >**From Ling Tran:** Squirtle is very versatile. He is strong in every possible way, in addition to being a fun and compassionate team member. He is tenacious with debugging - using tools to pry into the issue rather than just thinking and talking about possible sources for issues. I learned to be more tenacious in this way by working with Squirtle. The only area of improvement I can identify in working with Squirtle is perhaps being more patient with other people's workflow! Other than that, with an established rapport, I imagine working with Squirtle will be just as awesome again.
 
