@@ -1,84 +1,35 @@
-# Mark Miranda - M2 Portfolio
+# Mark Miranda - M3 Portfolio
 
 
 ## Individual
 
 ### Areas of Emphasis
 
-I want to maintain momentum moving into module 2. I feel like I finished as strong as I planned to in module 1 and do not want to slow down. I want to be a bigger part of the community at Turing and attend meetups & other industry-related events and volunteer my time where possible, whether it be helping out module 1 students or taking the opportunity to be a pre-work guide for the incoming 1605 cohort.
+My emphasis going into module 3 is to come out feeling like a real developer. It's technically a downhill slide and I've mathematically made it to the halfway point, but I feel like module 3 is still an uphill climb. I want to power through and emphasize to myself, my cohort, and my family, why I deserve to be here and be counted among those who proudly call themselves *a Turing alum*. I believe this starts in module 3. I want to grab onto, absorb, and become proficient in as much information as I possibly can and succeed through module 3.
+
+I would also like to become a staple in the Turing community. A person that earlier modules can reach out to when in need. I have been voted into SAB and want to be a voice for students to speak their fears and help change things for the better, but also celebrate their victories.
 
 ---
 ### End of Module Assessment
 
-Assessed by: Rachel
+Assessed by:
 
 ### Notes
 
-* able to prepare correct data for testing with guidance
-* able to use rake routes in order to determine necessary route to add
-* pushed logic down the stack for sorting method
-* wrote model test for Attempt.take_top_three (after being reminded :)
-* able to use byebug to determine how to create class method for ordering
-* some interesting targeting of elements for testing views, but able to refactor with prompting
+* notes go here
 
 
-### 1. Analytic/Algorithmic Thinking
-
-* 3.5
-
-### 2. Ruby Syntax & Standard Library
-
-* 3.5
-
-### 3. Rails Syntax & API
-
-* 3.5
-
-### 4. MVC & Rails Style
-
-* 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and keep logic out of views and controllers
-
-### 5. Testing
-
-* 3: Developer writes tests at multiple layers of abstraction to drive development with guidance
-
-### 6. Collaboration
-
-* 3: Developer lays out their thinking before attacking a problem and integrates feedback throughout the process
 
 ---
 
-### Mid Module Assessment
+### Mid Module Diagnostic
 
-Evaluator: Andrew
+Evaluator:
 
-#### 1. Analytic/Algorithmic Thinking
-
-* 3: Developer breaks complex problems into small, digestible steps and executes them
-
-#### 2. Ruby Syntax & Standard Library
-
-* 3: Developer is able to comfortably implement solutions in Ruby
-
-#### 3. Rails Syntax & API
-
-* 4: Developer is able to smoothly utilize Rails methods and structures with a minimum of debugging or support
-
-#### 4. Rails Style
-
-* 2.5: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
-
-#### 5. Testing
-
-* 3: Developer uses tests at multiple layers of abstraction to drive development
-
-#### 6. Collaboration
-
-* 3: Developer lays out their thinking *before* attacking a problem and integrates feedback through the process
 
 ---
 ### Attendance
-I had no absences this module.
+Attendance goes here.
 
 ---
 
@@ -86,110 +37,56 @@ I had no absences this module.
 
 I completed the following evaluated projects this module:
 
-## Little Shop - NachomomsPaleo
+## Project 1
 
 * [GitHub URL](https://github.com/kristindiannefoss/little_shop)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-This was a 2 week project where we built a functional e-commerce store to sell dinosaur meat from scratch. We were evaluated by Rachel with the following results:
+Project description goes here.
 
-## Evaluation Process
+### Evaluation Process
 
 For the evaluation we'll work through the expectations above and look at the
 following criteria:
 
-### 1. Feature Completeness
-
-* 3: All features defined in the assignment are correctly implemented
-
-### 2. Views
-
-* 3: Views make use of layout(s), partials and helpers, but some logic leaks through
-
-### 3. Controllers
-
-* Score: 3.5
-
-* 4: Controllers show significant effort to push logic down the stack
-* 3: Controllers are generally well organized with three or fewer particularly ugly parts
-
-### 4. Models
-
-* Score: 3.5
-
-* 4: Models show excellent organization, refactoring, and appropriate use of Rails features
-* 3: Models show an effort to push logic down the stack, but need more internal refactoring
-
-### 5. Testing
-
-* 3: Project has a running test suite that tests and multiple levels but fails to cover some features
-
-### 6. Usability
-
-* 3: Project is highly usable, but needs more polish before it'd be customer-ready
-
-### 7. Workflow
-
-* Score: 3.5
-
-* 4: Excellent use of branches, pull requests, and a project management tool.
-* 3: Good use of branches, pull requests, and a project-management tool.
 
 
-## Rush Hour
+## Project 2
 
 * [GitHub URL](https://github.com/drew-t/rush-hour)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
 
-This was a 7 day project where we built a Sintra w/PostgreSQL application that was used to evaluate payload data. We were evaluated by Andrew with the following results:
+Project description goes here.
 
-Team: Andrew Thompson & Ling Tran & Mark Miranda Evaluator: Andrew github: github.com/drew-t/rush-hour
+### Evaluation Process
 
-Notes: Test numbers are decent. Use preferred syntax for hashes. Data prep for testing was overkill, use minimum required data for tests. Add notes on code during PRs. Be explicit on PRs for what you completed.
+For the evaluation we'll work through the expectations above and look at the
+following criteria:
 
-
-
-#### 1. Functional Expectations
-  * 3: Application fulfills base expectations
-
-#### 2. Test-Driven Development
-  * 3: Application is well tested but does not balance isolation and integration/feature tests
-
-#### 3. Encapsulation / Breaking Logic into Components
-  * 3: Application effectively breaks logical components apart but breaks the principle of SRP
-
-#### 4. Fundamental Ruby & Style
-  * 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-
-#### 5. Sinatra / Web and Business Logic
-  * 3: Application makes good use of Sinatra but has some mixing of the web and business logic.
-
-#### 6. View Layer
-  * 3.5: Application breaks components out to view partials but has some logic or complexity leaking into the view
 
 ---
 ## Non-Evaluated Work
 
-#### Rails Mini Project
+## Rails Mini Project
 
 * [GitHub URL](https://github.com/notmarkmiranda/rails-mini-project)
 
 This was a 4 day project that set us up to be in a good place to start Little Shop. I learned a lot based on repetition of concepts we had learned in class, but utilized very little in practice.
 
-#### MixMaster
+## MixMaster
 
 * [Github URL](https://github.com/notmarkmiranda/mix_master)
 
 MixMaster was a great project to help bring a lot of rails concepts together. It was great exposure to deloying to Heroku and using RSpec.
 
 
-#### Tool Chest
+## Tool Chest
 
 * [Github URL](https://github.com/notmarkmiranda/tool_chest)
 
 This was a project in rails that taught us CRUD functionality as well as user authentication and authorization. I found this really helpful going into little shop.
 
-#### Robot World
+## Robot World
 
 * [GitHub URL](https://github.com/notmarkmiranda/robot_world)
 
@@ -246,33 +143,43 @@ ___
 
 * Community Content from [medium](https://medium.com/@notmarkmiranda/a-students-limited-view-of-non-relational-databases-f07af8ca4891#.gg8pe35eo)
 
-# Portfolio Rubric
-
-Your portfolio will be evaluated using the following rubric. Earning at least
-a three in each category is the baseline for promotion/graduation.
+# Self Evaluation
 
 ## A: End-of-Module Assessment
 
 A Turing student is able to demonstrate proficiency at programming in accordance
 with the module's content and expectations. If you were exempt from the assessment it's a *3*.
 
+* 4: Student achieved two or more "4s" on the assessment
 * 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
+* 2: Student earned one score below "3" on the assessment
+* 1: Student earned two or more scores below "3" on the assessment
 
 ## B: Individual Work & Projects
 
 A Turing student works to maximize their skill growth and demonstrates
 that skill across a variety of work.
 
+* 4: Student demonstrates excellent growth by not only achieving satisfactory
+evaluations for each project but also pushing their learning beyond expectations.
 * 3: Student demonstrates commitment and growth in their work through satisfactory
 evaluations of each project or a clearly upward-sloping trend.
+* 2: Student demonstrates some lack of engagement or growth in their individual
+skill or project outcomes without a clear upward trend.
+* 1: Student does not show the commitment expected of Turing students.
 
 ## C: Group Work & Projects
 
 A Turing student contributes significantly to group projects, helps the team
 develop their technical skills, and delivers a high-quality product.
 
+* 4: Student consistently helps their teammates be their best selves, learn at
+an accelerated pace, and achieve great results.
 * 3: Student fully participates in their group work to facilitate group harmony
 while achieving consistently satisfactory results.
+* 2: Student participates somewhat in their group work but is either not a
+dependable member of the team or achieves consistently sub-par work.
+* 1: Student is not a valuable member of their teams.
 
 ## D: Community Participation
 
@@ -280,8 +187,13 @@ A Turing student builds up the community around them by participating and
 supporting other students, the larger Turing family, and persons outside our
 walls who want to develop their own skills.
 
+* 4: Student has a significant positive impact on the learning and spirit of the
+people around them.
 * 3: Student participates in required activities and does at least one or two
 above-and-beyond supports of the community.
+* 2: Student participates in most required community activities (demos, lightning talks, etc)
+but does not do anything else of significance.
+* 1: Student stays in their lane and focuses just on their own learning.
 
 ## E: Peer & Instructor Feedback
 
@@ -293,6 +205,9 @@ own growth by taking in and acting on the feedback of their peers and instructor
 to shape their own character and behavior.
 * 3: Student consistently delivers meaningful feedback for peers and implements
 strategies to improve themselves in response to feedback.
+* 2: Student gives meaningful impact to peers as well as being aware of themes
+in the feedback they receive.
+* 1: Student does not consistently participate in or construct meaningful peer
+feedback.
 
-
-PASS
+### Outcome:
