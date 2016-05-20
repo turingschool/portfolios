@@ -13,7 +13,7 @@ Programming
 
 ### Work
 
-(Intro)
+This module consisted of two individual projects and two group projects.  
 
 #### (Project Name)
 
