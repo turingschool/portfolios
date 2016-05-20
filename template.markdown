@@ -1,10 +1,11 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Ben Pepper - M1 Portfolio
 
 ## Individual
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+For the first module I am planing on becoming fluent in ruby and understand the basic structure of Object Oriented
+Programming
 
 ### End of Module Assessment
 
@@ -16,14 +17,17 @@
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [Flashcard Project](https://github.com/bfpepper/flashcard)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
 
-(description)
+(In this project, I wrote a flashcard program that is used through the command line. A user will be able to see the questions, take guesses, and see a final score at the end of the round.)
 
-(evaluation comments)
+(code is well-written
+tests are solid
+some confusion with trying to explain certain methods or connection between pieces
+all base functionality complete)
 
-(evaluation scores)
+(3, 3.5, 3, 3, 3)
 
 ## Team
 
@@ -75,4 +79,3 @@
 ### Outcome
 
 ( Leave blanks for reviewers )
-
