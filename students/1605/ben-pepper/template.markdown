@@ -14,16 +14,26 @@ This being my first module I was more focused on learning some of the basics of 
 
 (Intro)
 
-#### (Project Name)
+#### Flashcards
 
 * [GitHub URL](https://github.com/bfpepper/flashcard)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
 
-(description)
+This assignment was designed to have us run a simple quiz.  The idea was to load a txt file and the present questions to the user via CLI and have the user anser the question.  The program kept count of total quesses, which card was in play, and reutrn the percent correct at the end of the game.  
 
 (evaluation comments)
 
 (evaluation scores)
+
+#### Night Writer
+
+* [GitHub URL](https://github.com/bfpepper/night_writer)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
+* 
+This project built on flashcards by having us not only read from a txt file but also write to an output file as well.  We had to convert strings of english words to a 2x3 matrix or braille charecters and back again.  This involved not only being able to read the file correctly but also making sure that the output was displayed in the correct format.  
+
+(Comments)
+(score)
 
 ## Team
 
@@ -31,16 +41,28 @@ This being my first module I was more focused on learning some of the basics of 
 
 (Intro)
 
-#### (Project Name)
+#### HTTPYYKM
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/bfpepper/HTTP)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
-(description)
+HTTPYYKM was our firdt paireed project.  This was designed to have us build a basic web server, take in certain paths from the client and display the corresponding information.  We were to also create a small number guessing game that would be played with using GET and POST so the user could guess the rendomly generated number. 
 
 (evaluation comments)
+Testing could have been a bit more robust sicne we only tested a few paths and actoions within the faraday gem.  We also needed to focus more on single responsibility for each object.  Some of our calsses were taking on too much responsibility.
 
 (evaluation scores)
+1. Overall Functionality
+  3: Application implements iterations 0 - 4
+
+2. Fundamental Ruby & Style
+  3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some     refactoring.
+
+3. Test-Driven Development
+  2: Application uses tests to exercise core functionality but leaves many common edge cases untested.
+
+4. Breaking Logic into Components
+  3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 (feedback to me)
 
