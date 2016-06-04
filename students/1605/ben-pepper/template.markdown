@@ -22,8 +22,19 @@ This being my first module I was more focused on learning some of the basics of 
 This assignment was designed to have us run a simple quiz.  The idea was to load a txt file and the present questions to the user via CLI and have the user anser the question.  The program kept count of total quesses, which card was in play, and reutrn the percent correct at the end of the game.  
 
 (evaluation comments)
+code is well-written
+tests are solid
+some confusion with trying to explain certain methods or connection between pieces
+all base functionality complete
 
 (evaluation scores)
+1. Functional Expectations  3
+2. Test-Driven Development  3.5
+
+4: Application is broken into components which are well tested in both isolation and integration using appropriate data.  3
+3. Encapsulation / Breaking Logic into Components  3
+4. Fundamental Ruby & Style  3
+5. Enumerable & Collections  3
 
 #### Night Writer
 
@@ -52,17 +63,13 @@ HTTPYYKM was our firdt paireed project.  This was designed to have us build a ba
 Testing could have been a bit more robust sicne we only tested a few paths and actoions within the faraday gem.  We also needed to focus more on single responsibility for each object.  Some of our calsses were taking on too much responsibility.
 
 (evaluation scores)
-1. Overall Functionality
-  3: Application implements iterations 0 - 4
+1. Overall Functionality  3
 
-2. Fundamental Ruby & Style
-  3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some     refactoring.
+2. Fundamental Ruby & Style  3
 
-3. Test-Driven Development
-  2: Application uses tests to exercise core functionality but leaves many common edge cases untested.
+3. Test-Driven Development  2
 
-4. Breaking Logic into Components
-  3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+4. Breaking Logic into Components  3
 
 (feedback to me)
 
