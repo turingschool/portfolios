@@ -33,8 +33,6 @@ all base functionality complete
 
 2. Test-Driven Development  3.5
 
-4: Application is broken into components which are well tested in both isolation and integration using appropriate data.  3
-
 3. Encapsulation / Breaking Logic into Components  3
 
 4. Fundamental Ruby & Style  3 
