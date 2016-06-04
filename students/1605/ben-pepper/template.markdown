@@ -47,12 +47,14 @@ all base functionality complete
 This project built on flashcards by having us not only read from a txt file but also write to an output file as well.  We had to convert strings of english words to a 2x3 matrix or braille charecters and back again.  This involved not only being able to read the file correctly but also making sure that the output was displayed in the correct format.  
 
 (Comments)
+
 clean code
 converts from English to Braille
 talked about refactoring three methods into one by identifying the dynamic value
 try using enumerables instead of while in order to iterate
 
 (score)
+
 1. Overall Functionality  1.5
 
 2. Fundamental Ruby & Style  3
