@@ -28,12 +28,17 @@ some confusion with trying to explain certain methods or connection between piec
 all base functionality complete
 
 (evaluation scores)
+
 1. Functional Expectations  3
+
 2. Test-Driven Development  3.5
 
 4: Application is broken into components which are well tested in both isolation and integration using appropriate data.  3
+
 3. Encapsulation / Breaking Logic into Components  3
-4. Fundamental Ruby & Style  3
+
+4. Fundamental Ruby & Style  3 
+
 5. Enumerable & Collections  3
 
 #### Night Writer
@@ -63,6 +68,7 @@ HTTPYYKM was our firdt paireed project.  This was designed to have us build a ba
 Testing could have been a bit more robust sicne we only tested a few paths and actoions within the faraday gem.  We also needed to focus more on single responsibility for each object.  Some of our calsses were taking on too much responsibility.
 
 (evaluation scores)
+
 1. Overall Functionality  3
 
 2. Fundamental Ruby & Style  3
