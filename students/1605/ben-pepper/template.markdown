@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This being my first module I was more focused on learning some of the basics of programming and breaking problems down into managable portions.  
 
 ### End of Module Assessment
 
@@ -16,7 +16,7 @@
 
 #### (Project Name)
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/bfpepper/flashcard)
 * [Original Assignment]()
 
 (description)
