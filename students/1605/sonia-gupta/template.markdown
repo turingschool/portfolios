@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Sonia Gupta - M1 Portfolio
 
 ## Individual
 
@@ -75,4 +75,3 @@
 ### Outcome
 
 ( Leave blanks for reviewers )
-
