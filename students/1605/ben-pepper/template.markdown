@@ -49,6 +49,7 @@ Below are the projects I have worked on during my first 6 weeks at Turing.
 ###Flashcards
 
 [Flashcard Project](https://github.com/bfpepper/flashcard)
+
 [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown)
 
 In this project, I wrote a flashcard program that is used through the command line. A user will be able to see the questions, take guesses, and see a final score at the end of the round.
@@ -63,6 +64,7 @@ all base functionality complete.
 ###Night Writer
 
 [Night Writer](https://github.com/bfpepper/night_writer)
+
 [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
 Night writer has us build a program that was able to take the English Alphabet and convert it to brail. The program takes an input file given to it at the command line and converters it to the output file also taken from the command line.  
@@ -83,6 +85,7 @@ Breaking Logic into Components 3: Application has multiple components with defin
 Since I elected to repeat Mod 1 I was given Chisel.  This program is meant to convert a file that is in Markdown notation and convert it to HTML.  
 
 [Chisel](https://github.com/bfpepper/Chisel_2)
+
 [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown)
 
 
@@ -93,6 +96,7 @@ Projects
 ###HTTPYYKM
 
 [HTTPYYKM](https://github.com/bfpepper/HTTP)
+
 [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
 HTTPYYKM was our first paired project. This was designed to have us build a basic web server, take in certain paths from the client and display the corresponding information. We were to also create a small number guessing game that would be played with using GET and POST so the user could guess the randomly generated number.
