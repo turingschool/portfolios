@@ -170,8 +170,6 @@ Breaking Logic into Components 3
 - If it is fully functionl through six total iterations
 - Once fully functional, code is clean and refactored
 
-(feedback to me)
-
 Community
 
 Giving Feedback
@@ -180,7 +178,9 @@ Giving Feedback
 
 Being a Community Member
 
-(feedback to me)
+"Ben is always willing to learn and has made amazing progress throughout the module. He's always time efficient with his assignments and never slacks off. Whenever he struggled, he got into a pairing session and put the extra effort into understanding the problems. He put in more time and effort into mod1 than most students" -Nicole Marino
+
+"Ben, I truly believe you just need a tiny bit more time and more confidence in yourself, and your abilities. The way you “do what you need to do”, so matter-of-factly is astounding. Remember you chose this, staying at Turing, rather than just leaving which does show determination and dedication, because you don’t need to do this. But you want to. You have always been willing to ask for help, which is an astoundingly rare quality. You are able to implement things while simply talking about concepts which proves understanding, and I believe you can do anything you put your mind to. You’re an incredibly kind person, and able to put in the work necessary to succeed. I believe you’re going to do great things, and the extra mod will give you the time to gain the confidence you need to succeed. I know you’ll kick ass next mod. Keep optimistic."  -Jenny Soden
 
 Playing a Part
 
