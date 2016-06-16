@@ -1,17 +1,17 @@
-# Aaron Greenspan - M4 Portfolio
+# Nicholas Dorans - M4 Portfolio
 
 ## Individual
 
 ### Your Mission
 
-Take the foundations I've learned from Ruby and extend them to new languages: Javascript + Elixir.  Focus more on code quality. Gain an understanding of the kind of place I'd like to work, when, and where.  
+Take the foundations I've learned from Ruby and extend them to new languages: Javascript.  Focus more on code quality. Gain an understanding of the kind of place I'd like to work, when, and where.  
 
 ### FinalScore  
-* 1016/1250    
+* 930/1138    
 
 ### Attendance
 
-I was not absent this module... but occasionally showed up late.  
+I was not absent this module... but showed up late on a few Fridays.  
 
 ## Team
 
@@ -21,86 +21,123 @@ Below is a list of all of my projects and assessment scores from Module 4.
 
 #### GameTime
 
-**Hand rendered 3D engine and original space flight sim.
+##### Cannonz
 
-* Assessor: Meeka
-* Github: https://github.com/afg419/battlezone    
+* Assessor: Meeka/Louisa
+* [Github](https://github.com/tman22/game-time)   
 
-Notes:
-* Application is fully playable and exceeds the expecations set by instructors
-Instructor Feedback
-* The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor without guidance from the developer.
-* The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+#### Functional Expectations
 
-**Scores** 175/150
+35 points - Application is fully playable and exceeds the expecations set by instructors
 
-#### Scale Up
+#### User Interface
 
-**Phoenix API implements ReactJS websockets** Implemented a parallel process for auto-incrementing a counter on the back-end and communicated those updates via websockets to users.  Users can manipulate counter.  This project would later iterate into a word descrambling game.
+13 points - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor without guidance from the developer.
+
+#### Testing
+
+30 points - Project has a running test suite that exercises the application at multiple levels. The test suite convers almost all aspects of the application and uses mocks and stubs when appropriate.
+
+#### JavaScript Style
+
+30 points - Application has exceptionally well-factored code with little or now duplication and all components separated out into logical components. There zero instances where an instructor would recommend taking a different approach.
+
+#### Workflow
+
+25 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+#### Code Sanitation
+
+The output from JSHint shows…
+
+15 points - Zero complaints
+
+**Scores** 282/300
+
+#### Scale Up - Boxtrot
+
+**LookingFor - Job scraping app** My greatest claim to fame with this project was making a rake task that went through all of the old jobs and fixed incorrectly set locations using Regex and the Geocoder Gem. It came out pretty good, except for the 200-300 edges cases that I had to fix by hand NBD. I also was pretty active with Code Reviewing PR's and keeping communication between the front and back end teams open.
 
 Assessor: Meeka
-* GitHub: https://github.com/afg419/word_scram
+* [GitHub](https://github.com/LookingForMe/lookingfor)
 
-Notes:
+Instructor Evaluation:
 
-* Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
-* Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.
-*  Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature. Developers explored concepts and technologies outside the scope of the curriculum.
+You were a great team player on this project! It was so good in standups to see how you were working between front and backend teams. You provided value to both teams, and that's impressive. Great job!
 
 **Score** 150/150
 
-#### Real Time
+#### IdeaBox
 
-**Master websockets for group communication** This project continued the previous by building out a fully formed word descrambling game on the Phoenix/ReactJS groundwork of Scale Up.  Users get authorized on the back-end, and can join an alternating in-game/out-of-game cycle.  While in-game, an identical collection of randomly generated letters is sent to all players, where they race to form the largest number of words.
+**Create an idea box in JavaScript** This was a really good project as an introduction to building apps with JavaScript and JQuery. I don't think my code was super clean and I definitely didn't as well as I should have, but I think overall it came out pretty well.
 
 Assessor: Meeka
-* GitHub: https://github.com/afg419/frozen-citadel-14380
-* Production Link: frozen-citadel-14380.herokuapp.com
+* [GitHub](https://github.com/NickyBobby/idea_box)
+* [Production](http://no-naps-idea-box.herokuapp.com/)
 
-Notes:  
+# Instructor Feedback
 
-* Met expectations as outlined by the user personas, the application is a solid first version.
-* All planned features were delivered.
-* Application is expertly divided into logical components each with a clear, single responsibility.
-* Your application has exceptionally well-factored code with little or now duplication and all components separated out into logical components.
-* The code demonstrates high test coverage. One or more enpoints are not tested or the internal business logic is not fully tested.
-* The application is pleasant, logical, and easy to use.
-* The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+Don't be embarrassed about testing at this point - most people tend to spike as their learning - it's hard to both test and be like 'what the heck is happening' at the same time and sometimes trying to do that actually wastes more time than it's worth. Just keep building on it as you go!
 
-**Score** 164/200
+This is a really solid implementation.
+
+Ruby/Rails: Good job on using scopes and getting the upvote and downvote to speak to the ideas update endpoint instead of creating new endpoints!
+
+JavaScript: Your ideas.js file is pretty long (around 169 lines) - you should definitely be splitting up files at least by the 150 lines mark. Some places you could split - maybe move your templating into its own file (this code)[https://github.com/NickyBobby/idea_box/blob/master/app/assets/javascripts/ideas.js#L85-L96]
+
+You probably don't need to wrap all of your js code in the document.ready - just the code that you call.
+
+I think you're right in [these methods](https://github.com/NickyBobby/idea_box/blob/master/app/assets/javascripts/ideas.js#L30-L40) being a little repetative. Probably you could do something like:
+
+```js
+  function toggleQuality(direction){
+    var quality = $(this).parent().children('p').text();
+    var id  = $(this).parent().attr('id');
+    thumbsUpOrThumbsDown(id, quality, this, direction);
+  }
+```
+
+Over all - the javascript is really solid though - and it seems like you have a really good handle on what's going on.
+
+**Score** 138/150
 
 
 ## Community
 
 ### Giving Feedback
 
->**Jordan Lawler:**
+>**July Tran:**
 
->"Jordan has the most creative mind I’ve seen at Turing.  His ideas are unique, boundary pushing, and shockingly marketable. They've often forced me to consider technology and my relation to it in new ways.  Multiple times this module Jordan has set out to make something far more ambitious than any project spec would dare ask a Turing student.  If his code quality has suffered at times, it's because of the sheer size of the vision he wants to create.  He would benefit from practicing code which does one thing extremely well before adding a new feature, and he'll finally have the luxury of time to do so.  As is, he is leaving with one of the wildest and least-reproducible portfolios of our cohort and the school at large."
+>"First off I just want to say, July is a rock star!! She’s brilliant, funny, dedicated, fun to be around, passionate and deeply cares for other people, and the world at large. I was super excited to hear that she got the job at NREL because I know she really wanted that job and she worked extremely hard to get it. July worked all through the intermission break getting better at GuavaScript, and now she writes that LavaScript!! On top of killing it in class and job hunting pretty heavily, she still found time to help run the Pahlka posse and go to Civic Tech events around town. Her dedication to civic tech is unmatched, and I can totally see her changing the world one day. Possibly President? Who knows, anything’s possible! Also, I’m super excited that we’re going to be neighbors soon!"
 
->**Karina Gonzalez:**
+>**Julian Feliciano:**
 
->"I’ve paired a number of times with Karina on her past two projects.  She’s equal parts curious, excited, and (highly) capable.  She also brings a light-heartedness to her work which makes it a blast to code with her and easy to code well.  I have never once heard Karina ask for clarification on a concept, plan, or code implementation.  This is certainly a testament to her uncanny ability to grasp a thing quickly.  But, I also wonder if Karina is hesitant to ask a big question and admit that something just isn’t making sense.  If I’m right on this, I hope Karina comes to realize that those questions don’t at all make her appear any less competent, but instead achieve the opposite. Such questions will both speed her own progress and, most importantly, allow her colleagues to more readily benefit from her unique thought process and viewpoint."
+>"Julian loves everything! That’s the name of the emoji I made for him, and it’s true! The only two things I could find that he doesn’t like are the White Sox and [this song](https://www.youtube.com/watch?v=kGahT9Y_zqU). I think he’s a genius or something. He slays code sooooooo well! Julian is also an amazing teacher and has a great way of conveying his thoughts to other people. He’s been helping me out since mod 1 and we have since became great friends. I wasn’t shocked to hear that companies were actively pursuing him for employment. Makes sense, Julian is basically a Ruby/Rails/LavaScript/NodeJS master! Also, Julian is one hell of a smoker! He made a makeshift smoker in my yard a few weeks ago and smoked some pork butt. It was quite delicious. Best in Denver!! Anyway, enough of me rambling on about how great Julian is, I’m sure the reader of this is already quite aware of this. I could see Julian making a major impact on the tech scene! I wish him all the luck in the world in the future!"
 
->**Brant Wellman**
+>**Taylor Moore:**
 
->"I’m going 4 mods deep on Brant feedback here.  Let’s recap the main points from the previous three: I like Brant; Brant should trust in his abilities more; Brant is really supportive of others in our cohort.  New stuff: I like Brant more; Brant is more trusting in his abilities; Brant’s become a total pit of dark and brutal disregard for the feelings of others and has led to ashen tears of countless coding colleagues.  Just kidding.  He knows the respect and care I have for him, and here is not the place to put it."
+>"I was really glad that Taylor joined our cohort this module. There was a part of me that had a hard time letting go to 1510, so he was the piece of 1510 that we were all able to hold on to. We had a conversation about possibly building a game together back at the end of mod 3, so naturally I wanted to work with him for Game Time. I thoroughly enjoyed my experience working with him. We worked extremely hard and put in a lot of late nights to figure out the logic/math behind making the game work. It was a little buggy and dirty early on in the project, but then we went into high gear to refactor and fix the bugs in our code. Once we refactored our code we were able to test every single component in isolation. We ended up with a very solid test suite. Our communication was also very good and we were able to talk through all of our problems to come up with the best solutions. Occasionally we would type over each other while pair programming, but that’s only because we both naturally want to drive. It was never an issue. I think Taylor is a great person to pair with and a fun guy to be around. Hopefully we both stay in Denver and can hang out moore (you see what I did there) in the future. He would be an absolute asset to any team!"
 
 ### Being a Community Member
 
->"Aaron hates to hear me ask for personal growth from myself or others...but I have seen an amazing amount of personal growth from him. He genuinely listens to feedback and makes real change. His desire for growth is remarkable. As for coding...well, he's good. He knows he's good. But that doesn't matter, because he is more interested in applying his skills in ways that continue to push his envelope. He isn't interested in completing something that he thinks is half-assed. I love talking with him about a project or idea, because he continues to dream the project bigger and bigger until it seems like something that is unattainable. But then he goes out and kills it. It is truly inspirational. He's also an ok human being who has been my rock throughout Turing, and I'm eternally grateful for that."-**Brant Wellman**
+>"Pahlka posse has been so lucky to have Nick play such a large role in it. His fun demeanor keeps it fun and lively, and his commitment to help others inspires all of us. He’s been a super dependable member of the posse and also gives a lot to our community at large. I think Nick could improve on his code clarity and professional communications, but I know he is aware of these things and continually works hard at improving himself. His receptiveness to feedback and dedication to self-improvement is super impressive to me."-**July Tran**
 
->"Aaron is rad. He may be the raddest person ever, surely the raddest in Turing history. While us mere mortals were trying to complete our homework assignments, he was building neural networks and learning new languages. Even though he intensifies my imposter syndrome and has clearly hoarded more than his fair share of brain matter, I am so glad for his presence in my life and my time at Turing. On more than one occasion he bailed me out of some sort of codetastrophe and got me back to having a working app. I hope we remain friends for years to come and I seriously can’t wait to see what crazy thing he builds next."-**Penney Gadget**
+>"What a journey it has been! From week 1 till now you have fought and clawed to be where you are today, a professional software developer. It has been a pleasure to call you a friend! Being able to fight through adversity is a huge key to success at Turing and I feel like you fought harder than anyone to conquer anything in your way. You have grown as both a developer and as a person. Remember that you are the one that got yourself to this position. Keep on doing you dude!"-**Julian Feliciano**
 
->"Aaron Greenspan. What can we say about Aaron Greenspan? Visionary? Maybe. A great dancer? Absolutely. A face chiseled by the gods? By god why not! But why I have gathered you today is to talk about Aarons ability to drive his peers towards their passions, towards finding the better coder within them, and all the while doing it in a supportive,  maternal-like fashion that is truly a pleasure to be apart of.  Greenspan-the-man (patent pending on the name) should be ushered to the echelons of a team where he can undoubtedly deliver an amazing product and make the people who made it more amazing in the process. Did I mention A-a-rons dance moves? We are actually going clubbing next week. Not a big deal."-**Jordan Lawler**
+>"Nick was one of the first people to welcome me to 1511. We had talked a few times during Mod 2 and 3 and I started to realize how much he does for Turing. Not only was he famous for the Emoji's but he also really brought a lot of people together and kept them laughing. So I had the pleasure of working with Nick for GameTime. During the 2 weeks Nick worked very hard! He had many ideas and lots to contribute. Nick and I didn't always agree but he did a great job to communicate his ideas. This makes Nick a great team member and I'm sure will do well at any company he ends up at!"-**Taylor Moore**
 
 ### Playing a Part
 
 I've participated in the larger Turing Community in the following ways:
 
-* Gave DenverRB beginner track talk.
-* Co-led Armstrong Elixir/phoenix posse.
+* Co-led Hopper Posse this module
+* Helped anchor the Pahlka Posse
 * Helped Module 1 and 3 students with their project.
+* I also paired with people on the weekends if they needed it
+* Helped TA the Try Turing event
+* Co-led Imposters Group
+* I also participated in the Productivity lunches
+* Helped look at the air conditioning and tried to implement a thermostat policy
 
 ## Review
 
@@ -110,17 +147,16 @@ I've participated in the larger Turing Community in the following ways:
 
 ## B: Individual Work & Projects  
 
-* 3: Challenged myself, learned a lot, made working things, but at times sacrificed testing.
+* 3: Challenged myself, learned a lot, made working things, but sometimes didn't have the cleanest code.
 
 ## C: Group Work & Projects
 
-* 4: GameTime was tough!
+* 4: GameTime was fun! Boxtrot was a great experience!
 
 ## D: Community Participation
 
-* 4: A bit disappointed with posse outcome.
+* 4: The only shame is that I couldn't do more!
 
 ## E: Peer & Instructor Feedback
 
-* 3: Student consistently delivers meaningful feedback for peers and implements
-strategies to improve themselves in response to feedback.
+* 3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
