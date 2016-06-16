@@ -167,14 +167,18 @@ Breaking Logic into Components 3
 - Ask for help around Turing if anyone's around
 
 #### How do you know if a project is successful? How can we achieve that as a group?
-- If it is fully functionl through six total iterations
+- If it is fully functional through six total iterations
 - Once fully functional, code is clean and refactored
 
 Community
 
 Giving Feedback
 
-(feedback from me)
+To Jenny Soden - Jenny’s enthusiasm is unmatched.  She was the first person I paired with in Turing for help on Flashcards and she was amazing.  She may not always have the answer but is more then willing to talk things through with me, try a few things and help me come to a conclusion that works.  Jenny definitely knows whats she s doing and her positivity is very much welcomed when I was freaking out about projects or Turing in general.  She is a great person to know at Turing and I have no doubt she will represent the best of what Turing is when she graduates.
+
+To Nicole Marino - Nichole is a fantastic person to have in Turing.  She was always willing to help when I had questions and made sure that iI understood what was going on before she left.  She understands what is going on and is able to effectively to communicate her ideas whenever she is asked.  I think that Nichole is a good addition to Turing and will progress nicely though the remaining mods.
+
+To Zack Forbing - Zack is incredibly positive and realistic to work work. It was a pleasure working him.  I think we were able to play off each other well during HTTPYYKM.  Near the end of the project Zack was very confident in his skills and was able to explain what was going on to me when I was lost. He understands ruby quite well and I have the utmost  confidence that Zack will continue to be a fantastic member of the Turing Community.
 
 Being a Community Member
 
