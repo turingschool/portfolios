@@ -6,7 +6,7 @@ Push myself to learn other skills that are interesting to me... and will also ge
 
 
 #### FinalScore  
-* 993/1075    
+* 1053/1075    
 
 ### Final Assessment
 
