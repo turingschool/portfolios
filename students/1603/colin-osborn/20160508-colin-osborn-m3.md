@@ -8,7 +8,6 @@ This module, I really was set on making sure I understood how to build off what 
 
 Student: Colin
 
-Notes:
 
 * Not many students use `Rails.application.secrets[:best_buy_api_key]`. Good use of deeper Rails method
 * Service object has a solid start to it and is returning results
