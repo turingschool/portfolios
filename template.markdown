@@ -1,9 +1,9 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Chase Dunagan - M2 Portfolio
 ## Individual
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This module, I want to learn all the new frameworks and tools that are being taught to us, in order to be a better programmer.  I want to make sure I spend at least 2 hours each night, studying the new content and trying to get ahead on projects and tutorials, instead of falling behind.  I want to make sure I understand everything I'm learning to my fullest capibilities.  If I don't understand something, I want to make sure I do research and then ask questions.  I feel like I'm starting this mod near the bottom of the cohort, and I want to end this mod feeling like I've "caught up" to others and maybe even surpassed others in their understanding of the material.  
 
 ### End of Module Assessment
 
