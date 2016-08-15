@@ -1,0 +1,34 @@
+Mod 2 Mid-Module Assessment
+
+1602
+
+April, 2016
+
+### Evaluation Criteria
+
+Subjective evaluation will be made on your work/process according to the following criteria:
+
+#### 1. Analytic/Algorithmic Thinking
+
+* 3: Developer breaks complex problems into small, digestible steps and executes them
+
+#### 2. Ruby Syntax & Standard Library
+
+* 3: Developer is able to comfortably implement solutions in Ruby (highest possible)
+
+
+#### 3. Rails Syntax & API
+
+* 3.5
+
+#### 4. Rails Style
+
+* 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+
+#### 5. Testing
+
+* 4: Developer writes tests at multiple layers of abstraction to drive development
+
+#### 6. Collaboration
+
+* 3.5

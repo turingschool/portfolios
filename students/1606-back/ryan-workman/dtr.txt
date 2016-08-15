@@ -1,0 +1,56 @@
+Guiding Questions to Define The Relationship:
+What are your learning goals for this project?
+  Get more comfortable with traversing large data structures and get more comfortable with utilizing flexible data.
+What is your collaboration style? How do you feel about pair programming vs. divide-and-conquer approaches?
+  50/50, but communicate well to keep up to date on elements of project
+How do you communicate best? How do you appreciate receiving communication from others?
+  Slack, email, text, phone.
+How would you describe your work style?
+  TDD, focus on small problems
+What’s gone well or poorly in your previous projects?
+  Poorly: Organization, testing, communication,. Well: We learned from our mistakes
+What do you need (resources, environment, communication) to do your best work?
+  Quiet place conducive to focusing. Ryan needs to use Turing internet if using Screenhero
+What scheduling restraints do you have? What are your scheduling preferences?
+  Gabi: some PM constraints , some weekend constraints
+What is your style for giving feedback? Does anything ever hold you back from giving feedback?
+  I try to be diplomatic, when situations are tough -- I need time to formulate my feedback.
+What do you identify as being your biggest strength(s) technically, as they relate to this project? Where do you feel you could use improvement in your technical skills, as they relate to this project? How can our team help support you in improving these skills?
+  I do well with collaboration and somewhat well with organization. I need to improve on syntax, TDD , organization, breaking down large problems.
+  Ryan does well with syntax and needs to improve on collaboration and organization.
+  Support: provide exercises to help with problems
+What tools do you want to use to manage the project?
+  Waffle, pairing with support staff
+How do you want the group to solve problems when members run into issues with features of the project?
+  Pairing and open communication of issues
+How do you know if a project is successful? How can we achieve that as a group?
+  Solid, purposeful code that is understandable to other programmers. We achieve that through refactoring, and great communication.
+
+Template for DTR Memo:
+DTR Memo
+Project: BLACK THURSDAY
+Group Member Names: Gabi Procell, Ryan Workman
+Project Expectations: What does each group member hope to get out of this project? Goals and expectations:
+	Gabi: Reinforce my knowledge of all skills that we have learned this module.
+  Ryan: Goal is to deliver a well-tested and clean project.  Expectation is to deliver a well-tested and clean project
+  Ryan: Get more comfortable with traversing large data structures and get more comfortable with utilizing flexible data.
+Schedule Expectations: When are we available to work together and individually?
+  Gabi: Available mornings (06:45 - 07:00), evenings (up to 18:30)
+  Ryan has an open schedule
+Communication Expectations: How and often will we communicate? How do we keep lines of communication open?
+  Gabi & Ryan: Communication via text, email, screenhero, slack, phone. Communicate PRN and as much as possible
+Abilities Expectations: Technical strengths and areas for desired improvement:
+  Ryan does well with Ruby style and needs to improve on testing, communication, and organization.
+  Gabi does well with communication workflow.
+Workflow Expectations: Git workflow/Tools/Code Review/Reviewing Pull Requests:
+  Improve Git workflow, utilizing branches and pull requests more. Master branch is ONLY for completed work.
+Expectations for giving and receiving feedback:
+  Ryan is very upfront when giving feedback, he is open to feedback. I try to be diplomatic, when situations are tough -- I need time to formulate my feedback.
+
+Agenda to discuss project launch:
+  We will meet this afternoon to discuss this in more detail (07/25)
+Ideas:
+
+Tools:
+
+Additional Notes:

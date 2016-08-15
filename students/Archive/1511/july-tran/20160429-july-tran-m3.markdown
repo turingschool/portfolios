@@ -1,0 +1,155 @@
+# July Tran - M3 Portfolio
+
+This module, I aimed to maintain a high level of community involvement while gaining the technical skills of Mod 3 and crafting a meaningful individual project.
+
+### Goals
+1. Technical
+  * Learn Mod 3 material well enough to implement it individually
+  * Create a self-directed project that challenges me and provides some beneficial use to people
+2. Soft skills:
+  * Pair collaboratively; seek and give collaboration before, during, and after an implementation
+  * Give and receive actionable feedback
+3. Community:
+  * Continue leading Environment Variables and get recycling at Turing
+  * Found and co-lead Pahlka Posse
+  * Begin leading LGBTuring
+
+### Attendance
+I missed 2 days due to illness, one Friday morning session, and was late a few times during the first week.
+
+### Work
+
+#### Non-evaluated projects
+##### APICurious
+Repo: https://github.com/julyytran/apicurious
+
+#### Evaluated projects
+
+##### The Pivot
+Repo: https://github.com/ThePivotHJJJ/the_pivot
+
+- Completion: 2
+- Organization: 4
+- Git Workflow: 3
+- TDD: 4
+- Code Quality: 3
+- User Experience: 2
+- Extensions: 2
+
+##### Notes
+Seed file edge case should be documented in readme
+Didn't get all of the stuff we talked about in the last check-in finished
+Has some UX issues. A little confusing. A little ugly.
+modularize methods that are used in some but not all controllers
+Be sure to document all conversations that happen offline
+
+##### Rales Engine
+Repo: https://github.com/julyytran/rales_engine
+
+- Completion: 3
+- TDD: 4
+- Code Quality: 3
+- API Design: 3
+- Queries: 3
+
+##### Notes
+Not sure what went wrong with the spec harness involving serializers, but would have liked to see them used to customize format.
+Good test coverage.
+Good Controller organization. Talked about how to DRY out find methods.
+Not sure what went wrong with the test Helper module.
+
+##### Self-directed Project
+
+Repo: https://github.com/julyytran/open_pv_market_mapper_2.0
+
+Heroku: https://open-pv-market-mapper-2.herokuapp.com/
+
+- Completion: 3
+- Organization: 3
+- TDD: 3
+- Code Quality: 3
+- User Experience: 3
+- Performance: 4
+
+##### Notes
+Talked about loading javascript assets. Tradeoffs of CDNs. Some long methods and dirty code, but you spent a fair amount of time in javascript.
+
+### End of Module Assessment
+- Ruby Style: 3
+- Rails Syntax & API: 3
+- Testing: 3
+- Completion: 3
+- Workflow: 4
+
+##### Notes
+Saving Product to the DB is a little strange in this scenario but it works. Solid API implementation. Testing is light. Should refactor the get_products method in the best buy service.
+
+### Community
+
+#### Feedback Given
+For Julian: "Julian is a great partner to work with due to his easygoing personality, high level of skill, and ability to explain technical things well. I really appreciate that he is always open to questions and fields them in a friendly way, where you leave getting the help you were seeking without feeling bad about yourself during the process. His work ethic and standards of quality are legit, and they inspire me to work even harder so I can get on his level. He is an excellent listener and communicates clearly and frequently. I would have liked to have been able to pair with him at some point during our project, but unfortunately the circumstances had us mainly working separately the whole time. When I find myself without constructive criticism for someone, I challenge them to take a more active involvement in the community, but Julian already leads a posse, holds student electives, and fields questions on the reg, so I guess I will just suggest that he keep his cubby cleaner."
+
+#### Feedback Received
+"This is the second module I've had a chance to work with July on extracurricular projects (environment variables, and Pahlka posse). She is motivated and energizes those around her -- it's been great to feed off that energy and see our work benefit from it. She demonstrates great care toward her fellow teammates and the welfare of projects, whether that's addressing an individual's need (is someone prepared for a leadership role) or a group need (suggesting we hold a posse retro at the end of the module). I'm excited to see where she lands after Turing -- the programming world will definitely benefit from her leadership and vision." - Beth Sebian
+
+"July, July, July! The first thing that springs to mind when I hear your
+name is passion. Your passion is contagious. Whether it is a passion for software development, social issues or just simple everyday topics you can't hide the fact that you are a very passionate person and I love that about you. Though our pivot project didn't pan out the way we envisioned it, one thing that was certain was that we sure as hell weren't going to go down without a fight. Though I can't be certain, this "fight" is more than just trying to get a passing score for a project. This "fight" is for every slight, every injustice, every time someone has doubted us and the friends and family around us, and that is what will make you a fantastic developer. For feedback, I would remind you to stay focused when tackling ambitious projects. Don't take on more than you can chew without first having a solid game plan on what needs to be done. Keep on being yourself July, and soon enough you'll impact peoples lives." - Julian
+
+#### Community Participation
+
+##### Pahlka Posse Co-leader
+- Organized Jen Pahlka as guest speaker
+- Organized hackathon on continuing project to aid people in finding affordable housing
+- Ran posse meetings twice a week
+  - Working sessions
+  - Group mentor chats
+  - Social session
+- Supported posse members academically and emotionally
+- Stepping down as a co-leader next module to make space for lower module students to take leadership roles; will remain in posse as member and counsel
+
+##### Posse Reflection
+I have gotten a lot of value from co-leading this posse and will write a blog post for turing.io on my posse reflections during intermission. I plan to muse on:
+  - Posse draft - generating interest and getting new members
+  - Maintaining momentum - how to keep people coming
+  - How to create an inclusive environment
+  - Affordabode - the ideation of a project
+  - How to balance student support and working on posse project in our time constraints
+  - How to engage lower module students in posse project
+  - How to empower others to take initiative and leadership roles
+  - How to involve mentors
+
+##### Environment Variables Co-leader
+  - Organized rollout of recycling program at Turing
+  - Created informative signs
+  - Organized ice cream celebration of recycling program
+  - Not continuing leadership next module, unclear whether another student wants to take on that role
+
+##### LGBTuring Leader
+- Organized lunch outing
+- Attended breakfast outing
+- Nick P will take over leadership next module
+
+##### Other
+- Attended every session of improv
+- Attended Joan Clarke society
+
+### Rubric Scores
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 4+
+* **E: Peer & Instructor Feedback**: 3
+
+### Instructor Scores
+
+* A: End-of-Module Assessment: 3
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 3
+* D: Community Participation: 4+
+* E: Peer & Instructor Feedback: 3
+
+### Notes
+
+### Outcome
+
+PROMOTED

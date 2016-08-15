@@ -1,0 +1,90 @@
+# July Tran - M4 Portfolio
+
+## Areas of Emphasis
+This module, I sought to continue a high level of community involvement, build swag front end skills, explore data vis, and get a cool, meaningful job. Also, be a crying baby.
+
+# #squadgoals
+![shimmyirl](squadgoals.gif)
+
+## Projects
+
+## GameTime
+- [Repo](https://github.com/julyytran/game-time)
+- [Production](http://julyytran.github.io/game-time/)
+- Check in 1 points: 50/50
+- Check in 2 points: 50/50
+- Check in 3 points: 50/50
+- Evaluation points: 145/150
+
+## ScaleUp
+- [Week 1 spike documentation](https://github.com/julyytran/ember-tutorial)
+- Week 1 points: 150/150
+- [Week 2 repo](https://github.com/julyytran/cfa-building-violations)
+- Week 2 points: 110/150
+
+## Feedback
+
+### Feedback Given
+- For Chelsea: Working with Chelsea on GO GO NYAN CAT was my ultimate GameTime dream come true. She was immensely fun to work with and we had a blast in addition to sharpening our JS skillz. I really appreciate that Chelsea is always open to feedback and acts on it immediately. She also is so super dedicated to her work - she will let no bug go un-squashed and no feature remain incomplete. Though this is one of her strong suits, it could also be a downfall when the best thing you can do to be productive is to take a break - she would benefit from learning to honor the pomodoro. Additionally, she may benefit from becoming more comfortable with tooting her own horn and asserting herself in the hustle of life (but also jobs). Chelsea would be a tremendous asset to any team and I look forward to hearing more about her badassery.
+
+- For Thom: I am so SUPER INSANELY proud of Thom!! I’ve had the pleasure of having him as a classmate, friend, and dependable posse member. Thom has done a great job leading Pahlka this module and I am so stoked to have been able to see that happen. Thom shared with us at the beginning of the module that he has not historically been the kind of person to lead a group, and that he’d like to grow that skill as a posse leader this module. I think he’s hit that goal out of the park. Seeing him do gnarly leadership things like enact awesome organization for our repo and our meetings, think about how to improve the posse and meet the members' needs, and do planning and coding for our app, has me beaming like a proud mother hen. I think Thom’s passion for civic work, low-key thoughtfulness, and the ability to do some powerhouse leadership when needed will make him a great asset to the tech world and the community at large. He might benefit from learning to toot his own horn more and making his multifaceted skillset known. #pahlkaposse4lyfe
+
+- For Kerry: Kerry is an awesome leader and a super skilled programmer. I am so happy to have her be a Pahlka and to have been able to get to know her over the last 2 modules. It’s clear she’s a seasoned leader, and she has the interpersonal and technical skills to succeed at whatever she’d like to. I’m thrilled that she’s chosen to apply these skills to civic work, and I’ve been thoroughly pleased to find someone as passionate as me about these issues. I think Kerry could be too humble at times, she may benefit from getting her awesomeness more out there in the public sphere.
+
+- For Nick: Pahlka posse has been so lucky to have Nick play such a large role in it. His fun demeanor keeps it fun and lively, and his commitment to help others inspires all of us. He’s been a super dependable member of the posse and also gives a lot to our community at large. I think Nick could improve on his code clarity and professional communications, but I know he is aware of these things and continually works hard at improving himself. His receptiveness to feedback and dedication to self-improvement is super impressive to me.
+
+- For Julian: JERLIERRRN!!! It’s all been said before: everyone loves Julian! I particularly love Julian because he’s the nice brother I never had, but he’d totally still knock someone out for me. It’s been awesome having Julian’s voice and perspective in our space, and I have felt more at home having someone around who gets dat minority lyfe. Also he’s a bad ass programmer and I’m excited to see him go forth and dominate.
+
+### Feedback Received
+- From Chelsea: July Tran is one bodacious babe. In a zombie, apocalypse, I would hope that July would be in my tribe. She is fearless, dedicated, and one heck of a programmer. I am excited to see where she goes in life. In fact, I wouldn't be surprised if she is a CTO by 30. She is a great leader, and has accomplished a lot with the Pahlka posse. I am happy to call July a friend!
+
+- From Julian: July!!!!!!! I've loved having you for every minute of Turing. Your fire for everything you believe in encourages me everyday to continue to hold on to the things I care about the most. Never lose that about yourself! Continue to care about everything you do and the things you believe in. Programming is just one more skill in a long list of skills on your tool belt. Use all of them to do good in this world. I see you as a little sister of mine so go out there and kick some ass alright?!?! Until next time homie!
+
+-  From Kerry: July is the leader I aspire to be.  Her confidence and conviction inspires others.  People want to follow July and be around the things she is associated with.  July is always available to help people and was routinely my go-to person to provide support to other Pahlka members that needed her guidance.  It’s apparant that July feels a personal mission to cultivate others in general, and specifically those that demonstrate an interest in civic causes.  July has personally motivated me to be a larger contributor to the Turing community and I really value her confidence in me.  I have nothing but positive things to say about July and I look forward to watching her career develop.
+
+- From Nick: First off I just want to say, July is a rock star!! She’s brilliant, funny, dedicated, fun to be around, passionate and deeply cares for other people, and the world at large. I was super excited to hear that she got the job at NREL because I know she really wanted that job and she worked extremely hard to get it. July worked all through the intermission break getting better at GuavaScript, and now she writes that LavaScript!! On top of killing it in class and job hunting pretty heavily, she still found time to help run the Pahlka posse and go to Civic Tech events around town. Her dedication to civic tech is unmatched, and I can totally see her changing the world one day. Possibly President? Who knows, anything’s possible! Also, I’m super excited that we’re going to be neighbors soon!
+
+### Community Participation
+- Part of panel for prospective students on May 31
+- Participated in Code for Denver's National Day of Civic Hacking on Jun 4
+- Participated in Colorado Tech Association's Women in Tech Conference on Jun 10
+- Part of Q&A panel at Try Turing on Jun 12
+- Will be running a Women in Tech snapchat story with Lia on Jun 16th
+- Helping to recruit people for Turing Maker Fair and will be presenting there on Jun 23
+
+#### #pahlkaposse4lyfe
+- One of the leaders of Pahlka Posse
+- Led student elective on mapping on May 13
+- Asked for a guest speaker from 18F (and received it on May 20)
+- Organized Hungry Academy alumni Andy & Travis to do a posse guest talk on May 20
+- Led posse maps team and taught team members how to use mapping libraries
+  - during posse work day on Sat, May 21 and elective time every Friday
+- Made screencast of overview of mapping code in our app on Jun 3rd
+- Got posse involved with Code for Denver's National Day of Civic Hacking on Jun 4
+- Gave interview to Brandy, Turing's PR person about Code for Denver's event on Jun 7
+- Ran posse retros on May 19, Jun 2, Jun 16
+- Brought in a Code for Denver volunteer to become a mentor for Pahlka Posse
+
+### Self Scores
+
+* A: End-of-Module Assessment: N/A
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 4
+* D: Community Participation: 4++
+* E: Peer & Instructor Feedback: 3
+
+![shimmy](https://media.giphy.com/media/A3PG6GRxtCU9O/giphy.gif)
+
+## Notes
+
+Provided a really good example on how to bring enthusiasm and excitement even when you're working hard. Not just high fives, but on a deeper level. A really impressive balance. We'd snap up 12 more Julys. 
+
+## Outcome
+
+GRADUATED (on snapchat)
+
+* A: End-of-Module Assessment: N/A
+* B: Individual Work & Projects: 3
+* C: Group Work & Projects: 3
+* D: Community Participation: 4
+* E: Peer & Instructor Feedback: 3

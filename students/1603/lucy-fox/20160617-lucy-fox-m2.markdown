@@ -1,0 +1,271 @@
+# Lucy Fox  - M2 Portfolio
+
+### Areas of Emphasis
+  My goal beginning mod 2 was to come out feeling comfortable to work through complex problems quickly and independently and to improve my git flow. I feel confident six weeks later being able to say I've accomplished these. I've been able to work through many tutorials and projects successfully. During group projects this mod I've been comfortably developing a more sustainable and realistic git workflow which I hope will continue to improve as I go.
+
+### End of Module Assessment​
+​Assessed By: Jeff
+
+Challenge: 2, Mavis Beacon Teaches Typing
+
+Notes:
+* Great fluidity to your work and understanding
+* Strong keyboard/editor skills
+* Great comprehension of the problem, thinking though solutions, implementing solutions
+
+
+#### 1. Analytic/Algorithmic Thinking
+* 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
+
+#### 2. Ruby Syntax & Standard Library
+* 3: Developer is able to comfortably implement more than one solution in Ruby through refactoring
+
+#### 3. Rails Syntax & API
+* 3: Developer is able to utilize Rails methods and structures, but needs occasional guidance
+
+#### 4. MVC & Rails Style
+* 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and keep logic out of views and controllers
+
+#### 5. Testing
+* 4: Developer writes tests at multiple layers of abstraction to drive development
+
+#### 6. Collaboration
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback throughout the process
+
+
+### End of Module Assessment​
+
+Assessed By: Andrew
+Challenge: Pet Shop
+
+Evaluator: Andrew
+
+Notes:
+* Remember to refactor the views! Make sure no logic lives in the views including any calculations
+* When collaborating make sure you remember to talk about what you plan to implement before you implement it
+* Don't jump too far ahead of the tests incase you make a small mistake and need to go back
+
+#### 1. Analytic/Algorithmic Thinking
+
+* 4: Developer independently breaks complex processes into logical sequences of small steps and validates progress along the way
+
+#### 2. Ruby Syntax & Standard Library
+
+* 3: Developer is able to comfortably implement solutions in Ruby
+
+#### 3. Rails Syntax & API
+
+* 2.5: Developer is generally able to utilize Rails, but shows confusion or shallow knowledge about what Rails provides
+
+#### 4. Rails Style
+
+* 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+
+#### 5. Testing
+
+* 3: Developer uses tests at multiple layers of abstraction to drive development
+
+#### 6. Collaboration
+
+* 3: Developer lays out their thinking *before* attacking a problem and integrates feedback through the process
+
+
+## Work
+All the things.
+
+### Team Projects:
+### Rush Hour
+
+* [GitHub URL] https://github.com/icorson3/rush-hour-skeleton
+* [Original Assignment] https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md
+
+Rush hour felt like blind typing that somehow managed to produce results. Struggling through this project certainly made me more comfortable with active record. It also made me realize Active Record is a bottomless pit of helpful methods that I need to continue exploring in mod 3.
+
+(Evaluation Comments)
+Notes:
+
+* In the response data: The response times should be unique.
+* The controller could be broken up into smaller components. We also have nested conditionals which says that we could restructure that section.
+* Some logic is in the controller that could be pulled out.
+* To make a robust test helper, we could do all the payload creation before bringing it to the test.
+* We are hard-coding the client id as well, which doesn't cause issues at the moment but could. Create the client when creating the payload and pass the actual client id in, not just the integer 1. This shows we are not using active record to its fullest potential.
+* By creating the entire payload outside of the test is less expensive than creating it in every test. We should also create and analyze the raw payload in the test helper before the test.
+* The test helper could also have a default payload and if we want to change specific attributes, we could pass them in instead of creating specific payloads for specific instances.
+* In our payload request test, we asserted that the count of the payloads was zero in tests that it was unnecessary in. Since we have tested that the payload can be created, there is no need to test the count of the payloads until after the data has been saved to the database.
+* What we called the Payload Analyzer may be described in a better way because it doesn't analyze the data but "handles" it. Could rethink some variable and method names as well.
+* Work to understand active record relationships and how you can call clients' payloads in a direct way.
+* Feature testing was missing for user can see all events.
+* Feature testing could be more specific by testing certain html elements on the page. There might be an overlap where the same phrase appears in more than one place on the page so be as specific as possible.
+* We checked the validity of our tables by creating an instance and we could have just made an instance that we didn't save.
+* The tests were robust and tested edge cases but included too much information. Be careful about how many instances are created and why they are necessary.
+* To get a 4 on testing, we needed to have our event feature test and some of our data would need to be restructured.
+* Our accessors in some of the classes are not being utilized.
+* There were instances that we hard-coded the first position in the array ([0]) and there are active record methods such as find_by that would allow us to access that position without hard-coding.
+* We could have utilized partial views for some of our views such as all the index which could be interpolated.
+* We could capitalize our html in a method and pass it to our views instead of directly in the views.
+* Work flow was good but we could have used the comments more throughout the project when merging.
+
+(Evaluation Scores)
+#### 1. Functional Expectations
+3: Application fulfills base expectations
+
+#### 2. Test-Driven Development
+3: Application is well tested but does not balance isolation and integration/feature tests
+
+#### 3. Encapsulation / Breaking Logic into Components
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+#### 4. Fundamental Ruby & Style
+4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+#### 5. Sinatra / Web and Business Logic
+3: Application makes good use of Sinatra but has some mixing of the web and business logic.
+
+#### 6. View Layer
+3: Application breaks components out to view partials but has some logic or complexity leaking into the view
+
+Workflow (NOT GRADED)
+3: Good use of branches, pull requests, and a project-management tool.
+
+
+### Little Shop - Socks And Found
+
+* [GitHub URL] https://github.com/lucyfox4131/socks_and_found
+* [Original Assignment] https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown
+
+Little shop has been one of the most exciting and entertaining projects I've done at turing. Not only was I incredibly lucky to work with Marcella and Charlie, but I was also lucky enough to get to stare at goofy socks while we created our project. However, it has made me realize I definitely can up my CSS/HTML game.
+
+Evaluated By Jhun
+
+(Evaluation Comments)
+Notes:
+ * Background image: make a div that comes after the body and make the id background image and place the image in there instead of having to use the body. Isolate the image outside of just the body tag.
+ * Make sure there is seed data for everything so you can see things in production. (Orders should have seed data).
+ * Make sure that the helper methods in controller are private methods
+ * Simple delegator - super the item, creates an object that is aware of it's quantity, sum, and all the item attributes (could have used this as an extra helper for cart items maybe)
+ * Dry up testing by creating a helper method for creating an admin so you'll have to declare it less.
+ * Good to have complete model testing
+ * Good job testing at feature and model level, make sure method works and make sure feature works as well
+ * Workflow: Glimpses of excellent, but would like to see more commenting on github, I have specific feedback for you at this line. Majority of things squashed, but could have done a few more.
+
+(Evaluation Scores)
+#### 1. Feature Completeness
+
+4: All features are correctly implemented along with two extensions
+
+#### 2. Views
+
+4: Views show logical refactoring into layout(s), partials and helpers, with no logic present
+
+#### 3. Controllers
+
+4: Controllers show significant effort to push logic down the stack
+
+#### 4. Models
+
+4: Models show excellent organization, refactoring, and appropriate use of Rails features
+
+#### 5. Testing
+
+4: Project has a running test suite that exercises the application at multiple levels
+
+#### 6. Usability
+
+3: Project is highly usable, but needs more polish before it'd be customer-ready
+
+#### 7. Workflow
+
+3: Good use of branches, pull requests, and a project-management tool.
+
+
+## Individual Projects/Non-Evaluated Projects
+
+### Sinatra CRUD
+
+* [GitHub URL] https://github.com/lucyfox4131/robot_world
+* [Original Assignment] https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/crud_sinatra.markdown
+
+  I appreciated that our introduction to the web came with Sinatra, rather than just starting out in rails. I felt like I really appreciated each individual piece of CRUD development during the project, and it was really exciting to use robot world to understand the basics of CRUD. I liked being able to use this project to develop my knowledge of the testing environment. It was exciting for the first time to be able to put it all together and create a "real" website!
+
+### Tool Chest
+
+* [GitHub URL] https://github.com/lucyfox4131/tool_chest
+* [Original Assignment] https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/forms_and_route_helpers_in_rails.markdown
+
+  I wish I had put more time into tool chest than I did as I felt it had a lot to offer. While it was helpful, I didn't spend as much time focusing on the authorization and authentication pieces in tool chest. I think spending more time on this would've been helpful going into some of the later projects.
+
+### Mix Master
+
+* [GitHub URL] https://github.com/lucyfox4131/mix_master
+* [Original Assignment] https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby/mix_master
+
+  Mix master was a lot of fun! This project was a good amount of repetition that definitely helped with some of the more basic skills necessary to succeed during the mini project and during little shop. The Oauth stuff felt like a big jump from the rest of the project though, and I still feel like I'm not super comfortable with Oauth. I look forward to getting more practice with it.
+
+### Rails Mini-Project
+
+* [GitHub URL] https://github.com/lucyfox4131/wellness_challenge
+* [Original Assignment] https://github.com/turingschool/challenges/blob/master/rails-mini-project.markdown
+
+  For my rails mini project I attempted to build an app to handle the Turing weekly wellness challenge. I was surprised at the challenge this became. What I struggled most with was the idea of implementing a calendar and being able to "schedule" your goals so that each week you could reuse goals you had already created. I ran out of time during the weekend to totally implement this feature like I wanted so I spent extension time working with the simple calendar gem to create a calendar and schedule goals and luckily...finally got it to work! One thing I plan on during intermission week is taking some time to beef this project up a little more.  
+
+### Peer Feedback
+
+##### From Ilana:
+* Lucy has been an awesome team member. The background and knowledge Lucy brings to the group have helped push the group forward in the logic pieces. Lucy might benefit from taking the time to remember that not everyone is as badass as she is. When things get frustrating, Lucy can show her frustration but she has been very open about that. All in all, Lucy is pretty great.
+* Lucy has been really helpful this module, both emotionally and conceptually. I appreciate that she is constantly asking if others need help. Her knowledge base is very strong and she understands the logic pieces quicker than most. She also regularly contributes to group retros and tries to keep the cohort connected.
+
+##### From Erin:
+* Lucy is a sharp programmer and excels at clearly seeing the logic of the problem at hand. She has been great in getting our group moving and digging into bugs when they come up. As an improvement, Lucy could work on slowing down to more clearly communicate her ideas before implementing them at times.
+
+##### From Marcella:
+*  Lucy is a super strong developer! I was impressed with her work before we were grouped together on this project, and finishing it I admire even more her grasp of Rails fundamentals and logic. Her persistent work ethic was inspirational, as well: it's hard to spend 14-16 hours in the Turing basement over a weekend, but I have seen Lucy here many weekends, and we were able to be quite productive in that time. Her workflow is also enviable. My suggestion to her would be to consider offering tutoring for Mod 2 students who are struggling. Her strong foundation will serve her well in Mod 3!
+
+##### From Charlie:
+*  Working with Lucy on Little Shop has been a pleasure.  I really admire her general work ethic and drive.  She has been instrumental in keeping things moving on a day to day basis. Our group has had an easy time working together which I really appreciate. Two week projects are a lot of work and it meant a lot to me to have two group mates who were so dedicated to turning in a good product while also maintaining respect and good relations with their partners. I think sometimes it was tough for Lucy to not move forward at a quicker pace which may have caused some frustration. It can be tough to move at a slower pace than you are typically used to and I think she was great about catching herself wanting to move ahead and respecting our pace. I was able to learn a lot from Lucy thanks to her extensive knowledge and willingness to put in time to help explain things. I think we turned in a great project and I look forward to working with Lucy in the future.
+
+## Blog post
+  - https://medium.com/@lucyfox/hands-off-the-mouse-8a15c0bc746#.vmwr9g1v7
+  - I enjoyed having the chance to write this post and hope to incorporate it into my regular schedule. I have several topics I'd like to explore during intermission week including rebasing, pry, and incorporating an agile workflow into life at Turing.
+
+## Community
+
+##### Hopper Posse Lead
+* The primary ambition of hopper posse is to provide support (both academic and sometimes emotional) for mod one students. This module was a bit strange as we weren't working with mod one students until week 3. At that time though, we did a student led session going over the basic tools of HTTP as well as some git workflow techniques. This was probably my favorite part because we were able to help quite a few people in a short amount of time. Something I've been needing to work on during my time at turing is my ability to clearly explain my thought process while figuring out complex problems. Hopper posse definitely helps with that. As a professional that skill will be essential, especially if pairing is a big piece of where I end up working.
+
+##### Other
+* I am also active in the Joan Clarke society as well as productivity lunches. I attended each of these every week of the module (with the exception of a Monday lunch due to rush hour evals running late.)
+
+### Self Assessment Scores
+
+#### A: End-of-Module Assessment
+
+  4: Student achieved two or more "4"s on the assessment (Module 3 requires three or more "4"s)
+
+#### B: Individual Work & Projects
+
+  3: Student demonstrates commitment and growth in their work through satisfactory evaluations of each project or a clearly upward-sloping trend.
+
+#### C: Group Work & Projects
+
+  3: Student fully participates in their group work to facilitate group harmony while achieving consistently satisfactory results.
+
+#### D: Community Participation
+
+  4: Student has a significant positive impact on the learning and spirit of the people around them.
+
+#### E: Peer & Instructor Feedback
+
+  3: Student consistently delivers meaningful feedback for peers and implements strategies to improve themselves in response to feedback.
+
+## Review
+
+### Notes
+
+- excited to be self sufficient.
+- wants to get better at styling.
+- excited to in module 3 and solidify concepts like oauth.
+- Loves TDD.
+- wants to work on communicating better.
+
+### Outcome
+Pass

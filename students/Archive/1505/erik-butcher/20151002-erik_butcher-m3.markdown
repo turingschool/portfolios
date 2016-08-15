@@ -29,7 +29,7 @@ The project was evaluated with the following scores:
 * Organization: 3
 * Test-Driven Development: 3
 * Code Quality: 3
-* User Experience: 2 
+* User Experience: 2
 * Performance: Not Installed
 
 I only had one month of free Skylight, and that's gone already; that's why the Performance score is Not Installed. Overall, I'm confident that Roundaroute went better than my previous self-directed project, but I may have fallen into the same trap as that one did in terms of commitment vs. delivery.
@@ -97,15 +97,22 @@ I participated in many events outside of the normal framework of Turing. I atten
 
 ### Notes
 
-* Goal was to work on being more a part of the group. 
-* Had trouble with the personal project getting stuck. Taking a step back and evaluating the value of what you were struggling with is worth it. 
-* Think taking on more would be a good thing. Has leadership skills, but has fallen out of practice and thinks that it would be very helpul to try to bring that back. 
+* Goal was to work on being more a part of the group.
+* Had trouble with the personal project getting stuck. Taking a step back and evaluating the value of what you were struggling with is worth it.
+* Think taking on more would be a good thing. Has leadership skills, but has fallen out of practice and thinks that it would be very helpul to try to bring that back.
 * Great improvement with TDD
 * Still wants to work at attaining more proficiency in ActiveRecord
-* Still room to improve organization skill. Break things down. Set small, attainable goals. 
+* Still room to improve organization skill. Break things down. Set small, attainable goals.
 
+
+## reassessment
+
+4 - Features
+3 - User Interface
+4 - Testing
+4 - Rails Style
+4 - Ruby Style
 
 ### Outcome
 
-Pending
-
+PASSED

@@ -60,6 +60,14 @@
 
 ## Review
 
+### Rubric Scores
+
+* **A: End-of-Module Assessment**: X
+* **B: Individual Work & Projects**: X
+* **C: Group Work & Projects**: X
+* **D: Community Participation**: X
+* **E: Peer & Instructor Feedback**: X
+
 ### Notes
 
 ( Leave blanks for reviewers )

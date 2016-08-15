@@ -1,0 +1,203 @@
+# Deborah Hamel - M1 Portfolio
+
+## Individual
+
+Coming into this module I wanted to improve my Ruby skills and workflow and become more confident with programming.
+
+### End of Module Assessment
+
+* **Ruby Syntax & API**:3
+* **Ruby Style**: 3
+* **Testing**: 3
+* **Workflow**: 3
+* **Collaboration**: 4
+
+### Attendance
+
+This module I attended all days and classes on-time with the exception of a tardy to morning class.
+
+### Work
+
+I completed the following individual work this module:
+
+#### JungleBeats
+
+* [GitHub URL](https://github.com/deborahleehamel/junglebeats)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
+
+In this project I implemented a linked list. It was
+evaluated by Mike with the following results:
+
+Notes:
+linked list 17 runs, 26 assertions
+node - 5 runs 8 assertions
+jb - 13 runs, 15 assertions
+append and prepend methods are in linked list
+calculating count - really good!
+Some unnecessary variable assignment
+Voice and rate extension completed.
+
+* Functional Expectations: 4
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Looping *or* Recursion: 4
+
+#### NightWriter
+
+* [GitHub URL](https://github.com/deborahleehamel/night_writer)
+* [Original Assignment](http://github.com/turingschool/challenges/robodoku.markdown)
+
+
+* Overall Functionality: 3
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Breaking Logic into Components: 3
+
+## Team
+
+### Projects
+
+I participated in the following team projects:
+
+#### HTTP Yeah You Know Me
+
+* [GitHub URL](https://github.com/thompickett/http_yeah)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+
+Notes:
+
+completed iteration 0-4, does not follow the spec fully but has all functionality included
+very good tests, easy to read, well organized. Could use some DRYing up in terms of lvars and shared data
+overall very nice project, well factored and mostly easy to read.
+there's opportunity to DRY up some functionality in modules.
+
+* Overall Functionality: 3
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Breaking Logic into Components: 3
+
+
+### Instructor Pairing Feedback
+###Nate Allen
+- You struggle to ask yourself what feedback you need when
+  you're stuck. When you see an error, your response is to
+  just play around. When you're stuck, ask yourself what
+  information you're missing, and how you can get it.
+
+- You're good at speaking technically. You know your way
+  around ruby and it's syntax, and you're able to communicate
+  about programming.
+
+
+### Posse challenges
+* [GitHub URL](https://github.com/amaxwellblair/posse_challenges)
+
+Highlights for me:
+* Working through writing and committing a FlagParser feature on
+  collegescorecard challenge gave me confidence
+* Collaborating with people from different modules was fun and an opportunity
+  for immediate feedback
+* Friday morning code evals were learning events, took away lots of new
+  understanding.
+
+
+### Feedback to Me
+###Josh Washke
+Deb is an amazing person to work with and a good friend. We were paired up on
+Black Thursday and she was very clear about her goals for the project and how
+she wanted to accomplish it. She helped me improve my pairing skills and was
+an asset at all levels of the project from testing to implementatin to pull
+requests. My only advice for Deb is that she needs to be more confident in her
+ability. She is a strong programmer and good problem solver who can do great
+work, but she seems to have trouble believing it. I am happy to work with Deb
+in the future and hope that the more projects she accomplishes the more she
+will realize she is a strong competent programmer.
+
+###Jeff Ruane
+I've really enjoyed pairing with you over the course of this module. First
+of all, you're super easy to work with, it's been a pleasure. I think you have
+really good instincts, and, just overall, you're a good developer. I've never
+seen you really stuck and stressed out. For the most part, you've come into
+our meetings with working code already written, and good code at that, and
+just questions about more robust testing and maybe some refactoring. That's
+super impressive, you've just been killing it this module. If I could suggest
+one thing to work on, and this is applicable to a lot of people, myself
+included, is just your confidence. You know what you're doing, and you
+should believe it. I only mention that because you seemed uncharacteristically
+stressed out last week trying to prepare for your assessment. Just go in
+there and do your thing and you'll do great.
+
+###Thomas Pickett
+Deb stayed very organized and meticulous about naming objects in our
+code and and our workflow as well. Our workflow being branch
+names, and commit messages, and pull requests. I really
+appreciated that as it’s something I struggle with, and it
+kept our project nice and tidy. She also kept an eye out for
+edge cases and refactoring as we went along so we had less
+cleanup at the end.
+
+Deb mostly seems to struggle with confidence, but she knows
+this already. When Deb is more confident she stays
+more engaged, and gives more input. As a team we could work
+more on creating an environment where she feels comfortable contributing.
+
+###Ali Andersen
+I cant say enough good things about Deborah to explain how valuable she is to
+Turing, my knowledge and learning, as well as the Tech world. Have the honor
+of working with Deborah between the last 2 modules has been great! She has
+been one of my main supporters during this long haul of Module 1. But more
+impressively is how knowledgeable she has become, Deborah already had a great
+wealth of knowledge before, but now. She is a million times stronger and
+unstoppable! She has helped me numerous times to solve speed bumps that I
+reach. I know that Deborah will leave a positive mark in the Turing culture
+as well as in the tech world!
+
+### Emily Blanchard
+Deb has a wonderfully positive attitude, even when the task at hand is
+difficult for two beginners. As a team, we did not give up, but could have
+focused more on the task at hand. Perhaps we should have started the entire
+thing over again from scratch to see how much we both actually knew.
+
+
+### Emily McClung
+Debra with nothing but helpful. She had very sound advice and was very
+patient with my lack of expertise.I did  a less than perfect job listening
+while she was explaining. But that was not her fault , that was mine.
+I think Debra is better than she think she is and I believe she definitely
+can be a help to me in the future.she was a very good mentor. And I would
+feel comfortable going to her for help anytime. Working with her was a pleasure.
+
+
+## Community
+
+* Hack Design - weekly meetings and collaborating on new side project to work
+  through a design process around how to help junior devs at Turing find jobs.
+* Imposters - weekly meetings
+* Environmental Variables
+* LGBTuring - attended social event
+* Attended one Productivity Lunch
+* Working on exercisms with Nick W. from Mod 2
+
+### Giving Feedback
+
+According to the Feedback application:
+
+* I delivered 100% of the requested feedback
+
+### Playing a Part
+
+__Soft Skills / Protocol Requirements__
+
+1. 1 DTR memo from a project during the module
+* [GitHub URL](https://gist.github.com/deborahleehamel/18008ea171785d8cf483)
+
+2. 1 Blog post
+* [Medium URL](https://medium.com/@deborahleehamel/it-s-not-about-the-tool-7cc7e1acdbd2#.fxjs0v8ke3)
+
+3. 2 examples of well-written pull requests
+* [GitHub URL](https://github.com/jwashke/black_thursday/pull/43)
+* [GitHub URL](https://github.com/jwashke/black_thursday/pull/29)
+
+4. 1 example of a well-written project readme
+* [GitHub URL](https://github.com/deborahleehamel/night_writer/blob/master/Readme.md)

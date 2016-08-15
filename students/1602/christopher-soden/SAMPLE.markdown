@@ -17,11 +17,6 @@ JavaScript.
 * Workflow: 4
 * Collaboration: 3
 
-### Attendance
-
-This module I attended all days and classes on-time with the exception of an
-absence on Friday, May 3d.
-
 ### Work
 
 I completed the following individual work this module:

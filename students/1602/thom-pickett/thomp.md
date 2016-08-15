@@ -24,17 +24,17 @@ Challenge: Option 1 - Shopping List
 
 
 > Students will be evaluated according to the following rubric:
-- ###### Ruby Syntax & API
+###### Ruby Syntax & API
 3: Developer is able to write Ruby with some debugging of fundamental concepts
-- ###### Completion and Progress
+###### Completion and Progress
 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
-- ###### Testing
+###### Testing
 3: Developer writes tests that are effective validation of functionality, but don't drive the design
-- ###### Workflow
+###### Workflow
 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-- ###### Collaboration
+###### Collaboration
 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
-- ###### Enumerable & Collections
+###### Enumerable & Collections
 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### Mid Module Assessment
@@ -49,17 +49,17 @@ Assessed By: Tess
 
 #### Scores
 > Subjective evaluation will be made on your work/process according to the following criteria:
-- ###### Ruby Syntax & API
+###### Ruby Syntax & API
 3: Developer is able to comfortably implement solutions in Ruby
-- ###### Ruby Style
+###### Ruby Style
 3: Developer writes code that is easy to follow
-- ###### Blocks & Enumerations
+###### Blocks & Enumerations
 3: Developer demonstrates understanding of blocks and can effectively use enumerable methods
-- ###### Testing
+###### Testing
 3: Developer uses tests to guide development in small chunks
-- ###### Workflow
+###### Workflow
 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-- ###### Collaboration
+###### Collaboration
 3: Developer lays out their thinking *before* attacking a problem and integrates feedback through the process
 
 ### Attendance
@@ -86,20 +86,20 @@ I missed two days this module
     love the deep sonorous voice of the player
     starting to more cleanly grasp conceptual steps involved in each process
     still dealing some cruft both in the small (i.e. method-level structure) and in the large (i.e. overall algorithmic proces)
-    keep working on pseudocode and outlining our processes -- eventually want to get to a point where code reads as a clear expression of whatever the outline for a process would be
+    keep working on pseudocode and outlining our processes -eventually want to get to a point where code reads as a clear expression of whatever the outline for a process would be
     would love to see more of the responsibilities moving into the LInkedList itself (or even into the nodes) than in the top-level JB object
-    like the improvement on iterative processing -- keeping the loops more contained and focused
+    like the improvement on iterative processing -keeping the loops more contained and focused
 
 #### Scores
->- ###### Functional Expectations
+>###### Functional Expectations
 3: Application fulfills all base expectations
-- ###### Test-Driven Development
+###### Test-Driven Development
 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-- ###### Encapsulation / Breaking Logic into Components
+###### Encapsulation / Breaking Logic into Components
  3: Application effectively breaks logical components apart but breaks the principle of SRP
-- ###### Fundamental Ruby & Style
+###### Fundamental Ruby & Style
 3: Application shows strong effort towards organization, content, and refactoring
-- ###### Looping or Recursion
+###### Looping or Recursion
 3: Application makes effective use of loop/recursion techniques
 
 #### Enigma
@@ -119,13 +119,13 @@ I missed two days this module
 
 #### Scores
 
-> - ###### Overall Functionality
+> ###### Overall Functionality
 3: Application encrypts, decrypts, and cracks files as described
-- ###### Fundamental Ruby & Style
+###### Fundamental Ruby & Style
 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-- ###### Test-Driven Development
+###### Test-Driven Development
 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
-- ###### Breaking Logic into Components
+###### Breaking Logic into Components
 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 #### Chisel
@@ -158,13 +158,15 @@ I missed two days this module
     The project will be assessed with the following rubric:
 
 #### Scores
-- ###### Overall Functionality
-3: Application implements iterations 0 - 4
-- ###### Fundamental Ruby & Style
+
+>
+###### Overall Functionality
+3: Application implements iterations 0 4
+###### Fundamental Ruby & Style
 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-- ###### Test-Driven Development
+###### Test-Driven Development
 4: Application is broken into components which are well tested in both isolation and integration
-- ###### Breaking Logic into Components
+###### Breaking Logic into Components
 4: Application effectively breaks logical components apart with clear intent and usage
 
 #### Sunshine Thursday
@@ -187,17 +189,18 @@ with specs ask for different things than the spec harness checks for.
 
 #### Scores
 
-- ###### Functional Expectations
+>
+###### Functional Expectations
 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
-- ###### Test-Driven Development
+###### Test-Driven Development
 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
-- ###### Encapsulation / Breaking Logic into Components
+###### Encapsulation / Breaking Logic into Components
 3: Application effectively breaks logical components apart but breaks the principle of SRP
-- ###### Fundamental Ruby & Style
+###### Fundamental Ruby & Style
 3.5: Application sses blocks, but poorly, and it causes poor variable names.
-- ###### Enumerable & Collections
+###### Enumerable & Collections
 3: Application demonstrates comfortable use of appropriate Enumerable methods
-- ###### Code Sanitation
+###### Code Sanitation
 4: Zero complaints
 
 ## Community
@@ -223,7 +226,7 @@ more engaged, and gives more input. As a team we could work more on creating an 
 
 ### Playing a Part
 
-    I was on the Student Advisory Board, went and worked with classmates at union station outside of class. I paired with incoming students and got them set up on screen hero since I had done it before  
+    I was on the Student Advisory Board, went and worked with classmates at union station outside of class. I paired with incoming students and got them set up on screen hero since I had done it before. I also participated in environment variables.
 
 ### Protocl Requirements
 
@@ -245,8 +248,52 @@ more engaged, and gives more input. As a team we could work more on creating an 
 
 ### Outcome
 
-* __A End-of-Module Assessment:__
-* __B Individual Work & Projects:__
-* __C Group Work & Projects:__
-* __D Community Participation:__
-* __E Peer & Instructor Feedback:__
+# Portfolio Rubric
+
+Your portfolio will be evaluated using the following rubric. Earning at least
+a three in each category is the baseline for promotion/graduation.
+
+## A: End-of-Module Assessment
+
+A Turing student is able to demonstrate proficiency at programming in accordance
+with the module's content and expectations.
+
+
+* 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
+
+## B: Individual Work & Projects
+
+A Turing student works to maximize their skill growth and demonstrates
+that skill across a variety of work.
+
+* 3: Student demonstrates commitment and growth in their work through satisfactory
+evaluations of each project or a clearly upward-sloping trend.
+
+## C: Group Work & Projects
+
+A Turing student contributes significantly to group projects, helps the team
+develop their technical skills, and delivers a high-quality product.
+
+
+* 3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.
+
+## D: Community Participation
+
+A Turing student builds up the community around them by participating and
+supporting other students, the larger Turing family, and persons outside our
+walls who want to develop their own skills.
+
+* 3: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.
+
+## E: Peer & Instructor Feedback
+
+A Turing student accelerates the growth of those around
+them by delivering specific, kind, and actionable feedback. They accelerate their
+own growth by taking in and acting on the feedback of their peers and instructors.
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
+
+OUTCOME: PROMOTED

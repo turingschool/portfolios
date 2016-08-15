@@ -43,7 +43,51 @@ goals
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessed By: Rachel
+
+
+Challenge: Option 1: Shopping List
+
+
+Notes:
+
+* make sure to take small steps with testing
+* able to choose correct collection structure (hash) for storing ingredients and values
+* able to comfortably set a default value for hash
+* good use of keyboard shortcuts
+* remember to write tests before implementing anything
+* able to debug with pry
+* can use each to iterate through hash with appropriate block parameters
+* comfortable with string interpolation
+* knew that map would return new array; used join to put together array of strings
+
+Students will be evaluated according to the following rubric:
+
+### Notes
+
+#### 1. Ruby Syntax & API
+
+* 3: Developer is able to write Ruby with some debugging of fundamental concepts
+
+#### 2. Completion and Progress
+
+* 4: Developer fully completes baseline assignment and one of the Challenge options.
+
+#### 3. Testing
+
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+
+#### 4. Workflow
+
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+#### 5. Collaboration
+
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
+### 6. Enumerable & Collections
+
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### Work
 
@@ -200,10 +244,38 @@ Black Thursday is a data analysis engine that parses and interrelates subsets of
 * [GitHub URL](https://github.com/marinacor1/BlackThursday)
 * [Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
+Assessed By: Mike
 
-(evaluation comments)
+Repo: https://github.com/marinacor1/BlackThursday
 
-(evaluation scores)
+Notes:
+
+95.56 percent test coverage.
+Some redundant testing, some missing points
+110 runs, 233 assertions, finishes in 215 seconds
+Some refactoring possible in pulling out methods for reasons of SRP and for clarity.
+Well organized code, I liked how the data parts were separated.
+Did I4
+1. Functional Expectations
+
+3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+2. Test-Driven Development
+
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+3. Encapsulation / Breaking Logic into Components
+
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+4. Fundamental Ruby & Style
+
+3: Application shows strong effort towards organization, content, and refactoring
+5. Enumerable & Collections
+
+3: Application demonstrates comfortable use of appropriate Enumerable methods
+6. Code Sanitation
+
+The output from rake sanitation:all shows...
+
+3: Five or fewer complaints
 
 
 ## Community
@@ -297,4 +369,4 @@ own growth by taking in and acting on the feedback of their peers and instructor
 * 3: Student consistently delivers meaningful feedback for peers and implements
 strategies to improve themselves in response to feedback.
 
-OUTCOME: PROVISIONAL - complete a project by Tuesday 10am. 
+OUTCOME: PROMOTED

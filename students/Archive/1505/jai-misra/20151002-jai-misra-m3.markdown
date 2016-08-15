@@ -10,7 +10,7 @@ Based on that metric, I failed my mission in every way possible, but that may ha
 
 ### End of Module Assessment
 
-Due to my the fact that I did not complete the self-directed project, I will be assigned a final coding challenge as my assessment. 
+Due to my the fact that I did not complete the self-directed project, I will be assigned a final coding challenge as my assessment.
 
 ### Attendance
 
@@ -86,10 +86,10 @@ Code Quality: Project demonstrates some gaps in code quality and/or application 
 User Experience: The application is a logical and easy to use implementation of the target application.
 
 Completion: 4
-Organization: 4 
+Organization: 4
 Test-Driven Development: 1
 Code Quality: 2
-User Experience: 4 
+User Experience: 4
 
 #### (Project Name)
 
@@ -124,18 +124,18 @@ Code Quality: Project demonstrates solid code quality and MVC principles.
 User Experience: Project exhibits some gaps in the UX.
 Performance: Skylight Not installed.
 
-Completion: 2 
-Organization: 4 
+Completion: 2
+Organization: 4
 Test-Driven Development: 1
-Code Quality:* 3 
-User Experience: 2 
+Code Quality:* 3
+User Experience: 2
 Performance: ...
 
 ## Community
 
 Despite my own insecurities, there was a shift during Module3 in how I looked at myself in relation to the community.
 I really tried to become more of a leader in how I related to the younger cohorts, and I feel like the greatest benefit
-I can provide to the people I interact with is making the experience of problem-solving seem fun and manageable. 
+I can provide to the people I interact with is making the experience of problem-solving seem fun and manageable.
 
 ### Giving Feedback
 
@@ -148,7 +148,7 @@ Mike - I had been hoping I would be able to work on a project with Mike Reeves, 
 and learn some new techniques from his years of experience as a developer. In every way, working with Mike exceeded my expectations
 but the most impressive thing about Mike is how much he cares about his team mates, and his conviction that we should have a
 showpiece project for employers. I learned a ton from Mike during an overnight pairing session at Turing that ended at 5am,
-where we combed over the app's features and made sure it deployed properly. Even after all that effort, 
+where we combed over the app's features and made sure it deployed properly. Even after all that effort,
 Mike spent a weekend after the evaluation debugging the app, and submitted pull requests on all of the
 bugs we discovered during the evaluation and demo. I came out of the project feeling grateful for his hard work and impressed at
 what we accomplished because of it.
@@ -184,7 +184,7 @@ After that day, I began to actively seek out more situations in which I could he
 and by the end of the Module I experienced some students seeking me out for help and questions with their projects,
 which was definitely a new experience at Turing.
 I think the best part of pairing with me is the fact that I try to make the experience
-as enjoyable and fun as possible, and celebrate as much as possible, even the little victories. 
+as enjoyable and fun as possible, and celebrate as much as possible, even the little victories.
 
 ### Playing a Part
 
@@ -199,18 +199,25 @@ I brought a bunch of audio to this portfolio review, so I hope I can find a time
 
 ### Notes
 
-* Wanted to try to be a little more disciplined. Didn't really accomplish this. 
-* When initially getting a project you see the whole project and then get a little intimidated and overwhelmed. 
-* Staying in the workspace, maybe pairing and just feeling engaged could help. Feel like being here is helpful. 
+* Wanted to try to be a little more disciplined. Didn't really accomplish this.
+* When initially getting a project you see the whole project and then get a little intimidated and overwhelmed.
+* Staying in the workspace, maybe pairing and just feeling engaged could help. Feel like being here is helpful.
 * Found once he dug in and started biting off small pieces and working throught things he really started enjoying things again.
 * It takes a good attitude to work well in groups and thought he did that well.
-* Your work can be uneven. You can work intensly and very well, but sometimes your intensity is low gets in your way. 
-* A great member in the community. Has a great attitude and does well bringing joy wherever you are. 
-* One of the best at helping others. When pairing he does so well at keeping others in it. 
+* Your work can be uneven. You can work intensly and very well, but sometimes your intensity is low gets in your way.
+* A great member in the community. Has a great attitude and does well bringing joy wherever you are.
+* One of the best at helping others. When pairing he does so well at keeping others in it.
+
+
+## Reassessment
+
+3 - Features
+3 - User Interface
+3 - Testing
+3 - Rails Style
+3 - Ruby Style
 
 
 ### Outcome
 
-Pending
-
-
+PASS
