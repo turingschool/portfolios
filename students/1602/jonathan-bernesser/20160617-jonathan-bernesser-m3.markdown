@@ -10,16 +10,14 @@ C: Group Work & Projects: 3
 D: Community Participation: 3
 E: Peer and Instructor Feedback: 3
 
-
 ### End Module Assessment
   Evaled by Nate Allen
 
-  * Analytic/Algorithmic Thinking : 3.5
-  * Ruby Syntax & Standard Library: 3
-  * Rails Syntax & API: 4
-  * MVC & Rails Style: 4
+  * Ruby Style: 3
+  * Ruby Syntax & Api: 4
   * Testing: 3
-  * Collaboration: 3
+  * Progression Completion: 4
+  * Workflow: 4
 
 ### Attendance
 
