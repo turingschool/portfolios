@@ -183,7 +183,7 @@ Notes:
   internally by having that method actually delegate out to other methods that
   implement the various cases
 
-#### Final Project - Headcount
+#### Final Project - Black Thursday
 **Partner project with Alex Navarrete**
 
 * [GitHub URL](https://github.com/Salvi6God/black_thursday)
