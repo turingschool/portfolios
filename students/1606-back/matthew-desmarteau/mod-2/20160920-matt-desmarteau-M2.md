@@ -79,7 +79,7 @@ __Project__ In this project we used Ruby, Sinatra, and ActiveRecord to build a w
 
 ---
 
-#### Little Shop of Orders - No Refunds
+### Little Shop of Orders - No Refunds
 
 * [GitHub URL](https://github.com/rdavid1099/little-shop)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
