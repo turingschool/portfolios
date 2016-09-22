@@ -121,7 +121,17 @@ Feedback from Jasmin
 
 Our Little Shop was a website that sold college apparel such as Jerseys, Waterbottles, etc. In this app, we implemented tons of basic website functionality, as well as authorization and authentication functionality. Little shop was an extremely enjoyable experience, and my first project in which I felt like a true web developer. 
 
-(Feedback from team)
+Feedback from Goss
+----I really enjoyed working with Chase. He is always cheerful and enthusiastic. Though out the project he was always asking good questions and making great suggestions. Also he recognized that I was wearing out before I did and suggested breaks. I am confident that Little Shop would not have been as good without him on the team.
+
+Feedback from Brian
+----Having worked successfully with Chase before on Night Writer, it was easy to get right into the Norming/Performing stage. We get along well personality wise,
+and I was excited to get to work with Chase again. Chase is a great team member and collaborator, and has a knack for noticing fine details. 
+He facilitatedand sought out collaboration both when driving and when navigating. He also contributed alot to the chemistry of the group by keeping things 
+light-hearted by cracking jokes and maintaining a positive attitude. Chase was instrumental in d-bugging code, often noticing error where the other group
+members could not.
+* Chase actively sought to drive and contribute in areas that he did not have much experience. I would challenge Chase to continue to do this, as well as take 
+some time to do some extra exercises and practice, it will only serve to give him more experience and expand his abilities as a programmer.
 
 ---
 
@@ -187,6 +197,9 @@ Feedback to Jasmin
 
 
 ### Being a Community Member
+
+Feedback from Raphael
+----Chase's energy, smile, and friendly definitely makes long days and tough times at turing seem easy to deal with. I really appreciate having Chase around, from making people laugh, to taking care of some of classmates in moments of need, Chase has been a true friend when it comes to 1606. Thank you for being just the way you are my friend. Raphael Barbo
 
 Feedback from Jasmin
 ----Chase acted as the glue that held our Rush Hour group together when we needed it the most. He is an awesome diplomat that makes sure everyone has their voice heard. I am fortunate to have gotten to work with him this module and value his friendship tremendously. While he definitely has coding chops, he does sometimes become quiet and turn inward when he’s contemplating solutions to issues and it would have made me feel more aware of his feelings if he voiced them out loud during Rush Hour. Besides that, he’s an asset to any team he is on. 
