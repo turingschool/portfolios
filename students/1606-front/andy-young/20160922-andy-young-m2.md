@@ -166,6 +166,9 @@ To Kris Foss:
 
 ### Being a Community Member
 
+From Kristen Burgess:
+> Andy has been such an amazing resource for me throughout  my first module, both academically and emotionally. He has a particular knack for taking difficult problems, breaking them down, and attacking them with an approach that is straightforward and easy to follow. Even on his busiest days, Andy somehow can always find a moment to selflessly help another student. Whether this help is pairing through fixing a bug or going for a walk to release some stress, he is always ready to offer his support with a smile. I have personally experienced his unparalleled kindness and exceptional insight, as well as seen others graced by the same; there is no doubt that Andy Young is an invaluable and irreplaceable asset to the Turing community.
+
 From Nick Chambers:
 > Andy was consistently available on the pairing schedule and seemed to always be offering his time to either pair on projects or chat about the Turing experience. No matter what the situation, I welcomed his perspective on tackling difficult problems. Every time I paired with Andy or even just spent a few minutes looking at a line of code, I would learn something useful or generate new momentum towards solving the problem at hand. He brings a great energy to the Turing community, and it's awesome to have a guy like him around. Thanks for the help this mod, Andy!
 
