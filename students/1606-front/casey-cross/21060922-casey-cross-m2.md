@@ -1,4 +1,4 @@
-# Casey Cross - M2 Portfolio
+# Casey Cross -  M2 Portfolio
 
 ## Areas of Emphasis
 
