@@ -19,7 +19,7 @@ portfolio should be written/submitted
 
 ## Per-Module Expectations
 
-### Module 1
+### Module 1 (Back-end)
 
 * Individual Assessment: Passing Score (All 3's) required
 * Required Project: Final Project (Headcount / Black Thursday) -- Passing Score (All 3's) required
@@ -30,7 +30,22 @@ portfolio should be written/submitted
 
 A passing Chisel project completed during the final 2 weeks of the module **OR** Satisfactory progress on the Headcount / Black Thursday final project.
 
-__Soft Skills / Protocol Requirements__
+#### Soft Skills / Protocol Requirements
+
+1. 1 DTR memo from a project during the module
+2. 1 example of a well-written project readme
+
+### Module 1 (Front-end)
+
+* Individual Assessment: Passing Score (All 3's) required
+* Required Project: Final Project (Game Time) -- Passing Score (All 3's) required
+* Included Projects:
+ * Linked List 
+ * Number Guesser
+ * Color Changer
+* Feedback: Self-Solicited and from Feedback App
+
+#### Soft Skills / Protocol Requirements
 
 1. 1 DTR memo from a project during the module
 2. 1 example of a well-written project readme

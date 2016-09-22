@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# (MaryJane Valade) - (M1) Portfolio
 ## Individual
 
 ### Areas of Emphasis
@@ -47,7 +47,7 @@
 
 ### Giving Feedback
 
-(feedback I gave to others)
+(feedback from me)
 
 ### Being a Community Member
 
