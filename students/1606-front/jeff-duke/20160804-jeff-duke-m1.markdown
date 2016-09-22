@@ -174,6 +174,7 @@ _It was great working with Casey on this project and I feel really fortunate tha
  - I participated in the StrengthsFinder pilot program that Beth put on to see if it would be a good option for the Turing community at large.  
  - I participated in an episode of the Turing podcast which, at the time of this writing, has not been released.
  - I've tried to keep an eye out to see if someone is struggling or getting frustrated and see if I might be able to offer some assistance.  Often just lending someone a second set of eyes can spark an idea that leads to some forward progress.
+ -I've also opened several PR's against the 1606FE site to fix typos, add missing content and try to improve the resource for all when I see an issue, rather than just telling someone about it.   
 
 ## Review
 
