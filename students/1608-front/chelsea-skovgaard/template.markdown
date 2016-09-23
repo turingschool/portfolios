@@ -33,17 +33,17 @@ I worked on two projects independently this module: color-changer and my persona
 
 #### Color Changer
 
-* [GitHub URL]()
-* [Original Assignment]()
+* https://chelseaskovgaard.github.io/color-changer/
+* http://frontend.turing.io/projects/color-changer.html
 
-(description)
+An application with a button to change the background to a random color and then to reset the background to white.
 
 #### Personal Portfolio
 
-* [GitHub URL]()
-* [Original Assignment]()
+* https://chelseaskovgaard.github.io/portfolio/index.html
+* http://frontend.turing.io/projects/portfolio-first-draft.html
 
-(description)
+Personal portfolio page showcasing projects and experience.
 
 ## C: Group Work & Projects
 
@@ -119,8 +119,8 @@ Build a game where the user picks a number between 1 and 100
 Functional Expectations: 3
 Fundamental JavaScript Style: 3
 
-(feedback to me)
-
+From Maia:
+Chelsea and I tackled our first project head on!  We had some bumps in the road, but I'm actually glad that we dealt with them in the first project.  We did a great job working though the challenges and stopping to reset our process when we needed.  It really helped us appreciate the value of laying out the goals and expectations for the project and the workflow from the beginning.  Chelsea is bright and able to think through the problem in a logical manner.
 
 ## E: Feedback and Community Participation
 
@@ -149,7 +149,8 @@ Gabi is a wonderful asset to the cohort. Her willingness to answer questions abo
 
 
 ### Being a Community Member
-
+From Hilary:
+Even though I was not paired to work with Chelsea on a project yet, we collaborated a lot throughout the module. Chelsea is able to break down complex concepts so I can understand it in a logical way. Her eye for design and talent with CSS is something I will be looking to Chelsea for help in future modules. I look forward to being paired with Chelsea in future projects because I know we will work very well together and her sense of humor brings happiness to me every day.
 
 ### Playing a Part
 
