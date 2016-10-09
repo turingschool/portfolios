@@ -34,6 +34,13 @@
 
 (evaluation scores)
 
+#### Sorting Suite
+
+* [GitHub URL](https://github.com/kheppenstall/sorting_suite)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
+
+I wrote and tested algorithms for bubble sort, insertion sort, merge sort, selection sort, and in-place insertion sort. No evaluation.
+
 ## C: Group Work & Projects
 
 ### Projects
