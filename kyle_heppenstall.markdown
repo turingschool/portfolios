@@ -63,6 +63,8 @@
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
+#### (Vote Your Conscience)
+
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
 Most of my key takeaways from this essions happened during our conversation debriefing the articles about vetting leaders and whether we have a responsibility to vote. I was interested to hear the perspective that abstaining from an election can be a conscious way to "vote." We also dove into extending the example from the reading that civic responsibilities and rights should strike a balance to keep individuals and government healthy. After this gear up I'm still motivated to vote but am hoping to do some more research to be more informed about local positions.
