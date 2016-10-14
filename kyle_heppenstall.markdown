@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My primary goals for the module are to learn as much as I can and be an effective team member. While working on a team, even if we are frustrated or making progress slowly, I want to continue to put the team first and maintain a solution-oriented attidue. Sometimes I mistakenly prioritize task completion over learning. As a result I want to prioritize asking for help and practicing/repeating to move myself along. Finally I wanted to get more comfortable in the community and start to find my place. I want to pair plenty with people in and outside of my module and make time to be as helpful as I can to the community. One big challenge I am anticipating is staying healthy and making time to cook and exercise.
 
 ## Rubric Scores
 
@@ -39,7 +39,7 @@
 * [GitHub URL](https://github.com/kheppenstall/date_night)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 
-(description)
+Date night was our first big individual project. I retrofitted many of the tests after our lesson on test-driven development. I paired with Ilana and learned a good bit about refactoring and how to improve my style. My biggest struggles on this project were refactoring to improve clarity and writing the health method.
 
 Assessed By: Jeff
 
