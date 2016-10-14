@@ -102,15 +102,23 @@ I wrote and tested algorithms for bubble sort, insertion sort, merge sort, selec
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
-Most of my key takeaways from this essions happened during our conversation debriefing the articles about vetting leaders and whether we have a responsibility to vote. I was interested to hear the perspective that abstaining from an election can be a conscious way to "vote." We also dove into extending the example from the reading that civic responsibilities and rights should strike a balance to keep individuals and government healthy. After this gear up I'm still motivated to vote but am hoping to do some more research to be more informed about local positions.
+Most of my key takeaways from this session happened during our conversation debriefing the articles about vetting leaders and whether we have a responsibility to vote. I was interested to hear the perspective that abstaining from an election can be a conscious way to "vote." We also dove into extending the example from the reading that civic responsibilities and rights should strike a balance to keep individuals and government healthy. After this gear up I'm still motivated to vote but am hoping to do some more research to be more informed about local positions.
 
 ### Professional Development Workshops
+
 #### (Session Name)
 
 * [Workshop URL]()
 * [Link to Completed Deliverables]()
 
 (takeaways from session)
+
+#### Learning to Pair: Holding Each Other Accountable, and Giving Feedback
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/learning-to-pair.md)
+* [Link to Completed Deliverables]()
+
+My biggest takeaways from learning to pair were around managing my expectations and how to communicate with another person to match our expectations. From exploring my own strengths, I think I bring a strong ability to focus for extended periods, a flexible schedule, and high accountability for task completion. One thing I am hoping to work on is using the tools Allison provided to effectively deal with conflict in a pair. We practiced having some tough "retro" conversations, and I would like to be able to use those to effectively work through difficult situations with my teams.
 
 ## E: Feedback and Community Participation
 
