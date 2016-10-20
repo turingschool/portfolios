@@ -99,7 +99,9 @@ Amy and I worked together to make the autcomplete using the tries data structure
 
 (evaluation scores)
 
-The primary piece of constructive feedback I received was staying on the same page with my partner over the weekend. I did a good amount of upfront work before we built our foundation (git flow, variable names, project vision) to collaborate. As a result we exclusively used my testing suite and created many methods using the same variable names and ideas I originally used over the weekend. Going forward I want to establish more regular checkpoints to make sure my partner and I never diverge too much in our work on the project. I received positive feedback on setting clear expectations for collaboration during pairing sessions and just with general work ethic and efficiency. Amy also provided me with some positive feedback on how I write tests and refactor code. 
+Feedback to me: Most of my key takeaways from this session happened during our conversation debriefing the articles about vetting leaders and whether we have a responsibility to vote. I was interested to hear the perspective that abstaining from an election can be a conscious way to "vote." We also dove into extending the example from the reading that civic responsibilities and rights should strike a balance to keep individuals and government healthy. After this gear up I'm still motivated to vote but am hoping to do some more research to be more informed about local positions.
+
+Feedback from me: I provided Amy with some similar constructive feedback that she provided to me. We did not communicate enough over the weekend so that we ended up with at very different points when we came in on Monday. More frequent check-ins with the partner would have led to higher productivity and less time getting back on the same page when we met up on Monday. I provided her with some positive feedback on her flexibility and ability to notice details about code. I gave her some positive feedback on her ability to balance building a relationship with her partner while creating a really efficient working relationship.
 
 ## D: Professional Skills
 (Intro)
@@ -115,9 +117,7 @@ The primary piece of constructive feedback I received was staying on the same pa
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
-Feedback to me: Most of my key takeaways from this session happened during our conversation debriefing the articles about vetting leaders and whether we have a responsibility to vote. I was interested to hear the perspective that abstaining from an election can be a conscious way to "vote." We also dove into extending the example from the reading that civic responsibilities and rights should strike a balance to keep individuals and government healthy. After this gear up I'm still motivated to vote but am hoping to do some more research to be more informed about local positions.
-
-Feedback from me: I provided Amy with some similar constructive feedback that she provided to me. We did not communicate enough over the weekend so that we ended up with at very different points when we came in on Monday. More frequent check-ins with the partner would have led to higher productivity and less time getting back on the same page when we met up on Monday. I provided her with some positive feedback on her flexibility and ability to notice details about code. I gave her some positive feedback on her ability to balance building a relationship with her partner while creating a really efficient working relationship.
+Most of my key takeaways from this session happened during our conversation debriefing the articles about vetting leaders and whether we have a responsibility to vote. I was interested to hear the perspective that abstaining from an election can be a conscious way to "vote." We also dove into extending the example from the reading that civic responsibilities and rights should strike a balance to keep individuals and government healthy. After this gear up I'm still motivated to vote but am hoping to do some more research to be more informed about local positions.
 
 ### Professional Development Workshops
 
