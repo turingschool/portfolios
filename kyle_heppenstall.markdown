@@ -93,7 +93,7 @@ I wrote and tested algorithms for bubble sort, insertion sort, merge sort, selec
 * [GitHub URL](https://github.com/kheppenstall/complete_me)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
-Amy and I worked together to make the autcomplete using the tries data structure. We learned how to collaborate using git / GitHub and deepend our understanding of data structures and trees. We also learned to populate our automplete with files and figured out how to connect our code to .txt files. We did the delete option and did the SimpleCov extension for the project.
+Amy and I worked together to make the autcomplete using the tries data structure. We learned how to collaborate using git / GitHub and deepend our understanding of data structures and trees. We also learned to populate our automplete with files and figured out how to connect our code to .txt files. We did the delete option and did the SimpleCov extension for the project. As our first paired project I learned a good bit about being a strong team member and setting up expectations for the team to succeed.
 
 (evaluation comments)
 
