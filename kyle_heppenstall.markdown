@@ -88,6 +88,19 @@ I wrote and tested algorithms for bubble sort, insertion sort, merge sort, selec
 
 (feedback to me)
 
+#### Complete Me
+
+* [GitHub URL](https://github.com/kheppenstall/complete_me)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
+
+Amy and I worked together to make the autcomplete using the tries data structure. We learned how to collaborate using git / GitHub and deepend our understanding of data structures and trees. We also learned to populate our automplete with files and figured out how to connect our code to .txt files. We did the delete option and did the SimpleCov extension for the project.
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
 ## D: Professional Skills
 (Intro)
 
@@ -112,6 +125,13 @@ Most of my key takeaways from this session happened during our conversation debr
 * [Link to Completed Deliverables]()
 
 (takeaways from session)
+
+#### Feedback I
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/feedback_1.md)
+* Deliverable - see feedback from me below and to me above
+
+We read about three emotional triggers that can happen when receiving feedback and dove into those by discussing how we feel when we receive feedback. We then practiced writing some feedback to implement on our first project.
 
 #### Learning to Pair: Holding Each Other Accountable, and Giving Feedback
 
