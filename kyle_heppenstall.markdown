@@ -113,6 +113,16 @@ Feedback from me: I provided Amy with some similar constructive feedback that sh
 
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
+#### Introversion and Extroversion on Teams
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+
+One big takeaway for me came from the video. We as a society have a bias against introversion. The idea that creativity comes exclusively from collaboration is faulty. The world is in many ways designed for extroverts even though the whole world stands to benefit from more empowerment of introverts.
+
+Another idea I am taking away from the gear up is the Amazon meeting structure setup by Jeff Bezos. I like the idea of having time to digest and read before conversing, weighing ideas, and making decisions. I also think it is interesting that extroverts lead passive groups better and introverts lead practice groups better. I wonder if a strong leader can change their style depending on the group they are leading.
+
+During our discussion we didn’t arrive at any concrete suggestions for Turing but concluded that introverts and extroverts (from our group at least) feel welcome and like they can be successful. We dove a bit into stereotypes surrounding introverts and disconnecting introverts from shyness and an inability to collaborate.
+
 #### Vote Your Conscience
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
