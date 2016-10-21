@@ -26,7 +26,7 @@ Learn to code in Ruby and pass mod 1.
 #### (Project Name)
 
 * [GitHub URL](https://github.com/Daleon/sorting-suite)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
 
 (description)
 
