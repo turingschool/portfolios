@@ -23,16 +23,14 @@ Learn to code in Ruby and pass mod 1.
 
 (Intro)
 
-#### (Project Name)
+#### Sorting Suite
 
 * [GitHub URL](https://github.com/Daleon/sorting-suite)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
 
-(description)
+Project completed during week 1. The goal was to learn about sorting algorithms.
 
-(evaluation comments)
-
-(evaluation scores)
+This project was not graded.
 
 ## C: Group Work & Projects
 
