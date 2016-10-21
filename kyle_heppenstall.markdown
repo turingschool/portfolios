@@ -131,14 +131,14 @@ Most of my key takeaways from this session happened during our conversation debr
 #### Feedback I
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/feedback_1.md)
-* Deliverable - see feedback from me below and to me above
+* Deliverable - see feedback in portfolio
 
 We read about three emotional triggers that can happen when receiving feedback and dove into those by discussing how we feel when we receive feedback. We then practiced writing some feedback to implement on our first project.
 
 #### Learning to Pair: Holding Each Other Accountable, and Giving Feedback
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/learning-to-pair.md)
-* [Link to Completed Deliverables](https://docs.google.com/document/d/16NymvDNiOQUi6tp7JkjFA4eGKSM1pXh8Wgwxw-yDgAY/edit)
+* [Link to Completed Deliverables - DTR Memo](https://docs.google.com/document/d/16NymvDNiOQUi6tp7JkjFA4eGKSM1pXh8Wgwxw-yDgAY/edit)
 
 My biggest takeaways from learning to pair were around managing my expectations and how to communicate with another person to match our expectations. From exploring my own strengths, I think I bring a strong ability to focus for extended periods, a flexible schedule, and high accountability for task completion. One thing I am hoping to work on is using the tools Allison provided to effectively deal with conflict in a pair. We practiced having some tough "retro" conversations, and I would like to be able to use those to effectively work through difficult situations with my teams.
 
