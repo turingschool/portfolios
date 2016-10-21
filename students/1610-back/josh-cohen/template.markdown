@@ -21,7 +21,12 @@ Learn to code in Ruby and pass mod 1.
 
 ## B: Individual Work & Projects
 
-(Intro)
+#### Date-Night
+
+* [GitHub URL](https://github.com/Daleon/Date-Night)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
+
+Project completed week two.  This assignment taught me about an abstract data structure called a Binary Search Tree.  I also learned how to use the information stored in said Search Tree. 
 
 #### Sorting Suite
 
