@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Learn to code in Ruby and pass mod 1.
 
 ## Rubric Scores
 
