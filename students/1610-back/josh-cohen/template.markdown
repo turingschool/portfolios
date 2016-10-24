@@ -32,8 +32,6 @@ Project completed week two.  This assignment taught me about an abstract data st
 
 Assessed By: Beth Sebian
 
-Repo: https://github.com/Daleon/Date-Night
-
 Notes:
 
     Testing sufficient, some opportunities to add more isolation tests for supporting methods
