@@ -73,8 +73,8 @@ This project was not graded.
 
 This poject was a group project assigned for week three.  I worked with one other developer in my cohort by the name of Nick Gheorghita.  The project timeline was bumpy at first, but after the second of seven days given for the project, we utilized each other's similiar proceeses to achieve a solidly built Trie data structured, text autocomplete program.  I look forward to working with Nick again.  
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/Daleon/Complete-Me)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
 
 
