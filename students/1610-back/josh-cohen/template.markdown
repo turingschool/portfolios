@@ -39,7 +39,7 @@ Notes:
     Solid SRP, opportunity to break health calculations into another class
     Some long methods, overall solid effort at refactoring.
 
-Score:
+Scores:
 
 1. Test-Driven Development
     3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
