@@ -62,7 +62,7 @@ Score:
 * [GitHub URL](https://github.com/Daleon/sorting-suite)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
 
-Project completed during week 1. The goal was to learn about sorting algorithms.
+Project completed during week one. The goal was to learn about sorting algorithms.
 
 This project was not graded.
 
