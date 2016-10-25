@@ -95,9 +95,33 @@ I wrote and tested algorithms for bubble sort, insertion sort, merge sort, selec
 
 Amy and I worked together to make the autcomplete using the tries data structure. We learned how to collaborate using git / GitHub and deepend our understanding of data structures and trees. We also learned to populate our automplete with files and figured out how to connect our code to .txt files. We did the delete option and did the SimpleCov extension for the project. As our first paired project I learned a good bit about being a strong team member and setting up expectations for the team to succeed.
 
-(evaluation comments)
+Assessed By: Jeff
 
-(evaluation scores)
+Notes:
+
+Spec harness: runs, though copied instead of cloned, passes
+Project tests do a good job of using multiple perspectives/angles
+Watch out for testing the internal functionality -- test the external interface
+Tests are well built/implemented
+Good inclusion of edgecases
+Implementation is very good from a code quality/style standpoint
+Built delete and used SimpleCov
+Scores:
+
+1. Test-Driven Development
+4: Application is broken into components which are well tested in both isolation and integration using appropriate data, including edge cases
+
+2. Encapsulation / Breaking Logic into Components
+4: Application always breaks concepts into classes and methods which encapsulate functionality.
+
+3. Fundamental Ruby & Style
+4: Application demonstrates excellent knowledge of Ruby syntax, style, refactoring, and extensively uses idiomatic code.
+
+4. Enumerable & Collections
+3: Application makes use of appropriate Enumerable methods and collections
+
+5. Functional Expectations
+4: Application fulfills all base expectations and one extension
 
 Feedback to me: Most of my key takeaways from this session happened during our conversation debriefing the articles about vetting leaders and whether we have a responsibility to vote. I was interested to hear the perspective that abstaining from an election can be a conscious way to "vote." We also dove into extending the example from the reading that civic responsibilities and rights should strike a balance to keep individuals and government healthy. After this gear up I'm still motivated to vote but am hoping to do some more research to be more informed about local positions.
 
