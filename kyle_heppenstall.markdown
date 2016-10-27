@@ -23,6 +23,18 @@ My primary goals for the module are to learn as much as I can and be an effectiv
 
 (Intro)
 
+#### HTTP
+
+* [GitHub URL](https://github.com/kheppenstall/http)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+
+I worked through iteration 4 making my first web application. This was the first project I made that required many different classes. As a resut I learned a good bit about workflow and extracting classes. I also used modules for this first time - incorporating them as functions.
+
+(evaluation comments)
+
+(evaluation scores)
+
+
 #### (Project Name)
 
 * [GitHub URL]()
