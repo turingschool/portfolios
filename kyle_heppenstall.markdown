@@ -34,18 +34,6 @@ I worked through iteration 4 making my first web application. This was the first
 
 (evaluation scores)
 
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
 #### Date Night
 
 * [GitHub URL](https://github.com/kheppenstall/date_night)
