@@ -4,13 +4,6 @@
 
 Learn to code in Ruby and pass mod 1.
 
-## Rubric Scores
-
-* **A: End-of-Module Assessment**: X
-
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
 
 -----------------------
 
