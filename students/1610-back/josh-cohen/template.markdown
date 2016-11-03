@@ -135,12 +135,8 @@ Scores:
 
 
 ### Professional Development Workshops
-#### (Session Name)
+I've attended numerous sessions at Turing School called "Gear-up".  These sessions are meant to broaden our perception of the sofware development world.  
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
-
-(takeaways from session)
 
 ## E: Feedback and Community Participation
 
