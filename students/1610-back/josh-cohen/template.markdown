@@ -14,6 +14,35 @@ Learn to code in Ruby and pass mod 1.
 
 ## B: Individual Work & Projects
 
+
+#### Http-yea-you-know-me
+
+* [GitHub URL](https://github.com/Daleon/http)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+
+This project was an exercise for breaking a workflow into a system of coordinating components, practice using TDD at the unit, integration, and acceptance levels, understand how the HTTP request/response cycle works, and practice implementing basic HTTP requests and responses.  It was a very challenging project, and I learned a great deal about organizing and testing my code.
+
+Assessed By: Jeff Casimir
+
+Notes: NONE
+
+Scores:
+
+1. Test-Driven Development
+    3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
+
+2. Encapsulation / Breaking Logic into Components
+    2: Application consistently breaks concepts into classes and methods which have appropriate scope and responsibilities (SRP).
+    
+3. Fundamental Ruby & Style
+    3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some refactoring, and is mostly idiomatic.
+
+4. Enumerable & Collections
+    3: Application makes use of appropriate Enumerable methods and collections
+
+5. Functional Expectations:
+    4: Application fulfills all base expectations and one extension
+
 #### Date-Night
 
 * [GitHub URL](https://github.com/Daleon/Date-Night)
