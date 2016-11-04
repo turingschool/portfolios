@@ -131,11 +131,11 @@ Feedback from me: I provided Amy with some similar constructive feedback that sh
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Resilience
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+From reading the articles I learned that resilience over time is determined by individual, psychological factors and external, environmental factors. Resilience can both strengthen and evaporate. It is not an inherent quality. Resilience stems from how we use our human stress response. What matters is less about the events and more how the person perceives the event. An adverse event perceived as an opportunity to grow does not traumatize a person in the same way as if they perceived it as a traumatizing event. Humans can use stressors as learning opportunities or exaggerate / create additional stressors and lower their resilience. This session gave some mental practices to become more resilient. For example, frame situations in a productive way (if it is raining, think ‘I get wet in the shower anyway.’) Secondly, turn challenges into fun by viewing them as opportunities to succeed.
 
 #### Introversion and Extroversion on Teams
 
