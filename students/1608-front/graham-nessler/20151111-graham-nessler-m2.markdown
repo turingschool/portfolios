@@ -1,12 +1,14 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Graham Nessler - M2 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My main goals for this module were to deepen my understanding of JavaScript and to gain more proficiency and confidence in testing, an area that I felt I was weak in at the end of Mod 1. I also wanted to increase my community involvement and to do more with professional development, such as going to meetups. I was generally successful in these goals, though testing is still something that I struggle with.
+
+The module got off to something of a rough start with a less-than-ideal result in my first project and then facing React, which was definitely the biggest challenge of the module. Nonetheless, I feel that I grew a great deal as a developer and as a teammate this module. I look forward to building my React skills next module and most of all to delving into the independent project and seeing what I can accomplish. 
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
+* **A: End-of-Module Assessment**: TBD
 * **B: Individual Work & Projects**: X
 * **C: Group Work & Projects**: X
 * **D: Professional Skills**: X

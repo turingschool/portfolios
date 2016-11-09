@@ -1,5 +1,3 @@
-
-
 # Blake Worsley - M2 Portfolio
 ## Individual
 
@@ -242,7 +240,7 @@ I am happy with the job I did with SAB and felt like a helpful leader for the co
 
 * **E: Peer & Instructor Feedback**: 3
 
-I was good about having conversations with people in my groups and I took time with all of the feedback that I gave everyone this mod. 
+I was good about having conversations with people in my groups and I took time with all of the feedback that I gave everyone this mod.
 
 ### Notes
 
