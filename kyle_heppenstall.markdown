@@ -21,7 +21,7 @@ My primary goals for the module are to learn as much as I can and be an effectiv
 
 ## B: Individual Work & Projects
 
-(Intro)
+Overall I feel like I made great progress through my individual projects in the module. As the the projects progressed in difficulty I both struggled and learned more. My biggest takeaway from Date Night were refactoring and improving style. Pairing sessions and PDOOR helped me begin to learn about what strong code can look like. HTTP was the most frustrating project of the module for me, and I learned a good bit about closely following the spec harness / markdown and paying careful attention to syntax with the HTTP responses.
 
 #### HTTP
 
@@ -30,9 +30,23 @@ My primary goals for the module are to learn as much as I can and be an effectiv
 
 I worked through iteration 4 making my first web application. This was the first project I made that required many different classes. As a resut I learned a good bit about workflow and extracting classes. I also used modules for this first time - incorporating them as functions.
 
-(evaluation comments)
+Assessed By: Jeff
 
-(evaluation scores)
+Notes:
+
+41 tests plus 16 server/faraday tests
+In the tests and implementation we see small methods with well defined names and clearly implemented code
+Room for a bit of edge case work with things like the game
+Implementation shows good parallel interfaces to similar objects and overall very good componentization
+Scores:
+
+1. Overall Functionality 3: Application implements iterations 0 - 4
+
+2. Fundamental Ruby & Style 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+3. Test-Driven Development 3: Application uses tests to exercise core functionality and some edge cases, but fails to break out component objects/tests.
+
+4. Breaking Logic into Components 4: Application effectively breaks logical components apart with clear intent and usage
 
 #### Date Night
 
@@ -73,7 +87,7 @@ I wrote and tested algorithms for bubble sort, insertion sort, merge sort, selec
 
 ### Projects
 
-(Intro)
+Both group projects went well for me this module. Complete Me presented an interesting data structure challenge and I loved thinking through the recursive methods with my parnter. That said, our git workflow was nonexistent and we did not communicate effectively when working remotely. Fortunately Molly and I remedied this problem on Black Thursday and used the git workflow recommended by Mike and Ilana to collaborate effectively. We mainly wrote code together in person but also did a bit of divide and conquer on iteration 3 during some of the repetitive repository creation. Both of my partners provided valuable feedback that I am excited to  implement next module.
 
 #### Black Thursday
 
@@ -82,23 +96,7 @@ I wrote and tested algorithms for bubble sort, insertion sort, merge sort, selec
 
 In this project we parsed CSV files and ran data analysis for the online business. We learned most about dividing functionality into classes and modules and keeping organized with all the files. 
 
-Assessed By: Jeff
-
-Notes:
-
-41 tests plus 16 server/faraday tests
-In the tests and implementation we see small methods with well defined names and clearly implemented code
-Room for a bit of edge case work with things like the game
-Implementation shows good parallel interfaces to similar objects and overall very good componentization
-Scores:
-
-1. Overall Functionality 3: Application implements iterations 0 - 4
-
-2. Fundamental Ruby & Style 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-
-3. Test-Driven Development 3: Application uses tests to exercise core functionality and some edge cases, but fails to break out component objects/tests.
-
-4. Breaking Logic into Components 4: Application effectively breaks logical components apart with clear intent and usage
+ASSESSMENT NOTES
 
 #### Complete Me
 
@@ -136,7 +134,8 @@ Scores:
 4: Application fulfills all base expectations and one extension
 
 ## D: Professional Skills
-(Intro)
+
+I benefited tremendously from the gear ups this module. I really enjoyed talking with students from other modules about important topics like civic responsibility and resilience. My favorite gear up of the module was the introversion and extroversion on teams session. I really appreciated the Ted Talk we watched and the time to talk through the way that society and Turing could be setup to help maximize the potential of both introverts and extroverts.
 
 ### Gear Up
 #### Resilience
