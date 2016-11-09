@@ -347,15 +347,35 @@ Along the same lines, I feel that I started to really develop as a team programm
 
 ### Giving Feedback
 
+#### Feedback for Hilary
 
+I enjoyed working with Hilary on 2DoBox. Though we had a few bumps in the road, such as my getting food poisoning the night before the project was due, I feel that we had a good workflow. In a future project, though, I think that we would benefit from starting testing and refactoring earlier. In particular, I think that some of our production-stage bugs could have been avoided if we'd begun testing earlier. Overall, though, it was great to partner with Hilary, and I hope to work together again.
+
+#### Feedback for Kristen
+
+Kristen, I enjoyed working with you a lot on Weathrly. You were consistently upbeat and contributed a great deal to the project. We really struggled at first with React, but your positive attitude and sense of humor helped see us through. Hope we can work together again in the future!
+
+#### Feedback for Gabi
+
+Our third major project of the mod, Shoot the Breeze, was my second project working with Gabi. We could both tell that our skill had definitely improved since Game Time, but we also hit some communication problems in staying on the same page and in sync with regards to both workflow and making sure that each partner understands all of the code. I feel that we worked through these problems well, though, and by the end we were "clicking" much more effectively (and we also turned in a really solid final product to boot). Gabi has always been a positive presence in our cohort, and I've been happy to have been able to work with her twice now. I hope that the matching algorithm makes it a hat trick in the future.
+
+#### Feedback for Matt
+
+Matt and I worked together in a group of three with Christine on Netwerker, our capstone project for the module. By this time, Matt had acquired a reputation for being the most advanced student in our cohort, and I entered the project hoping to learn a lot from him. He didn't disappoint; I really did learn a great deal during our two weeks working on the project. He encouraged me to step outside of my comfort zone and learn more effective ways of writing code. Matt also spent a lot of time helping fellow students in our mod and in 1610, which speaks to his character and to the camaraderie that Turing cultivates.
+
+#### Feedback for Christine
+
+Christine was my partner, along with Matt, for Fire-Bae/Netwerker. I fould her to be a good listener and patient with me when I made coding mistakes or waded into problematic territory. I learned a lot from them both about teamwork and group/partner coding. I thought that Christine and I worked particularly well together near the end of the project when we were doing final CSS/SASS refactoring together; we established a nice rhythm and got a lot done.
 
 ### Being a Community Member
 
 From Anonymous Mod 1 Student (probably Elijah): "Graham was a huge help in bridging a gap between concepts that I couldn't seem to wrap my head around.  It is clear he has a concern for helping others along their way and makes it abundantly clear through his patient guiding and last minute pairings."
 
+From Ian: "Graham has been an excellent addition to the Turing community this module. He is a kind person that genuinely cares about the success of others. He did a great job helping start and run IronFE, and does not hesitate to help other students and post solutions to common problems."
+
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I feel like I contributed a lot to the Turing community this module. I paired several times with 1610 students and also helped others in my own mod when they were struggling. I also participated in the Verou posse and gave a talk at IronFE on localStorage. I plan to continue my community involvement next module by giving a talk for Verou on Canvas, continuing to help fellow students, and hopefully pairing with mods 1 and 2 (though geography might make this difficult). 
 
 ------------------
 
