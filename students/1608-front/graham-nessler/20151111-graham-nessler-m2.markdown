@@ -9,7 +9,7 @@ The module got off to something of a rough start with a difficult first project 
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: TBD
-* **B: Individual Work & Projects**: 3.5 (I feel that my individual work was strong, but due to time constraints, I feel that I did not put forth my best efforts on the small styling projects.)
+* **B: Individual Work & Projects**: 3 (I feel that my individual work was strong, but due to time constraints, I feel that I did not put forth my best efforts on the small styling projects.)
 * **C: Group Work & Projects**: 3 (I grew as a teammate this module, but a teamwork issue with one of the projects reminded me that I still have a ways to go in this area.)
 * **D: Professional Skills**: 3.5 (I feel much more comfortable about my efforts this mod than last mod; my company tracker is a useful tool and I wrote a couple of cold emails and went to a meetup.)
 * **E: Feedback & Community Participation**: 3.5 (I feel that I was more involved in the community this mod)
@@ -317,17 +317,7 @@ This project involved finding ten companies of interest and creating a Trello bo
 
 ## Cold Email:
 
-Here is a cold email that I sent to Jim Ray at Captain U:
-
-"Hi Jim,
-
-I am a front-end engineering student at the Turing School of Software and Design who is interested in learning more about how CaptainU uses technology to connect stakeholders in collegiate athletics. As a black belt in Taekwondo, former college professor, and passionate Michigan Wolverines football fan, I have witnessed firsthand the transformative power of technology in educational and athletic settings.
-
-I would love to learn more about your ongoing projects and the evolution of your company. Might you be available for coffee next Wednesday the 2nd at 8am? I'm happy to come to you; what would be a convenient spot?
-
-Thanks and Go Blue,
-
-Graham Nessler"
+I sent a cold email to a person at CaptainU; full text is available upon request.
 
 ## DTR:
 
@@ -341,7 +331,7 @@ How you incorporated feedback from your team members and what you learned about 
 
 In our projects, we attempted a variety of strategies to manage the various moving parts. With Hilary, it seemed like we often adopted a divide-and-conquer strategy, which to some extent played to our individual strengths but also hindered communication at times. Kristen and I worked more closely on our project, but still could have done more collaborative coding. With the exception of the production bugs in 2DoBox, I feel that all of the projects that I worked on resulted in a solid mvp. I think that things went best when I was in a group that was on the same page and actively coding together, like the collaboration with Matt and Christine on the final project. By contrast, communication sometimes broke down when I tried to take on too much by myself and my partner sometimes did not raise a red flag early enough to signal that a change of direction was needed.
 
-Along the same lines, I feel that I started to really develop as a team programmer in the project with Matt and Christine. As I mentioned in the portfolio for Mod 1, my background is in solo work, and my inclination has been to try to do a lot of the work myself rather than collaboratively. I think that I turned a corner in this respect toward the end of the mod, and I look forward to building my teamwork skills next mod.
+Along the same lines, I feel that I started to really develop as a team programmer in the project with Matt and Christine. As I mentioned in the portfolio for Mod 1, my background is in solo work, and my inclination has been to try to do a lot of the work myself rather than collaboratively. I think that I turned a corner in this respect toward the end of the mod, though, and I look forward to continuing to build my teamwork skills next mod.
 
 ## E: Feedback and Community Participation
 
@@ -375,7 +365,7 @@ From Ian: "Graham has been an excellent addition to the Turing community this mo
 
 ### Playing a Part
 
-I feel like I contributed a lot to the Turing community this module. I paired several times with 1610 students and also helped others in my own mod when they were struggling. I also participated in the Verou posse and gave a talk at IronFE on localStorage. I plan to continue my community involvement next module by giving a talk for Verou on Canvas, continuing to help fellow students, and hopefully pairing with mods 1 and 2 (though geography might make this difficult). 
+I feel like I contributed a lot to the Turing community this module. I paired several times with 1610 students and also helped others in my own mod when they were struggling. I also participated in the Verou posse and gave a talk at IronFE on localStorage. I plan to continue my community involvement next module by giving a talk for Verou on Canvas, continuing to help fellow students, and hopefully pairing with mods 1 and 2 (though geography might make this difficult).
 
 ------------------
 
