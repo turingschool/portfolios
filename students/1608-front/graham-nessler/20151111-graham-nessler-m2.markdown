@@ -283,29 +283,71 @@ Feedback from Matt: TBD
 Feedback from Christine: TBD
 
 ## D: Professional Skills
-(Intro)
+I really feel like I improved my professional development skills this mod. In addition to going to my first meet-up, I completed a useful company tracker, got favorable feedback on my resume from Meg, and wrote a couple of cold emails. I also contributed a lot of my Gear Up groups.
 
 ### Gear Up
-#### (Session Name)
 
-* [GitHub URL]()
+#### Resilience (11/4)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
+This was an interesting session (interesting in a good way). I learned a lot from the others in my group, and I also contributed a lot, especially when I made the point that one way to actively exercise resilience is to seek out constructively uncomfortable situations such as partnering with someone who is more technically advanced. Also, given recent national events, this session ended up bring unintentionally well-timed. All in all, I got a lot out of this session.
 
-### Professional Development Workshops
-#### (Session Name)
+#### Introversion (10/21)
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
-(takeaways from session)
+This session hit home for me because I am an introvert and I identify with many of the challenges identified by the material that we read/watched. I was surprised that so many others in our cohort identify as introverts and face many of the same challenges that I do. I also appreciate that Turing seems to be implementing more introvert-friendly practices following this session such as designating quiet spaces and offering more independent learning opportunities.
+
+In terms of feedback for Turing, I think that there was still too much reading and not enough discussion time in this session and too many questions to discuss or write about in depth (though I appreciate that at the following Gear Up, Ellen Mary made a special point that we could focus on only one or two of the discussion questions rather than trying to tackle them all). In spite of the issues, I feel that this was the most valuable Gear Up of this module.
+
+#### Vote Your Conscience (10/7)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
+
+This election-themed session was obviously very timely and helped us think about some of the broader implications of our work. It also reminded us that our work does not take place in a vacuum. I like the fact that we had an informed and respectful discussion, and I learned a lot from the others, especially one who is a former lawyer. This was a valuable session, though there were issues with too much reading and not enough discussion.
+
+### Professional Development
+
+## Company Tracker:
+
+This project involved finding ten companies of interest and creating a Trello board with details such as pros, cons, and one contact at each company. It has proven useful in my preliminary job exploration.
+
+* [Link to Trello Board](https://trello.com/b/puwSzkqy/graham-nessler-company-tracker)
+
+## Cold Email:
+
+Here is a cold email that I sent to Jim Ray at Captain U:
+
+"Hi Jim,
+
+I am a front-end engineering student at the Turing School of Software and Design who is interested in learning more about how CaptainU uses technology to connect stakeholders in collegiate athletics. As a black belt in Taekwondo, former college professor, and passionate Michigan Wolverines football fan, I have witnessed firsthand the transformative power of technology in educational and athletic settings.
+
+I would love to learn more about your ongoing projects and the evolution of your company. Might you be available for coffee next Wednesday the 2nd at 8am? I'm happy to come to you; what would be a convenient spot?
+
+Thanks and Go Blue,
+
+Graham Nessler"
+
+## DTR:
+
+[Here is a DTR from the 2DoBox project with Hilary](https://docs.google.com/document/d/1UKh547f9EXn_RwLTpZ-UqR6S08GRjIxEnRL7GqIGYic/edit?usp=sharing)
+
+## Reflection:
+
+*Two paragraph reflection on:
+Details on project management strategies you used in your projects; What went well? What didn’t go well?
+How you incorporated feedback from your team members and what you learned about yourself in the process.*
+
+In our projects, we attempted a variety of strategies to manage the various moving parts. With Hilary, it seemed like we often adopted a divide-and-conquer strategy, which to some extent played to our individual strengths but also hindered communication at times. Kristen and I worked more closely on our project, but still could have done more collaborative coding. With the exception of the production bugs in 2DoBox, I feel that all of the projects that I worked on resulted in a solid mvp. I think that things went best when I was in a group that was on the same page and actively coding together, like the collaboration with Matt and Christine on the final project. By contrast, communication sometimes broke down when I tried to take on too much by myself and my partner sometimes did not raise a red flag early enough to signal that a change of direction was needed.
+
+Along the same lines, I feel that I started to really develop as a team programmer in the project with Matt and Christine. As I mentioned in the portfolio for Mod 1, my background is in solo work, and my inclination has been to try to do a lot of the work myself rather than collaboratively. I think that I turned a corner in this respect toward the end of the mod, and I look forward to building my teamwork skills next mod.
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-(feedback from me to partners)
+
 
 ### Being a Community Member
 
