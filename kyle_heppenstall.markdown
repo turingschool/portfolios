@@ -75,16 +75,35 @@ I wrote and tested algorithms for bubble sort, insertion sort, merge sort, selec
 
 (Intro)
 
-#### (Project Name)
+#### Black Thursday
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/kheppenstall/black_thursday)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
-(description)
+In this project we parsed CSV files and ran data analysis for the online business. We learned most about dividing functionality into classes and modules and keeping organized with all the files. 
 
-(evaluation comments)
+Assessed By: Jeff
 
-(evaluation scores)
+Notes:
+
+41 tests plus 16 server/faraday tests
+In the tests and implementation we see small methods with well defined names and clearly implemented code
+Room for a bit of edge case work with things like the game
+Implementation shows good parallel interfaces to similar objects and overall very good componentization
+Scores:
+
+1. Overall Functionality
+
+3: Application implements iterations 0 - 4
+2. Fundamental Ruby & Style
+
+4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+3. Test-Driven Development
+
+3: Application uses tests to exercise core functionality and some edge cases, but fails to break out component objects/tests.
+4. Breaking Logic into Components
+
+4: Application effectively breaks logical components apart with clear intent and usage
 
 (feedback to me)
 
