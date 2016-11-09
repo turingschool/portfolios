@@ -163,13 +163,6 @@ Most of my key takeaways from this session happened during our conversation debr
 
 ### Professional Development Workshops
 
-#### (Session Name)
-
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
-
-(takeaways from session)
-
 #### Feedback I
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/feedback_1.md)
