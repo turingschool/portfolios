@@ -130,7 +130,7 @@ The output from a code sanitizer (either JSHint or ESLint) shows…
 
 * 4 - Zero complaints
 
-Feedback from Hilary: TBD
+Feedback from Hilary: "Graham was wonderful to work with on 2DoBox. He is very smart and makes sure to get the job done quickly and efficiently. He is good a talking me through every aspect of the project and he consistently makes sure we are on the same page with every single line of code. I wish we had more time for the project so Graham and I could have more time to refactor and shorten our code. Graham has a lot to offer a team and he is one of the hardest workers I have worked with yet. "
 
 #### Weathrly
 
