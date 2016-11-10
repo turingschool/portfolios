@@ -42,8 +42,8 @@ Assessed By: Mike Dao
 
 #### Black-Thursday
 
-* [GitHub URL](https://github.com/riverswb/black_thursday)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+* [Black-Thursday](https://github.com/riverswb/black_thursday)
+* [Black-Thursday-Markdown](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
 
 
@@ -81,8 +81,8 @@ Scores:
 
 #### Http-yea-you-know-me
 
-* [GitHub URL](https://github.com/Daleon/http)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+* [Http-yea-you-know-me](https://github.com/Daleon/http)
+* [Http-yea-you-know-me Markdown](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
 This project was an exercise for breaking a workflow into a system of coordinating components, practice using TDD at the unit, integration, and acceptance levels, understand how the HTTP request/response cycle works, and practice implementing basic HTTP requests and responses.  It was a very challenging project, and I learned a great deal about organizing and testing my code.
 
