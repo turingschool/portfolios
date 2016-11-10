@@ -48,8 +48,6 @@ This project was an exercise for breaking a workflow into a system of coordinati
 
 Assessed By: Jeff Casimir
 
-Notes: NONE
-
 Scores:
 
 1. Test-Driven Development
@@ -164,8 +162,6 @@ This poject was a group project assigned for week three.  I worked with one othe
 
 
 Assessed By: Jeff Casimir
-
-Notes: NONE
 
 Scores:
 
