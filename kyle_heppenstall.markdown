@@ -96,7 +96,27 @@ Both group projects went well for me this module. Complete Me presented an inter
 
 In this project we parsed CSV files and ran data analysis for the online business. We learned most about dividing functionality into classes and modules and keeping organized with all the files. 
 
-ASSESSMENT NOTES
+Assessed By: Mike
+
+Notes:
+
+Tests ran at .89 seconds,
+181 runs, 402 assertions
+really good organization of tests
+used module for analytics
+Some minor areas that could be refactored and logic pushed around
+
+1. Functional Expectations 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+
+2. Test-Driven Development 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+
+3. Encapsulation / Breaking Logic into Components 4: Application is expertly divided into logical components each with a clear, single responsibility
+
+4. Fundamental Ruby & Style 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+5. Enumerable & Collections 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+6. Code Sanitation The output from rake sanitation:all shows... 4: Zero complaints
 
 #### Complete Me
 
@@ -182,7 +202,7 @@ My biggest takeaways from learning to pair were around managing my expectations 
 
 I provided Amy with some similar constructive feedback that she provided to me. We did not communicate enough over the weekend so that we ended up with at very different points when we came in on Monday. More frequent check-ins with the partner would have led to higher productivity and less time getting back on the same page when we met up on Monday. I provided her with some positive feedback on her flexibility and ability to notice details about code. I gave her some positive feedback on her ability to balance building a relationship with her partner while creating a really efficient working relationship.
 
-MOLLY FEEDBACK
+My positive feedback for Molly is that she does a great job asking questions and slowing the team down when needed. She has a great attention to detail that helped us build code that was as versatile and stylish as possible without spending too much time refactoring after the fact. My other piece of positive feedback is that Molly took more ownership of the project as it progressed. My constructive feedback is to understand the scope of the project more thoroughly from the beginning to help drive the team more. Overall Molly was very fun to work with and did a good job keeping the mood light but focused.
 
 ### Being a Community Member
 
