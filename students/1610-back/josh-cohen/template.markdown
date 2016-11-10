@@ -48,8 +48,7 @@ Scores:
     4: Application consistently makes use of the best-choice Enumerable methods
 6. Code Sanitation
 
-The output from rake sanitation:all shows...
-
+7. The output from rake sanitation:all shows...
     4: Zero complaints
 
 
