@@ -168,15 +168,15 @@ Scores:
 ### Professional Development Workshops
 I've attended numerous sessions at Turing School called "Gear-up".  These sessions are meant to broaden our perception of the sofware development world.  
 
-#### (Vote Your Conscience)
+#### Vote Your Conscience
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
-#### (Introversion)
+#### Introversion
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
-#### (Resilience)
+#### Resilience
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 (3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
