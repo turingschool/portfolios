@@ -163,7 +163,6 @@ Scores:
 
 
 ## D: Professional Skills
-(Intro)
 
 ### Professional Development Workshops
 I've attended numerous sessions at Turing School called "Gear-up".  These sessions are meant to broaden our perception of the sofware development world.  
