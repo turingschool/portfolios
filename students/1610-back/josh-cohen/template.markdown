@@ -43,7 +43,7 @@ Assessed By: Mike Dao
 #### Black-Thursday
 
 * [Black-Thursday](https://github.com/riverswb/black_thursday)
-* [Black-Thursday-Markdown](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+* [Original_Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
 
 
@@ -82,7 +82,7 @@ Scores:
 #### Http-yea-you-know-me
 
 * [Http-yea-you-know-me](https://github.com/Daleon/http)
-* [Http-yea-you-know-me Markdown](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+* [Original_Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
 This project was an exercise for breaking a workflow into a system of coordinating components, practice using TDD at the unit, integration, and acceptance levels, understand how the HTTP request/response cycle works, and practice implementing basic HTTP requests and responses.  It was a very challenging project, and I learned a great deal about organizing and testing my code.
 
@@ -109,8 +109,8 @@ Scores:
 
 #### Date-Night
 
-* [GitHub URL](https://github.com/Daleon/Date-Night)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
+* [Date-Night](https://github.com/Daleon/Date-Night)
+* [Original_Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 
 Project completed week two.  This assignment taught me about an abstract data structure called a Binary Search Tree.  I also learned how to use the information stored in said Search Tree. 
 
@@ -143,8 +143,8 @@ Scores:
 
 #### Sorting Suite
 
-* [GitHub URL](https://github.com/Daleon/sorting-suite)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
+* [Sorting-Suite](https://github.com/Daleon/sorting-suite)
+* [Original_Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
 
 Project completed during week one. The goal was to learn about sorting algorithms and how Ruby works "under the hood" for #sort.
 
@@ -159,8 +159,8 @@ This project was not graded.
 
 This poject was a group project assigned for week three.  I worked with one other developer in my cohort by the name of Nick Gheorghita.  The project timeline was bumpy at first, but after the second of seven days given for the project, we utilized each other's similiar proceeses to achieve a solidly built Trie data structured, text autocomplete program.  I look forward to working with Nick again.  
 
-* [GitHub URL](https://github.com/Daleon/Complete-Me)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
+* [Complete-Me](https://github.com/Daleon/Complete-Me)
+* [Original_Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
 
 
@@ -193,12 +193,12 @@ Scores:
 I've attended numerous sessions at Turing School called "Gear-up".  These sessions are meant to broaden our perception of the sofware development world.  Below are the sessions attended during Module 1.
 
 #### Vote Your Conscience
-* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
+* [Vote Your Conscience](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
 
 This session had an emphasis on civic duty.  It opened my mind up to different angles as to how my vote is cast.  Not physially, but it changed my process for determining who or what I chose to give my vote. 
 
 #### Introversion
-* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+* [Introversion](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
 I found this topic very interesting.  I learned about folks who can be introverted, yet still function very well in a team environment.  I learned a bit about myself and my form of introversion.  I look at my fellow coders with a slightly different perspective now.  Very thought provoking.
 
