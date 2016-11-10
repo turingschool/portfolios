@@ -278,7 +278,7 @@ The output from a code sanitizer (either JSHint or ESLint) shows…
 * 3 - Five or fewer complaints
 
 
-Feedback from Matt: TBD
+Feedback from Matt: "Working with Graham on our last project was a treat and a priviledge. He's an extremely hard worker and a super reliable teammate. Graham is a good programmer with a lot of knowledge of Javascript. He's clearly very smart and an asset to any team. If I had any tips to help him, I'd recommend that he tries to program with fewer comments and try to pay attention to some more modern styles of websites when designing. Graham is a really great dude with a wonderful sense of humor, I love spending time with him in class. Thanks Graham!"
 
 Feedback from Christine: TBD
 
