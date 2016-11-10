@@ -214,7 +214,7 @@ I enjoyed participating in various events.  I feel I'm becomming part of a large
 
 ### Playing a Part
 
-I may have tough days here, but I always have good things to say about my school.  I like telling people where I go during the day.  Interestingly, as time has gone on, more folks seem familiar with Turing School of Software & Design.  I like representing the community.  It gives me a sense of belonging.
+I may have tough days here, but I always have good things to say about my school.  I like telling people where I go during the day.  Interestingly, as time has gone on, more folks seem familiar with Turing School of Software & Design.  I enjoy representing the coding community, and it gives me a sense of belonging.
 
 ------------------
 
