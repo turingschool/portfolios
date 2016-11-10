@@ -130,7 +130,7 @@ The output from a code sanitizer (either JSHint or ESLint) shows…
 
 * 4 - Zero complaints
 
-Feedback from Hilary: "Graham was wonderful to work with on 2DoBox. He is very smart and makes sure to get the job done quickly and efficiently. He is good a talking me through every aspect of the project and he consistently makes sure we are on the same page with every single line of code. I wish we had more time for the project so Graham and I could have more time to refactor and shorten our code. Graham has a lot to offer a team and he is one of the hardest workers I have worked with yet. "
+Feedback from Hilary: "Graham was wonderful to work with on 2DoBox. He is very smart and makes sure to get the job done quickly and efficiently. He is good a talking me through every aspect of the project and he consistently makes sure we are on the same page with every single line of code. I wish we had more time for the project so Graham and I could have more time to refactor and shorten our code. Graham has a lot to offer a team and he is one of the hardest workers I have worked with yet."
 
 #### Weathrly
 
@@ -142,7 +142,7 @@ This is a weather app using a fake API. It was our first project in React, so it
 
 Evaluation scores: N/A
 
-Feedback from Kristen: TBD
+Feedback from Kristen: "I was so pleased to be paired with Graham for our first forray into writing React components, working with API data, and testing with Enzyme. The learning process and implemenation of the new tools used in the Weathrly project were fundamental for the the rest of the module, and Graham was a great partner for laying that foundation. I often learn new concepts best when given the opportunity to dig into  them on my own, and then convene with my partner to discuss my findings/process/progress. Graham was encouraging to this process, and furthermore, he was able to effectively help me fill in several gaps in understanding. He is exceptionally bright, and while sometimes his code gets particularly complex, I never felt like we were disconnected in the process. Graham has an unparallelled work ethic that he delivers with a positive and pleasant outlook. He would be a remarkable asset to any team, and I hope we have the chance to work together again sometime! "
 
 #### Shoot the Breeze
 
