@@ -39,46 +39,6 @@ Assessed By: Mike Dao
 
 ## B: Individual Work & Projects
 
-
-#### Black-Thursday
-
-* [Black-Thursday](https://github.com/riverswb/black_thursday)
-* [Original_Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
-
-
-
-Assessed By: Beth Sebian
-
-Notes:
-
-    Solid testing suite
-    Testing: some redundant assertions, watch line length in tests
-    Completed through i4
-    Some opportunities to extract classes and functionality into modules, overall solid job with division of responsibilities between classes and methods
-    Consistent use of best-choice enumerables
-    Some opportunities for refactoring (unnecessary local vars, extracting methods into sep classes), but overall strong effort toward organization
-    Zero (0) sanitation errors
-
-Scores:
-
-1. Functional Expectations
-    3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
-2. Test-Driven Development
-    4: Application is broken into components which are well tested in both isolation and integration using appropriate data
-3. Encapsulation / Breaking Logic into Components
-    3: Application effectively breaks logical components apart but breaks the principle of SRP
-4. Fundamental Ruby & Style
-    3: Application shows strong effort towards organization, content, and refactoring
-5. Enumerable & Collections
-    4: Application consistently makes use of the best-choice Enumerable methods
-6. Code Sanitation
-
-7. The output from rake sanitation:all shows...
-    4: Zero complaints
-
-
-
-
 #### Http-yea-you-know-me
 
 * [Http-yea-you-know-me](https://github.com/Daleon/http)
@@ -152,8 +112,47 @@ This project was not graded.
 
 ## C: Group Work & Projects
 
-### Projects
+### Group Projects
 
+#### Black-Thursday
+
+This poject was a group project assigned for the final two weeks of Module 1.  It entailed a great deal of file interaction which I found to be both fun and highly useful.  The project partner, Brett Rivers (also a Module 1 student) and I had some major communication problems the first three days.  After staff intervention, we were able to see our differences.  We then took our major differences and utilized them to our advantage.  Due to our bumpy original start to the project, we were only expected complete through iteration 3.  Even with adversity outside this project
+
+
+
+* [Black-Thursday](https://github.com/riverswb/black_thursday)
+* [Original_Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
+
+
+
+Assessed By: Beth Sebian
+
+Notes:
+
+    Solid testing suite
+    Testing: some redundant assertions, watch line length in tests
+    Completed through i4
+    Some opportunities to extract classes and functionality into modules, overall solid job with division of responsibilities between classes and methods
+    Consistent use of best-choice enumerables
+    Some opportunities for refactoring (unnecessary local vars, extracting methods into sep classes), but overall strong effort toward organization
+    Zero (0) sanitation errors
+
+Scores:
+
+1. Functional Expectations
+    3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
+2. Test-Driven Development
+    4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+3. Encapsulation / Breaking Logic into Components
+    3: Application effectively breaks logical components apart but breaks the principle of SRP
+4. Fundamental Ruby & Style
+    3: Application shows strong effort towards organization, content, and refactoring
+5. Enumerable & Collections
+    4: Application consistently makes use of the best-choice Enumerable methods
+6. Code Sanitation
+
+7. The output from rake sanitation:all shows...
+    4: Zero complaints
 
 ### Complete-Me
 
@@ -211,15 +210,15 @@ This topic was very close to "home" for me.  It entailed the idea of resilience 
 
 ### Giving Feedback
 
-(feedback from me)
+I was able to make the majority of community events such as Possies, lunch roulette, and paring.  I enjoyed all these events, because it put me in a place to learn more about my fellow students here at Turing School of Software & Design.
 
 ### Being a Community Member
 
-(feedback to me)
+I enjoyed participating in various events.  I feel I'm becomming part of a larger community; every day.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I may have tough days here, but I always have good things to say about my school.  I like telling people where I go during the day.  Interestingly, as time has gone on, more folks seem familiar with Turing School of Software & Design.  I like representing the community.  It gives me a sense of belonging.
 
 ------------------
 
