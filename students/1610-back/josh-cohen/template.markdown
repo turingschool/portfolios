@@ -194,16 +194,18 @@ I've attended numerous sessions at Turing School called "Gear-up".  These sessio
 
 #### Vote Your Conscience
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
+
 This session had an emphasis on civic duty.  It opened my mind up to different angles as to how my vote is cast.  Not physially, but it changed my process for determining who or what I chose to give my vote. 
 
 #### Introversion
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
+
 I found this topic very interesting.  I learned about folks who can be introverted, yet still function very well in a team environment.  I learned a bit about myself and my form of introversion.  I look at my fellow coders with a slightly different perspective now.  Very thought provoking.
 
 #### Resilience
-* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+* [Resilience](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
+This topic was very close to "home" for me.  It entailed the idea of resilience and how it applied to people of all walks of life.  It can be learned, but people can also posess an innate psychological predisposition for mental resilience.  Adversity in one's life can ultimately become an asset, vice liability.
 
 ## E: Feedback and Community Participation
 
