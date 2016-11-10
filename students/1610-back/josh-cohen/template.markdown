@@ -194,7 +194,7 @@ I've attended numerous sessions at Turing School called "Gear-up".  These sessio
 
 #### Vote Your Conscience
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This session had an emphasis on civic duty.  It opened my mind up to different angles as to how my vote is cast.  Not physially, but it changed my process for determining who or what I chose to give my vote. 
 
 #### Introversion
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
