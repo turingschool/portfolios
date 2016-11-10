@@ -201,7 +201,7 @@ My positive feedback for Molly is that she does a great job asking questions and
 
 Amy provided me with the constructive feedback of around leading with more questions and trying to solicit ideas from partners first before sharing ideas. She also provided some positive feedback that I was fun to work with and had a strong ability to stay focus and keep the overall vision of the project at hand.
 
-KYLE FEEDBACK
+Feedback from Molly: "Kyle was a fantastic partner - his skill as a teacher shone through in particular, and I feel that learned an exceptional amount simply from observing how he approached problems - my Ruby game definitely leveled up from working with him. My only piece of constructive feedback to offer would be to not get too swept up in the hype/stress surrounding the project and dial back the intensity of the work in the beginning as we are laying the conceptual foundations. As a partner who was behind him in skill level, the pace was intimidating at times. That being said, once I was confident that I fully grasped the structure of the program, working with him felt very focused but relaxed, which is the sweet spot I think we all aspire to hit in our work! In the end, I feel lucky to have had the opportunity to pair with him on this project."
 
 ### Playing a Part
 
