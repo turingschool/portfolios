@@ -75,13 +75,6 @@ Has delete, leaves, height
 
 4. Fundamental Ruby & Style
   3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) needs some     refactoring, and is mostly idiomatic.
-  
-#### Sorting Suite
-
-* [GitHub URL](https://github.com/kheppenstall/sorting_suite)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
-
-I wrote and tested algorithms for bubble sort, insertion sort, merge sort, selection sort, and in-place insertion sort. No evaluation.
 
 ## C: Group Work & Projects
 
