@@ -24,16 +24,13 @@ Notes: Was able to get through "what can I make" on option 2
 Scores:
 
  1. Ruby Syntax & API
+  * 4: Developer is able to write Ruby with a minimum of reference or debugging
 
-* 4: Developer is able to write Ruby with a minimum of reference or debugging
+2. Completion and Progress 
+ * 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
 
- 2. Completion and Progress 
-
-* 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
-
- 3. Testing 
-
-* 4: Developer excels at taking small steps and using the tests for both design and verification
+3. Testing 
+ * 4: Developer excels at taking small steps and using the tests for both design and verification
 
  4. Workflow
 
