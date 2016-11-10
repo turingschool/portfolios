@@ -198,7 +198,7 @@ This session had an emphasis on civic duty.  It opened my mind up to different a
 
 #### Introversion
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+I found this topic very interesting.  I learned about folks who can be introverted, yet still function very well in a team environment.  I learned a bit about myself and my form of introversion.  I look at my fellow coders with a slightly different perspective now.  Very thought provoking.
 
 #### Resilience
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
