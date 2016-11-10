@@ -36,6 +36,7 @@ Assessed By: Mike Dao
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
+
 ## B: Individual Work & Projects
 
 
