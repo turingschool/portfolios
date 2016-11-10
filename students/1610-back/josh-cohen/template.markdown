@@ -165,7 +165,7 @@ Scores:
 ## D: Professional Skills
 
 ### Professional Development Workshops
-I've attended numerous sessions at Turing School called "Gear-up".  These sessions are meant to broaden our perception of the sofware development world.  
+I've attended numerous sessions at Turing School called "Gear-up".  These sessions are meant to broaden our perception of the sofware development world.  Below are the sessions attended during Module 1.
 
 #### Vote Your Conscience
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown)
