@@ -355,7 +355,7 @@ Matt and I worked together in a group of three with Christine on Netwerker, our 
 
 #### Feedback for Christine
 
-Christine was my partner, along with Matt, for Fire-Bae/Netwerker. I fould her to be a good listener and patient with me when I made coding mistakes or waded into problematic territory. I learned a lot from them both about teamwork and group/partner coding. I thought that Christine and I worked particularly well together near the end of the project when we were doing final CSS/SASS refactoring together; we established a nice rhythm and got a lot done.
+Christine was my partner, along with Matt, for Fire-Bae/Netwerker. I found her to be a good listener and patient with me when I made coding mistakes or waded into problematic territory. I learned a lot from them both about teamwork and group/partner coding. I thought that Christine and I worked particularly well together near the end of the project when we were doing final CSS/SASS refactoring together; we established a nice rhythm and got a lot done.
 
 ### Being a Community Member
 
