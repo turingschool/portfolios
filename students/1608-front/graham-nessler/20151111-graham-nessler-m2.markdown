@@ -217,7 +217,7 @@ Note: 1 uniq complaint
 
 * 3 - The application has a strong approach to layout and content hierarchy, but typography and color choices are lacking. The evaluator has several recommended changes to improvement.
 
-Feedback from Gabi: TBD
+Feedback from Gabi: "Graham is the ultimate code workhorse. This was my second project working with Graham, and he is still 100% all-in to the project. I am always impressed with his ability to quickly grasp and implement new concepts. Graham still remains the git workflow and console.log master. An area that Graham could benefit from working on would be communication workflow. It seems easy for Graham to get consumed by the project, but the project partner(s) may sometimes suffer in this situation. Navigating or ping-pong pairing may slow down workflow a bit, but could also help to open up Graham's communicative workflow in the future.  Thank you again, Graham, for your hard work!"
 
 #### Netwerker/Fire-Bae/Tier Two Project
 
@@ -280,7 +280,7 @@ The output from a code sanitizer (either JSHint or ESLint) shows…
 
 Feedback from Matt: "Working with Graham on our last project was a treat and a priviledge. He's an extremely hard worker and a super reliable teammate. Graham is a good programmer with a lot of knowledge of Javascript. He's clearly very smart and an asset to any team. If I had any tips to help him, I'd recommend that he tries to program with fewer comments and try to pay attention to some more modern styles of websites when designing. Graham is a really great dude with a wonderful sense of humor, I love spending time with him in class. Thanks Graham!"
 
-Feedback from Christine: TBD
+Feedback from Christine: "I worked with Graham, along with Matt, on the fire-bae project. I thought the three of us worked really well together. It is clear that Graham has a solid understanding of React and Javascript. I was especially impressed with his workflow and hope to implement some of those practices in my work."
 
 ## D: Professional Skills
 I really feel like I improved my professional development skills this mod. In addition to going to my first meet-up, I completed a useful company tracker, got favorable feedback on my resume from Meg, and wrote a couple of cold emails. I also contributed a lot of my Gear Up groups.
