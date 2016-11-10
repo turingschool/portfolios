@@ -128,8 +128,6 @@ Assessed By: Mike
 
 Repo: http://github.com/robbie-smith/nightwriter
 
-DTR :https://gist.github.com/Robbie-Smith/b5e3eaf605c04b9273cb04248089e236
-
 Notes:
 * Rake test file
 * 26 tests 749 assertions
@@ -215,8 +213,10 @@ The output from `rake sanitation:all` shows...
 ### Professional Development Workshops
 
 #### Deliverables: 
- * I emailed my updated resume and LinkedIn account to Meg for review.
- * Strengths-Finder, I opted not to participate in strengths-finder during module 1 again, and will be continuing with it again in module 2.
+ * Strengths-Finder, I opted not to participate in strengths-finder during module 1 again, and will be continuing with it    again in module 2.
+ * DTR for night_writer: https://gist.github.com/Robbie-Smith/b5e3eaf605c04b9273cb04248089e236
+ * LinkedIn https://www.linkedin.com/in/robert-smith-66108859
+ * Resume: My resume was sent to Meg for review.
  
 ## E: Feedback and Community Participation
 
