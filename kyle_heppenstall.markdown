@@ -16,8 +16,18 @@ My primary goals for the module are to learn as much as I can and be an effectiv
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessed By: Ilana
+Challenge: Option 2
 
+Notes: Was able to get through "what can I make" on option 2
+
+Scores:
+1. Ruby Syntax & API 4: Developer is able to write Ruby with a minimum of reference or debugging
+2. Completion and Progress 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+3. Testing 4: Developer excels at taking small steps and using the tests for both design and verification
+4. Workflow 4: Developer is a master of their tools, efficiently moving between phases of development
+5. Collaboration 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+6. Enumerable & Collections 4: Application consistently makes use of the best-choice Enumerable methods
 
 ## B: Individual Work & Projects
 
