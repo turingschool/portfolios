@@ -31,7 +31,7 @@ Assessed By: Mike Dao
 
 * 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
-### 6. Enumerable & Collections
+#### 6. Enumerable & Collections
 
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
