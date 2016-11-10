@@ -205,7 +205,7 @@ I found this topic very interesting.  I learned about folks who can be introvert
 #### Resilience
 * [Resilience](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
-This topic was very close to "home" for me.  It entailed the idea of resilience and how it applied to people of all walks of life.  It can be learned, but people can also posess an innate psychological predisposition for mental resilience.  Adversity in one's life can ultimately become an asset, vice liability.
+This topic was very close to "home" for me.  It entailed the idea of resilience and how it applied to people of all walks of life.  It can be learned, but people can also posess an innate psychological predisposition for mental resilience.  Adversity in one's life can ultimately become an asset, vice a liability.
 
 ## E: Feedback and Community Participation
 
