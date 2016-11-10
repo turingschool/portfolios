@@ -1,12 +1,8 @@
-# Dale Hendrikson - M1 Portfolio
+# Dale Hendrickson - Module 2 Portfolio
 
 ## Areas of Emphasis
 
-My primary goals for Module 1 of the Front-End program at Turing were quite simply to adapt to the organizational environment and to build positive relationships with my cohort. I felt that I needed to set the stage knowing the Module 1 will likely be the easiest from a technical stand point and having the right foundation to successfully complete the program was critical.  I think I have made some progress in that area but need to make some adjustments to get the balance right, perhaps ending the day earlier and starting earlier.
-
-I believe that I have begun to build some positive relationships with the cohort.  I view their success as important as mine and I will continue to offer the assistance and support needed from my knowledge of the terminal, git, analysis, and planning.  I also hope that I can continue to bring a positive perspective based on my life and professional experience while also being open learning from those in my group.
-
-Going forward my biggest challenge will be the competence in the syntax of the languages and frameworks that we are learning and working with.  This has always been difficult for me.  A possible approach would be to get my pairs to spend more time upfront on analysis and design then have me spend more time at the keyboard in during pairing sessions.  Also, my comprehension of object oriented constructs is still tenuous and I am unsure of how to improve in that area.
+My primary goals for Module 2 of the Front-End program were to continue to build on my skills in JavaScript and the over all development process. I wanted to continue to build on workflow with my project teams to reinforce good practices.
 
 ## Rubric Scores
 
@@ -20,178 +16,281 @@ Going forward my biggest challenge will be the competence in the syntax of the l
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+### Evaluator: Meeka
 
+#### Progression/Completion
+
+* 3: Developer is able to implement solutions at the speed of a junior developer.
+
+#### JavaScript Style
+
+* 4: Developer writes code that is exceptionally clear and well-factored
+
+#### Workflow
+
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+#### Collaboration
+
+* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 ## B: Individual Work & Projects
 
-(Intro)
+### Number Guesser in React
 
-#### Number Guesser
+* [Number Guesser in React](https://dshendrickson.github.io/number-guesser-react/public)
+* [Code Base](https://github.com/dshendrickson/number-guesser-react)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser-in-react.html)
 
-* [Number Guesser](https://dshendrickson.github.io/number-guesser/)
-* [Code Base](https://github.com/dshendrickson/number-guesser)
-* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+### Instructor Evaluation Points: Number Guesser React
+#### Instructor: Taylor
 
-Number Guesser is a web based game that presents a person with an input form to enter guess integer to match a random number generated between a range of numbers defined by the game.  To win the game, the person's enter guess matches the random generated vale.
+##### Functional Expectations
+* 3.5: Application meets all of the functional expectations in Phase Two
 
-##### Evaluation Comments
+##### Fundamental JavaScript/React Style
+* 3: Application shows strong effort towards organization, content, and refactoring
 
-Excellent effort to refactor code. Love that you pulled out methods and conditionals to separate functions. I think there is room for refactoring. Some smelly long functions.
-
-##### Scores (0 to 4)
-Functional Expectations: 4 -Application meets all of the functional expectations in Phase Three.
-Fundamental JavaScript Style: - 2.5
 
 ## C: Group Work & Projects
 
-### Projects
+### 2DoBox-Pivot
 
-1608 Front-End Module 1 Projects
+* [2DoBox Pivot](https://gprocell927.github.io/2DoBox-Pivot/)
+* [Code Base](https://github.com/gprocell927/2DoBox-Pivot.git)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot)
 
-#### Number Guesser
+### Instructor Evaluation Points: 2DoBox
+#### Instructor: Taylor
+#### Comments: Try not to push up entire files that have commented out code. Start to feel comfortable just deleting code. Should not append a <li> to a <section>
 
-* [Number Guesser](https://dshendrickson.github.io/number-guesser/)
-* [Code Base](https://github.com/dshendrickson/number-guesser)
-* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+##### Specification Adherence
 
-Number Guesser is a web based game that presents a person with an input form to enter guess integer to match a random number generated between a range of numbers defined by the game.  To win the game, the person's enter guess matches the random generated value.
+* 2.5 - The application is in a usable state, but is missing * 1 or more of the features outline in the specification above.
+  - "The application should only show the ten most recent TODOS."
+  - The application should contain a button labeled “Show more TODOs …”
+    - Its okay to change the spec but you need to ask the client. Next ten is slightly confusing
+  - "The submit button should be disabled when there is not valid content in both input fields..."
 
-##### Evaluation Comments
+##### Accessibility
 
-Excellent effort to refactor code. Love that you pulled out methods and conditionals to separate functions. I think there is room for refactoring. Some smelly long functions.
+* 3 - The application has a strong accessibility presence. The developer showed a strong effort to keep accessibility in mind from the beginning of the project. The application has 0 - 3 aXe-core violations.
+  - note: don't append <li> to <section>.
 
-##### Scores (0 to 4)
-Functional Expectations: 4 -Application meets all of the functional expectations in Phase Three.
-Fundamental JavaScript Style: - 2.5
+##### User Interface
 
-##### Feedback from Mike Ziccardi  
-Dale was my partner on our very first project. I was having a hard time wrapping my head around javascript and Dale helped me to get a better grasp. He would always help explain things when I had questions, and was always happy to repeat himself. For our first project I was happy to be paired with Dale. He’s the Git master and is always happy to help when anybody has questions.
+* 3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality. The application less than * 3 aXe-core violations
 
-#### Linked List
+##### HTML Style
 
-* [Linked List](https://dshendrickson.github.io/linked-list/)
-* [Code Base](https://github.com/dshendrickson/linked-list)
-* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+* 4: Developer is able to craft HTML that is semantically correct and clearly organized. There are zero instances where an instructor would recommend taking a different approach. Developer writes markup that is exceptionally clear and well-factored. Application is expertly organized and logically structured with with a clear, thoughtful use of tags and selectors.
+  - great use of aria-label
 
-Linked list is a web based application that allows a person to enter a web url and associated title. Once submitted all the titles and links appear on the page and the person can then mark them read and/or remove them.  A global button to remove all links marked read is also available.
+##### CSS/Sass Style
 
-##### Scores (0 to 4)
-Functional Expectations: 4 - Application meets all of the functional expectations in Phase Three.
-HTML Style: 4 - Developer is able to craft HTML that is semantically correct and clearly organized. There are zero instances where an instructor would recommend taking a different approach. Developer writes markup that is exceptionally clear and well-factored. Application is expertly organized and logically structured with with a clear, thoughtful use of tags and selectors.
-CSS Style: 3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS is doing.
-Fundamental JavaScript Style: 3 - Application shows strong effort towards organization, content, and refactoring.
-Workflow: 3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+* 4: Application has exceptionally well-factored CSS/Sass with little or no duplication and all styles separated out into logical stylesheets. There are zero instances where an instructor would recommend taking a different approach.
 
-##### Feedback from Devin Beliveau
-I was really excited to work with Dale because he knows so much about git and github (which I was struggling with at the time) and it was really helpful to spend the first forty-five minutes just going through the workflow and setting up the project correctly. It’s clear Dale really takes the time to think about how to break large pieces of projects into smaller parts and he made sure we understood why we were writing every line of code we did. Overall the linked-list was one of my favorite projects and I think it was because our workflow was so great.
+##### JavaScript Style
 
-#### IdeaBox
+* 3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
-* [IdeaBox](http://ianlancaster.github.io/idea-box/)
-* [Code Base](https://github.com/dshendrickson/ideabox/)
-* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+##### Testing
 
-IdeaBox is a web based application that allows a person to capture ideas by entering and saving them in a web page.  The person can then change the quality of the idea.  The idea can also be deleted from the IdeaBox.
+* 2.5 - Project has sporadic use of tests and multiple levels. The application contains numerous holes in testing and/or many features are untested.
 
-##### Scores
+##### Workflow
 
-Specification Adherence: 3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+* 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
-User Interface: 4 - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor without guidance from the developer.
+##### Code Sanitation
 
-JavaScript Style: 3- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+The output from a code sanitizer (either JSHint or ESLint) shows…
 
-Workflow: 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+* 4 - Zero complaints
+
+##### FeedBack from Gabi Procell
+Working with Dale has lead me to gain a newfound appreciation for one's ability to destructure bigger problems into smaller components. Dale has also shown great leadership within the cohort by spearheading our front end Iron FE daily study group.  From our time on the 2DoBox Pivot project, I do remember Dale expressing some frustration with OOP. I hope that OOP began to come to him more naturally as he was able to implement it throughout the module. Thanks, Dale for being a great partner and cohort member!
+
+### Weathrly
+
+* [Weathrly](https://kswhyte.github.io/weathly/)
+* [Code Base](https://github.com/kswhyte/weathrly)
+* [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
+
+##### Feedback from Kinan Whyte
+Working with Dale has been a great pleasure. His ability to plan ahead with projects and to approach the software process is strong and indicates a healthy background in project management. This has made workflow very effective and smooth. He has taken initiative for our cohort to host review sessions nearly every morning on the weekdays, which has certainly strengthened bonds among students and solidified concepts for our group. Indeed the name of these groups, IronFE, has stayed true to its meaning. Dale is approachable and patient with learning concepts and progressing through the software development process, both vital to setting and constructing a classroom for optimal learning. If he could improve on anything it would be to increase his speed and workflow skills. His pace to thinking is refreshing and ultimately his process is clean and efficient. While implementing features and writing code, however, I could see some room for learning more shortcut keys and gaining some time with the keyboard to increase muscle memory. I suggest typing.io for this. Overall, I am confident Dale will be an asset to future teams and have had a great pleasure working with him.
+
+### Shoot the Breeze
+
+* [Shoot the Breeze]()
+* [Code Base](https://github.com/ChelseaSkovgaard/shootthebreeze)
+* [Original Assignment](http://frontend.turing.io/projects/shoot-the-breeze.html)
+
+#### Instructor Evaluation Points: shoot the breeze
+#### Instructor: Jhun
+#### Comments:
+- more conversations in the pr
+- great components
+- great tests!
+- ui issues with the button
+- also messages are still submitted without any text in the field.
+
+#### Specification Adherence
+
+* 3 - The application consists of one page with all of the major functionality being provided by React. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+
+
+#### Component Architecture
+
+* 4 - Application is broken out into small reusable React components. Complicated functionality is wrapped in parent components. There are zero cases where a complicated component can be broken down into smaller composite components.
+
+
+#### User Interface
+
+* 3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+#### CSS/Sass Style
+
+* 4: Application has exceptionally well-factored CSS/Sass with little or no duplication and all styles separated out into logical stylesheets. There are zero instances where an instructor would recommend taking a different approach.
+
+
+#### JavaScript Style
+
+* 3.5- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+
+#### Testing
+
+* 4 - Project has a running test suite that exercises the application using Enzyme. The test suite covers almost all aspects of the application (aside from logging in).
+
+#### Workflow
+
+* 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+
+#### Code Sanitation
+
+The output from a code sanitizer (either JSHint or ESLint) shows…
+
+* 4 - Zero complaints
+
+
+#### Design
+
+* 4 - The application is visually appealing and shows thoughtful and effective use of typography, color, and layout. The application looks professional, with visuals enhancing the user’s experience. The evaluator has very few recommended changes.
+
+
+##### Feedback from Chelsea Skovgaard
+Dale is methodical and thoughtful. I appreciated how he proposed and we enacted taking a step back from the project at the beginning to sketch out the project, consider how the different components would interact, and draw out the process. In other projects, my partners and I have dived into immediately coding and it was difficult to see the big picture and how the components would interact. Dale is also good at talking through processes, which help lead to a clearer understanding of concepts. It was also useful that we attempted to use agile practices - creating a component, designing, then testing. Although this became difficult to implement when we didn’t fully understand how to do testing in enzyme. One suggestion I have to Dale is to work on asking for help more often if needed. Since at times, it seemed he was hesitant to reach out for help.
+
+#### MoMoney (Fire-Bae)
+
+* [MoMoney](https://mo-money-2f924.firebaseio.com/)
+* [Code Base](https://github.com/dshendrickson/mo-money)
+* [Original Assignment](http://frontend.turing.io/projects/fire-bae.html)
+
+### Instructor Evaluation Points: 2DoBox
+#### Instructor: Meeka
+
+##### Specification Adherence
+
+* 4 - Bumped to a 4 with the zero value fix!
+
+##### Risk Taking and Creativity
+
+* 4 - Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature. The application shows evidence that the developers explored concepts and technologies outside the scope of the curriculum.
+
+##### Design
+
+* 3.5 - The application has a strong approach to layout and content hierarchy, but typography and color choices are lacking. The evaluator has several recommended changes to improvement.
+
+Notes: Sign out should maybe be above or below
+Grey space on the sides
+Indication of sample card being a sample card
+
+##### User Interface
+
+* 4 - The application is pleasant, logical, and easy to use. The application is fully responsive, and has clearly had special consideration around usability on devices. There are no holes in functionality and the application stands on its own to be used by the instructor without guidance from the developer.
+
+##### HTML Style
+
+* 4: Developer is able to craft HTML that is semantically correct and clearly organized. There are zero instances where an instructor would recommend taking a different approach. Developer writes markup that is exceptionally clear and well-factored. Application is expertly organized and logically structured with with thoughtful use of tags and selectors.
+
+##### CSS/Sass Style
+
+* 4: Application has exceptionally well-factored CSS/Sass with little or no duplication and all styles separated out into logical stylesheets. There are zero instances where an instructor would recommend taking a different approach.
+
+##### JavaScript Style
+
+* 3.5 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+##### Testing
+
+* 3.5 - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application has robust unit tests and makes some use of feature testing where appropriate and applicable.
+
+##### Workflow
+
+* 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+##### Accessibility
+
+* 4 - The application demonstrates an exceptional knowledge of web accessibility. The application has no aXe-core violations, is fully functional without using a mouse, and the application uses HTML/CSS to ‘chunk’ content into more manageable pieces. The application utilizes semantic HTML.
+
+# Code Sanitation
+
+The output from a code sanitizer (either JSHint or ESLint) shows…
+
+* 3 - Five or fewer complaints
+
+#### FeedBack from Lacey Knaff
 
 ##### Feedback from Ian Lancaster
-Dale was a pleasure to work with Dale for the Idea Box project. He had great insights as we worked on the project and was very receptive to me coaching him through parts of the code that we were having trouble with. We worked in an effective and collaborative manner for most of the project, but also effectively divided and conquered features toward the end.
+I truly enjoyed working with Dale on Mo Money, and would gladly work with him again. Dale is not only an exemplary member of the Turing community, but also a great leader. Dale worked collaboratively and effectively with both Lacy and myself from start to finish for this project. I especially appreciated the experience and knowledge about SCRUM and agile methodologies that he brought to the table, and his calm and focused demeanor in the face of gitastrophe. While Dale wrote a substantial portion of the code for this project, most of the React portion was done as a group. I think it would have benefited both the project as a whole and Dale's confidence working with react if he went in and did a bit of react refactoring on his own.
 
-#### Game Time 2048
+##### Feedback from Lacey Knaff
+I had a fantastic time working with Dale on our group project, MoMoney. He is an incredibly efficient planner and manager. Throughout the project he made sure to facilitate checkins with the group, utilized waffle effectively, and shared his skills in Agile work methods. I learned a lot from his leadership in the project. Some things Dale could work on are confidence in his abilities as a developer, I think he knows more than he gives himself credit for and I sometimes think it makes him question himself when he doesn't need to.  I also appreciated his feedback in our final review about focusing on areas of weakness in projects. I hope that we can work together on future projects to have the opportunity to share more of our strengths, as I think we could learn a lot from each other. Thanks Dale!
 
-[2048](https://rcwestlake.github.io/2048/)
-[Code Base](https://github.com/dshendrickson/2048)
-[Original Assignment](http://frontend.turing.io/projects/game-time.html)
+## D: Professional Skills
+(Intro)
 
-2048 is a web based game based on factors of two with the objective to combine adjacent tiles/cells to obtain higher valued ones. The player can choose to move up, down, left, or right using the arrow keys on a standard keyboard. The play stops when there are no open tiles/cells on the game board and no adjacent tiles/cells that can be combined.
+### Gear Up
+#### Introversion
+* [Introversion](https://github.com/turingschool/gear-up/blob/master/introversion.markdown)
 
-##### Scores
+As a person that has come to terms as being a 'quiet' person and lead teams that included introverted people, I appreciated Turing bringing this to Gear Up.   
 
-Functional Expectations: 3 - Application is fully playable without crashes or bugs
-User Interface: 4 - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor without guidance from the developer.
-Testing: 4 - Project has a running test suite that exercises the application at multiple levels. The test suite covers almost all aspects of the application and uses mocks and stubs when appropriate.
-JavaScript Style: 3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
-Workflow: 4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
-Code Sanitation: 3 - Five or fewer complaints
+#### Resilience
 
-##### Feedback from Ryan Westlake
-We had the pleasure of having Dale join our team mid-way through the project. He was able to quickly get comfortable with the layout of our code and our progress in the project. While it can be difficult to not have the benefit of context, Dale did an amazing job of being a valuable contributor right away. He has an analytical mind, which was helpful as we worked through several bugs. I hope I have the pleasure of working with Dale again, and trust he will be very successful in the program and with whatever company is blessed to hire him.
+* [Resilience](https://github.com/turingschool/gear-up/blob/master/resilience.markdown)
 
-##### Feedback from Christine Gamble
-Dale joined Ryan and I on Gametime, and I am really glad he did! Ryan and I worked closely with Dale before he officially joined the team since we were doing the same game. I was incredibly impressed with how thorough Dale thought out the approach.  His attention to detail made a great difference in how we wrote our code. When he joined our team he was able to jump right into our code, and did some great work, especially with finding bugs and refactoring.  I look forward to working more with him.
+
+
+### Professional Development Workshops
+#### (Session Name)
+
+* [Workshop URL]()
+* [Link to Completed Deliverables]()
+
+(takeaways from session)
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-#### Devin Beliveau on Linked List
-Devin and I worked on the Linked List project.  I found Devin to be creative and easy to work with. We quickly established a great balance of pair and independent work time. Due to this we were able to bring things together effectively and learn from each other.  She was thoughtful about the approaches to the work and we were always able to talk constructively through challenges.  I look forward to working with her again.
-
-#### Christine Gamble on Game Time 2048
-Christine was on the Game Time project with Ryan and me.  She was a pleasure to work with and, as a team, worked really well together.  We received very positive feedback during the code review on the tests that were developed for the project.  Christine was lead for testing on the project and guided us to success.  I look forward to working with her in the future.
-
-
-#### Ian Lancaster on IdeaBox
-Ian and I worked on the IdeaBox project.  He was a couple of steps ahead of me on JavaScript skills but took the time to walk me though and explain the where and why he was moving in a particular direction.  We had a great balance of pair and independent work time and were able to bring together our work effectively. Ian was a solid pair and I look forward to working with him through our time at Turing.
-
-#### Ryan Westlake on Game Time 2048
-Ryan, Christine, and I worked the GameTime project. I was late joining the team but he was supportive and helpful in allowing me to catchup to the work that had already done.  He has strong leadership skills with a good self-awareness of where he wants to improve. We were able to establish a great balance of joint and independent work that kept the project moving forward without anyone getting left behind.  Ryan was a great listener as well as being good about talking through technical challenges. I really look forward to working with him through our time a turing.      
-
-#### Mike Ziccardi on Number Guesser
-I worked with Mike on Number Guesser, the first project for 1608-FE.  We worked effectively together and did most of the work in joint pairing.  I came to the project with more knowledge of the command-line and git and Mike was eager to learn those tools.  Though he often said he, "wasn’t getting it,” he kept working hard and understated what he was learning. I liked working with Mike and the work we accomplished.
+(feedback from me)
 
 ### Being a Community Member
 
-#### Alex Pilewski
-Dale has been a wonderful, wonderful member of the cohort. He is extremely gracious with his time and has helped countless members of our group with git issues time and again. It is easy to notice his excellent work temperament that helps make problem solving and collaboration frictionless. I would be delighted to be paired with Dale on any project.
+(feedback to me)
 
 ### Playing a Part
 
-* Attended React JS meetup.
-* Shared git and terminal skills with my cohort as well as with the 1606.
-* Offered back channel checkins and support to members of my cohort.
-* Regularly met with my mentor.
-* Linked Meg Stewart and Turing.
+Andrew Crist and I formed a study group called 'ironFE' that meets at 8:00AM on Monday-Thursday.  The intent was an informal community driven session to present and discuss changes that people were facing with code and approaches. Matt Kaufman became a regular attendee and presenter/trouble shooter, and along with Gabi Procell, we developed a core group. Though the sessions usually don't have large attendance, I sense that the cohort likes knowing that they are being held and can attend as needed.
 
------
--------------
+
+------------------
 
 ## Final Review
-
-Final Assessment
-
-Instructor: Jhun de Andres
-
-Student: Dale Hendrickson
-
-Notes:
-
-developer has solid logic
-great with psudo code and thinking through big pieces
-syntax is slowing him down, but has opportunities to improve
-great to pair with!
-Progression/Completion
-
-3: Developer is able to implement solutions at the speed of a junior developer.
-JavaScript Style
-
-3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
-Workflow
-
-3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-Collaboration
-
-4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 ### Notes
 
