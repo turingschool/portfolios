@@ -214,7 +214,7 @@ I enjoyed participating in various events.  I feel I'm becomming part of a large
 
 ### Playing a Part
 
-I may have tough days here, but I always have good things to say about my school.  I enjoy representing the coding community, and it gives me a sense of belonging.
+I may have tough days here, but I always have good things to say about my school.  I enjoy representing the coding community and it gives me a solid sense of belonging.
 
 ------------------
 
