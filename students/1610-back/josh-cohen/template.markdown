@@ -9,7 +9,7 @@ Learn to code in Ruby and pass mod 1.
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+TBD
 
 
 ## B: Individual Work & Projects
@@ -18,13 +18,11 @@ Learn to code in Ruby and pass mod 1.
 #### Black-Thursday
 
 * [GitHub URL](https://github.com/riverswb/black_thursday)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/black_thursday.markdown)
 
 
 
 Assessed By: Beth Sebian
-
-Repo: https://github.com/riverswb/black_thursday
 
 Notes:
 
