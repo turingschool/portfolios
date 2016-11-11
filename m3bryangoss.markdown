@@ -109,7 +109,7 @@ On the subject of voting, the Gear Up gave us lots to think about with respect t
 
 And finally, the conversation about how to be an introvert in a professional setting made me think about ways to accomodate an introvert without forcing them to be more extraverted. I am not sure I have solutions, but as in many cases, I'm sure asking the individual about their preferences is a good start.
 
-### Personal Project Pitch
+### Personal Project Pitch  
 ### Skillist
 
 #### Pitch
@@ -142,6 +142,10 @@ Daily: Spend at least a couple hours researching companies, individuals and jobs
 Weekly: Contact at least 5 - 10 people per week to investigate the job scene. Ask questions about the jobs they have, and let them know that I'm looking for work.
 
 Monthly: I hope to achieve at least one interview a month. I will travel to Seattle at least once a month for meetups.
+
+### Alumnus Profile
+
+https://www.turing.io/user/786
 
 ## Review
 
