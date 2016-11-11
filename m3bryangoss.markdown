@@ -1,0 +1,104 @@
+# Bryan Goss - M3 Portfolio
+## Individual
+
+### Areas of Emphasis
+
+I was hoping to refine my skills and speed up my workflow. I also hoped to become better at working in teams.
+
+### End of Module Assessment
+
+Notes:
+
+*  Woohoo - no hashes in the view!
+*  A few extraneous instance vars in SearchController,
+*  nice parse/response methods in service,
+*  application_controller needs protect from forgery null session for API create and delete actions to work,
+*  service and model are not tested
+
+1. Ruby Style:              3, Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+2. Rails Syntax & API:      3, Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
+3. Testing:                 3, Developer writes tests that are effective validation of functionality. Most new lines of code are tested
+4. Progression/Completion:  3, Developer is able to implement solutions at the speed of a junior developer.
+5. Workflow: 4, Developer commits every 15 minutes
+
+### Work
+
+(Intro)
+
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+## Team
+
+### Projects
+
+(Intro)
+
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+## Community
+
+### Giving Feedback
+
+### To Jasmin:
+YOU CRUSHED THE COMMENTS! I appreciate the way you voiced concern about not having had enough challenging tasks. I wish I had worked with you more but I'm glad we took a look at the Comments API together.
+
+### To Sonia:
+You did an amazing job getting Amazon S3 working. I think you underestimate yourself, and you often believe people are judging you more harshly than they actually are. Its great that you have such high standards that I felt like I had to work to live up to them.
+
+### To Matt:
+You definitely took our feedback from the Re-DTR seriously, and I like that you spoke up more. I think even if you feel like an introvert, you can find a way of working that keeps an open line of communication with the team. Its important that we know when you're going to be late or what you're working on. I can tell you worked really diligently and I'm happy with the result we all achieved, thanks in part to your efforts.
+
+### Being a Community Member
+
+### From Sonia
+
+Bryan, it was such a pleasure working with you. I think we really became good friends on this project, and I'm so glad to know you. I don't think any of my feedback will be much of a surprise to you because I feel we communicated pretty well throughout the project. You did a great job when we were pairing because you allowed me to drive more (we had talked about this) but I think perhaps you could have allowed me to speak more, particularly when I wanted to be involved in our discussions with instructors, in order to foster a shared feeling of engagement in the problem-solving process. Overall, however, I really appreciated having the chance to work with you. I consider you to be a true friend and I've learned a lot from you. You're bright, funny, and kind. Keep on keeping on. :)
+
+### From Jasmin:
+The effort in which Goss puts forth in making sure his communication and feedback is kind and specific has really impressed me. He is excellent at explaining his understanding of more complex technical concepts, but one thing I would ask him to be a bit more conscious of is his how he speaks of himself in the first person when referring to group work to instructors. For example, when we were pairing together on a task and we needed to ask for client clarification from Lauren, he used the phrase, "I have a problem," as opposed to "we have a problem." This is a relatively small thing, but it can go a long way to a group mentality in the long run. He is still really easy to pair with and I feel that together we get a lot of work done efficiently.
+
+
+
+### Playing a Part
+
+I have been very active in supporting and cultivating the Armstrong Posse. When I joined in mod 1 there were about 3 people who were active. A couple Friday Spikes we've done have had more than 15 people attend. I started working on a "cirriculum" to ensure the posse would have direction and goals even after I finish Turing.
+
+In addition I strive to always be a resource for my cohort and others. I helped a couple people with active record / SQL troubles, participated in the Prework-guides and gave time to support students in mod 1.
+
+## Review
+
+### Rubric Scores
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 4
+* **E: Peer & Instructor Feedback**: 3
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
