@@ -42,18 +42,34 @@ Notes:
 
 (Intro)
 
-#### (Project Name)
+#### Rails Engine
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/bcgoss/rails_engine)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
 
-(description)
+Rails Engine is an ecomerce information dashboard. Brian and I worked well together and solved a problem with the test suite.
 
-(evaluation comments)
+Scores: 
+1. Completion: 4
+2. Test-Driven Development: 3
+3. Code Quality: 3
+4. API Design: 4
+5. Queries: 4
 
-(evaluation scores)
+#### File Drop (Cloney Island)
 
-(feedback to me)
+* [GitHub URL](https://github.com/tgisg/filedrop)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/cloney_island.md)
+
+A file hosting service which allows you to share files with others.
+
+Client Expectations: 3
+User Experience: 2
+Organization: 4
+Git Workflow: 4
+Test Quality: 3
+Code Quality: 3
+Bonus: 1
 
 ## Community
 
