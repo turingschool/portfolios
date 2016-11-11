@@ -112,26 +112,36 @@ And finally, the conversation about how to be an introvert in a professional set
 ### Personal Project Pitch
 ### Skillist
 
-### Pitch
+#### Pitch
 
 If you're looking into taking time off to learn a new skill, how do you know the skill you're going to learn is a valuable one?
 
-### Problem
+#### Problem
 
 Programming as an industry has a volitile and flexibile work force. The fastest way to advance is usually to switch jobs. Part of that job switching might include aquiring a new skill, but picking the best one can be a subjective process.
 
-### Solution
+#### Solution
 
 My app will help users make choices about programming launguages by providing data about job postings. It will rank languages and show the share of job postings related to those languages over time. The results will be tailored to a user's location by searching for postings within a certain distance to a zipcode.
 
-### Target Audience
+#### Target Audience
 
 Programmers, especially those who are switching into or within the industry, need good data to make choices about their futures. Many programmers use data to make choices in their jobs, so having data to make choices *about* thier jobs is a natural fit.
 
-### Integrations
+#### Integrations
 
 I plan to use the Indeed API to find a list of job postings  
 I plan to authenticat with Github using OAuth and as an extention, I plan to check languages that users employ and compare those choices to job postings.
+
+### Job Search Plan
+
+My Plan for searching for jobs relies on networkin in Portland and Seattle. Since the Turing Network is less well established in that area, I will have to rely on myself more than the average grad. 
+
+Daily: Spend at least a couple hours researching companies, individuals and jobs in the Portland or Seattle area. This will inlcude research on Linkedin, Glassdoor, Twitter and other sources.
+
+Weekly: Contact at least 5 - 10 people per week to investigate the job scene. Ask questions about the jobs they have, and let them know that I'm looking for work.
+
+Monthly: I hope to achieve at least one interview a month. I will travel to Seattle at least once a month for meetups.
 
 ## Review
 
