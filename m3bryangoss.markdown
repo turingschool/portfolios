@@ -147,6 +147,14 @@ Monthly: I hope to achieve at least one interview a month. I will travel to Seat
 
 https://www.turing.io/user/786
 
+### Flower Exercise
+
+1 Favorite People to Work with: I prefer working with people who are passionate about learning and using good practices, even if it means that things move slower in the short term.  
+2 Values and goals: I value leaving the world better than I found it. My Goals include retiring and traveling.  
+3 Preferred Places to Live: I prefer a temperate climate in an urban setting with forests near by. This lends itself to the Pacific Northwest.
+4 Preferred Pay and Level of Responsibiltiy: I feel more comfortable directing the process but not setting the final goal. I wouldn't enjoy having creative responsibilty, but I can see myself managing others in some capacity, eventually.
+5 I work best with short deadlines 
+
 ## Review
 
 ### Rubric Scores
