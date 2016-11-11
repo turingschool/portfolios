@@ -99,6 +99,40 @@ I have been very active in supporting and cultivating the Armstrong Posse. When 
 
 In addition I strive to always be a resource for my cohort and others. I helped a couple people with active record / SQL troubles, participated in the Prework-guides and gave time to support students in mod 1.
 
+## Professional Skills
+
+### Gear Up
+
+The most recent gear up related to resiliance. I am glad I had that experience during my Personal Project, because that project was a struggle. My group discussed how we distinguish resiliance from a postitive or optimistic outlook. Imagine two people. They endure the same events and succeed. One person views the events as a struggle but the other views them as an challenge. Does the former demonstrate more resiliance than the latter, or does the latter's positive mindset embody resiliance?
+
+On the subject of voting, the Gear Up gave us lots to think about with respect to our civic responsibility. I wish we had more time to discuss the issues, but there was a lot of intersting material to read.
+
+And finally, the conversation about how to be an introvert in a professional setting made me think about ways to accomodate an introvert without forcing them to be more extraverted. I am not sure I have solutions, but as in many cases, I'm sure asking the individual about their preferences is a good start.
+
+### Personal Project Pitch
+### Skillist
+
+### Pitch
+
+If you're looking into taking time off to learn a new skill, how do you know the skill you're going to learn is a valuable one?
+
+### Problem
+
+Programming as an industry has a volitile and flexibile work force. The fastest way to advance is usually to switch jobs. Part of that job switching might include aquiring a new skill, but picking the best one can be a subjective process.
+
+### Solution
+
+My app will help users make choices about programming launguages by providing data about job postings. It will rank languages and show the share of job postings related to those languages over time. The results will be tailored to a user's location by searching for postings within a certain distance to a zipcode.
+
+### Target Audience
+
+Programmers, especially those who are switching into or within the industry, need good data to make choices about their futures. Many programmers use data to make choices in their jobs, so having data to make choices *about* thier jobs is a natural fit.
+
+### Integrations
+
+I plan to use the Indeed API to find a list of job postings  
+I plan to authenticat with Github using OAuth and as an extention, I plan to check languages that users employ and compare those choices to job postings.
+
 ## Review
 
 ### Rubric Scores
