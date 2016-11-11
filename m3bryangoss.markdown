@@ -23,24 +23,22 @@ Notes:
 
 ### Work
 
-(Intro)
+I learned a lot from my individual projects, specifically that I work better as part of a team. I lost sight of orginizational and planning tools that I used well on group projects. I allowed a sense of panic to distract me from using a good workflow and design practice.
 
-#### (Project Name)
+#### Skillist
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/bcgoss/skillist)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
 
-(description)
+An application for calculating the most popular programming languages and skills over time by checking job postings including related keywords.
 
-(evaluation comments)
-
-(evaluation scores)
+Several 1, some 3s.
 
 ## Team
 
 ### Projects
 
-(Intro)
+I enjoyed my experiences on group projects. All four of my teammates were a pleasure to work with and I am proud of my contributions to those teams. 
 
 #### Rails Engine
 
