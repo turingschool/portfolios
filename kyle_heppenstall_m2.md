@@ -85,18 +85,46 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 (feedback to me)
 
+#### Bike Share
+
+* [GitHub URL](https://github.com/kheppenstall/bike-share)
+* [Original Assignment](https://github.com/case-eee/bike-share)
+
+##### Description
+
+Bike Share was our first team project at Turing. We made a web application with CRUD functionality and data anlytics for stations, trips, and weather conditions.
+
+Our team stayed late and demonstrated commitment and work ethic. We were willing and ready to resolve conflict on the team while keeping the big picture in mind (and while not being defensive).  We taught each other and did a great job putting learning first. Our work flow of two people pairing and one person working individually kept our pace high. Styling was consistent across all pages.
+
+For deltas, we could have used Waffle more often and organized the waffle page better. Our agile approach was not always on point. We should have wrapped up the stations chunk better before moving on to further iterations. The organization of our models directory could have been clearer. We should have focused more on base expectations instead of adding extra features (time cap them). We could have been more detail-oriented when merging pull requests (and creating pull requests that are more discrete and smaller). Communication was too reliant on everyone being here. Styling was minimalist.
+
+
+##### Evaluation
+
+(evaluation comments)
+
+(evaluation scores)
+
+
+##### Feedback
+
+From Josh: NEG: Remember your coworkers are adults, and will need a different teaching style. POS: You’re a rare combination of work ethic and raw intelligence.  It was a pleasure working with you.
+
+From Drew: Don't take on too much work. Kyle did too much work, even after like 8-9 hours of working at school. If there is something Kyle feels NEEDS to be done, even after a day's work,  he should ask  group members for help. Most students at Turing  work hard and are willing to go the extra mile to finish a project. Don't burn yourself out. You-are-awesome Feedback:  I think our collaborative work styles really meshed well together. Had a ton of fun working on this project with Kyle. Kyle is an excellent coder, and there is a ton to learn from him. I would be very pleased to work with Kyle again.
+
 ## D: Professional Skills
 (Intro)
 
 ### Gear Up
-#### Vote Your Conscience
+#### Micro-Aggressions
 
-* [https://github.com/turingschool/gear-up/blob/master/vote_your_conscience.markdown]()
+* [Micro-Aggressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_group1.md)
 
-It was difficult to refrain from talking about the current election in the context of this discussion, but I was totally impressed by everyone's judicious efforts to not inject their own personal opinions into the fray. We were all more or less in agreement that we appreciated when leaders are able to clearly articulate their positions while remaining pragmatic about their proposed solutions.  
+My biggest takeaways from the micro-aggressions gear up were from the readings. The New York Times article provides some examples of microagressions and presents ‘microagression’ as the vocabulary to talk about these everyday incidents. Over time micro aggressions can take their toll on psyche and hinder success. I had never thought about the claim that the tech monoculture, although appealing to some, is “draining the talent pool.” Thinking about micro aggressions on a larger scale and the impact on the industry is an interesting perspective. The month of microagressions article was really interesting for me. Reading all the micro aggressions Chee experienced in a month made it easier for me to start to understand how they can add up and seriously impact someone over time. One way forward my group discussed was more story sharing. Reading testimonials or listening to people tell their experiences is a great way to learn about microagressions and help me be more aware about the impact of what I say.
 
 
 ### Professional Development Workshops
+
 #### (Session Name)
 
 * [Workshop URL]()
@@ -104,11 +132,36 @@ It was difficult to refrain from talking about the current election in the conte
 
 (takeaways from session)
 
+#### Finding Opportunities
+
+* [Workshop URL]()
+* [Job Tracker](https://docs.google.com/spreadsheets/d/1-_WJWX8b_IXianFk5j1SLe51R45iT0mDW_rF3ir0BcI/edit?usp=drive_web)
+
+My biggest takeaways here were around the process of finding a job. Meg emphasized that it is better to look for companies you are interested in and reach out to them versus looking for online job postings. We then went on to research companies we are interested in and start a job tracker to stay organized in communicating with them.
+
+#### Collaborative Communication
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/collaborative_communication.md)
+* [Link to Completed Deliverables]() --- See two paragraphs below
+
+This sessions focused around project management. It detailed some tools to consider (like Waffle.io) and how we can leverage our strengths to help a team. My biggest takeaway was around building a culture of error within a team. I thought it was really interesting how teams that are not afraid to fail perform better (and probably have more fun).
+
+Deliverable: Two paragraph reflection on: Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well? How you incorporated feedback from your team members and what you learned about yourself in the process.
+
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
 (feedback from me)
+
+
+#### Bike Share team
+
+Drew: On bike share Drew did an excellent job working collaboratively in a way that worked for the team. He was always available for questions, asked for help when he needed help but still worked independently to get tasks finished. He also did a great job reminding the team to understand code and practice typing it out from memory. My constructive feedback was to take more ownership on figuring out the best way to accomplish tasks like writing dashboard methods. He was hesitant to switch to ActiveRecord from Ruby at first even though it was in the spec and made the pages load faster.
+
+Josh: Josh’s communication was a strength for the team on the project. He was on Slack the most, never merged any pull requests without consulting the team, and aired conflict when it came up. He also demonstrated great follow through on tasks he was working on, like the CRUD functionality for weather conditions. My constructive feedback would be to ask more questions early to avoid falling behind on topics like the ActiveRecord methods and pagination. That could mean going home less or spending more time at school or asking to screenhero to talk about code.
+
 
 ### Being a Community Member
 
