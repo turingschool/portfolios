@@ -1,3 +1,28 @@
+Evaluation notes - You need to take notes during assessments/evaluations
+
+Blog post (>=1)
+
+Self-solicited continual peer feedback
+
+If you're in a posse - please include: a blurb about what you did with your posse over the module, your favorite thing about the posse experience, how has your posse experience helped you grow as a professional?
+
+Non evaluated projects: Rails Mini Project, Mix Master. Include what you learned/took away from the project.
+
+Evaluated projects: Rush Hour, Little Shop, Job Tracker
+
+Assessments: Final
+
+PROFESSIONAL SKILLS
+
+A recap of reflections from Gear Up
+
+Company tracker with five companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
+
+Cold email at least one of those five companies from the company tracker
+
+Two paragraph reflection on: Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well? How you incorporated feedback from your team members and what you learned about yourself in the process.
+
+
 # (Your Name) - (M1/M2/M3/M4) Portfolio
 
 ## Areas of Emphasis
