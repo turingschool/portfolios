@@ -109,14 +109,17 @@ Looping or Recursion
 
 Gear Ups:
 
+### Personal Branding
+In this session, Lia and Meg introduced us to several tools for finding companies that we would possibly want to work for, and how to make connections via the internet.
+
 theres an i in team
 
-What did it feel like having to repeat your teammate's comments at the beginning of the exercise and state how you would address his or her concerns? 
+What did it feel like having to repeat your teammate's comments at the beginning of the exercise and state how you would address his or her concerns?
 How could or would this skill benefit you in a team setting?
 I think having to repeat my teammates comments force a genuine response
 because we have to be active listeners by repeating what our teammates said.
 How was the dynamic of your first conversation different that the second conversation? What concerns or frustrations, if any, remained?
-the first topic was about who has made you feel special which was very insightful but the second convo was about ghosts and i dont think anyone in the 
+the first topic was about who has made you feel special which was very insightful but the second convo was about ghosts and i dont think anyone in the
 group saw as much purpose in the second convo.
 
 getting better at difficult things
@@ -124,7 +127,7 @@ getting better at difficult things
 What efforts do you make to manage your learning process? Are these efforts successful?
 What challenges have inhibited your ability to manage your learning process effectively?
 
-What role does your emotional state of mind play in your learning? 
+What role does your emotional state of mind play in your learning?
 How do your successes and failures at learning affect your emotional state?
 
 I think i am able to put away my emotional state to complete any task in life. So
@@ -156,7 +159,7 @@ Id like to keep trying to portray positivity at all times and would like to even
 * **B: Individual Work & Projects**: 2
 * **C: Group Work & Projects**: 2
 * **D: Community Participation**: 3
-* **E: Peer & Instructor Feedback**: X 
+* **E: Peer & Instructor Feedback**: X
 
 ### Notes
 
