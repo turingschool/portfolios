@@ -89,6 +89,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 * [GitHub URL](https://github.com/kheppenstall/bike-share)
 * [Original Assignment](https://github.com/case-eee/bike-share)
+* [DTR Memo](https://gist.github.com/kheppenstall/2e7f74c2b88794f883a021b6d90aed08)
 
 ##### Description
 
