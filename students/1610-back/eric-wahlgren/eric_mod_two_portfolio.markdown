@@ -1,8 +1,9 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Eric Wahlgren-Sauro - M2 Portfolio
 
 ## End of Module Reflection
 
-What did you get technically and professionally out of this module? How are you going to use it in the future?
+This module, I felt more on top of the work compared to my first time through module one. I learned a lot about Rails, Sinatra, Capybara, Active Record, authentication, authorization, Rspec, Bootstrap, and more. The most useful time spent was practicing the MVC workflow. The pattern is easy to follow once we know it. It took a lot of practice, but I feel comfortable with the skills taught in module two. 
+
 
 ## Self-Evaluated Rubric Scores
 
@@ -24,13 +25,38 @@ Add your notes and scores here.
 
 ### Group Projects
 
-#### [Project Name](include-link-to-production-site-here)
+#### [Bike Share](https://github.com/cews7/bike-share)
 
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+**Functional Expectations**
+
+* 3.5: Application fulfills base expectations
+
+**ActiveRecord**
+
+* 4: Appropriate ActiveRecord methods are used to query the database and live in the appropriate model. No Ruby is used to organize data after database queries.
+
+**User Experience and Conventions**
+
+* 4: Project uses Sinatra methods and ERB templates to display both resources and non-resource related views with appropriate routes, and HTTP verbs. All functionality can be accessed in the application where expected based on the spec. User experience is exceptional ('client ready') and all pieces of the application can be accessed without entering addresses manually in the nav bar.
+
+**Code Organization/Quality**
+
+* 3: Some logic not related specifically to HTTP requests/resesponses remains in the main application file. Some methods may be slightly long, or follow unexpected patterns. Limited logic may leak into the views.
+
+**Testing**
+
+* 3: Application is well tested but does not balance isolation and integration/feature tests
+
+**Working Collaboratively**
+
+* 2: Sporadic use of branches, pull requests, and/or project-management tool.
+
+
+#### [Little Shop]()
 
 ### Individual Projects
 
-#### [Project Name](include-link-to-production-site-here)
+#### [Job Tracker](https://github.com/cews7/job-tracker)
 
 If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
 
@@ -42,9 +68,9 @@ If the project was graded, add your evaluation scores and notes. If the project 
 Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
 
 ### Professional Development Workshops
-#### (Session Name)
+#### (Feedback 2)
 
-Include takeaways and deliverables from each session.
+
 
 ## D: Feedback
 
