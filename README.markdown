@@ -7,6 +7,7 @@ A submission summarizes your accomplishments in these key areas:
 
 * Individual
 * Team
+* Professional Development
 * Community
 
 ## Authoring Process
@@ -24,13 +25,13 @@ portfolio should be written/submitted
 * Individual Assessment: Passing Score (All 3's) required
 * Individual Projects: All individual projects. A passing final project is required.
 * Group Projects: All paired projects
-* Professional Skills:
-  * A recap of reflections from Gear Up
+* Professional Development:
   * DTR Memo from 1 paired project
   * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
   * LinkedIn profile with a summary, descriptions under experience, and Turing under education
-  * Copy for a personal website
-* Feedback/Community: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
+* Community:
+  * A recap of reflections from Gear Up
+* Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
 
 ** To Repeat the Module **
 
@@ -38,40 +39,47 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 
 ### Module 1 (Front-end)
 
-* Individual Assessment: Passing Score (All 3's) required
-* Required Project: Final Project (Game Time) -- Passing Score (All 3's) required
+* Pentathlon
+  1. Individual Coding Challenge-A: Passing Score (All 3's) required
+  2. Individual Coding Challenge-B: Passing Score (All 3's) required
+  3. Comprehensive Quizlette
+  4. Final Project (Game Time) -- Passing Score (All 3's) required
+  5. Completed Portfolio
 * Included Projects:
  * Linked List
  * Number Guesser
  * Idea Box
-* Feedback: Self-Solicited and from Feedback App
-* Professional Skills:
-  * A recap of reflections from Gear Up
+* Feedback: Self-solicited from your peers (from project pairs and anyone else you've consistently worked with)
+* Professional Development:
   * DTR Memo from 1 paired project
   * Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
   * LinkedIn profile with a summary, descriptions under experience, and Turing under education
-  * Copy for a personal website
+* Community:
+  * A recap of reflections from Gear Up
 
 ### Module 2 (Back-end)
 
 * Evaluation notes - You need to take notes during assessments/evaluations
 * Blog post (>=1)
-* Self-solicited continual peer feedback
-* If you're in a posse - please include:
+* If you're in a posse - please include (in the Being a Community Member section):
   * a blurb about what you did with your posse over the module
   * your favorite thing about the posse experience
   * how has your posse experience helped you grow as a professional?
 * Non evaluated projects: Rails Mini Project, Mix Master
- * Include what you learned/took away from the project.
-* Evaluated projects: Rush Hour, Little Shop, Job Tracker
+  * Include what you learned/took away from the project.
+* Evaluated projects: Bike Share, Little Shop, Job Tracker
 * Assessments: Final
-* Professional Skills:
-  * A recap of reflections from Gear Up
-  * Company tracker with five companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
-  * Cold email at least one of those five companies from the company tracker
+* Professional Development:
+  * Copy for a personal website
+  * Company tracker with ten companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
+  * Seven cold emails sent to seven different contacts from the company tracker
+  * Attend two networking events
   * Two paragraph reflection on:
-    1. Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
+    1. Details on project management strategies you used in your projects (Bike Share and/or Little Shop); What went well? What didn’t go well?
     2. How you incorporated feedback from your team members and what you learned about yourself in the process.
+* Community:
+  * A recap of reflections from Gear Up
+* Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
 
 ### Module 2 (Front-end)
 
@@ -79,15 +87,19 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Required Project: ToDo Box Pivot, Shoot the Breeze, FireBae (Tier Two) -- scores should all be passing (All 3's) or show gradual improvement
 * Included Projects:
  * Weatherly
-* Feedback: Self-Solicited and from Feedback App
-  * Required feedback from at least one student outside of your cohort who you have paired with (Mod 1 student, back end student) AND/OR a mentor.
-* Professional Skills:
-  *  A recap of reflections from Gear Up
-    * Link to a gist with notes is acceptable.
-  * Company tracker with five companies of interest identified
+* Professional Development:
+  * Copy for a personal website
+  * Company tracker with ten companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
+  * Seven cold emails sent to seven different contacts from the company tracker
+  * Attend two networking events
   * Two paragraph reflection on:
-     1. Details on project management strategies you used in your projects; What went well? What didn’t go well?
-     2. How you incorporated feedback from your team members and what you learned about yourself in the process.
+    1. Details on project management strategies you used in your projects; What went well? What didn’t go well?
+    2. How you incorporated feedback from your team members and what you learned about yourself in the process.
+* Community:
+  * A recap of reflections from Gear Up
+* Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
+  * Required feedback from at least one student outside of your cohort who you have paired with (Mod 1 student, back end student) AND/OR a mentor.    
+
 
 ### Module 3 (Back-end)
 
@@ -96,12 +108,13 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Bonus Project (not required): APIcurious
 * Feedback: Self-Solicited and collected from Cloney Island
 * Something valuable you've taken away from your posse.
-* Professional Skills:
-  * A recap of reflections from Gear Up
+* Professional Development:
   * Turing alumni portfolio
   * Pitch for personal project/Documentation showing your thought process
   * Completed Flower Exercise
-  * Job search strategy set with daily, weekly, monthly goals
+  * Three mock interviews
+* Community:
+  * A recap of reflections from Gear Up
 
 ### Module 3 (Front-end)
 
@@ -109,25 +122,44 @@ A passing Chisel project completed during the final 2 weeks of the module **OR**
 * Included Projects: Self-Directed Project, Remember (Number of Completed User Stories), Weather Forecast
 * Bonus Project (not required): None
 * Feedback: Self-Solicited and collected from Weather Forecast and Remember
-* Professional Skills:
-  * A recap of reflections from Gear Up
+* Professional Development:
   * Turing alumni portfolio
   * Pitch for personal project/Documentation showing your thought process
   * Completed Flower Exercise
-  * Job search strategy set with daily, weekly, monthly goals
+  * Three mock interviews
+* Community:
+  * A recap of reflections from Gear Up
 
-### Module 4
+### Module 4 (Back-end)
 
 * Individual Assessment (thoughtbox)
-* Required Project: GameTime, ScaleUp
+* Required Project: Capstone & Supplimental Project
   * Should include points breakdown per project
-* Bonus Project (not required): IdeaBox
-* Feedback: Self-Solicited
-* Professional Skills:
-  * A recap of reflections from Gear Up
-  * Description of your top 3 priorities in the job search and why
+* Blog Post
+* Link to your PR for opensource contribution
+* Professional Development:
+  * Description of your top three priorities in the job search and why
   * Action plan for how to overcome perceived barriers to the job search
   * Completed blog post with peer review
+  * Six cold outreach emails sent
+  * One informational interview
+* The Plan
+* Community:
+  * A recap of reflections from Gear Up
+* Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
+
+### Module 4 (Front-end)
+
+*
+* Professional Development:
+  * Description of your top three priorities in the job search and why
+  * Action plan for how to overcome perceived barriers to the job search
+  * Completed blog post with peer review
+  * Six cold outreach emails sent
+  * One informational interview
+* Community:
+  * A recap of reflections from Gear Up
+* Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
 
 ## Submission Guidelines
 

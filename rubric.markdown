@@ -39,7 +39,7 @@ while achieving consistently satisfactory results.
 dependable member of the team or achieves consistently sub-par work.
 * 1: Student is not a valuable member of their teams.
 
-## D: Professional Skills
+## D: Professional Development
 
 A Turing student values professional growth and seeks opportunities to continuously improve.
 
