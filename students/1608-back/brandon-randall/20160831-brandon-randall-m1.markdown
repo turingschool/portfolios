@@ -107,7 +107,9 @@ Looping or Recursion
 
 ### Being a Community Member
 
-Gear Ups:
+Ali Sclerith: Early in the module, Brandon reached out for a social gathering, which I deeply appreciated as I was surrounded by strangers. Since then, he has also reached out for skills support. I appreciate his genuine interest in truly understanding the content, and not just looking for answers. He is a pleasure to work with.
+
+Lee Saville: You're a great guy and I hope you succeed in the future. One suggestion would be to hit the basics really hard so that you can tackle the bigger more complex problems that involve knowing the smaller bits more intimately. I felt that during our group work we had to spend a lot of time going over the more basic things. Cheers!
 
 ### Personal Branding
 In this session, Lia and Meg introduced us to several tools for finding companies that we would possibly want to work for, and how to make connections via the internet.
@@ -135,14 +137,6 @@ ultimately, i feel that the only obstacle i have to complete at this point
 is either random family issues or maybe extensive material with which i need to learn
 pre requesites or something along those lines. Other than that, i think with enough time
 I can conquer any difficult task.
-
-Giving feedback
-
-Ali Sclerith: Early in the module, Brandon reached out for a social gathering, which I deeply appreciated as I was surrounded by strangers. Since then, he has also reached out for skills support. I appreciate his genuine interest in truly understanding the content, and not just looking for answers. He is a pleasure to work with.
-
-Lee Saville: You're a great guy and I hope you succeed in the future. One suggestion would be to hit the basics really hard so that you can tackle the bigger more complex problems that involve knowing the smaller bits more intimately. I felt that during our group work we had to spend a lot of time going over the more basic things. Cheers!
-
-(feedback to me)
 
 
 ### Playing a Part
