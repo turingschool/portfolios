@@ -1,34 +1,3 @@
-
-Evaluation notes - You need to take notes during assessments/evaluations
-
-Blog post (>=1)
-
-Self-solicited continual peer feedback
-
-If you're in a posse - please include: a blurb about what you did with your posse over the module, your favorite thing about the posse experience, how has your posse experience helped you grow as a professional?
-
-Non evaluated projects: Rails Mini Project, Mix Master. Include what you learned/took away from the project.
-
-Evaluated projects: Rush Hour, Little Shop, Job Tracker
-
-Assessments: Final
-
-PROFESSIONAL SKILLS
-
-A recap of reflections from Gear Up
-
-Company tracker with five companies of interest identified, including one point of contact for each company with contact information (email, blog, website, twitter, github)
-
-Cold email at least one of those five companies from the company tracker
-
-Two paragraph reflection on: Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well? How you incorporated feedback from your team members and what you learned about yourself in the process.
-
-
-
-
-
------------------------
-
 # Kyle Heppenstall - M2 Portfolio
 
 ## Areas of Emphasis
@@ -45,18 +14,46 @@ Regarding community, pairing with module 2 students was really helpful or me in 
 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
 ## B: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Evaluator: Sal
 
+1. Conceptual Understanding: Waiting for a written portion
+
+    * 4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance
+    * 3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning
+    * 2: Developer demonstrates some gaps in understanding when asked for additional detail
+    * 1: Developer has fundamental misconceptions about Rails, MVCs, the web, or related topics
+
+1. Analytic/Algorithmic Thinking
+
+    * 3: Developer breaks complex problems into small, digestible steps and executes them with little assistance
+
+1. Feature Completeness
+
+    * 4: Developer is able to finish all prescribed functionality, refactor and have all passing tests
+
+1. ActiveRecord Syntax and Style
+
+    * 3: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database
+
+1. Rails Style
+
+    * 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+
+1. Testing
+
+    * 4: Developer understands errors produced by tests, and uses them to drive development independently
+
+------------------
 
 ## C: Individual & Group Work
 
@@ -103,39 +100,93 @@ The project will be assessed with the following rubric:
 
   * 4: Excellent use of branches, pull requests, and a project management tool.
 
+#### [Little Shop](https://github.com/akintner/scoopful)
+
+##### Description
+
+My Little Shop team made an application named 'Scoopful' that brings the bulk aisle to your doorstep. A user or visitor can view items. Logged in users can purchase items (make ordres) and administators can edit orders and add items. Our team used Waffle to stay organized and had a git workflow that functioned well in person and remotely. I learned the most about using POROs (like the cart) in a rails application and styling with CSS flexboxes.
+
 
 ### Individual Projects
 
+#### [Rails Mini Project](https://github.com/kheppenstall/idea_box)
 
-##### Feedback
+##### Description
 
-From Josh: NEG: Remember your coworkers are adults, and will need a different teaching style. POS: You’re a rare combination of work ethic and raw intelligence.  It was a pleasure working with you.
+For the rails mini project I worked on the Idea Box project. It was my first effort at authorization and authentication. I learned a good bit about verifying users and adding admin functionality to an application. It was also helpful to practice rails fundamentals like routing and the asset pipeline. I used bootstrap for my styling but tried out some new techniques with images and a carousel.
 
-From Drew: Don't take on too much work. Kyle did too much work, even after like 8-9 hours of working at school. If there is something Kyle feels NEEDS to be done, even after a day's work,  he should ask  group members for help. Most students at Turing  work hard and are willing to go the extra mile to finish a project. Don't burn yourself out. You-are-awesome Feedback:  I think our collaborative work styles really meshed well together. Had a ton of fun working on this project with Kyle. Kyle is an excellent coder, and there is a ton to learn from him. I would be very pleased to work with Kyle again.
+#### [Job Tracker](https://github.com/kheppenstall/job-tracker)
+
+##### Description
+
+Job Tracker was my our first effort at building a full rails application with CRUD functionality (without a tutorial). I learned the most about developing a schema on a whiteboard and then implementing that with a SQL database through migrations and ruby models. My biggest takeaways from this project were around how to manage a database and nesting routes in a way that makes sense with the objects in the application.
+
+##### Evaluation
+
+  1. Database, Relationships, and Migrations
+
+      4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.
+
+  1. Routes
+
+      4: Routes are defined for all functionality and not any additional functionality. All routes conform to RESTful conventions for resources, and routes to pages that are not specifically for resources stored in the database are not named in a way that an experienced developer would find surprising.
+
+  1. Controllers
+
+      4: The developer has moved logic out of the controllers and into the models/POROs where appropriate. The developer uses strong params in a private method. Instance variables being passed to views are appropriately named and limited in number. The developer can speak to each choice made when questioned.
+
+  1. ActiveRecord
+
+      4: ActiveRecord methods are used in models to supply all appropriate functionality. Methods exist on the appropriate model, and developers are not referencing other classes or self in models unnecessarily. Ruby enumerables are not used where ActiveRecord methods could provide the necessary functionality. The developer can explain the ActiveRecord methods they used and the relationships between ActiveRecord models.
+
+  1. Views
+
+      4: Logic has been removed from views and controllers to the full degree possible, the developer ha minimized the number of variables passed to the view, and the developer can articulately explain their strategies for extracting this logic. The developer uses partials to reduce duplication of code in the view layer.
+
+  1. User Experience
+
+      4: The application has been styled and the user can easily navigate between different portions of the application without manually entering the URL into the nav-bar or using the back button on their browser.
+
+  1. Testing
+
+      3: Project has a running test suite that tests and multiple levels but fails to cover some features
+
+------------------
 
 ## D: Professional Skills
-(Intro)
+
+* [Personal Blog](https://kheppenstall.github.io/)
+
+Professional skills this module focused on working with a larger team on projects. I benefitted from the openness around feedback set by the professional development sessions. At the end of each project I received some helpful feedback and worked to implement that through the module (and reflect on it further with the Johari exercise). Professionally I learned a good bit about how to use LinkedIn and how to network successfully to look for jobs. Going forward I know I need to focus on putting myself out there a little more digitally and attending networking events. I also gave a lightning talk this module on RSA encryption. The practice of writing a blog post and then transforming that into a lightning talk made me more comfortable with both of those processes going forward.
+
+I was part of the Armstrong posse again this module. My main takeaway so far has been to take initiative in getting what you want out of the posse. Armstrong has a lot of different focuses and I've mainly used the time to start learning python. Although Armstrong is technically a machine learning posse, python is the standard language for most machine learning project so we spend some time doing basic exercises in Python. Everyone in the posse seems to have their own little side project that they are interested in and I've made attempting to learn python mine.
 
 ### Gear Up
-#### Micro-Aggressions
 
-* [Micro-Aggressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_group1.md)
+#### [Micro-Aggressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_group1.md)
 
 My biggest takeaways from the micro-aggressions gear up were from the readings. The New York Times article provides some examples of microagressions and presents ‘microagression’ as the vocabulary to talk about these everyday incidents. Over time micro aggressions can take their toll on psyche and hinder success. I had never thought about the claim that the tech monoculture, although appealing to some, is “draining the talent pool.” Thinking about micro aggressions on a larger scale and the impact on the industry is an interesting perspective. The month of microagressions article was really interesting for me. Reading all the micro aggressions Chee experienced in a month made it easier for me to start to understand how they can add up and seriously impact someone over time. One way forward my group discussed was more story sharing. Reading testimonials or listening to people tell their experiences is a great way to learn about microagressions and help me be more aware about the impact of what I say.
+
+#### [Grit: Passion and Perseverance](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+
+I enjoyed listening to the TED talk proposing grit as the single most important measure in determining “success.” I was especially interested in how that transcended contexts - from spellings bees, to military training, and public and schools. Angela Duckworth claims that having both passion and perseverance in a task leads to more success. Nonetheless, some scientists believe the hype around grit is outpacing the science. More studies need to be done to test for both passion and perseverance while controlling more for conscientiousness. Interestingly Angela Duckworth found that passion is more challenging to cultivate in students than perseverance.
+
+At Turing, I was most tempted to give up when working on the HTTP project. Although the concepts were not challenging I could not figure out the technical pieces to  make even a small test pass. For me it was a combination of grit and collaboration that helped me navigate that frustration successfully. I kept working (mainly due to a passion for programming) and reached out to other people until we figured out a solution together. When applying grit to a specific situation I think the marathon view is appropriate. Do not work so hard you get burned out or exhausted. Instead be intentional and take the long view. Grit does not always mean working harder in the moment.
+
+Part of enhancing grit is giving work more purpose. Moving forward with Turing I would to have a side project that I am passionate about where I can apply my learning more. That way when I’m struggling with something in class I know there is more than just the class project driving my learning. I would also like to apply for jobs more regularly through an average Turing week. Talking with hiring managers or developers about my work and learning will provide additional meaning to the day-to-day work at Turing.
 
 
 ### Professional Development Workshops
 
-#### (Session Name)
+#### Feedback II
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/feedback_ii.md)
+* [Project Management Reflection](https://gist.github.com/kheppenstall/b3389ac282c3bea6360b815d01a1bc6c)
 
-(takeaways from session)
+In Feedback II I really enjoyed the Johari model. It was helpful to see what traits my peers selected after working with me. The anonymity of it and the way we broke it down into quadrants helped me figure out what traits I want to work on showing more of going forward.
 
 #### Finding Opportunities
 
-* [Workshop URL]()
 * [Job Tracker](https://docs.google.com/spreadsheets/d/1-_WJWX8b_IXianFk5j1SLe51R45iT0mDW_rF3ir0BcI/edit?usp=drive_web)
 
 My biggest takeaways here were around the process of finding a job. Meg emphasized that it is better to look for companies you are interested in and reach out to them versus looking for online job postings. We then went on to research companies we are interested in and start a job tracker to stay organized in communicating with them.
@@ -143,19 +194,15 @@ My biggest takeaways here were around the process of finding a job. Meg emphasiz
 #### Collaborative Communication
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_two/collaborative_communication.md)
-* [Link to Completed Deliverables]() --- See two paragraphs below
+* [Project Management Reflection](https://gist.github.com/kheppenstall/b3389ac282c3bea6360b815d01a1bc6c)
 
 This sessions focused around project management. It detailed some tools to consider (like Waffle.io) and how we can leverage our strengths to help a team. My biggest takeaway was around building a culture of error within a team. I thought it was really interesting how teams that are not afraid to fail perform better (and probably have more fun).
 
-Deliverable: Two paragraph reflection on: Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well? How you incorporated feedback from your team members and what you learned about yourself in the process.
-
+------------------
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
-
-(feedback from me)
-
 
 #### Bike Share team
 
@@ -166,11 +213,19 @@ Josh: Josh’s communication was a strength for the team on the project. He was 
 
 ### Being a Community Member
 
-(feedback to me)
+#### Bike Share team
+
+From Josh: NEG: Remember your coworkers are adults, and will need a different teaching style. POS: You’re a rare combination of work ethic and raw intelligence.  It was a pleasure working with you.
+
+From Drew: Don't take on too much work. Kyle did too much work, even after like 8-9 hours of working at school. If there is something Kyle feels NEEDS to be done, even after a day's work,  he should ask  group members for help. Most students at Turing  work hard and are willing to go the extra mile to finish a project. Don't burn yourself out. You-are-awesome Feedback:  I think our collaborative work styles really meshed well together. Had a ton of fun working on this project with Kyle. Kyle is an excellent coder, and there is a ton to learn from him. I would be very pleased to work with Kyle again.
+
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+My primary contributions to the community is probably within my module being an active and positive team member. I ask a lot of questions in class and am actively collaborating with people around me when we run into a roadblock. I'm pretty detail-oriented so I often think of logistical or project questions to ask the instructor that hopefully benefitted everyone else in module 2. I also made myself very available to pair with module 1 students and felt like I was always able to be helpful in the pairing sessions. I am also an active member of the Armstrong posse and attended most of the events and spikes. Lastly I am just a diligent community member in general and tend to do more than my share of dishes and a good job at afternoon chores.
+
+
+
 
 ------------------
 
