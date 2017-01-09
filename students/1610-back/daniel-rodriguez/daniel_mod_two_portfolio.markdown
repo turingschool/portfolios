@@ -58,7 +58,7 @@ If the project was graded, add your evaluation scores and notes. If the project 
 
 ### Individual Projects
 
-#### Bike Share
+#### Job Tracker
 
 ### 1. Database, Relationships, and Migrations
 
