@@ -198,6 +198,10 @@ My biggest takeaways here were around the process of finding a job. Meg emphasiz
 
 This sessions focused around project management. It detailed some tools to consider (like Waffle.io) and how we can leverage our strengths to help a team. My biggest takeaway was around building a culture of error within a team. I thought it was really interesting how teams that are not afraid to fail perform better (and probably have more fun).
 
+#### Cold Outreach
+
+In this session we worked on transforming our job tracker into a network of contacts. Meg discussed the idea that applying for jobs is often less effective than reaching out to people at companies we are interested in. From there we discussed best practices for reaching out cold to people over emails. I found it helpful to get some feedback on my email and then at the end of the session we sent our first cold outreach email out.
+
 ------------------
 
 ## E: Feedback and Community Participation
