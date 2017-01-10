@@ -125,6 +125,16 @@ The strength of the session was during the introduction about how it fit into th
 
 ### Playing a Part
 
+#### Lunch Roulette
+
+Initiated the coordination for all lunch roulette groups I was assigned to during the module. Participation this module was not very strong. Many lunch groups did not come together.
+
+#### ironFE
+
+Continued to co-lead the ironFE morning sessions through the module with Andrew Crist
+
+#### Meet Ups
+
 29 November 2016 6:00PM General Assembly - Design in Tech
 [Agenda](https://www.meetup.com/Denver-Tech-Design-Community/events/235454413/?gj=co2&rv=co2)
 
