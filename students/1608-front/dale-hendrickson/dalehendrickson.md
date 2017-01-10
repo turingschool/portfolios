@@ -58,6 +58,9 @@ In this project you’ll be building a react/redux weather app that allows you t
 
 ##### Feedback to Me
 
+**From Matt Kaufman:**
+Dale is one of the most enjoyable team members I've ever worked with. He's always in high spirits, ready and able to always work hard to get the best results possible. Coming from an organizational background, his drive to help manage the team's tasks and keep us on track was a huge benefit. I personally struggle with staying organized, but with Dale's direction I felt like I could let go of the reigns and focus on the task at hand. He asks great questions, and has insight into the whole scope of the project that is very impressive. Working with Dale is pleasent, as he's always on time and on schedule...an incredibly reliable teammate. I love working with Dale and I think he's an extremely valuable teammate in all respects.
+
 **From Hilary Lewis:**
   Through this project, I appreciate that Dale encouraged the team to take a good
   amount of time at the beginning of the project to organize, set up waffle, and
