@@ -106,6 +106,12 @@ I appreciated learning more about the topic.  A realization is that micro aggres
 
 The strength of the session was during the introduction about how it fit into the overall mission of Turing.  More reminders like this would be a welcome.  Students need to be aware that they signed a contract with the explicit and implicit that they agree and support the mission of the organization.  The exercise it self was not a valuable as I hoped though I was able learn more about my fellow students in the process.
 
+#### Grit
+
+[Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+
+I was not present for this Gear Up session. However, I have read *Grit: The Power of Passion and Perseverance* by Angela Duckworth and the closely related books *Peak: Secrets from the New Science of Expertise* by Anders Ericsson and *Smarter Faster Better: The Secrets of Being Productive in Life and Business* by Charles Duhigg. I am compfortable with the concepts and find them intriguing.
+
 ### Professional Development Workshops
 
 #### Flower Exercise
