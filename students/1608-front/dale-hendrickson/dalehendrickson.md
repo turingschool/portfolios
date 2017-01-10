@@ -58,7 +58,7 @@ In this project you’ll be building a react/redux weather app that allows you t
 
 ##### Feedback to Me
 
-From Hilary Lewis:
+**From Hilary Lewis:**
   Through this project, I appreciate that Dale encouraged the team to take a good
   amount of time at the beginning of the project to organize, set up waffle, and
   communicate how we were going to execute our project. Although Dale's workflow
@@ -67,7 +67,7 @@ From Hilary Lewis:
   Overall, Dale has a lot to offer a team in terms of effective troubleshooting,
     teamwork, organization, and effective communication.
 
-From Chelsea Skovgaard:
+**From Chelsea Skovgaard:**
   For our Weather Forecast application, we did the majority of the application
   together as a four person team. From this perspective, I think Hilary, Dale,
   and Matt did a great job working as a team ensuring that everyone had a chance
@@ -79,9 +79,17 @@ From Chelsea Skovgaard:
   strengths finder exercise this module - he helped me better articulate and
   express my strengths.
 
-#### Ember.js
+#### remEMBER
+
+[GitHub Repo](https://github.com/dshendrickson/1608-remember-1)
+
+##### Evaluation Comments
+
+##### Evaluation Scores
 
 ##### Feeback to Me
+
+**From Andrew Crist:**
 
 ## D: Professional Skills
 
