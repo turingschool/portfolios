@@ -79,19 +79,11 @@ From Chelsea Skovgaard:
   strengths finder exercise this module - he helped me better articulate and
   express my strengths.
 
-* [GitHub URL]()
-* [Original Assignment]()
+#### Ember.js
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
+##### Feeback to Me
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 #### Microaggressions
@@ -100,13 +92,18 @@ From Chelsea Skovgaard:
 
 I appreciated learning more about the topic.  A realization is that micro aggression seem to occur in somewhat "transactional" or "informal encounters".  One of the most valuable take aways was from one of the group reporting out was not to confront the aggressor but to positively engage the assailed.
 
-
-### Professional Development Workshops
 #### Journey Mapping
 
 [Journey Mapping](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown)
 
 The strength of the session was during the introduction about how it fit into the overall mission of Turing.  More reminders like this would be a welcome.  Students need to be aware that they signed a contract with the explicit and implicit that they agree and support the mission of the organization.  The exercise it self was not a valuable as I hoped though I was able learn more about my fellow students in the process.
+
+### Professional Development Workshops
+
+#### Flower Exercise
+
+[Flower Petals](https://drive.google.com/file/d/0B9Va2UnLFcUOY1IwSDB3YWVYVXM/view?usp=sharing)
+
 
 ## E: Feedback and Community Participation
 
