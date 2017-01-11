@@ -153,6 +153,9 @@ Continued to co-lead the ironFE morning sessions through the module with Andrew 
 15 December 2016 5:30PM Pivotal Labs - Interact: The Good, the Bad, & the Beautiful
 [Agenda](https://www.meetup.com/Denver-Tech-Design-Community/events/235749275/?gj=ro2_e&rv=ro2_e&_af=event&_af_eid=235749275&https=on)
 
+11 January 2016 6:00PM Western Mass Web Devs and Designers - Agile Methods Meetup
+[Agenda](https://www.meetup.com/wmasswebdev/events/236001299/)
+
 ------------------
 
 ## Final Review
