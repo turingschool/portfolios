@@ -15,8 +15,8 @@ Regarding community, pairing with module 2 students was really helpful or me in 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
 * **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
 
@@ -201,6 +201,10 @@ This sessions focused around project management. It detailed some tools to consi
 #### Cold Outreach
 
 In this session we worked on transforming our job tracker into a network of contacts. Meg discussed the idea that applying for jobs is often less effective than reaching out to people at companies we are interested in. From there we discussed best practices for reaching out cold to people over emails. I found it helpful to get some feedback on my email and then at the end of the session we sent our first cold outreach email out.
+
+#### [Networking](https://github.com/turingschool/professional_skills/blob/master/module_two/networking.md)
+
+In this lesson Meg described networking is a form of outreach intended to build and engage network. It usually means attending an even like a meet up or a hackathon. Meg discussed the difference between outreach preferences for introverts and extroverts. Extroverts may prefer networking while introverts may prefer one-on-one conversations. We also talked about one key part of networking - delivering an elevator pitch about yourself. I thought it was interesting to adopt a strategy when networking and be intentional about who you talk with and how you engage them. We ended the session by practicing our elevator pitch and receiving some feedback. I definitely needed the practice and it gave me some confidence going forward into networking events.
 
 ------------------
 
