@@ -8,10 +8,10 @@ This module I didn't know what all I should expect since we were trying out a ne
 
 Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
 
-* **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 4
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
-* **D: Professional Development**: 3
+* **D: Professional Development**: 4
 * **E: Feedback & Community Participation**: 3
 
 -----------------------
