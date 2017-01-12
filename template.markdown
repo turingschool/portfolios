@@ -1,18 +1,20 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# (Beth Knight) - (M1) Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This was my first in person programming course. I had worked with frameworks before for rails and ios and I wasn't understanding the fundamentals of what was going on behind the scenes. It was my goal coming into this program to really understand the algorithms that run everything. This included really grasping the ruby syntax and using tests to write code that could continuously be improved. 
+
+
 
 ## Rubric Scores
 
 Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Development**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 3
+* **D: Professional Development**: 2
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
@@ -25,9 +27,20 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 (Intro)
 
-#### (Project Name)
+#### (Date Night)
 
-* [GitHub URL]()
+* [https://github.com/BethKnight1234/turing_1module/tree/master/binary_tree]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### (Battleship)
+
+* [https://github.com/BethKnight1234/BETHALSHIP]()
 * [Original Assignment]()
 
 (description)
@@ -42,9 +55,9 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 (Intro)
 
-#### (Project Name)
+#### (CompleteMe)
 
-* [GitHub URL]()
+* [https://github.com/BethKnight1234/CompleteMe]()
 * [Original Assignment]()
 
 (description)
