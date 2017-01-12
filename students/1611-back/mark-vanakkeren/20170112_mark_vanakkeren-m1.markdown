@@ -1,3 +1,137 @@
+
+# Mark Van Akkeren - M1 Portfolio
+
+## Areas of Emphasis
+I arrived here looking at gaining a skill to then leverage along with my other skills I've acquired in my various and multifaceted careers.  That someone with such a diverse career background with also a developer skill set would be a valuable asset in the work force.  I had attended the July Try Turing class which was the convincing factor for attending (and friends saying "you'd be good at this" <-- i feel like i'm doubting them now ;), but i was "scared" of javascript and signed up for a night class at Galvanize.  It helped with warming me up a bit to coding and getting more comfortable with JS. The thing I've been repeating since day one has been "just get the skillset, just get the skillset" <-- in "just keep swimming" Dory voice.
+
+## Rubric Scores
+
+Fill in how you would grade yourself from 1-4 in the following categories this module:
+
+* **A: End-of-Module Assessment**: N/A
+* **B: Individual Work & Projects**: 1
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 4
+* **E: Feedback & Community Participation**: 3
+
+-----------------------
+
+## A: End of Module Assessment
+
+**Assessed by**: Nate and Mike
+**Notes**
+
+
+---------------------------------------------------------------------------------------------
+
+## B: Individual Work & Projects
+
+Irrational fear of the blank screen.  It's erroding.  
+
+#### Jungle Beats
+
+* https://github.com/markyv18/linked_list
+* https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown
+
+Self review: sick two days and then chased wrong assignement link. Was echo but got hung up on foxtrot link.  
+
+evaluation comments: N/A
+
+evaluation scores: N/A
+
+Reviewer: Nate
+https://github.com/turingschool/ruby-submissions/blob/master/1611-b/1module/date_night/mark-vanakkeren/date_night.markdown
+
+#### Flashcards
+
+* https://github.com/markyv18/flashcards
+* https://github.com/turingschool/curriculum/blob/c53e8ca3c1c87c3c716c42b371955fd1708ea939/source/projects/flashcards.markdown
+
+Self review: Got me to open up about asking for help (<--huge!).  Completed it but was largely left to independent study.         
+
+evaluation comments: N/A
+
+evaluation scores: N/A
+
+Reviewer: N/A
+
+#### Battleship
+
+* https://github.com/markyv18/battleship
+* https://github.com/turingschool/curriculum/blob/5ecc4bf1889fc827d9fdb52689fe9600f6d69367/source/projects/battleship.markdown
+
+Self review: Got after this, long hours, just so slow at progressing thru work.  On extended time attempted to create binary(bit) grid to then build game off of.  Built out interaction but unable to get game play going.   
+
+evaluation comments: N/A
+
+evaluation scores:
+    Fundamental Ruby & Style: 3
+    Enumberable & Collections : N/A
+    Test Driven Develpoment: 2
+    REPL Interface: N/A
+    Breaking Logic Into Components: N/A
+    Functional Expectations: N/A
+
+Reviewer: Beth
+https://github.com/turingschool/ruby-submissions/blob/master/1611-b/1module/battleship/mark-van-akkeren.md
+
+## C: Group Work & Projects
+
+### Projects
+
+Enigma was my only group project and it really lit a fire under my ass and motivated me.  I suck at "getting stared" (see comment on blank screen syndrome at the top) but with a partner I can't afford to allow that to affect me.  Cody jumped on it and passed over an outline almost ASAP, that was the catalyst and boom we were off and running.  We put in some long hours but our collaboration and DTR-ing was SOLID.  It was very enjoyable to work with someone and while we fell just shy of doing a full complete of the project it was a huge leap in progress from the previous work that was very incomplete. It was also FUN.
+
+#### Enigma
+
+* https://github.com/codyborders/enigma
+* https://github.com/turingschool/ruby-submissions/blob/master/1611-b/1module/enigma.markdown
+
+Create an enigma encryption encoder and decoder and cracker based on the WWII Nazi Kreigsmarine message encryptions.
+
+Reviewer: Ilana
+https://github.com/turingschool/ruby-submissions/blob/master/1611-b/1module/enigma/mark_cody.markdown
+
+Notes:
+had zero tests
+had one method that did everything
+talked about refactoring and running the file properly
+they are going to write tests and try to make the file work correctly by monday
+
+MVA Note: we built out some rudimentary tests by Monday.  Understanding of TDD has come a long way since then.  
+
+Overall Functionality : 2
+
+Fundamental Ruby & Style : 2
+
+Test-Driven Development : 1
+
+Breaking Logic into Components : 1
+
+MVA Note: I find it funny that the scores are so poor here but my reflection on the effort and result is so positive.
+
+## D: Professional Skills
+(Intro)
+
+### Gear Up
+
+#### Growth Mindset
+Listening to Sonia talk was the most resonate for me.  Someone coming from an established background that wants to try something new.  Easy in concept but harder in practice to teach an old dog new tricks.  Over the course of the mod I have realized that while I have a feeling that I have not failed anything it is because when I realize i'm not good at something I bow out rather quickly so as to never face real struggle.  With my committment to this school i'm facing failure and true perseverance for the first time in a long time.  Casey put it well in one group meeting that there are two aspects to this, grit is the act of pushing forward whereas growth is the acceptance of the struggle that is the process.  Slowly am i accepting this erosion of my ego, but it's a rough ride.
+
+#### Cohort Norms
+Intro vs Extro vs Ambivert - This was helpful, i've alwasy struggled when these talks come up because I can so violently oscillate between one or the other and in short spans of time too.  It was enjoyable to sit with a group that felt similar.  At times we are one, at times we are another.  Using the strneghts of both sides to advance certain areas of our work.  Also learning how threatening one way can be to the other, but then leveraging our understaning of both to further the efforts of a group task.  Growth: when feeling growth = extrover, when feeling fixed = introvert.
+
+### Personal Stories & Connection
+Ilana, Ken, Charlotte - While there was little that Ken or I found in direct common with the others that does not mean that we can't understand and work with the points of view expressed by others.  The conclusion was while there is great empathy, it is ACTING on that empathy that will advance things.  This has inspried me to lay the ground work for civic involvement in causes I support once I have more time to deveote to them.  
+
+### Grit Mindset
+It would seem i have very little lack of grit.  I _HATE_ being committed to something and not understanding it.  That drives me further in my effort to conquer the subject matter.  Grit seems to be the "physical" connotation of effort whereas growth is the "emotional" connotation of acceptance of the struggle.  I have great difficulty in accepting strugggle, it's not something i've ever really encounterd and its struggle is weighing down my effort to push forward.  I'm starting to "not care" about my emotional state and cast off my cares of "how i feel" in hopes of allowing me to push forward my objective learning.  "getting clinical" so to speak.  
+
+### Professional Development Workshops
+
+#### Personal Branding One
+
+* https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md
+* https://www.linkedin.com/in/mark-van-akkeren
 * https://resume.creddle.io/resume/2f01ty50fdc
 
 While I understand the importance of this I had this work drilled into me during university and have almost 15 years experience of working with resumes and public representation of my person so feel very comfortable in this space.
