@@ -26,7 +26,7 @@ Progress score changed from 2 to 3 after a 90 min extension during which feature
 * Showing "Hot" but not "Top"
 * Bugs with mark as read with a new link.
 * Missing Link Validation
-* Missing
+* Missing Filter by Read
 
 ### 1. Satisfactory Progress
 
@@ -63,6 +63,7 @@ My individual work focused on contributing to Open Source and investigating Redi
 
 * [GitHub URL](https://github.com/laserlemon/figaro/issues/247)
 * [Original Assignment](http://backend.turing.io/module4/projects/the-plan/assignments/open-source)
+* [Blog Post](https://gist.github.com/bcgoss/5d6f4f587a4e0e97f87b3295138f7095)
 
 Brian and I attempted to contribute to Figaro. The issue above is related to failing test. Upon investigating the problem, we realized we would need more time to complete the deliverables. I will have a code contribution by Tuesday to meet this requirement. Despite not writing code for this project, I learned a lot. The tests are attempting to use the Interceptor pattern to stub the Heroku app. When the shell executes the `heroku` command, the first step is finding the binary in the file system. The CommandInterceptor class attempts to hijack this and execute logging code. It was a good demonstration of the second reason to do Open Source work, aside from contributing labor to the community: learning unexpected things by exposing myself to new ideas and techniques.
 
@@ -73,6 +74,12 @@ Brian and I attempted to contribute to Figaro. The issue above is related to fai
 I tackled learning Python and also the challenge of learning how different technologies can interact and interoperate. The goal was to create a service which would use a message queue to send many emails asynchronously. The Rails app would collect the list of emails and then rely on a Python app to format and send the emails.
 
 To work toward this goal, I started by solving the `beer song` exercism. I picked this because it involves string manipulation similar to what might be required to construct an email. Next I researched Redis, AJAX and other techniques for sharing data and issuing instructions from one app to another. Finally I wrote a small service which constructs the email when given an address and a URL to be inserted.
+
+#### The Plan
+
+* [Gist](https://gist.github.com/bcgoss/bcffdaf7880e99e643b4cc1182086b89)
+
+Summary: I commit to doing the Technical blog post. In addition I have learning goals for myself, and goals for contributing to Open Source. Immediately following Turing I will work with Jean on a React / Phoenix app which allows many users to draw on the same canvas in real time. 
 
 ## C: Group Work & Projects
 
