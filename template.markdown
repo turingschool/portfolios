@@ -170,6 +170,13 @@ Dear Charlotte,
 	I think you had great passion about the project and wanting to succeed. You showed up on time, put in extra effort. There was never a moment where I doubted if you were in for the long haul. And thanks for letting me take over a lot of the testing. That was important for me to learn and I really appreciated it. 
 
 	I think we might have had that tunnel vision with our project. There was a point where we were both spiraling and feeling defeated. We should have met at Turing instead of the coffee shop so we could have grabbed some help. But that’s a hindsight thing. You’re github skills are getting there! We probably should have outlined how we were going to merge, pull, create branches and all that. We need to whiteboard, psuedo code, and test before we write any real code. I think we got into trouble when we started hacking away at it. 
+	
+For Spencer,
+Spencer, it was awesome working with you. I think your energy and enthusiasm is infectious and it helped make this project fun. You were considerate and hard working. Even though we didn’t get through as many iterations as we wanted, I think the work we did do was implemented very well. I learned everything I know about pry today because of you. And I appreciate you letting me take over testing for a lot of the project since it is my weaker point.
+You can work on improving your speed in getting to the answers faster. I think this will come with getting familiar with programming to build your confidence .
+
+From Bailey
+I enjoy seeing and working with Bailey every day. I appreciate that she is always excited to learn because her excitement is infectious. I think we’re in the same boat in terms of how we progressed in Mod 1. I like having someone to bounce ideas off who is on the same page as me. She’s a great listener and I appreciate having a good friend in the class.
 
 ### Being a Community Member
 
@@ -180,6 +187,10 @@ Your positive attitude helped me stay focused when I became really frustrated wi
 From Spencer
 Beth
 After working with Beth on headcount for the first time, I knew that we were going to have a very collaborative, interactive partnership. Beth was one of the easiest partners I have ever worked with, as her diligence and work ethic were only surpassed by her intelligence. Her passion for coding was exemplified on a daily basis, even to the point where she would at times fall asleep on her keyboard out of complete and utter exhaustion. The only problem that Beth faces is her inability to embrace her talent in the field, and embody the confidence that she deserves. I noticed while working with her that while she is gifted and extremely talented, she often hesitates to use it and unlock her full potential. I see great things in Beth’s future, and I think that she will be a force to be reckoned with in upcoming modules. Beth, you were an absolute pleasure to work with and I would love to work with you again.
+
+From Bailey
+"I felt comfortable around Beth from the first time we met, I knew we would be instant friends. This was very helpful for me because I was nervous and anxious at first about fitting in to the community. I really appreciate her for helping me when I was feeling in a funk or when I just didn't understand something. She has a positive attitude all of the time and has an amazing drive to get things done. I am so happy to be able to call her a friend."
+
 
 ### Playing a Part
 
