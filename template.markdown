@@ -29,7 +29,7 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 #### (Date Night)
 
-* [https://github.com/BethKnight1234/turing_1module/tree/master/binary_tree]()
+* [GitHub URL](https://github.com/BethKnight1234/turing_1module/tree/master/binary_tree)
 * [Original Assignment]()
 
 (description)
@@ -57,7 +57,7 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 #### (CompleteMe)
 
-* [https://github.com/BethKnight1234/CompleteMe]()
+* [GitHub URL](https://github.com/BethKnight1234/CompleteMe)
 * [Original Assignment]()
 
 (description)
