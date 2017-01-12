@@ -13,6 +13,7 @@ My initial goals for mod 1 were to learn the basics of programming and how to wo
 ****Final Assessment****
 Headcount
 The objective of the final assessment was to create a directory in which certain sections of information could be pulled out if called upon.
+
 ### 1. Ruby Syntax & API
 * 2: Developer is generally able to write Ruby, but gets stuck on or needs help with fundamental concepts
 
