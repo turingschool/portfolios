@@ -1,18 +1,20 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# (Beth Knight) - (M1) Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This was my first in person programming course. I had worked with frameworks before for rails and ios and I wasn't understanding the fundamentals of what was going on behind the scenes. It was my goal coming into this program to really understand the algorithms that run everything. This included really grasping the ruby syntax and using tests to write code that could continuously be improved. 
+
+
 
 ## Rubric Scores
 
 Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Development**: X
-* **E: Feedback & Community Participation**: X
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 3
+* **D: Professional Development**: 2
+* **E: Feedback & Community Participation**: 4
 
 -----------------------
 
@@ -25,35 +27,129 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 (Intro)
 
-#### (Project Name)
+When I first started I was extremelly confident in my abilities and so I joined Echo. In hindsight I wish I had gone with Foxtrot and worked more on the fundamentals instead of diving into big projects that overwhelmed me. It did force me to really step up to the plate and push through some fairly advanced concepts. I also learned to seek out help from mentors which I think will be key later on. 
 
-* [GitHub URL]()
+#### (Date Night)
+
+* [GitHub URL](https://github.com/BethKnight1234/turing_1module/tree/master/binary_tree)
 * [Original Assignment]()
 
-(description)
+Assessed By: Mike
 
-(evaluation comments)
+Repo: https://github.com/BethKnight1234/turing_1module/tree/master/binary_tree
 
-(evaluation scores)
+Notes:
+
+Great iterative approach, and recursive approaches
+Did everything except load, started delete
+missing tests for node class, but otherwise good tests in there
+Scores:
+
+Evaluation Rubric
+
+The project will be assessed with the following rubric:
+
+1. Functional Expectations
+
+2: Application is missing one base expectation
+2. Test-Driven Development
+
+2: Application makes some use of tests, but the coverage is insufficient
+3. Encapsulation / Breaking Logic into Components
+
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+4. Fundamental Ruby & Style
+
+3: Application shows strong effort towards organization, content, and refactoring
+5. Looping or Recursion
+
+4: Application makes excellent use of loop/recursion techniques
+
+#### (Battleship)
+
+* [GitHub URL](https://github.com/BethKnight1234/BETHALSHIP)
+* [Original Assignment](http://backend.turing.io/module1/projects/battleship)
+
+Assessed By: Mike
+
+Repo: https://github.com/BethKnight1234/BETHALSHIP
+
+Notes:
+
+Application quits when instructions are requested twice.
+Some wonkiness in displaying shots.
+The computer may be cheating.
+Not strong use of TDD.
+1. Fundamental Ruby & Style
+
+3: Application shows strong effort towards organization, content, and refactoring
+2. Enumerable & Collections
+
+3: Application demonstrates comfortable use of several Enumerable techniques
+3. Test-Driven Development
+
+1: Application does not demonstrate strong use of TDD
+4. REPL Interface
+
+1: Application's REPL has enough problems as to make play difficult
+5. Breaking Logic into Components
+
+3: Application effectively breaks logical components apart with clear intent and usage
+6. Functional Expectations
+
+2: Application runs, but does not work properly, or does not meet specifications.
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
+Group work was a little difficult for me because I felt I might drag my partner down because I was constantly questioning my ability. While this fear never went away, I thought it was amazing to have someone to bounce ideas off of. Overall we were able to achieve more together than we ever would alone. 
 
-#### (Project Name)
+#### (CompleteMe)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/BethKnight1234/CompleteMe)
+* [Original Assignment](http://backend.turing.io/module1/projects/complete_me)
 
-(description)
+Assessed By: Nate
 
-(evaluation comments)
+Repo:
 
-(evaluation scores)
+Notes:
 
-(feedback to me)
+Missing suggest and supporting feature
+Clear and concise tests. We talked about efficiency in the future
+Could make better use of words as arrays, althogh I wasn't able to easily get it working
+Would have liked more examples of enumerables
+1. Functional Expectations
+
+4: Application fulfills all base expectations and one extension
+3: Application fulfills all base expectations
+2: Application is missing one base expectation
+1: Application is missing more than one base expectation
+2. Test-Driven Development
+
+4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+2: Application makes some use of tests, but the coverage is insufficient
+1: Application does not demonstrate strong use of TDD
+3. Encapsulation / Breaking Logic into Components
+
+4: Application is expertly divided into logical components each with a clear, single responsibility
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+1: Application logic shows poor decomposition with too much logic mashed together
+4. Fundamental Ruby & Style
+
+4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+3: Application shows strong effort towards organization, content, and refactoring
+2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
+1: Application generates syntax error or crashes during execution
+5. Enumerable & Collections
+
+4: Application consistently makes use of the best-choice Enumerable methods
+3: Application demonstrates comfortable use of appropriate Enumerable methods
+2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
+1: Application demonstrates deficiencies with Enumerable and struggles with collections
 
 ## D: Professional Development
 (Intro)
@@ -69,21 +165,55 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 ### Giving Feedback
 
-(feedback from me)
+Dear Charlotte,
+
+	I think you had great passion about the project and wanting to succeed. You showed up on time, put in extra effort. There was never a moment where I doubted if you were in for the long haul. And thanks for letting me take over a lot of the testing. That was important for me to learn and I really appreciated it. 
+
+	I think we might have had that tunnel vision with our project. There was a point where we were both spiraling and feeling defeated. We should have met at Turing instead of the coffee shop so we could have grabbed some help. But that’s a hindsight thing. You’re github skills are getting there! We probably should have outlined how we were going to merge, pull, create branches and all that. We need to whiteboard, psuedo code, and test before we write any real code. I think we got into trouble when we started hacking away at it. 
+	
+For Spencer,
+Spencer, it was awesome working with you. I think your energy and enthusiasm is infectious and it helped make this project fun. You were considerate and hard working. Even though we didn’t get through as many iterations as we wanted, I think the work we did do was implemented very well. I learned everything I know about pry today because of you. And I appreciate you letting me take over testing for a lot of the project since it is my weaker point.
+You can work on improving your speed in getting to the answers faster. I think this will come with getting familiar with programming to build your confidence .
+
+From Bailey
+I enjoy seeing and working with Bailey every day. I appreciate that she is always excited to learn because her excitement is infectious. I think we’re in the same boat in terms of how we progressed in Mod 1. I like having someone to bounce ideas off who is on the same page as me. She’s a great listener and I appreciate having a good friend in the class.
 
 ### Being a Community Member
 
-(feedback to me)
+From Charlotte
+
+Your positive attitude helped me stay focused when I became really frustrated with this project. When I wanted to give up you were a great source of encouragement, and you really pushed me to keep going when it seemed like we weren't getting anywhere. I don't think our dynamic helped advance our project because we fed off of eachother's confusion and ended up going in circles a lot. I felt like we were on the same page for a lot of stuff, but we were on the wrong page and both of us had trouble seeing that. I think it was difficult for both of us to step back from the problem, which contributed to the mire we found ourselves in. You were great at seeking out help and improved your testing a lot over the course of this project. Despite the frustrations, it was great working with you.
+
+From Spencer
+Beth
+After working with Beth on headcount for the first time, I knew that we were going to have a very collaborative, interactive partnership. Beth was one of the easiest partners I have ever worked with, as her diligence and work ethic were only surpassed by her intelligence. Her passion for coding was exemplified on a daily basis, even to the point where she would at times fall asleep on her keyboard out of complete and utter exhaustion. The only problem that Beth faces is her inability to embrace her talent in the field, and embody the confidence that she deserves. I noticed while working with her that while she is gifted and extremely talented, she often hesitates to use it and unlock her full potential. I see great things in Beth’s future, and I think that she will be a force to be reckoned with in upcoming modules. Beth, you were an absolute pleasure to work with and I would love to work with you again.
+
+From Bailey
+"I felt comfortable around Beth from the first time we met, I knew we would be instant friends. This was very helpful for me because I was nervous and anxious at first about fitting in to the community. I really appreciate her for helping me when I was feeling in a funk or when I just didn't understand something. She has a positive attitude all of the time and has an amazing drive to get things done. I am so happy to be able to call her a friend."
+
 
 ### Playing a Part
 
 (ways you supported the larger Turing community)
 
+I showed up every day with a positive attitude, ready to tackle the days challenge. I love my Turing mod and being a part of this community has really helped me grow as a programmer. I'm hoping I was as supportive of my fellow student as they were for me.
+
 ### Gear Up
 
 (reflect on your Gear Up sessions following the below example)
 
-------------------
+
+Growth Mindset
+
+This was a great session! They talked about the idea of “yet”, as in there is always room to grow. While I might not be a programmer now, I have the ability to grow into one. The thing that would hold me back would be believing that I personally am not able because of an inherent limitation. I need to always be on my guard for the fixed mindset popping up when I’m struggling. Can’t needs to be replaced with how. 
+
+Personalities
+
+The mod one community lined up based on how they saw themselves in terms of extroversion and introversion. We then broke into different groups. My extrovert group talked about how being chatty and cheerful sometimes made you come off as not a serious worker or not competent. When we mixed up the groups with the introverts it was interesting to see how the dynamics changed. The tone became more serious and thoughtful. Introverts can be railroaded over by stronger personalities, and that’s one of my biggest takeaways from the exercise. I think a lot of the people in the tech world are going to lean towards introversion. Learning how to work with all of these different personalities is really important, especially since I’m at the other end of the spectrum.
+
+Grit
+
+I loved the grit talk. Grit is the ability to persevere through difficult tasks when you have a desired outcome in mind. This sums up my entire experience in Turing. I know I want to be a programmer. This end goal is what helps me get through all the difficult, mind melting exercises they throw at us. It’s also good to know your limits and when to say it’s time to quit. This comes down to trusting your gut. There’s a difference between quitting because it’s difficult and quitting because it’s not good for you anymore.
 
 ## Final Review
 
