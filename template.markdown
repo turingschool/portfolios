@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Mark Van Akkeren (@markyv) - (M1/M2/M3/M4) Portfolio
 
 ## Areas of Emphasis
 
