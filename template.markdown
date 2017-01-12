@@ -42,8 +42,8 @@ When I first started I was extremelly confident in my abilities and so I joined 
 
 #### (Battleship)
 
-* [https://github.com/BethKnight1234/BETHALSHIP]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/BethKnight1234/BETHALSHIP)
+* [Original Assignment](http://backend.turing.io/module1/projects/battleship)
 
 (description)
 
@@ -60,7 +60,7 @@ Group work was a little difficult for me because I felt I might drag my partner 
 #### (CompleteMe)
 
 * [GitHub URL](https://github.com/BethKnight1234/CompleteMe)
-* [Original Assignment]()
+* [Original Assignment](http://backend.turing.io/module1/projects/complete_me)
 
 (description)
 
@@ -84,11 +84,17 @@ Group work was a little difficult for me because I felt I might drag my partner 
 
 ### Giving Feedback
 
-(feedback from me)
+Dear Charlotte,
+
+	I think you had great passion about the project and wanting to succeed. You showed up on time, put in extra effort. There was never a moment where I doubted if you were in for the long haul. And thanks for letting me take over a lot of the testing. That was important for me to learn and I really appreciated it. 
+
+	I think we might have had that tunnel vision with our project. There was a point where we were both spiraling and feeling defeated. We should have met at Turing instead of the coffee shop so we could have grabbed some help. But that’s a hindsight thing. You’re github skills are getting there! We probably should have outlined how we were going to merge, pull, create branches and all that. We need to whiteboard, psuedo code, and test before we write any real code. I think we got into trouble when we started hacking away at it. 
 
 ### Being a Community Member
 
-(feedback to me)
+From Charlotte
+
+Your positive attitude helped me stay focused when I became really frustrated with this project. When I wanted to give up you were a great source of encouragement, and you really pushed me to keep going when it seemed like we weren't getting anywhere. I don't think our dynamic helped advance our project because we fed off of eachother's confusion and ended up going in circles a lot. I felt like we were on the same page for a lot of stuff, but we were on the wrong page and both of us had trouble seeing that. I think it was difficult for both of us to step back from the problem, which contributed to the mire we found ourselves in. You were great at seeking out help and improved your testing a lot over the course of this project. Despite the frustrations, it was great working with you.
 
 ### Playing a Part
 
