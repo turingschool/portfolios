@@ -1,18 +1,19 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Marisa Burton - M2 Portfolio
 
 ## End of Module Reflection
 
 What did you get technically and professionally out of this module? How are you going to use it in the future?
+I quite frankly didn't know exactly what I'd be learning this model, but I learned a lot. However elementarily, I feel like I'm actually coding for the first time and producing real web applications. After working so much with GitHub, for the first time I can say I'm comfortable using it with group projects. Professionally, I think I learned more about myself since we had to pair so much this module. Also, cold contacting people at first filled me with anxiety, but the more I did it, my comfort level grew and now I don't mind it as much.
 
 ## Self-Evaluated Rubric Scores
 
 Find the rubric near the end of this document.
 
 * **A: End of Module Assessment**: X
-* **B: Individual & Group Work**: X
-* **C: Professional Skills**: X
-* **D: Feedback**: X
-* **E: Community Participation**: X
+* **B: Individual & Group Work**: 3
+* **C: Professional Skills**: 3
+* **D: Feedback**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
