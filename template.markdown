@@ -34,22 +34,70 @@ When I first started I was extremelly confident in my abilities and so I joined 
 * [GitHub URL](https://github.com/BethKnight1234/turing_1module/tree/master/binary_tree)
 * [Original Assignment]()
 
-(description)
+Assessed By: Mike
 
-(evaluation comments)
+Repo: https://github.com/BethKnight1234/turing_1module/tree/master/binary_tree
 
-(evaluation scores)
+Notes:
+
+Great iterative approach, and recursive approaches
+Did everything except load, started delete
+missing tests for node class, but otherwise good tests in there
+Scores:
+
+Evaluation Rubric
+
+The project will be assessed with the following rubric:
+
+1. Functional Expectations
+
+2: Application is missing one base expectation
+2. Test-Driven Development
+
+2: Application makes some use of tests, but the coverage is insufficient
+3. Encapsulation / Breaking Logic into Components
+
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+4. Fundamental Ruby & Style
+
+3: Application shows strong effort towards organization, content, and refactoring
+5. Looping or Recursion
+
+4: Application makes excellent use of loop/recursion techniques
 
 #### (Battleship)
 
 * [GitHub URL](https://github.com/BethKnight1234/BETHALSHIP)
 * [Original Assignment](http://backend.turing.io/module1/projects/battleship)
 
-(description)
+Assessed By: Mike
 
-(evaluation comments)
+Repo: https://github.com/BethKnight1234/BETHALSHIP
 
-(evaluation scores)
+Notes:
+
+Application quits when instructions are requested twice.
+Some wonkiness in displaying shots.
+The computer may be cheating.
+Not strong use of TDD.
+1. Fundamental Ruby & Style
+
+3: Application shows strong effort towards organization, content, and refactoring
+2. Enumerable & Collections
+
+3: Application demonstrates comfortable use of several Enumerable techniques
+3. Test-Driven Development
+
+1: Application does not demonstrate strong use of TDD
+4. REPL Interface
+
+1: Application's REPL has enough problems as to make play difficult
+5. Breaking Logic into Components
+
+3: Application effectively breaks logical components apart with clear intent and usage
+6. Functional Expectations
+
+2: Application runs, but does not work properly, or does not meet specifications.
 
 ## C: Group Work & Projects
 
@@ -62,13 +110,46 @@ Group work was a little difficult for me because I felt I might drag my partner 
 * [GitHub URL](https://github.com/BethKnight1234/CompleteMe)
 * [Original Assignment](http://backend.turing.io/module1/projects/complete_me)
 
-(description)
+Assessed By: Nate
 
-(evaluation comments)
+Repo:
 
-(evaluation scores)
+Notes:
 
-(feedback to me)
+Missing suggest and supporting feature
+Clear and concise tests. We talked about efficiency in the future
+Could make better use of words as arrays, althogh I wasn't able to easily get it working
+Would have liked more examples of enumerables
+1. Functional Expectations
+
+4: Application fulfills all base expectations and one extension
+3: Application fulfills all base expectations
+2: Application is missing one base expectation
+1: Application is missing more than one base expectation
+2. Test-Driven Development
+
+4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+2: Application makes some use of tests, but the coverage is insufficient
+1: Application does not demonstrate strong use of TDD
+3. Encapsulation / Breaking Logic into Components
+
+4: Application is expertly divided into logical components each with a clear, single responsibility
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+1: Application logic shows poor decomposition with too much logic mashed together
+4. Fundamental Ruby & Style
+
+4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+3: Application shows strong effort towards organization, content, and refactoring
+2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
+1: Application generates syntax error or crashes during execution
+5. Enumerable & Collections
+
+4: Application consistently makes use of the best-choice Enumerable methods
+3: Application demonstrates comfortable use of appropriate Enumerable methods
+2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
+1: Application demonstrates deficiencies with Enumerable and struggles with collections
 
 ## D: Professional Development
 (Intro)
@@ -96,6 +177,10 @@ From Charlotte
 
 Your positive attitude helped me stay focused when I became really frustrated with this project. When I wanted to give up you were a great source of encouragement, and you really pushed me to keep going when it seemed like we weren't getting anywhere. I don't think our dynamic helped advance our project because we fed off of eachother's confusion and ended up going in circles a lot. I felt like we were on the same page for a lot of stuff, but we were on the wrong page and both of us had trouble seeing that. I think it was difficult for both of us to step back from the problem, which contributed to the mire we found ourselves in. You were great at seeking out help and improved your testing a lot over the course of this project. Despite the frustrations, it was great working with you.
 
+From Spencer
+Beth
+After working with Beth on headcount for the first time, I knew that we were going to have a very collaborative, interactive partnership. Beth was one of the easiest partners I have ever worked with, as her diligence and work ethic were only surpassed by her intelligence. Her passion for coding was exemplified on a daily basis, even to the point where she would at times fall asleep on her keyboard out of complete and utter exhaustion. The only problem that Beth faces is her inability to embrace her talent in the field, and embody the confidence that she deserves. I noticed while working with her that while she is gifted and extremely talented, she often hesitates to use it and unlock her full potential. I see great things in Beth’s future, and I think that she will be a force to be reckoned with in upcoming modules. Beth, you were an absolute pleasure to work with and I would love to work with you again.
+
 ### Playing a Part
 
 (ways you supported the larger Turing community)
@@ -104,7 +189,18 @@ Your positive attitude helped me stay focused when I became really frustrated wi
 
 (reflect on your Gear Up sessions following the below example)
 
-------------------
+
+Growth Mindset
+
+This was a great session! They talked about the idea of “yet”, as in there is always room to grow. While I might not be a programmer now, I have the ability to grow into one. The thing that would hold me back would be believing that I personally am not able because of an inherent limitation. I need to always be on my guard for the fixed mindset popping up when I’m struggling. Can’t needs to be replaced with how. 
+
+Personalities
+
+The mod one community lined up based on how they saw themselves in terms of extroversion and introversion. We then broke into different groups. My extrovert group talked about how being chatty and cheerful sometimes made you come off as not a serious worker or not competent. When we mixed up the groups with the introverts it was interesting to see how the dynamics changed. The tone became more serious and thoughtful. Introverts can be railroaded over by stronger personalities, and that’s one of my biggest takeaways from the exercise. I think a lot of the people in the tech world are going to lean towards introversion. Learning how to work with all of these different personalities is really important, especially since I’m at the other end of the spectrum.
+
+Grit
+
+I loved the grit talk. Grit is the ability to persevere through difficult tasks when you have a desired outcome in mind. This sums up my entire experience in Turing. I know I want to be a programmer. This end goal is what helps me get through all the difficult, mind melting exercises they throw at us. It’s also good to know your limits and when to say it’s time to quit. This comes down to trusting your gut. There’s a difference between quitting because it’s difficult and quitting because it’s not good for you anymore.
 
 ## Final Review
 
