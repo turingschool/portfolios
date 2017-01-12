@@ -185,6 +185,8 @@ After working with Beth on headcount for the first time, I knew that we were goi
 
 (ways you supported the larger Turing community)
 
+I showed up every day with a positive attitude, ready to tackle the days challenge. I love my Turing mod and being a part of this community has really helped me grow as a programmer. I'm hoping I was as supportive of my fellow student as they were for me.
+
 ### Gear Up
 
 (reflect on your Gear Up sessions following the below example)
