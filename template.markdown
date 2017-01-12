@@ -115,39 +115,37 @@ Assessed By: Nate
 Repo:
 
 Notes:
-
-Missing suggest and supporting feature
-Clear and concise tests. We talked about efficiency in the future
-Could make better use of words as arrays, althogh I wasn't able to easily get it working
-Would have liked more examples of enumerables
+	Missing suggest and supporting feature
+	Clear and concise tests. We talked about efficiency in the future
+	Could make better use of words as arrays, althogh I wasn't able to easily get it working
+	Would have liked more examples of enumerables
 1. Functional Expectations
-
 4: Application fulfills all base expectations and one extension
 3: Application fulfills all base expectations
-2: Application is missing one base expectation
+*2: Application is missing one base expectation
 1: Application is missing more than one base expectation
-2. Test-Driven Development
 
-4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+2. Test-Driven Development
+*4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 2: Application makes some use of tests, but the coverage is insufficient
 1: Application does not demonstrate strong use of TDD
-3. Encapsulation / Breaking Logic into Components
 
+3. Encapsulation / Breaking Logic into Components
 4: Application is expertly divided into logical components each with a clear, single responsibility
-3: Application effectively breaks logical components apart but breaks the principle of SRP
+*3: Application effectively breaks logical components apart but breaks the principle of SRP
 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
 1: Application logic shows poor decomposition with too much logic mashed together
-4. Fundamental Ruby & Style
 
+4. Fundamental Ruby & Style
 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-3: Application shows strong effort towards organization, content, and refactoring
+*3: Application shows strong effort towards organization, content, and refactoring
 2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
 1: Application generates syntax error or crashes during execution
-5. Enumerable & Collections
 
+5. Enumerable & Collections
 4: Application consistently makes use of the best-choice Enumerable methods
-3: Application demonstrates comfortable use of appropriate Enumerable methods
+*3: Application demonstrates comfortable use of appropriate Enumerable methods
 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
 1: Application demonstrates deficiencies with Enumerable and struggles with collections
 
@@ -167,24 +165,21 @@ Evaluation Rubric
 The project will be assessed with the following guidelines:
 
 1. Functional Expectations
-
 2: Application has some missing functionality but no crashes
+
 2. Test-Driven Development
-
 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
 3. Encapsulation / Breaking Logic into Components
-
 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
 4. Fundamental Ruby & Style
-
 3: Application shows strong effort towards organization, content, and refactoring
+
 5. Enumerable & Collections
-
 3: Application demonstrates comfortable use of appropriate Enumerable methods
+
 6. Code Sanitation
-
-The output from rake sanitation:all shows...
-
 3: Five or fewer complaints
 
 #### (Battleship)
@@ -192,13 +187,43 @@ The output from rake sanitation:all shows...
 * [GitHub URL](https://github.com/BethKnight1234/BETHALSHIP)
 * [Original Assignment](http://backend.turing.io/module1/projects/battleship)
 
+Assessed By: Mike
+
+Repo: https://github.com/BethKnight1234/BETHALSHIP
+
+Notes:
+
+Application quits when instructions are requested twice.
+Some wonkiness in displaying shots.
+The computer may be cheating.
+Not strong use of TDD.
+
+1. Fundamental Ruby & Style
+3: Application shows strong effort towards organization, content, and refactoring
+
+2. Enumerable & Collections
+3: Application demonstrates comfortable use of several Enumerable techniques
+
+3. Test-Driven Development
+1: Application does not demonstrate strong use of TDD
+
+4. REPL Interface
+1: Application's REPL has enough problems as to make play difficult
+
+5. Breaking Logic into Components
+3: Application effectively breaks logical components apart with clear intent and usage
+
+6. Functional Expectations
+2: Application runs, but does not work properly, or does not meet specifications.
+
 ## D: Professional Development
 (Intro)
 
 ### Professional Development Workshops
 #### (Session Name)
 
-* [Link to Completed Deliverables]()
+* [Link to Completed Deliverables](https://www.linkedin.com/in/beth-knight-aa02abb
+)
 
 (takeaways from session)
 
