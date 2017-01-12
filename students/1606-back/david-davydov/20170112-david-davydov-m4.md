@@ -10,6 +10,31 @@ I came into Mod 4 with developed Ruby/Rails skills and was excited to learn Java
 
 The project we were assigned as a group was Enroll. This was the only brownfield application of our cohort. When we inherited the codebase from master, there were failing tests in the suite. Getting it up to staging was a monumental tasks that two of our team members endured. While this was challenging and at many times frustrating, I believe we will only appreciate these difficulties more once we are out in the real world encountering similar frustrations. In the end, we fixed the test suite, refactored out a very complex piece that was being called in multiple places of the app to a single file, and implemented some nifty features like Smart-Search and collaborated with the front-end Dashboard app to serve data to it from an API endpoint.
 
+#### My contributions:
+
+###### Sprint 1
+
+* Fixed some failing tests pulled down from Enroll master.
+* Documented how to seed from Apply scrubbed.dump for the group.
+* Got [Enroll talking to Apply locally](https://www.pivotaltracker.com/story/show/135192175) and helped group set this up.
+* Began work on the ["Search by Name" feature](https://www.pivotaltracker.com/story/show/135174809), which in its first iteration was a javascript redirect to a route which handled getting the data from Apply. Later this was transformed into part of the Smart Search.
+
+###### Sprint 2
+
+* [Wireframe the dashboard](https://www.pivotaltracker.com/story/show/136072113) and delivered an early prototype before it was reassigned to Matt.
+* Coordinated with Matt and Sonia to deliver the [upcoming-three-cohorts enrollment data functionality](https://www.pivotaltracker.com/story/show/136054777) to the front-end Dashboard.
+* Updated the seed file for Enroll to have more [useful data](https://github.com/turingschool/enroll/blob/development/db/seeds.rb) in terms of actually enrolling created students into programs and courses.
+* Paired with Raphael to refactor and finish the [Smart Search](https://www.pivotaltracker.com/story/show/135192013) feature for an Admin to search by Cohort, Payment Plan. Later, this was combined with the Name search.
+
+###### Sprint 3
+
+* Tied together the Search by Name javascript redirect and the newly created Smart Search [into one controller action and view](https://www.pivotaltracker.com/story/show/136570771)
+
+* Integrated DataTables into the SmartSearch and documented the feature with a [video](https://slack-files.com/T029P2S9M-F3N21L02H-c41f867275). With this change, sorting by columns and quick-filter was implemented into the search results. [Pull Request](https://github.com/turingschool/enroll/pull/133)
+
+* Worked on the ["CensusService to talk to Census"](https://www.pivotaltracker.com/story/show/137126823) card to finish off the sprint.
+
+
 [Enroll-Staging](http://enroll-staging.turing.io/)
 
 [Code-Private](https://github.com/turingschool/enroll)
@@ -39,6 +64,34 @@ There are actually still improvements to be made to our communication and workfl
 **4. Application of Techniques**
 
 > 3: Project has implemented one major technique from the previous two weeks of academic classes.
+
+---
+
+## Open Source Contributions
+
+#### Berkman Center: Bookanook
+
+[Issue: "Location Name Can't be Blank"](https://github.com/berkmancenter/bookanook/issues/130
+)
+
+[Pull Request](https://github.com/berkmancenter/bookanook/pull/188)
+
+> The app currently allowed an Admin to create a location without a name. The fix was to add a name validation to the location model, update a previously passing spec, add a new spec, and flash an error to the Admin if s/he tries to create a Location without a name.
+
+
+#### Habitat for Humanity New Orleans
+[Issue: "Shift Events 'Occurred At' column shows date instead of datetime"](https://github.com/rubyforgood/habitat_humanity/issues/114)
+
+[Pull Request](https://github.com/rubyforgood/habitat_humanity/pull/121)
+
+> This was a fun issue to solve because investigating it led me to find the [same issue was already opened on the gem](https://github.com/thoughtbot/administrate/issues/562) that this repo depended on: Thoughtbot's Administrate. To sum it up, the way the Administrate gem was displaying Datetime was by Date, presumably because Datetime was too long? In any case, at first I thought that for this to be fixed, that PR had to be submitted. However, after digging in some more I realized you could generate custom views and with one file in the right place, managed to target the part of Administrate that handles rendering Datetime and rendered it as the requester suggested.
+
+
+#### Turing's Slacker Repo
+
+> I added 'say' functionality to Turing's Slacker Repo one night. Functionality was added to change your voice before speaking. Now you can not only chat, but speak with all the voices at the Mac's disposal.
+
+[Forked Repo](https://github.com/kctrlv/slacker-say)
 
 ---
 
