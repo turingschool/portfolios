@@ -27,6 +27,8 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 (Intro)
 
+When I first started I was extremelly confident in my abilities and so I joined Echo. In hindsight I wish I had gone with Foxtrot and worked more on the fundamentals instead of diving into big projects that overwhelmed me. It did force me to really step up to the plate and push through some fairly advanced concepts. I also learned to seek out help from mentors which I think will be key later on. 
+
 #### (Date Night)
 
 * [GitHub URL](https://github.com/BethKnight1234/turing_1module/tree/master/binary_tree)
@@ -53,7 +55,7 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 ### Projects
 
-(Intro)
+Group work was a little difficult for me because I felt I might drag my partner down because I was constantly questioning my ability. While this fear never went away, I thought it was amazing to have someone to bounce ideas off of. Overall we were able to achieve more together than we ever would alone. 
 
 #### (CompleteMe)
 
