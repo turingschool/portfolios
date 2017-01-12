@@ -81,6 +81,26 @@ At the end of this module students were given the opportunity to learn a new lan
 * [React Box](https://github.com/danbroadbent/react-box)
 * [React Branch in Monocle](https://github.com/danbroadbent/monocle/tree/spike_react_for_starred_companies)
 
+#### Event Photo Share
+
+A continuation of my mod 3 personal project.  It is meant to be a clone of an app that I paid to be developed called WEvent which is an event photo sharing iPhone app.  I used Angular 2, Ionic 2, and Firebase to build the app.  The reason I chose this stack was to be able to have one codebase for an iPhone app, Android app and progressive web app.  At the end of mod 3 I had build a basic CRUD app and a basic Firebase auth app.  This module I combined them into one working single page app that has enough functionality to be accepted on the App Store.  You can log in, create an event with a description, edit that event, delete that event.  I also made it so events belong to specific users.  One of the big challenges this I faced this module was getting it up on the App Store.  There are a lot of hoops to jump through with Apple including registering devices by UDID and generating certificates.  I did get it submitted and approved before the end of the module.
+
+[GitHub](https://github.com/danbroadbent/event_photo_share)
+[App Store](https://itunes.apple.com/us/app/event-photo-share/id1191691087?mt=8)
+[Web](http://event-photo-share.firebaseapp.com/)
+
+[Blog Post](https://medium.com/@danbroadbent/using-ionic-2-angular-2-and-firebase-3-to-build-my-first-non-rails-web-app-6bec2f80abff#.z7ndowwhr)
+
+#### [iLoan Technical Challenge](https://github.com/danbroadbent/payment_exercise)
+
+This technical challenge was to take a basic rails app that handle a loans resource and add in the ability to create payments for a given loan using a JSON API call, which stores payment date and amount. Then I exposed the outstanding balance for a given loan in the JSON call for LoansController#show and LoansController#index. The outstanding balance was calculated as the funded_amount minus all of the payment amounts.
+
+A payment was not be able to be created that exceeded the outstanding balance of a loan. There were validation errors if a payment could not be created. Exposed endpoints for seeing all payments for a given loan as well as seeing an individual payment.
+
+#### Rabbit Internet Technical Challenge: [GitHub](https://github.com/danbroadbent/city_twitter) - [Production](https://citytwitter.herokuapp.com/)
+
+This challenge was to create a web app that could find recent Tweets for any city that you search for and display them as pins on a map.  It was a really fun challenge because it used both the Twitter API and the Google Maps API.  I also got a lot of good Javascript experience building the frontend for this using Google maps and jQuery and Ajax.
+
 ## C: Group Work & Projects
 
 ### Projects
@@ -165,8 +185,6 @@ This module we had some real world requirements as we make our way closer to ent
 
 * [Cold Outreach Emails](https://docs.google.com/document/d/1VhoFZf3BnKLmpDh6rbwxP3SR-y9dqV48mb0il_DVRSU/edit)
 * [Jobs Tracker](https://docs.google.com/spreadsheets/d/15DzhMLH_4wy7ByGPpy3BnHNrbla7DW71HQ5gFcDoPNw/edit#gid=0)
-* [iLoan Technical Challenge](https://github.com/danbroadbent/payment_exercise)
-* Rabbit Internet Technical Challenge: [GitHub](https://github.com/danbroadbent/city_twitter) - [Production](https://citytwitter.herokuapp.com/)
 
 ## The Plan
 
