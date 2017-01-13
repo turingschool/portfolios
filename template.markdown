@@ -233,9 +233,10 @@ I startedd my professional life as a painter. I love the canvas and oil paints a
 
 Dear Charlotte,
 
-	I think you had great passion about the project and wanting to succeed. You showed up on time, put in extra effort. There was never a moment where I doubted if you were in for the long haul. And thanks for letting me take over a lot of the testing. That was important for me to learn and I really appreciated it. 
+I think you had great passion about the project and wanting to succeed. You showed up on time, put in extra effort. There was never a moment where I doubted if you were in for the long haul. And thanks for letting me take over a lot of the testing. That was important for me to learn and I really appreciated it. 
 
-	I think we might have had that tunnel vision with our project. There was a point where we were both spiraling and feeling defeated. We should have met at Turing instead of the coffee shop so we could have grabbed some help. But that’s a hindsight thing. You’re github skills are getting there! We probably should have outlined how we were going to merge, pull, create branches and all that. We need to whiteboard, psuedo code, and test before we write any real code. I think we got into trouble when we started hacking away at it. 
+I think we might have had that tunnel vision with our project. There was a point where we were both spiraling and feeling defeated. We should have met at Turing instead of the coffee shop so we could have grabbed some help. But that’s a hindsight thing. You’re github skills are getting there! We probably should have outlined how we were going to merge, pull, create branches and all that. We need to whiteboard, psuedo code, and test before we write any real code. I think we got into trouble when we started hacking away at it. 
+	
 	
 For Spencer,
 Spencer, it was awesome working with you. I think your energy and enthusiasm is infectious and it helped make this project fun. You were considerate and hard working. Even though we didn’t get through as many iterations as we wanted, I think the work we did do was implemented very well. I learned everything I know about pry today because of you. And I appreciate you letting me take over testing for a lot of the project since it is my weaker point.
