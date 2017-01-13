@@ -1,4 +1,4 @@
-# (Beth Knight) - (M1) Portfolio
+# Beth Knight - M1 Portfolio
 
 ## Areas of Emphasis
 
