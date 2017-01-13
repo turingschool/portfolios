@@ -25,7 +25,6 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 ## B: Individual Work & Projects
 
-(Intro)
 
 When I first started I was extremelly confident in my abilities and so I joined Echo. In hindsight I wish I had gone with Foxtrot and worked more on the fundamentals instead of diving into big projects that overwhelmed me. It did force me to really step up to the plate and push through some fairly advanced concepts. I also learned to seek out help from mentors which I think will be key later on. 
 
@@ -217,7 +216,8 @@ Not strong use of TDD.
 2: Application runs, but does not work properly, or does not meet specifications.
 
 ## D: Professional Development
-(Intro)
+
+I startedd my professional life as a painter. I love the canvas and oil paints and creating things. What I equally enjoyed was putting things together on the computer. After having a little success with UI and UX design, I decided I really want to figure out how things work under the hood. While I want to continue with my painting, I want to pursue a full time career as a software developer. I think the two will make me a well rounded developer and designer.
 
 ### Professional Development Workshops
 #### (Session Name)
@@ -260,14 +260,9 @@ From Bailey
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
-
 I showed up every day with a positive attitude, ready to tackle the days challenge. I love my Turing mod and being a part of this community has really helped me grow as a programmer. I'm hoping I was as supportive of my fellow student as they were for me.
 
 ### Gear Up
-
-(reflect on your Gear Up sessions following the below example)
-
 
 Growth Mindset
 
