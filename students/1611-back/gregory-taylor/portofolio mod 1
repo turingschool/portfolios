@@ -1,0 +1,196 @@
+# Greg Taylor - M1 Portfolio
+
+## Areas of Emphasis
+
+Learn Ruby
+
+## Rubric Scores
+
+Fill in how you would grade yourself from 1-4 in the following categories this module:
+
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**:2
+* **E: Feedback & Community Participation**: 2
+
+-----------------------
+
+## A: End of Module Assessment
+
+(Notes & scores from your assessment rubric)
+
+
+## B: Individual Work & Projects
+
+(Intro)
+####Date Night
+
+https://github.com/hesitatetowonder/date_night
+[Original Assignment??]
+
+Date night project
+Comments:
+Well written methods. Good variable names.
+Good use of recursion
+Well written tests. Talked about isolation/integration
+Lacks functionality, but we know that
+Talked about testing time savers (helper methods, before method)
+
+Scores:
+Functional Expectations
+1
+Test-Driven Development
+3
+Encapsulation / Breaking Logic into Components
+4
+Fundamental Ruby & Style
+3
+Looping or Recursion
+3
+
+####Battleship
+
+https://github.com/hesitatetowonder/Battleship
+https://github.com/hesitatetowonder/Battleship2
+[Original Assignment?]
+
+Battleship project
+Comments
+
+Scores:
+Fundamental Ruby & Style
+2
+Enumerable & Collections
+3
+Test-Driven Development
+1
+REPL Interface
+1
+Breaking Logic into Components
+3
+Functional Expectations
+1
+
+
+
+## C: Group Work & Projects
+
+### Enigma , Headcount
+
+(Intro)
+
+#### Enigma
+
+https://github.com/scmountain/Enigma
+[Original Assignment?]
+
+Enigma Project with Spencer Carter
+
+Comments:
+Functionality in place for all three functions, but project broke with some last-minute merge issues
+Testing suite has good content, but many test broken due to merge issue.
+Ruby style solid. Some additional opportunities to refactor, but strong work in many classes
+Clear division of responsibilities across classes and methods
+
+Scores:
+Overall Functionality
+1
+Fundamental Ruby & Style
+3
+Test-Driven Development
+2
+Breaking Logic into Components
+4
+
+
+####Headcount
+
+https://github.com/AELSchauer/turing-headcount
+[Original Assignment?]
+
+Headcount Project with Ashley Schauer
+
+Comments:
+Got through IT 5
+a little refactoring needed
+tests could be more robust
+overall solid work
+
+Scores:
+Functional Expectations
+3
+Test-Driven Development
+2
+Encapsulation / Breaking Logic into Components
+4
+Fundamental Ruby & Style
+4
+Enumerable & Collections
+4
+Code Sanitation
+1
+
+## D: Professional Skills
+??
+
+### Gear Up
+
+Growth Mindset - Learned about what growth mindset is and how it can contribute
+to success.
+
+Extravert/Introvert - Discussed how most people do not fit neatly into the two
+categories of extravert or introvert but usually fall somewhere in between with
+characteristics of both.
+
+Grit - Discussed the concept of grit and how it goes hand in hand with growth
+mindset and both are needed.
+
+### Professional Development Workshops
+#### (Session Name)
+Worked on resume, linked in and discussed results of strength finder with Alison.
+
+
+* [Workshop URL]()
+* [Link to Completed Deliverables]()
+
+
+
+(takeaways from session)
+
+## E: Feedback and Community Participation
+
+### Giving Feedback
+
+Given to Spencer Carter
+
+Thank you for your help on enigma, I really appreciated your willingness
+to work long hours on getting the coding correct.  I think you took some
+of the harder parts of the project on yourself and we probably should have redistributed
+the work once we discovered the actually scope, so it might be helpful in the future to
+make sure your partner is aware when the scope broadens and
+rework the distribution so that it gets handled equally.  I think you coding
+was done very well and I appreciate how accommodating you were of my schedule
+and inability to stay after class.  It was a pleasure working with you.
+
+### Being a Community Member
+
+Feedback to me : Partner from headcount turned in feedback,
+I have never received it back from instructor.
+
+### Playing a Part
+
+Participated in Armstrong Posse and joined group discussions before and after
+wrap up.
+
+------------------
+
+## Final Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
