@@ -28,50 +28,29 @@ Challenge: What Can I Make?
 
 #### Ruby Syntax & API
 
-* **4: Developer is able to write Ruby with a minimum of reference or debugging**
-* 3: Developer is able to write Ruby with some debugging of fundamental concepts
-* 2: Developer is generally able to write Ruby, but gets stuck on or needs help with fundamental concepts
-* 1: Developer spends significant time debugging elementary syntax or concepts
-* 0: Developer struggles with basic Ruby syntax
+* 4: Developer is able to write Ruby with a minimum of reference or debugging
 
-#### 2. Completion and Progress
+#### Completion and Progress
 
-* **4: Developer fully completes baseline assignment and one of the Challenge options.**
-* 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
-* 2: Developer completes baseline but struggles to progress on optional challenges.
-* 1: Developer struggles to complete the baseline assignment.
-* 0: Developer is unable to digest the problem and identify an approach.
+* 4: Developer fully completes baseline assignment and one of the Challenge options.
 
-#### 3. Testing
+#### Testing
 
-* **4: Developer excels at taking small steps and using the tests for both design and verification**
-* 3: Developer writes tests that are effective validation of functionality, but don't drive the design
-* 2: Developer uses and writes tests to guide development, but implements more functionality than the tests cover
-* 1: Developer is able to use existing tests, but not write new ones
-* 0: Developer does not use tests to guide development
+* 4: Developer excels at taking small steps and using the tests for both design and verification
 
-#### 4. Workflow
+#### Workflow
 
-* 4: Developer is a master of their tools, efficiently moving between phases of development
-* **3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts**
-* 2: Developer smoothly moves between tools, but is dependent on mouse-driven interaction
-* 1: Developer gets work done, but wastes significant time or screen real estate
-* 0: Developer struggles to effectively use the Terminal, the file system, or their editor without direct support
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 
-#### 5. Collaboration
 
-* **4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck**
-* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
-* 2: Developer asks detailed questions when progress slows or stops
-* 1: Developer is able to integrate unsolicited feedback but does not really collaborate
-* 0: Developer needs more than two reminders to "think out loud" or struggles to articulate their process
+#### Collaboration
 
-### 6. Enumerable & Collections
+* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
-* **4: Application consistently makes use of the best-choice Enumerable methods**
-* 3: Application demonstrates comfortable use of appropriate Enumerable methods
-* 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
-* 1: Application demonstrates deficiencies with Enumerable and struggles with collections
+#### Enumerable & Collections
+
+* 4: Application consistently makes use of the best-choice Enumerable methods
+
 
 
 ## B: Individual Work & Projects
@@ -94,37 +73,26 @@ Create a binary search tree to store movies and their scores.
 
 (evaluation scores)
 
-1. Functional Expectations
+#### Functional Expectations
 
-4: Application fulfills all base expectations and two extensions
-3: Application fulfills all base expectations
-2: Application is missing one base expectation
-**1: Application is missing more than one base expectation**
-2. Test-Driven Development
+*  1: Application is missing more than one base expectation
 
-**4: Application is broken into components which are well tested in both isolation and integration using appropriate data**
-3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-2: Application makes some use of tests, but the coverage is insufficient
-1: Application does not demonstrate strong use of TDD
-3. Encapsulation / Breaking Logic into Components
+#### Test-Driven Development
 
-4: Application is expertly divided into logical components each with a clear, single responsibility
-3: Application effectively breaks logical components apart but breaks the principle of SRP
-**2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear**
-1: Application logic shows poor decomposition with too much logic mashed together
-4. Fundamental Ruby & Style
+*  4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
-4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-3: Application shows strong effort towards organization, content, and refactoring
-**2.5: Shows some refactoring, but could use a lot more**
-2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
-1: Application generates syntax error or crashes during execution
-5. Looping or Recursion
 
-4: Application makes excellent use of loop/recursion techniques
-**3: Application makes effective use of loop/recursion techniques**
-2: Application has issues with loop/recursion techniques or mixes them inappropriately
-1: Application struggles to loop/recurse at all
+#### Encapsulation / Breaking Logic into Components
+
+*  2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+
+#### Fundamental Ruby & Style
+
+*  2.5: Shows some refactoring, but could use a lot more
+
+#### Looping or Recursion
+
+*  3: Application makes effective use of loop/recursion techniques
 
 ### Battleship
 
@@ -137,24 +105,29 @@ colors
 Game runs
 tested the REPL
 used File IO to pull instructions from a text file w
-1. Fundamental Ruby & Style
+#### Fundamental Ruby & Style
 
-3: Application shows strong effort towards organization, content, and refactoring
-2. Enumerable & Collections
+*  3: Application shows strong effort towards organization, content, and refactoring
 
-3: Application demonstrates comfortable use of several Enumerable techniques
-3. Test-Driven Development
+#### Enumerable & Collections
 
-4: Application is broken into components which are well tested in both isolation and integration
-4. REPL Interface
+*  3: Application demonstrates comfortable use of several Enumerable techniques
 
-4: Application's REPL goes above and beyond expectations to improve the gameplay
-5. Breaking Logic into Components
+#### Test-Driven Development
 
-3: Application effectively breaks logical components apart with clear intent and usage
-6. Functional Expectations
+*  4: Application is broken into components which are well tested in both isolation and integration
 
-4: Application meets all requirements, and implements one extension properly.
+#### REPL Interface
+
+*  4: Application's REPL goes above and beyond expectations to improve the gameplay
+
+#### Breaking Logic into Components
+
+*  3: Application effectively breaks logical components apart with clear intent and usage
+
+#### Functional Expectations
+
+*  4: Application meets all requirements, and implements one extension properly.
 
 
 ## C: Group Work & Projects
@@ -169,47 +142,32 @@ those relationships.
 #### Complete_Me
 
 * [GitHub URL](https://github.com/valerietrudell/Complete_Me)
-* [Original Assignment]()
 
-(description)
 Create a program that works to autocomplete text.
-
-(evaluation comments)
 
 Nate got distracted by trying to refactor an elsif, but doesn't have any judgements to bring upon this code
 
 (evaluation scores)
 
-1. Functional Expectations
+#### Functional Expectations
 
-4: Application fulfills all base expectations and one extension
-**3: Application fulfills all base expectations**
-2: Application is missing one base expectation
-1: Application is missing more than one base expectation
-2. Test-Driven Development
+*  3: Application fulfills all base expectations
 
-**4: Application is broken into components which are well tested in both isolation and integration using appropriate data**
-3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-2: Application makes some use of tests, but the coverage is insufficient
-1: Application does not demonstrate strong use of TDD
-3. Encapsulation / Breaking Logic into Components
+#### Test-Driven Development
 
-**4: Application is expertly divided into logical components each with a clear, single responsibility**
-3: Application effectively breaks logical components apart but breaks the principle of SRP
-2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
-1: Application logic shows poor decomposition with too much logic mashed together
-4. Fundamental Ruby & Style
+*  4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
-4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-**3: Application shows strong effort towards organization, content, and refactoring**
-2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
-1: Application generates syntax error or crashes during execution
-5. Enumerable & Collections
+#### Encapsulation / Breaking Logic into Components
 
-**4: Application consistently makes use of the best-choice Enumerable methods**
-3: Application demonstrates comfortable use of appropriate Enumerable methods
-2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
-1: Application demonstrates deficiencies with Enumerable and struggles with collections
+*  4: Application is expertly divided into logical components each with a clear, single responsibility
+
+#### Fundamental Ruby & Style
+
+*  3: Application shows strong effort towards organization, content, and refactoring
+
+#### Enumerable & Collections
+
+*  4: Application consistently makes use of the best-choice Enumerable methods
 
 #### Headcount
 
@@ -229,44 +187,31 @@ Evaluation Rubric
 
 The project will be assessed with the following guidelines:
 
-1. Functional Expectations
+#### Functional Expectations
 
-4: Application fulfills all expectations of Iterations 0 - 6 as well as one additional, comparable Iteration of your own design.
-3: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6
-2: Application has some missing functionality but no crashes
-1: Application crashes during normal usage
-2. Test-Driven Development
+*  3: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6
 
-4: Application is broken into components which are well tested in both isolation and integration using appropriate data
-3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-2: Application makes some use of tests, but the coverage is insufficient
-1: Application does not demonstrate strong use of TDD
-3. Encapsulation / Breaking Logic into Components
+#### Test-Driven Development
 
-4: Application is expertly divided into logical components each with a clear, single responsibility
-3: Application effectively breaks logical components apart but breaks the principle of SRP
-2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
-1: Application logic shows poor decomposition with too much logic mashed together
-4. Fundamental Ruby & Style
+*  3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-3: Application shows strong effort towards organization, content, and refactoring
-2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
-1: Application generates syntax error or crashes during execution
-5. Enumerable & Collections
+#### Encapsulation / Breaking Logic into Components
 
-4: Application consistently makes use of the best-choice Enumerable methods
-3: Application demonstrates comfortable use of appropriate Enumerable methods
-2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
-1: Application demonstrates deficiencies with Enumerable and struggles with collections
-6. Code Sanitation
+*  3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+#### Fundamental Ruby & Style
+
+*  3: Application shows strong effort towards organization, content, and refactoring
+
+#### Enumerable & Collections
+
+*  4: Application consistently makes use of the best-choice Enumerable methods
+
+#### Code Sanitation
 
 The output from rake sanitation:all shows...
 
-4: Zero complaints
-3: Five or fewer complaints
-2: Six to ten complaints
-1: More than ten complaints
+*  4: Zero complaints
 
 ## D: Professional Skills
 (Intro)
