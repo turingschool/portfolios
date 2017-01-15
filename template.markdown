@@ -220,12 +220,8 @@ Not strong use of TDD.
 I startedd my professional life as a painter. I love the canvas and oil paints and creating things. What I equally enjoyed was putting things together on the computer. After having a little success with UI and UX design, I decided I really want to figure out how things work under the hood. While I want to continue with my painting, I want to pursue a full time career as a software developer. I think the two will make me a well rounded developer and designer.
 
 ### Professional Development Workshops
-#### (Session Name)
 
-* [Link to Completed Deliverables](https://www.linkedin.com/in/beth-knight-aa02abb
-)
-
-(takeaways from session)
+* [Link to Completed Deliverables](https://gist.github.com/BethKnight1234/96c39efda154d6d9ebd1a86f4a815ede)
 
 ## E: Feedback and Community Participation
 
