@@ -23,22 +23,22 @@ Notes:
 * Low 3s on syntax, completion and testing
 
 #### Ruby Syntax & API
-* **3: Developer is able to write Ruby with some debugging of fundamental concepts**
+* 3: Developer is able to write Ruby with some debugging of fundamental concepts
 
 #### 2. Completion and Progress
-* **3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.**
+* 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
 
 #### 3. Testing
-* **3: Developer writes tests that are effective validation of functionality, but don't drive the design**
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design
 
 #### 4. Workflow
-* **3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts**
+* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 
 #### 5. Collaboration
-* **3: Developer lays out their thinking before attacking a problem and integrates feedback through the process**
+* 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
 
 ### 6. Enumerable & Collections
-* **3: Application demonstrates comfortable use of appropriate Enumerable methods**
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
 ## B: Individual Work & Projects
@@ -54,19 +54,19 @@ Project functionality includes inserting, finding min and max.
 Some syntax errors in code.
 
 #### 1. Functional Expectations
-* **1: Application is missing more than one base expectation**
+* 1: Application is missing more than one base expectation
 
 #### 2. Test-Driven Development
-* **2: Application makes some use of tests, but the coverage is insufficient**
+* 2: Application makes some use of tests, but the coverage is insufficient
 
 #### 3. Encapsulation / Breaking Logic into Components
-* **3: Application effectively breaks logical components apart but breaks the principle of SRP**
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
 #### 4. Fundamental Ruby & Style
-* **1: Application generates syntax error or crashes during execution**
+* 1: Application generates syntax error or crashes during execution
 
 #### 5. Looping or Recursion
-* **3: Application makes effective use of loop/recursion techniques**
+* 3: Application makes effective use of loop/recursion techniques
 
 #### (Mastermind/Flashcards)
 
@@ -76,19 +76,19 @@ Some syntax errors in code.
 This is the point in Turing where I thought I was useless. I had no clue what was happening and couldnt even get things started. After a 3am break down and guidance from instructors, I was to work to get my confidence
 
 #### 1. Functional Expectations
-* **3: Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.**
+* 3: Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.
 
 #### 2. Test-Driven Development
-* **3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.**
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
 
 #### 3. Encapsulation / Breaking Logic into Components
-* **3: Application effectively breaks logical components apart but breaks the principle of SRP.**
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP.
 
 #### 4. Fundamental Ruby & Style
-* **3: Application shows strong effort towards organization, content, and refactoring.**
+* 3: Application shows strong effort towards organization, content, and refactoring.
 
 #### 5. Enumerable & Collections
-* **2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques**
+* 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
 
 ## C: Group Work & Projects
 
@@ -108,16 +108,16 @@ Ruby style solid. Some additional opportunities to refactor, but strong work in 
 Clear division of responsibilities across classes and methods
 
 #### 1. Overall Functionality
-* **1: Application is missing two operations or crashes during normal usage**
+* 1: Application is missing two operations or crashes during normal usage
 
 #### 2. Fundamental Ruby & Style
-* **3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.**
+* 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
 
 #### 3. Test-Driven Development
-* **2: Application tests some components but has many gaps in coverage.**
+* 2: Application tests some components but has many gaps in coverage.
 
 #### 4. Breaking Logic into Components
-* **4: Application effectively breaks logical components apart with clear intent and usage**
+* 4: Application effectively breaks logical components apart with clear intent and usage
 
 From Greg, Thank you for your help on enigma, I really appreciated your willingness
 to work long hours on getting the coding correct.  I think you took some
@@ -142,23 +142,23 @@ code was broken up into logical components
 
 
 #### 1. Functional Expectations
-* **2: Application has some missing functionality but no crashes**
+* 2: Application has some missing functionality but no crashes
 
 #### 2. Test-Driven Development
-* **3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality**
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
 #### 3. Encapsulation / Breaking Logic into Components
-* **3: Application effectively breaks logical components apart but breaks the principle of SRP**
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
 #### 4. Fundamental Ruby & Style
-* **3: Application shows strong effort towards organization, content, and refactoring**
+* 3: Application shows strong effort towards organization, content, and refactoring
 
 #### 5. Enumerable & Collections
-* **3: Application demonstrates comfortable use of appropriate Enumerable methods**
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 #### 6. Code Sanitation
 The output from rake sanitation:all shows...
-* **3: Five or fewer complaints**
+* 3: Five or fewer complaints
 
 ## D: Professional Development
 
