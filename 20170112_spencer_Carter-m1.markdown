@@ -53,20 +53,20 @@ Notes:
 Project functionality includes inserting, finding min and max.
 Some syntax errors in code.
 
-1. Functional Expectations
-1: Application is missing more than one base expectation
+#### 1. Functional Expectations
+* **1: Application is missing more than one base expectation**
 
-2. Test-Driven Development
-2: Application makes some use of tests, but the coverage is insufficient
+#### 2. Test-Driven Development
+* **2: Application makes some use of tests, but the coverage is insufficient**
 
-3. Encapsulation / Breaking Logic into Components
-3: Application effectively breaks logical components apart but breaks the principle of SRP
+#### 3. Encapsulation / Breaking Logic into Components
+* **3: Application effectively breaks logical components apart but breaks the principle of SRP**
 
-4. Fundamental Ruby & Style
-1: Application generates syntax error or crashes during execution
+#### 4. Fundamental Ruby & Style
+* **1: Application generates syntax error or crashes during execution**
 
-5. Looping or Recursion
-3: Application makes effective use of loop/recursion techniques
+#### 5. Looping or Recursion
+* **3: Application makes effective use of loop/recursion techniques**
 
 #### (Mastermind/Flashcards)
 
@@ -75,20 +75,20 @@ Some syntax errors in code.
 
 This is the point in Turing where I thought I was useless. I had no clue what was happening and couldnt even get things started. After a 3am break down and guidance from instructors, I was to work to get my confidence
 
-1. Functional Expectations
-3: Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.
+#### 1. Functional Expectations
+* **3: Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.**
 
-2. Test-Driven Development
-3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
+#### 2. Test-Driven Development
+* **3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.**
 
-3. Encapsulation / Breaking Logic into Components
-3: Application effectively breaks logical components apart but breaks the principle of SRP.
+#### 3. Encapsulation / Breaking Logic into Components
+* **3: Application effectively breaks logical components apart but breaks the principle of SRP.**
 
-4. Fundamental Ruby & Style
-3: Application shows strong effort towards organization, content, and refactoring.
+#### 4. Fundamental Ruby & Style
+* **3: Application shows strong effort towards organization, content, and refactoring.**
 
-5. Enumerable & Collections
-2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
+#### 5. Enumerable & Collections
+* **2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques**
 
 ## C: Group Work & Projects
 
@@ -107,18 +107,17 @@ Testing suite has good content, but many test broken due to merge issue.
 Ruby style solid. Some additional opportunities to refactor, but strong work in many classes
 Clear division of responsibilities across classes and methods
 
-. Overall Functionality
+#### 1. Overall Functionality
+* **1: Application is missing two operations or crashes during normal usage**
 
-1: Application is missing two operations or crashes during normal usage
-2. Fundamental Ruby & Style
+#### 2. Fundamental Ruby & Style
+* **3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.**
 
-3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-3. Test-Driven Development
+#### 3. Test-Driven Development
+* **2: Application tests some components but has many gaps in coverage.**
 
-2: Application tests some components but has many gaps in coverage.
-4. Breaking Logic into Components
-
-4: Application effectively breaks logical components apart with clear intent and usage
+#### 4. Breaking Logic into Components
+* **4: Application effectively breaks logical components apart with clear intent and usage**
 
 From Greg, Thank you for your help on enigma, I really appreciated your willingness
 to work long hours on getting the coding correct.  I think you took some
@@ -142,24 +141,24 @@ got through IT 3
 code was broken up into logical components
 
 
-1. Functional Expectations
-2: Application has some missing functionality but no crashes
+#### 1. Functional Expectations
+* **2: Application has some missing functionality but no crashes**
 
-2. Test-Driven Development
-3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+#### 2. Test-Driven Development
+* **3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality**
 
-3. Encapsulation / Breaking Logic into Components
-3: Application effectively breaks logical components apart but breaks the principle of SRP
+#### 3. Encapsulation / Breaking Logic into Components
+* **3: Application effectively breaks logical components apart but breaks the principle of SRP**
 
-4. Fundamental Ruby & Style
-3: Application shows strong effort towards organization, content, and refactoring
+#### 4. Fundamental Ruby & Style
+* **3: Application shows strong effort towards organization, content, and refactoring**
 
-5. Enumerable & Collections
-3: Application demonstrates comfortable use of appropriate Enumerable methods
+#### 5. Enumerable & Collections
+* **3: Application demonstrates comfortable use of appropriate Enumerable methods**
 
-6. Code Sanitation
+#### 6. Code Sanitation
 The output from rake sanitation:all shows...
-3: Five or fewer complaints
+* **3: Five or fewer complaints**
 
 ## D: Professional Development
 
@@ -198,7 +197,7 @@ I feel that my contributions in the classroom and to the community have only con
 
 Gear Up Reflections
 
-##Cohort norms
+# Cohort norms
 
 
 What actions do you want to take for yourself and your cohort to be successful at Turing?
@@ -214,7 +213,7 @@ How to work with an extrovert?
 Extroverts enjoy communicating with others and creating new relationships. To best get along with an extrovert, converse over an interesting, attention-grabbing topic and be patient with them, as sometimes they will possess a great amount of energy when the time is not right. 
 
 
-##Growth Mindset
+# Growth Mindset
 
 
 What are your triggers, what's likely to move you to fixed mindset? 
@@ -226,7 +225,7 @@ What can your peers do to support your growth mindset?
 Let's make this a team effort, of Turing vs the “other schools/ job markets,” how can you support each other in creating a cohort culture that supports growth mindset?
 If you have nothing nice to say, keep it to yourself
  
-##Personal Narrative
+# Personal Narrative
 
 
 What brought you here?
@@ -242,7 +241,7 @@ I try to embody these characteristics in every facet of my life, whether it be i
 How do you think these differences/similarities will impact your cohort?
 As we enter into higher modules, I am sure that the learning curve will only grow steeper and the grind will grow tougher. However, between my extroverted nature and my enduring determination, I intend to serve my cohorts as a leader, bringing through the tough times that lie ahead. In addition, I intend to be a loyal and honest friend that fellow cohort members enjoy being around, while contributing to the knowledge pool.
 
-##Retrospection
+# Retrospection
 When I look back at mod 1, all I can do is laugh at myself! I came in so cocky that the first three weeks were wasted on me I knew most of the material, or so I thought. I was not a student, but merely a participant. This wasn’t all bad as it really helped me become a part of the Turing social community! I made connections outside of the classroom that I relied on heavily later. Grade for the first month at turing is a 1.999
 
 It wasn’t until Battleship that I was hit by the ego freight train
