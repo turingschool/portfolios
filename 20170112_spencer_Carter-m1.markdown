@@ -73,6 +73,8 @@ Some syntax errors in code.
 * https://github.com/scmountain/mastermind
 * https://github.com/scmountain/Flashcards
 
+Notes:
+
 This is the point in Turing where I thought I was useless. I had no clue what was happening and couldnt even get things started. After a 3am break down and guidance from instructors, I was to work to get my confidence
 
 #### 1. Functional Expectations
@@ -165,6 +167,8 @@ The output from rake sanitation:all shows...
 * https://resume.creddle.io/resume/i43pr3tzfod
 * https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button
 
+Notes:
+
 Learning how to write a resume for the tech world was a whole new concept! also trying to shape past experiences for this tech world was a differnt thought process
 
 ## E: Feedback and Community Participation
@@ -177,9 +181,9 @@ Spencer, when I first met you I remember thinking how gregarious and funny you a
 
 ### Being a Community Member
 
-First weeks when our cohort was finding it’s groove and people were still feeling each other out, there was Spencer readily making jokes and helping bring us together.  He played a large part in developing and maintaining our group cohesiveness.  He’s made it clear through his behavior that his mindset is one of equality.  No person is greater or less than another.  He happily welcomes engagement with anyone he comes into contact with.  I’ve not made the opportunity to work with Spencer on technical problems; however, he is a continual shining example of how people should treat each other.  The Turing community prides itself on such behavior, and our community at-large and the 1611 cohort benefit from having him as a member.  Spencer, if your personality and how you treat people never changes, that would be a great thing. - ###(Andy Wooten)
+First weeks when our cohort was finding it’s groove and people were still feeling each other out, there was Spencer readily making jokes and helping bring us together.  He played a large part in developing and maintaining our group cohesiveness.  He’s made it clear through his behavior that his mindset is one of equality.  No person is greater or less than another.  He happily welcomes engagement with anyone he comes into contact with.  I’ve not made the opportunity to work with Spencer on technical problems; however, he is a continual shining example of how people should treat each other.  The Turing community prides itself on such behavior, and our community at-large and the 1611 cohort benefit from having him as a member.  Spencer, if your personality and how you treat people never changes, that would be a great thing. - ** Andy Wooten **
 
-Spencer, when I first met you I remember thinking how gregarious and funny you are to talk to. You always add such a lightened spirit to the cohort and I appreciate that I could turn to you for emotional support when things felt overwhelming. You really enhanced my understanding of growth mindset and grit during the grit Gear Up, and I think your experience here has helped you develop even more of a growth mindset. Specifically, while you struggled through a couple of projects, you kept pushing and exercising your growth mindset, which is something that inspired me and others in the cohort. I appreciate how you never hesitated to ask questions in class and that you were an example of strong work ethic for everyone. Knowing that you are probably up late working and struggling while I am gives me a sense of camaraderie and helps me keep working in the moment. I'm really glad I got to know you, and I hope we get to pair in the future. - ###(Courtney Meyerhofer)
+Spencer, when I first met you I remember thinking how gregarious and funny you are to talk to. You always add such a lightened spirit to the cohort and I appreciate that I could turn to you for emotional support when things felt overwhelming. You really enhanced my understanding of growth mindset and grit during the grit Gear Up, and I think your experience here has helped you develop even more of a growth mindset. Specifically, while you struggled through a couple of projects, you kept pushing and exercising your growth mindset, which is something that inspired me and others in the cohort. I appreciate how you never hesitated to ask questions in class and that you were an example of strong work ethic for everyone. Knowing that you are probably up late working and struggling while I am gives me a sense of camaraderie and helps me keep working in the moment. I'm really glad I got to know you, and I hope we get to pair in the future. - ** Courtney Meyerhofer **
 
 
 ### Playing a Part
@@ -193,11 +197,11 @@ Next, I made the effort to load/unlod a dishwasher minimum once a week. Cleanlie
 I feel that my contributions in the classroom and to the community have only continued to make Turing a better place!
 
 
-### Gear Up
+# Gear Up
 
 Gear Up Reflections
 
-# Cohort norms
+## Cohort norms
 
 
 What actions do you want to take for yourself and your cohort to be successful at Turing?
@@ -213,7 +217,7 @@ How to work with an extrovert?
 Extroverts enjoy communicating with others and creating new relationships. To best get along with an extrovert, converse over an interesting, attention-grabbing topic and be patient with them, as sometimes they will possess a great amount of energy when the time is not right. 
 
 
-# Growth Mindset
+## Growth Mindset
 
 
 What are your triggers, what's likely to move you to fixed mindset? 
@@ -225,7 +229,7 @@ What can your peers do to support your growth mindset?
 Let's make this a team effort, of Turing vs the “other schools/ job markets,” how can you support each other in creating a cohort culture that supports growth mindset?
 If you have nothing nice to say, keep it to yourself
  
-# Personal Narrative
+## Personal Narrative
 
 
 What brought you here?
@@ -241,7 +245,7 @@ I try to embody these characteristics in every facet of my life, whether it be i
 How do you think these differences/similarities will impact your cohort?
 As we enter into higher modules, I am sure that the learning curve will only grow steeper and the grind will grow tougher. However, between my extroverted nature and my enduring determination, I intend to serve my cohorts as a leader, bringing through the tough times that lie ahead. In addition, I intend to be a loyal and honest friend that fellow cohort members enjoy being around, while contributing to the knowledge pool.
 
-# Retrospection
+## Retrospection
 When I look back at mod 1, all I can do is laugh at myself! I came in so cocky that the first three weeks were wasted on me I knew most of the material, or so I thought. I was not a student, but merely a participant. This wasn’t all bad as it really helped me become a part of the Turing social community! I made connections outside of the classroom that I relied on heavily later. Grade for the first month at turing is a 1.999
 
 It wasn’t until Battleship that I was hit by the ego freight train
