@@ -20,7 +20,42 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessed By: Beth Sebian
+
+Challenge: What can I make
+
+
+#### Ruby Syntax & API
+
+
+1: Developer spends significant time debugging elementary syntax or concepts**
+
+
+#### 2. Completion and Progress
+
+
+2: Developer completes baseline but struggles to progress on optional challenges.**
+
+
+#### 3. Testing
+
+
+1: Developer is able to use existing tests, but not write new ones**
+
+#### 4. Workflow
+
+
+3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts**
+
+
+#### 5. Collaboration
+
+
+3: Developer lays out their thinking before attacking a problem and integrates feedback through the process**
+
+
+### 6. Enumerable & Collections
+n/a
 
 
 ## B: Individual Work & Projects
