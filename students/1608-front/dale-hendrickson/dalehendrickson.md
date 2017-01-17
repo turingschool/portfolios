@@ -55,6 +55,19 @@ In this project you’ll be building a react/redux weather app that allows you t
 ##### Evaluation Comments
 
 ##### Evaluation Scores
+Spec: 4
+
+Redux: 3
+
+Routing: 4
+
+JS: 4
+
+Testing: 3
+
+Workflow: 4
+
+Troubleshooting: 4
 
 ##### Feedback to Me
 
