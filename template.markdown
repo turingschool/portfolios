@@ -49,18 +49,28 @@ Evaluation Rubric
 The project will be assessed with the following rubric:
 
 1. Functional Expectations
+
+
 2: Application is missing one base expectation
 
 2. Test-Driven Development
+
+
 2: Application makes some use of tests, but the coverage is insufficient
 
 3. Encapsulation / Breaking Logic into Components
+
+
 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
 4. Fundamental Ruby & Style
+
+
 3: Application shows strong effort towards organization, content, and refactoring
 
 5. Looping or Recursion
+
+
 4: Application makes excellent use of loop/recursion techniques
 
 #### Battleship
@@ -80,21 +90,33 @@ The computer may be cheating.
 Not strong use of TDD.
 
 1. Fundamental Ruby & Style
+
+
 3: Application shows strong effort towards organization, content, and refactoring
 
 2. Enumerable & Collections
+
+
 3: Application demonstrates comfortable use of several Enumerable techniques
 
 3. Test-Driven Development
+
+
 1: Application does not demonstrate strong use of TDD
 
 4. REPL Interface
+
+
 1: Application's REPL has enough problems as to make play difficult
 
 5. Breaking Logic into Components
+
+
 3: Application effectively breaks logical components apart with clear intent and usage
 
 6. Functional Expectations
+
+
 2: Application runs, but does not work properly, or does not meet specifications.
 
 ## C: Group Work & Projects
@@ -122,17 +144,25 @@ Notes:
 
 
 2. Test-Driven Development
-*4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+
+
+4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
 3. Encapsulation / Breaking Logic into Components
-*3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+
+3: Application effectively breaks logical components apart but breaks the principle of SRP
 
 
 4. Fundamental Ruby & Style
-*3: Application shows strong effort towards organization, content, and refactoring
+
+
+3: Application shows strong effort towards organization, content, and refactoring
 
 5. Enumerable & Collections
-*3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+
+3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 #### Headcount
 
@@ -150,21 +180,33 @@ Evaluation Rubric
 The project will be assessed with the following guidelines:
 
 1. Functional Expectations
+
+
 2: Application has some missing functionality but no crashes
 
 2. Test-Driven Development
+
+
 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
 3. Encapsulation / Breaking Logic into Components
+
+
 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
 4. Fundamental Ruby & Style
+
+
 3: Application shows strong effort towards organization, content, and refactoring
 
 5. Enumerable & Collections
+
+
 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 6. Code Sanitation
+
+
 3: Five or fewer complaints
 
 ## D: Professional Development
