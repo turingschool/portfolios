@@ -28,7 +28,7 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 When I first started I was extremelly confident in my abilities and so I joined Echo. In hindsight I wish I had gone with Foxtrot and worked more on the fundamentals instead of diving into big projects that overwhelmed me. It did force me to really step up to the plate and push through some fairly advanced concepts. I also learned to seek out help from mentors which I think will be key later on. 
 
-#### (Date Night)
+#### Date Night
 
 * [GitHub URL](https://github.com/BethKnight1234/turing_1module/tree/master/binary_tree)
 * [Original Assignment]()
@@ -64,7 +64,7 @@ The project will be assessed with the following rubric:
 
 4: Application makes excellent use of loop/recursion techniques
 
-#### (Battleship)
+#### Battleship
 
 * [GitHub URL](https://github.com/BethKnight1234/BETHALSHIP)
 * [Original Assignment](http://backend.turing.io/module1/projects/battleship)
@@ -104,7 +104,7 @@ Not strong use of TDD.
 
 Group work was a little difficult for me because I felt I might drag my partner down because I was constantly questioning my ability. While this fear never went away, I thought it was amazing to have someone to bounce ideas off of. Overall we were able to achieve more together than we ever would alone. 
 
-#### (CompleteMe)
+#### CompleteMe
 
 * [GitHub URL](https://github.com/BethKnight1234/CompleteMe)
 * [Original Assignment](http://backend.turing.io/module1/projects/complete_me)
@@ -148,7 +148,7 @@ Notes:
 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
 1: Application demonstrates deficiencies with Enumerable and struggles with collections
 
-#### (Headcount)
+#### Headcount
 
 Assessed By: Ilana
 
@@ -180,40 +180,6 @@ The project will be assessed with the following guidelines:
 
 6. Code Sanitation
 3: Five or fewer complaints
-
-#### (Battleship)
-
-* [GitHub URL](https://github.com/BethKnight1234/BETHALSHIP)
-* [Original Assignment](http://backend.turing.io/module1/projects/battleship)
-
-Assessed By: Mike
-
-Repo: https://github.com/BethKnight1234/BETHALSHIP
-
-Notes:
-
-Application quits when instructions are requested twice.
-Some wonkiness in displaying shots.
-The computer may be cheating.
-Not strong use of TDD.
-
-1. Fundamental Ruby & Style
-3: Application shows strong effort towards organization, content, and refactoring
-
-2. Enumerable & Collections
-3: Application demonstrates comfortable use of several Enumerable techniques
-
-3. Test-Driven Development
-1: Application does not demonstrate strong use of TDD
-
-4. REPL Interface
-1: Application's REPL has enough problems as to make play difficult
-
-5. Breaking Logic into Components
-3: Application effectively breaks logical components apart with clear intent and usage
-
-6. Functional Expectations
-2: Application runs, but does not work properly, or does not meet specifications.
 
 ## D: Professional Development
 
