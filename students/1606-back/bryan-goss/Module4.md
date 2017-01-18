@@ -7,7 +7,7 @@ I set out to refine my collaborative skills and to learn a technology outside of
 
 Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
 
-* **A: End-of-Module Assessment**: 3
+* **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Development**: 3
@@ -66,6 +66,10 @@ My individual work focused on contributing to Open Source and investigating Redi
 * [Blog Post](https://gist.github.com/bcgoss/5d6f4f587a4e0e97f87b3295138f7095)
 
 Brian and I attempted to contribute to Figaro. The issue above is related to failing test. Upon investigating the problem, we realized we would need more time to complete the deliverables. I will have a code contribution by Tuesday to meet this requirement. Despite not writing code for this project, I learned a lot. The tests are attempting to use the Interceptor pattern to stub the Heroku app. When the shell executes the `heroku` command, the first step is finding the binary in the file system. The CommandInterceptor class attempts to hijack this and execute logging code. It was a good demonstration of the second reason to do Open Source work, aside from contributing labor to the community: learning unexpected things by exposing myself to new ideas and techniques.
+
+* [Pull Request](https://github.com/lostisland/faraday/pull/659)
+
+In order to have a more concrete contribution to Open Source, I also revised the Readme on Faraday. The Faraday docs are rather opaque for people who don't already understand how it works. I moved the most basic usage to the top of the readme for visibility. I also added an explaination of the Connection Object to what used to be just a block of example code.
 
 #### Self Directed Learning
 
