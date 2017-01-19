@@ -1,7 +1,7 @@
 # Spencer Carter - M1 Portfolio
 
 ## Areas of Emphasis
-I wanted to to really focus on the "getting over myself" aspect of what needs to happen to be succesful at Turing. I came in feelin
+I wanted to to really focus on the "getting over myself" aspect of what needs to happen to be succesful at Turing. I came in feeling very confident, and this would only latter get in my way.
 
 ## Rubric Scores
 
