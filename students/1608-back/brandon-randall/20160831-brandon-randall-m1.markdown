@@ -13,6 +13,7 @@ My initial goals for mod 1 were to learn the basics of programming and how to wo
 ****Final Assessment****
 Headcount
 The objective of the final assessment was to create a directory in which certain sections of information could be pulled out if called upon.
+
 ### 1. Ruby Syntax & API
 * 2: Developer is generally able to write Ruby, but gets stuck on or needs help with fundamental concepts
 
@@ -107,16 +108,21 @@ Looping or Recursion
 
 ### Being a Community Member
 
-Gear Ups:
+Ali Sclerith: Early in the module, Brandon reached out for a social gathering, which I deeply appreciated as I was surrounded by strangers. Since then, he has also reached out for skills support. I appreciate his genuine interest in truly understanding the content, and not just looking for answers. He is a pleasure to work with.
+
+Lee Saville: You're a great guy and I hope you succeed in the future. One suggestion would be to hit the basics really hard so that you can tackle the bigger more complex problems that involve knowing the smaller bits more intimately. I felt that during our group work we had to spend a lot of time going over the more basic things. Cheers!
+
+### Personal Branding
+In this session, Lia and Meg introduced us to several tools for finding companies that we would possibly want to work for, and how to make connections via the internet.
 
 theres an i in team
 
-What did it feel like having to repeat your teammate's comments at the beginning of the exercise and state how you would address his or her concerns? 
+What did it feel like having to repeat your teammate's comments at the beginning of the exercise and state how you would address his or her concerns?
 How could or would this skill benefit you in a team setting?
 I think having to repeat my teammates comments force a genuine response
 because we have to be active listeners by repeating what our teammates said.
 How was the dynamic of your first conversation different that the second conversation? What concerns or frustrations, if any, remained?
-the first topic was about who has made you feel special which was very insightful but the second convo was about ghosts and i dont think anyone in the 
+the first topic was about who has made you feel special which was very insightful but the second convo was about ghosts and i dont think anyone in the
 group saw as much purpose in the second convo.
 
 getting better at difficult things
@@ -124,7 +130,7 @@ getting better at difficult things
 What efforts do you make to manage your learning process? Are these efforts successful?
 What challenges have inhibited your ability to manage your learning process effectively?
 
-What role does your emotional state of mind play in your learning? 
+What role does your emotional state of mind play in your learning?
 How do your successes and failures at learning affect your emotional state?
 
 I think i am able to put away my emotional state to complete any task in life. So
@@ -132,14 +138,6 @@ ultimately, i feel that the only obstacle i have to complete at this point
 is either random family issues or maybe extensive material with which i need to learn
 pre requesites or something along those lines. Other than that, i think with enough time
 I can conquer any difficult task.
-
-Giving feedback
-
-Ali Sclerith: Early in the module, Brandon reached out for a social gathering, which I deeply appreciated as I was surrounded by strangers. Since then, he has also reached out for skills support. I appreciate his genuine interest in truly understanding the content, and not just looking for answers. He is a pleasure to work with.
-
-Lee Saville: You're a great guy and I hope you succeed in the future. One suggestion would be to hit the basics really hard so that you can tackle the bigger more complex problems that involve knowing the smaller bits more intimately. I felt that during our group work we had to spend a lot of time going over the more basic things. Cheers!
-
-(feedback to me)
 
 
 ### Playing a Part
@@ -156,7 +154,7 @@ Id like to keep trying to portray positivity at all times and would like to even
 * **B: Individual Work & Projects**: 2
 * **C: Group Work & Projects**: 2
 * **D: Community Participation**: 3
-* **E: Peer & Instructor Feedback**: X 
+* **E: Peer & Instructor Feedback**: X
 
 ### Notes
 
