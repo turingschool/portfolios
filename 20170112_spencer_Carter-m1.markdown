@@ -1,4 +1,4 @@
-# Spencer Carter - (M1) Portfolio
+# Spencer Carter - M1 Portfolio
 
 ## Areas of Emphasis
 I wanted to to really focus on the "getting over myself" aspect of what needs to happen to be succesful at Turing. I came in feelin
@@ -43,7 +43,7 @@ Notes:
 
 ## B: Individual Work & Projects
 
-#### (Date Night)
+#### Date Night
 
 * https://github.com/turingschool/ruby-submissions/tree/master/1611-b/1module/date_night/spencer-carter
 * https://github.com/scmountain/Date_Night
@@ -68,7 +68,7 @@ Some syntax errors in code.
 #### 5. Looping or Recursion
 * 3: Application makes effective use of loop/recursion techniques
 
-#### (Mastermind/Flashcards)
+#### Mastermind/Flashcards
 
 * https://github.com/scmountain/mastermind
 * https://github.com/scmountain/Flashcards
@@ -96,7 +96,7 @@ This is the point in Turing where I thought I was useless. I had no clue what wa
 
 ### Projects
 
-#### (Enigma)
+#### Enigma
 
 * https://github.com/turingschool/ruby-submissions/blob/master/1611-b/1module/enigma/greg_spencer.markdown
 * https://github.com/scmountain/Enigma.git
@@ -131,7 +131,7 @@ was done very well and I appreciate how accommodating you were of my schedule
 and inability to stay after class.  It was a pleasure working with you.
 
 
-#### (Headcount)
+#### Headcount
 
 * https://github.com/turingschool/ruby-submissions/blob/master/1611-b/1module/headcount/beth-spencer.md
 * https://github.com/scmountain/Headcount
