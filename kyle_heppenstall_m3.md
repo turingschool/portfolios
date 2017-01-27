@@ -45,11 +45,35 @@ My main area of emphasis in this module is to figure out what fields and technol
 *   [GitHub URL](https://github.com/ski-climb/rales_engine/)
 *   [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
 
-In this project I worked with Nick E to host our first API. We import business data and host an API with endpoints to return records, relationships between models, and business intelligence as JSON.
+In this project I worked with Nick E to host our first API. We import business data and host an API with endpoints to return records, relationships between models, and business intelligence as JSON. During our evaluation Sally gave us some positive feedback on our organization structure.  test coverage, queries, and git workflow. Overall, our queries all used ActiveRecord except for our random controllers (`Customer.all.sample`).
 
-(evaluation comments)
+Evaluator: Sally
 
-(evaluation scores)
+Students: Nick E & Kyle
+
+
+## Project Rubric
+
+1. **Completion**
+
+    * 4: Project completes all base requirements according to the spec harness.
+
+1. **Test-Driven Development**
+
+    * 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+
+1. **Code Quality**
+
+    * 4: Project demonstrates exceptionally well factored code.
+
+1. **API Design**
+
+    * 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+
+1. **Queries**
+
+    * 3.5: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
+
 
 ## D: Professional Skills
 (Intro)
