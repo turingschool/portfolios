@@ -83,7 +83,7 @@ Students: Nick E & Kyle
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
-(takeaways from session)
+During this gear up we spent the first bit of time exploring the Parable of the Polygons interactive blog post. Applying the ideas to tech, if executives (or anyone making hiring decisions) seeks teams were even one third of the members are like them then there will be segregated availabilities according to who is ‘like’ the decision-maker in this case. To be honest I had not though through diversity quotas too much previously. Based on the Potp, it seems essential to have a threshold for the the maximum number of people like you in your area.  Diversity quotas, even if small, could help provide this threshold. Another way to provide this threshold would be through personal expectations. If you are only willing to work at an area with a certain level of diversity, you are steering the trend toward a more diverse workforce.
 
 ### PROtocol
 #### (Session Name)
