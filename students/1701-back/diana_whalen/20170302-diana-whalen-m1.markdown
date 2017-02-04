@@ -1,95 +1,136 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# First Last - MX Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+(insert description here)
 
-## Rubric Scores
+## Self-Assessment Scores
 
-Fill in how you would grade yourself from 1-4 in the following categories this module:
+Fill in how you would grade yourself from 1-4 in the following categories this module.
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+| Section | Category | Score |
+| - | ----- | - |
+| A | **End-of-Module Assessment** | X |
+| B | **Individual Projects** | X |
+| C | **Group Projects** | X |
+| D | **Professional Development** | X |
+| E | **Community** | X |
 
------------------------
+#### Notes
+
+This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
+
+*   Note 1 (if applicable)
+*   Note 2 (if applicable)
+
+------------------------------------------------
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+| Category | Score |
+| ----- | - |
+| **Written Diagnostic** | PASS/FAIL |
+| **Timed Exercise** | PASS/FAIL |
+| **Ruby Syntax & API** | X |
+| **Completion and Progress** | X |
+| **Testing** | X |
+| **Workflow** | X |
+| **Collaboration** | X |
+| **Enumerable & Collections** | X |
+
+#### Assessor Comments
+
+*   Note 1 (if applicable)
+*   Note 2 (if applicable)
 
 
-## B: Individual Work & Projects
+## B: Individual Projects
 
-(Intro)
+| CATEGORY | PROJ 1 (credit_check) | PROJ 2 (flashcards) | PROJECT 3 (replace) |
+| - | - | - | - |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://example.com) |
+| **Github** | [link](https://github.com/dianawhalen/credit_check) | [link](https://github.com/dianawhalen/flashcards) | [link](http://example.com) |
+| **Functional Expectations** | X | X | X |
+| **Test-Driven Development** | X | X | X |
+| **Encapsulation/Breaking Logic into Components** | X | X | X |
+| **Fundamental Ruby & Style** | X | X | X |
+| **Loop or Recursion** | X | X | X |
 
-#### (Project Name)
+#### Notes
 
-* [GitHub URL]()
-* [Original Assignment]()
+This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
 
-(description)
+*   Note 1 (if applicable)
+*   Note 2 (if applicable)
 
-(evaluation comments)
 
-(evaluation scores)
+## C: Group Projects
 
-## C: Group Work & Projects
+| CATEGORY | PROJECT 1 | PROJECT 2 |
+| - | - | - | - |
+| **Project Spec** | [link](http://example.com) | [link](http://example.com) |
+| **Github** | [link](http://example.com) | [link](http://example.com) |
+| **Functional Expectations** | X | X |
+| **Test-Driven Development** | X | X |
+| **Encapsulation/Breaking Logic into Components** | X | X |
+| **Fundamental Ruby & Style** | X | X |
+| **Loop or Recursion** | X | X |
+| **Teamwork** | X | X |
 
-### Projects
+#### Notes
 
-(Intro)
+This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
 
-#### (Project Name)
+*   Note 1 (if applicable)
+*   Note 2 (if applicable)
 
-* [GitHub URL]()
-* [Original Assignment]()
 
-(description)
+## D: Professional Development
 
-(evaluation comments)
+### Define-the-Relationship (DTR)
 
-(evaluation scores)
+[Link](http://example.com) to DTR Memo from 1 paired project.
 
-(feedback to me)
+### Pair Feedback
 
-## D: Professional Skills
-(Intro)
+Feedback from partner projects.
+
+*   Project 1 (First Last): lorem ipsum
+*   Project 2 (First Last): lorem ipsum
+
+### Job Prep
+
+*   Resume with a summary statement and placeholder for projects and skills to be obtained during Turing: [link](http://example.com)
+*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](http://example.com)
+
+
+
+## E: Community
 
 ### Gear Up
 
-### Professional Development Workshops
-#### (Session Name)
+#### Session 1
+(insert reflection summary here)
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+#### Session 2
+(insert reflection summary here)
 
-(takeaways from session)
+#### Session 3
+(insert reflection summary here)
 
-## E: Feedback and Community Participation
+#### Session 4
+(insert reflection summary here)
 
-### Giving Feedback
+### Community Participation
+(insert description of how you've contributed to the Turing community)
 
-(feedback from me)
-
-### Being a Community Member
-
-(feedback to me)
-
-### Playing a Part
-
-(ways you supported the larger Turing community)
-
-------------------
+-------------------------------------------------------------
 
 ## Final Review
 
-### Notes
-
-( Leave blanks for reviewers )
+*   Note 1
+*   Note 2
 
 ### Outcome
 
-( Leave blanks for reviewers )
+(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
