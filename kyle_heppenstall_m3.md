@@ -85,6 +85,12 @@ Students: Nick E & Kyle
 
 During this gear up we spent the first bit of time exploring the Parable of the Polygons interactive blog post. Applying the ideas to tech, if executives (or anyone making hiring decisions) seeks teams were even one third of the members are like them then there will be segregated availabilities according to who is ‘like’ the decision-maker in this case. To be honest I had not though through diversity quotas too much previously. Based on the Potp, it seems essential to have a threshold for the the maximum number of people like you in your area.  Diversity quotas, even if small, could help provide this threshold. Another way to provide this threshold would be through personal expectations. If you are only willing to work at an area with a certain level of diversity, you are steering the trend toward a more diverse workforce.
 
+#### Automation and the Future
+
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
+
+We started this gear up watching a few depressing videos on automation. I found it interesting that the videos suggested professional and creative work being automated at rates similar to the blue collar work I traditionally associated with being vulnerable to automation. In groups we started discussing about the impacts automation could have on society going forward. We discussed options like a more significant safety net, lowering the hours in a work week, universal basic income, and lowering the retirement age. We also raised the idea that society needs to change its concept around unemployment - stop blaming the unemployed and consider the option that the person is without a job to no fault of their own.
+
 ### PROtocol
 #### (Session Name)
 
