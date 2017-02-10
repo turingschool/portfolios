@@ -104,6 +104,11 @@ We started this gear up watching a few depressing videos on automation. I found 
 
 This session was really helpful to think about my priorities when starting to job search. I had not thought too much about the question of what people I like to work with so I enjoyed thinking through what I'm looking for in colleagues. I'm looking forward to using my flower exercise to help with selecting jobs to apply for and interviews.
 
+#### Innovative Problem Solving
+
+*   [Workshop URL]()
+*   [Link to Completed Deliverables]()
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
