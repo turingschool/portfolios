@@ -106,8 +106,9 @@ This session was really helpful to think about my priorities when starting to jo
 
 #### Innovative Problem Solving
 
-*   [Workshop URL]()
-*   [Link to Completed Deliverables]()
+*   [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_three/innovative_problem-solving.md)
+
+This session was definitely helpful in getting some ideas going for the personal project. I actually came up with an idea I used for my personal project during the session. The idea of not rejecting any ideas and running with each one was helpful for me since I tend to be overly selective instead of just brainstorming openly.
 
 ## E: Feedback and Community Participation
 
