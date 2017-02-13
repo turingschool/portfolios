@@ -46,15 +46,15 @@ This section does not need to be populated (and template text should therefore b
 
 ## B: Individual Projects
 
-| CATEGORY | PROJ 1 (credit_check) | PROJ 2 (flashcards) | PROJECT 3 (night_writer) |
+| CATEGORY | PROJECT 1 (credit_check) | PROJECT 2 (flashcards) | PROJECT 3 () |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://backend.turing.io/module1/projects/night_writer) |
-| **Github** | [link](https://github.com/dianawhalen/credit_check) | [link](https://github.com/dianawhalen/flashcards) | [link](https://github.com/dianawhalen/night_writer) |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://example.com) |
+| **Github** | [link](https://github.com/dianawhalen/credit_check) | [link](https://github.com/dianawhalen/flashcards) | [link](http://example.com) |
 | **Functional Expectations** | X | X | X |
 | **Test-Driven Development** | X | X | X |
 | **Encapsulation/Breaking Logic into Components** | X | X | X |
 | **Fundamental Ruby & Style** | X | X | X |
-| **Loop or Recursion** | X | X | X |
+| **Loop or Recursion** | X | n/a | X |
 
 #### Notes
 
@@ -66,14 +66,14 @@ This section does not need to be populated (and template text should therefore b
 
 ## C: Group Projects
 
-| CATEGORY | PROJECT 1 | PROJECT 2 |
+| CATEGORY | PROJECT 1 (night_writer)| PROJECT 2 |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](http://example.com) | [link](http://example.com) |
-| **Github** | [link](http://example.com) | [link](http://example.com) |
-| **Functional Expectations** | X | X |
-| **Test-Driven Development** | X | X |
-| **Encapsulation/Breaking Logic into Components** | X | X |
-| **Fundamental Ruby & Style** | X | X |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://example.com) |
+| **Github** | [link](https://github.com/dianawhalen/night_writer) | [link](http://example.com) |
+| **Functional Expectations** | 3 | X |
+| **Test-Driven Development** | 2 | X |
+| **Encapsulation/Breaking Logic into Components** | 3 | X |
+| **Fundamental Ruby & Style** | 3 | X |
 | **Loop or Recursion** | X | X |
 
 #### Notes
@@ -85,6 +85,8 @@ This section does not need to be populated (and template text should therefore b
 
 
 ## D: Professional Development
+
+
 
 ### Define-the-Relationship (DTR)
 
@@ -109,12 +111,18 @@ Feedback from partner projects.
 ### Gear Up
 
 #### Session 1
+(https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown#turing-citizenship-1-growth-mindset)
+(*Growth Mindset*)
 (insert reflection summary here)
 
 #### Session 2
+(https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
+(*Getting Better at Difficult Things*)
 (insert reflection summary here)
 
 #### Session 3
+(https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md)
+(*Managing Stress & Coping Mechanisms*)
 (insert reflection summary here)
 
 #### Session 4
