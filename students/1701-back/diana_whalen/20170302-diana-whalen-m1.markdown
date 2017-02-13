@@ -111,18 +111,15 @@ Feedback from partner projects.
 ### Gear Up
 
 #### Session 1
-(https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown#turing-citizenship-1-growth-mindset)
-(*Growth Mindset*)
+[Growth Mindset](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown#turing-citizenship-1-growth-mindset)
 (insert reflection summary here)
 
 #### Session 2
-(https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
-(*Getting Better at Difficult Things*)
+[Getting Better at Difficult Things](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
 (insert reflection summary here)
 
 #### Session 3
-(https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md)
-(*Managing Stress & Coping Mechanisms*)
+[Managing Stress & Coping Mechanisms](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md)
 (insert reflection summary here)
 
 #### Session 4
