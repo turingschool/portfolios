@@ -40,7 +40,7 @@ My main area of emphasis in this module is to figure out what fields and technol
 
 (Intro)
 
-#### Rales Engine
+## Rales Engine
 
 *   [GitHub URL](https://github.com/ski-climb/rales_engine/)
 *   [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
@@ -52,7 +52,7 @@ Evaluator: Sally
 Students: Nick E & Kyle
 
 
-## Project Rubric
+### Project Rubric
 
 1. **Completion**
 
@@ -74,6 +74,59 @@ Students: Nick E & Kyle
 
     * 3.5: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 
+## Cloney Island
+
+*   [GitHub URL](https://github.com/Robbie-Smith/kickstarter_clone)
+*   [Heroku](https://kickstarter2.herokuapp.com/)
+
+For Cloney Island we built a clone of Kickstarter. I learned about making name-specific many to many relationships and more about authorization - specifically how to secure an API and use a permission PORO. I also got some good practice with styling in. The biggest challege was the size of the team and the related project management and git workflow.
+
+Evaluator: Casey
+
+Students: Kyle, Robbie, Jason, Dan, Drew
+
+### Project Rubric
+
+#### Completion
+
+1. **Client Expectations**
+
+    *   Team completed all the user stories and requirements set by the client.
+    *   3: As expected
+
+1. **User Experience**
+
+    *   Project exhibits a production-ready user experience.
+    *   2.5: As expected
+    *   2.5: Below expectations
+
+1. **Organization**
+
+    *   Team used a project management tool to keep their project organized.
+    *   3.5: As expected, but great
+
+#### Technical Evaluation
+
+1. **Git Workflow**
+
+    *   Team always used pull requests and commented on pull requests prior to introducing code into the master branch.
+    *   4: Better than expected
+
+1. **Test Quality**
+
+    *   Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?
+    *   4: Better than expected
+
+1. **Code Quality**
+
+    *   Project demonstrates well-factored code and a solid grasp of MVC principles.
+    *   4: Better than expected
+
+1. **Bonus**
+
+    * We want to recognize and reward risk-taking and exploration. Sometimes other areas might suffer if the risk doesn't pan out. Earn a bonus point to offset a score above.
+    *   Did the team push themselves by taking risks?
+    *   0: No
 
 ## D: Professional Skills
 (Intro)
@@ -110,6 +163,10 @@ This session was really helpful to think about my priorities when starting to jo
 
 This session was definitely helpful in getting some ideas going for the personal project. I actually came up with an idea I used for my personal project during the session. The idea of not rejecting any ideas and running with each one was helpful for me since I tend to be overly selective instead of just brainstorming openly.
 
+#### How to be successful in interviews
+
+This module I did the interview preparation session with Ian Douglas, mock interview with Ian, and attended the fireside chat with Ingrid Alongi. From the fireside chat I learned a bit about the importance writing a unique, fun cover letter to show interest. We also heard about the automated systems for parsing resumes and how it picks out key words and experience. Ingrid also recommended trying to make a connection with the interviewers. From the session with Ian Douglas I got some great practice trying to respond to technical questions and then went on to practice my responses explaining RESTful APIs and the HTTP request / response cycle. Another thing I picked up is just to be mentally prepared and friendly for the interview. Have fun, be nice, and be yourself.
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
@@ -118,7 +175,7 @@ For Nick E (Rales Engine): Overall I loved working with you on Rales Engine and 
 
 ### Being a Community Member
 
-From Nick E (Rales Engine):
+From Nick E (Rales Engine): Overall I loved working with you on Rales Engine and hopefully we get to work together again! My constructive from this project is to have more explicit discussions with teammates about the tradeoff between getting something done and doing it as well as possible (importer tests, for example). My positive feedback is that you do an excellent job problem-solving and knowing the tools to troubleshoot. You also do a great job holding people accountable to using specific vocabulary which lets you have higher level discussions about code more easily.
 
 ### Playing a Part
 
