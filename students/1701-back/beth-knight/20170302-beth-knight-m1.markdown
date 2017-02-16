@@ -46,14 +46,14 @@ This section does not need to be populated (and template text should therefore b
 
 ## B: Individual Projects
 
-| CATEGORY | Credit Check | Flash Cards | PROJECT 3 (replace) |
+| CATEGORY | Credit Check | Flash Cards | HTTP |
 | - | - | - | - |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://example.com) |
-| **Github** | [link](https://github.com/BethKnight1234/credit_check) | [link](https://github.com/BethKnight1234/flashcards) | [link](http://example.com) |
-| **Functional Expectations** | X | 3 | X |
-| **Test-Driven Development** | X | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | X | 3 | X |
-| **Fundamental Ruby & Style** | X | 3 | X |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
+| **Github** | [link](https://github.com/BethKnight1234/credit_check) | [link](https://github.com/BethKnight1234/flashcards) | [link](https://github.com/BethKnight1234/http_yeah_you_know_me) |
+| **Functional Expectations** | X | 3 | 3 |
+| **Test-Driven Development** | X | 3 | 2 |
+| **Encapsulation/Breaking Logic into Components** | X | 3 | 2 |
+| **Fundamental Ruby & Style** | X | 3 | 3|
 | **Loop or Recursion** | X | 3 | X |
 
 #### Notes
@@ -123,19 +123,18 @@ Awesome all around!
 
 ### Gear Up
 
-[Link](https://www.linkedin.com/in/beth-knight-aa02abb/)
-
 #### Session 1
-(insert reflection summary here)
+[Link]https://gist.github.com/BethKnight1234/a20ae49c33c0b1d10fa0ccc3421bc5c5
 
 #### Session 2
-(insert reflection summary here)
+[Link]https://gist.github.com/BethKnight1234/442774d6b4ae4bb5a43b3ba8c7942c54
 
 #### Session 3
-(insert reflection summary here)
+
+[Link]https://gist.github.com/BethKnight1234/a902ab3fc038feba275d85c68dc32dee
 
 #### Session 4
-(insert reflection summary here)
+[Link]https://gist.github.com/BethKnight1234/d74e5a346dc00fe6b2a97a797203b6fb
 
 ### Community Participation
 (insert description of how you've contributed to the Turing community)
