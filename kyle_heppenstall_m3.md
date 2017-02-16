@@ -167,6 +167,8 @@ This session was definitely helpful in getting some ideas going for the personal
 
 This module I did the interview preparation session with Ian Douglas, mock interview with Ian, and attended the fireside chat with Ingrid Alongi. From the fireside chat I learned a bit about the importance writing a unique, fun cover letter to show interest. We also heard about the automated systems for parsing resumes and how it picks out key words and experience. Ingrid also recommended trying to make a connection with the interviewers. From the session with Ian Douglas I got some great practice trying to respond to technical questions and then went on to practice my responses explaining RESTful APIs and the HTTP request / response cycle. Another thing I picked up is just to be mentally prepared and friendly for the interview. Have fun, be nice, and be yourself.
 
+#### [Job Tracker Link](https://docs.google.com/spreadsheets/d/1-_WJWX8b_IXianFk5j1SLe51R45iT0mDW_rF3ir0BcI/edit)
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
