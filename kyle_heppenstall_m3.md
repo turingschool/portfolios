@@ -169,6 +169,13 @@ This module I did the interview preparation session with Ian Douglas, mock inter
 
 #### [Job Tracker Link](https://docs.google.com/spreadsheets/d/1-_WJWX8b_IXianFk5j1SLe51R45iT0mDW_rF3ir0BcI/edit)
 
+#### Job Search Strategies I 
+
+*   [Workshop URL](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies_i.md)
+*   [Link to Completed Deliverables](https://gist.github.com/kheppenstall/dd86f6230dad6870bda0076a95a16e54)
+
+In this session we dove into creating an action plan to find a job. I enjoyed thinking first about priorities and then transitioning into creating a concrete,actionable plan for module 4. Personally it relieved a lot of stress to just create a weekly plan for looking for and pursuing opportunities. That way I know I have a starting point to begin from and can adjust if it doesn't go as well as I hope.
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
