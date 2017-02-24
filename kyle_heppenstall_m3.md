@@ -16,29 +16,30 @@ My main area of emphasis in this module is to figure out what fields and technol
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Subjective evaluation will be made on your work/process according to the following criteria:
+
+### 1. Ruby Style
+
+* 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
+### 2. Rails Syntax & API
+
+* 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### 3. Testing
+
+* 4: Developer excels at taking small steps and using the tests for both design and verification. All new lines of code are tested.
+
+### 4. Progression/Completion
+
+* 3: Developer is able to implement solutions at the speed of a junior developer.
+
+### 5. Workflow
+
+* 4: Developer commits every 15 minutes
 
 
 ## B: Individual Work & Projects
-
-(Intro)
-
-#### (Project Name)
-
-*   [GitHub URL]()
-*   [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-## C: Group Work & Projects
-
-### Projects
-
-(Intro)
 
 ## Rales Engine
 
@@ -129,25 +130,29 @@ Students: Kyle, Robbie, Jason, Dan, Drew
     *   0: No
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 #### Tragedy of the Commons
 
-*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
+*   [Markdown Link](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
 During this gear up we spent the first bit of time exploring the Parable of the Polygons interactive blog post. Applying the ideas to tech, if executives (or anyone making hiring decisions) seeks teams were even one third of the members are like them then there will be segregated availabilities according to who is ‘like’ the decision-maker in this case. To be honest I had not though through diversity quotas too much previously. Based on the Potp, it seems essential to have a threshold for the the maximum number of people like you in your area.  Diversity quotas, even if small, could help provide this threshold. Another way to provide this threshold would be through personal expectations. If you are only willing to work at an area with a certain level of diversity, you are steering the trend toward a more diverse workforce.
 
 #### Automation and the Future
 
-*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
+*   [Markdown Link](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
 
 We started this gear up watching a few depressing videos on automation. I found it interesting that the videos suggested professional and creative work being automated at rates similar to the blue collar work I traditionally associated with being vulnerable to automation. In groups we started discussing about the impacts automation could have on society going forward. We discussed options like a more significant safety net, lowering the hours in a work week, universal basic income, and lowering the retirement age. We also raised the idea that society needs to change its concept around unemployment - stop blaming the unemployed and consider the option that the person is without a job to no fault of their own.
 
-### PROtocol
-#### (Session Name)
+#### Universal Basic income
 
-*   [Link to Completed Deliverables]()
+*   [Markdown Link](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
+
+In this gear up we discussed the idea of implementing a universal basic income. I was surprised to read about how more Americans support UBI than are opposed. Personally, although I do like the idea of UBI, it still feels ‘un-American’. I think more and more people are recognizing that automation could escalate quickly and leave millions of people jobless (at no fault of their own). UBI seems like a sensible way to start dealing with a potential crisis of work and identity. However, I know it is going to be uncomfortable for a lot of Americans. As a result starting to have these discussions and staying up to date with the research and branding of the idea will be essential if it is going to work out. I think UBI could be an essential component to preserving dignity and equity as automation progresses and our economy changes.
+
+### PROtocol
+
+*   [Link to Completed Deliverables](https://github.com/kheppenstall/career-development-curriculum/blob/bd633da437bc57e5d5f55538db22a1867a607d38/deliverable_submissions/1610-b/kyle_heppenstall.md)
 
 ### Professional Development Workshops
 #### Flower Exercise
@@ -188,7 +193,13 @@ From Nick E (Rales Engine): Overall I loved working with you on Rales Engine and
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+NEED TO FINISH
+
+-clean up
+-helping mod 1 students
+-armstrong Posse
+-positive, active member of class
+-feedback
 
 ------------------
 
