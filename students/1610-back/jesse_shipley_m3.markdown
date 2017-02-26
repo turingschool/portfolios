@@ -225,6 +225,32 @@ Nick G:
 Brett:
 
 Nick E:
+   Jesse - it was pretty awesome to get to work with you on this team.  Some
+qualities you have in spades is patience, a positive outlook, and a
+willingness to dive into a situation where you might not have a clue going in.  On a
+group project where there were 5 of us, you were a solid, steady presence
+that helped keep us grounded.  I appreciated your effect on the whole team
+and know that you made us less stressed and level-headed throughout the
+project.  
+I appreciated how much you contributed to the group, especially when it was
+a risky topic like calendars, jQuery, or maps.  The research and hours you
+poured into learning let the rest of us stand on your shoulders when it
+came time to present some pretty flashy aspects of our projects.  You pick
+up new technologies well and aren't afraid to get stuck in.  I'm glad we
+got to work together, and I'd be stoked to be on your team again in the
+future.
+My delta for you for this project is about better communicating your
+availability.  As a father of 4, a husband, and living over an hour away,
+you (far and away) had the most real world responsibility in our group.
+Because of that, it's unfair for the rest of us to assume that you're
+available all the time.  That's plain silly, you have more demands on your
+time.  But as a group member then, I would have liked to have known when it
+was a good time to get in touch with you or even just reach out to see how
+your piece is going.  You never shirked from your role as a group member
+and came through with the work you said you would - so this has nothing to do
+with how much work you got through (which was quite a bit), just about how
+you communicated your availability.
+
 
 
 ## D: Professional Skills
