@@ -16,10 +16,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 -----------------------
 
 ## A: End of Module Assessment
+1701 - Grasping and understanding the foundations of JS have been much improved this time around. While the mod still flew by and I found it difficult to keep everything in track, I was still able to focus on the things I really needed to improve on. CSS, however, still alludes me and I'd feel content to let it were it not an important facet of a front end developer. Though, the more time I spend with JS and CSS the more I'm interested in backend development.
 
 From 1611 - (Mod1-Round1 has been a hurricane of information. I found it difficult to keep up with the material. Pairing proved a very helpful tool especially when working through Mythical Creatures. In Mod1-Round2 I'll focus more on utilizing jQuery, something I hardly dabbled with in Round1. I am repeating Mod1, but not for lack of informational resources. Class structure, student integration and the emphasis on community involvement have been key factors my (limited) success throughout the mod.)
-
-1701 - Grasping and understanding the foundations of JS have been much improved this time around. While the mod still flew by and I found it difficult to keep everything in track, I was still able to focus on the things I really needed to improve on. CSS, however, still alludes me and I'd feel content to let it were it not an important facet of a front end developer. Though, the more time I spend with JS and CSS the more I'm interested in backend development.
 
 ## B: Individual Work & Projects
 
@@ -41,7 +40,7 @@ The first assigned project proved a helpful introduction to basic JavaScript, CS
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 (description)
-Challenge #3 was a project intended on honing in on CSS skills with particular focus on FlexBox and responsive handling.
+Challenge #/3 was a project intended on honing in on CSS skills with particular focus on FlexBox and responsive handling. Also, I don't like to talk about it.
 
 (evaluation comments)
 
@@ -63,7 +62,35 @@ I have participated in several paired projects. In each I found the workflow and
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
 (description)
-Linked List is the first projects assigned to be completed as pair. It allows the user to create 'cards' in which are contained 
+Linked List is the first projects assigned to be completed as pair. It allows the user to create 'cards' in which are contained
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### (Idea Box)
+
+* [GitHub URL]()
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+
+(description)
+This was the first project we were assigned that utilized local storage.
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### (2DoBox Pivot)
+
+* [GitHub URL](https://danielbucket.github.io/2DoPivot-Bucket-Kepner/)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+(description)
+During this project we had to refactor the Idea Box project from another student.
 
 (evaluation comments)
 
@@ -95,20 +122,9 @@ It was difficult to refrain from talking about the current election in the conte
 
 ### Giving Feedback
 
-Pam Lovett: Try not to be so hard on yourself! This stuff is VERY difficult and everyone is struggling with something different. Although I can speak for myself in saying that I do appreciate your willingness to be verbal/open about feeling frustrated with the material. It helps me remember that I'm not alone in wanting to pull my hair out.
-Keep your head up and make sure you continue to see that bucket as half-full! We are all going to get to the place we need to be.. however painful the process will be.
+Ciara B. - You did a great job of making things easier to understand and were very patient with helping me and walking me through concepts and checking in to make sure you weren't going too fast. I also appreciated that you respected that I wanted to do all the JS together so I gained a lot in that project. you were really patient with me and it was great that you were always thinking of new ways to try something new. You were willing to keep pushing on even when some things weren't going as planned and it all worked out! I also felt like you did a good job of slowing down and letting me explain it back if you started working on something more advanced. I learned a lot working with you!
 
-Marissa Reinke: You never cease to amaze me with your determination. I have no doubt you will be an amazing coder by the end of this program.
-Sometimes you are a little too hard on yourself and I think if you did something outside at least once or twice a week you would feel a lot better
-
-Franklin Crosby: I love your enthusiasm and work ethic. It was great to learn all the short cuts (atom) that you know.
-I would love to see you give your self some more credit. We all learn at a different pace and you definitely have what it takes. Give yourself the time and space to absorb it all.
-You were very open and a joy to work with. You constantly kept the mood light and productive.
-You are great! I look forward to pairing with you again.
-
-Kyle Zucker: Bucket's got it. His progress has been phenomenal and his work ethic goes far beyond most. His ability to take a problem and make it his own and find his own way thru it is inspiring.  
-Don't hold back. If you think you can do it, then do it. If you think you can't do it, then do it anyway.
-Keep it up. You're a good dev.
+Karen - Work on listening to your pairing partner, even if it means stopping work and closing your computer. If you are going to make a bunch of changes to the code, talk to your pair before you make the changes instead of after.  Once the changes are made and the code still works, most people won't say just throw away your work.  Asking for forgiveness instead of permission is not really a trust building exercise in this case.
 
 
 
@@ -119,7 +135,7 @@ Keep it up. You're a good dev.
 ### Playing a Part
 
 (ways you supported the larger Turing community)
-
+Being a repeat offender, I was able to help alleviate some of the weight of the sudden onslaught of information by hosting a couple lunch session Macbook keyboard shortcuts. And I'm always willing to set aside what I'm doing to help out my classmates.
 ------------------
 
 ## Final Review
