@@ -21,7 +21,13 @@ Fill in how *YOU* would grade yourself from 1-4 in the following categories this
 
 ## A: End of Module Assessment
 
-TBD....................
+- 3 - The application includes all of the major functionality. There are no features missing from above that make the application feel incomplete or hard to use.
+
+##### Determining the right tools for the job
+- 3 - Developer selected appropriate libraries and frameworks to build the app but did not utilize them as efficiently as possible; demonstrated gaps in knowledge of how the tools should be used.
+
+##### Following Documentation
+- 4 - Developer was able to get the back-end running and successfully sent and received data from the server using the correct endpoints listed in the documentation. Did not need instructor guidance on how to work with the endpoints.
 
 ## B: Individual Work & Projects
 
@@ -37,10 +43,10 @@ For my personal project, I had the opportunity to work with FareHarbor, a compan
 I helped build the platform to embed new tools and improved ways for users to walk through the booking process. From the beginning, building for scale and flexibility was key. I used the Module pattern to structure my code and ended up building something that will work nicely.
 
 ####Evaluation comments
-TBD...................
+[not given at time of portfolio review]
 
 ####Scores
-TBD...................
+[not given at time of portfolio review]
 
 ####Feedback to me
 
@@ -89,13 +95,21 @@ Troubleshooting
 
 From Lacey: 
 
-
 Ryan is a phenomenal addition to any team. I think he has a great grasp on React, React Router and Redux so I was really excited to get the opportunity to work with, and learn from him on our Weathrly project. I was really impressed with his willingness to not only slow down and explain concepts, but his humbleness to ask questions about things he didn't know and ability to take feedback and ideas. I agree with his critique, for both of us, to not get flustered over problems that don't get solved right away and to take a step back, look at the bigger picture, and begin to break things down into small feasible chunks.  Overall, he's a great team player and I would love to work with him again. 
 
 From Nick: 
 
 This was my second time working with Ryan, and it was another enjoyable experience deving apps here at the Turing School. I really have a good time working through problems with him, white-boarding, and the general partner-to-partner process of figuring out solutions. He brings a lot of enthusiasm and energy to his work, and it's a fun thing to be a part of. Ryan did a good job of letting loose a bit and enjoying himself this time around, while also being solid and accountable when it came to getting things done. Going into the project he mentioned that he was working on having more fun, and I think he did well in that effort. I'd continue to encourage him to work on his active listening and work to understand what all his partners are trying to say. He definitely does a fine job at leading the project effort and getting everyone involved, but sometimes I think he can get a little bit of tunnel vision when he's really trying to figure stuff out. Ryan's continuing to progress at a really rapid rate, and he's a great dude to work with. I'd absolutely love to work with him again.
 
+####Feedback by me
+
+To Nick: 
+
+This was my second project with Nick, and again, it was so great. Nick is several things 1) a great guy 2) fun to be around 3) a solid developer. He brought ideas that I would never have thought of. There were several times where I was working through a challenging spot in the project and hit a dead end and Nick would jump in with a fresh set of eyes that made a big difference. Nick also works hard, which is an attribute I admire. The night before it was due, he was up late finishing the last few items. My constructive feedback is to be more comfortable driving a project, or atleast a large portion of it. I believe this would help him get better at communicating code. Overall, and in almost every way, it was a pleasure to work with Nick, and I would be excited to do it a third time. 
+
+To Lacey: 
+
+I was excited when I saw that I would be one of Lacey's partners for the weather project. Over the past two mods, I had noticed how hard she works, as well as her development and design talent. The project went really well. She is awesome to work with. We did a lot of the Redux/main functionality together. Not only did she have great ideas, but was also simply a joy to spend time with. I believe she will go far, whether that's playing an integral part of a dev team or running her own agency. My one constructive feedback also applies to me — not getting concerned or flustered when you hit a bug or difficult challenge. The best thing to do when a group hits a challenging spot is to relax and break it into the smallest piece. Overall, Lacey is terrific and I would be excited to work with her again. 
 
 ### (remEMBER)
 
@@ -112,6 +126,10 @@ Based on number of iterations completed. We passed.
 From Hilary:
 
 Learning Ember can be very frustrating but working with Ryan helped accelerate my learning curve. I enjoyed working with Ryan because he was able to pick up on concepts and solve problems very logically and quickly. Considering the unique circumstance that my computer was in the shop, I did not have the opportunity to touch the project as much as I would have liked at the beginning. I would have felt more comfortable if Ryan and I had switched off times using his computer more consistently so I did not feel like I wasn't contributing enough to the project. By the end of the project, Ryan solved this issue when he suggested that one person drives and the other person explains what the person driving should do. I would love to get the opportunity to work with Ryan again because I know we will be able to more efficiently communicate with each other by using this model.
+
+####Feedback by me
+
+What can I say? Hilary is awesome. This was the first opportunity to work with her. Overall, it was a success, and I really enjoyed tackling Ember and a new project structure with PRs and more code reviews with her. Hilary is extremely sharp and a "go-getter". She thinks through problems logically and picks up on concepts quickly. My constructive feedback, equally applies to me - learn how to better listen to what your partners are saying before rushing ahead. Like me, Hilary can tend to jump around when trying to solve an issue without talking it through first. By slowing down, I expect it will actually lead to better outcomes. Overall, she was fun to work with, and I would gladly work with her again.
 
 
 ## D: Professional Development
