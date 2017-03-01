@@ -85,7 +85,7 @@ Was not scored, but I made a big effort to maintain testing coverage above 90 th
 *   [GitHub API URL](https://github.com/Sh1pley/tell_me_more_api)
 *   [Heroku API URL](https://tell-me-more.herokuapp.com/)
 *   [Github React URL](https://github.com/Sh1pley/react-tell-me-more)
-*   [Heroku React URL]() - coming soon!
+*   [Heroku React URL](https://interesting-tell-me-more.herokuapp.com/#/)
 *   [Original Assignment](http://backend.turing.io/module3/projects/self_directed_project)
 
 This was an experiment into 'full stack' dev. I wanted to provide a RoR API as a backend server, that would
