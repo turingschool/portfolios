@@ -187,19 +187,21 @@ In this session we dove into creating an action plan to find a job. I enjoyed th
 
 For Nick E (Rales Engine): Overall I loved working with you on Rales Engine and hopefully we get to work together again! My constructive from this project is to have more explicit discussions with teammates about the tradeoff between getting something done and doing it as well as possible (importer tests, for example). My positive feedback is that you do an excellent job problem-solving and knowing the tools to troubleshoot. You also do a great job holding people accountable to using specific vocabulary which lets you have higher level discussions about code more easily.
 
+For Drew (Cloney Island): As always, I loved working with Drew on Cloney Island. You are great to pair with and do a awesome job of stating your opinion on the best way to write the code but also staying flexible with the way the work is accomplished. You are also a strong communicator and always available and putting the team first. My only piece of constructive feedback is to always put your best foot forward on a PR. Whether it is a stub or styling, it could be worth it to do it all the way done the first time instead of leaving things to be refactored and fixed up later. Hopefully we get to work together in Mod 4!
+
+For Robbie (Cloney Island): You were a fantastic project manager during Cloney Island and took a lead on writing some of the most challenging code (like the Oauth). I love that you lead by example, workshard, and encourage other people to do the same. My only constructive feedback is to communicate when you refactor so the team can get all on the same page for code quality.
+
+For Dan (Cloney Island): It was great to work with Dan on Cloney Island. You do an awesome job of keeping the big picture in mind and anticipating how the architecture will work a few steps down the road. You are also great to pair with and I definitely enjoyed the time we got to spend pairing together. My only constructive feedback is to keep the git workflow and branches tidy to make smaller, more frequent PRs.
+
+For Jason (Cloney Island): Jason, it was good working together on Cloney Island. You keep things fun and did a great job getting your tasks done and communicating with the team. My only constructive feedback is to shorten your PRs into more discrete chunks so they are easier to read and review.
+
 ### Being a Community Member
 
 From Nick E (Rales Engine): Overall I loved working with you on Rales Engine and hopefully we get to work together again! My constructive from this project is to have more explicit discussions with teammates about the tradeoff between getting something done and doing it as well as possible (importer tests, for example). My positive feedback is that you do an excellent job problem-solving and knowing the tools to troubleshoot. You also do a great job holding people accountable to using specific vocabulary which lets you have higher level discussions about code more easily.
 
 ### Playing a Part
 
-NEED TO FINISH
-
--clean up
--helping mod 1 students
--armstrong Posse
--positive, active member of class
--feedback
+Overall I felt like I had a positive impact on the community this module, especially within 1610. In general people were more stressed than previous modules, and I think I did a good job keeping a positive attitude, especially during sessions where some of the group may have been a little checked out. I was also diligent in doing my cleaning duties and attended events with the Armstrong posse. I also paired with some mod 1 students and led little session on tries during the complete me project. During group projects I always gave and solicited feedback with my group members. Lastly I was always engaged and present during gear ups and spike sessions on Fridays.
 
 ------------------
 
