@@ -82,14 +82,22 @@ Was not scored, but I made a big effort to maintain testing coverage above 90 th
 
 #### Tell Me More
 
-*   [GitHub URL]()
-*   [Original Assignment]()
+*   [GitHub API URL](https://github.com/Sh1pley/tell_me_more_api)
+*   [Heroku API URL](https://tell-me-more.herokuapp.com/)
+*   [Github React URL](https://github.com/Sh1pley/react-tell-me-more)
+*   [Heroku React URL]() - coming soon!
+*   [Original Assignment](http://backend.turing.io/module3/projects/self_directed_project)
 
 This was an experiment into 'full stack' dev. I wanted to provide a RoR API as a backend server, that would
 serve JSON to a front end developed in ReactJS. The API was my crutch as I felt most comfortable with that
 tech. Branching into React territory was a fun and frightening journey. Reading Docs, Guides, and ideas 
-around React pushed me to wanting to write in 'true functional' functions. The provided a consistant return.
+around React pushed me to wanting to write in 'true functional' functions. That provided a consistant return.
 This turned out to be both fun, and education. In addition to a real struggle bus of a ride.
+
+Also learning/realizing that ES6 offers alot in terms of readability and a lot better functional programming,
+however most of the internet only knows and is willing to speak about ES5 -- including alot of online courses.
+This turned out to be fun in a sadistic way of learning and watching and having to translate into my app.
+I am hoping this turns out to be a great thing in teaching me the future of JS and React.
 
 (evaluation comments)
 
