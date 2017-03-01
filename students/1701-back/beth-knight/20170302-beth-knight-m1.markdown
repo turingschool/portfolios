@@ -1,4 +1,4 @@
-# First Last - MX Portfolio
+# Beth Knight - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -9,7 +9,7 @@ Repeating this mod, I wanted to focus on TDD. I think I really learned a lot and
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
 | Section | Category | Score |
-| - | ----- | - |
+| --- | --- | --- |
 | A | **End-of-Module Assessment** | 3 |
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 3 |
@@ -62,9 +62,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 Feedback from partner projects.
 
-*   Project 1 (First Last): Dear Beth,
+*   Project 1 : Dear Beth,
 
-I loved working with you on this project. I felt like we shared a similar approach to how to tackle the problem and it paid off with a successful and satisfying assessment. I appreciate your commitment to me as your partner and to this project.
+--- I loved working with you on this project. I felt like we shared a similar approach to how to tackle the problem and it paid off with a successful and satisfying assessment. I appreciate your commitment to me as your partner and to this project.
 
 Your strengths include:
 	Super positive
@@ -78,7 +78,7 @@ One thing to improve on (and we talked about this), is your approach to "throwin
 
 Awesome all around!
 
-<3 Erin
+<3 Erin ---
 
 *   Project 2 (First Last): lorem ipsum
 
@@ -103,7 +103,7 @@ Awesome all around!
 #### Session 4
 [Link]https://gist.github.com/BethKnight1234/d74e5a346dc00fe6b2a97a797203b6fb
 
-#### Session 4
+#### Session 5
 [Link]https://gist.github.com/BethKnight1234/a0f2cf5b3deb934a5c3d31566f075be5
 
 ### Community Participation
