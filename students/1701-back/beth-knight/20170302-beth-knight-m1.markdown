@@ -30,7 +30,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## B: Individual Projects
 
 | CATEGORY | Credit Check | Flash Cards | HTTP |
-| - | - | - | - |
+| --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
 | **Github** | [link](https://github.com/BethKnight1234/credit_check) | [link](https://github.com/BethKnight1234/flashcards) | [link](https://github.com/BethKnight1234/http_yeah_you_know_me) |
 | **Functional Expectations** | 3 | 3 | 3 |
@@ -49,7 +49,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Test-Driven Development** | 4 | X |
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
 | **Fundamental Ruby & Style** | 3 | X |
-| **Loop or Recursion** | X | X |
 
 
 ## D: Professional Development
