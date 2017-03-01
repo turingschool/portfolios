@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(insert description here)
+Repeating this mod, I wanted to focus on TDD. I think I really learned a lot and it's how I've started every project, which was a huge help.
 
 ## Self-Assessment Scores
 
@@ -10,38 +10,21 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | - | ----- | - |
-| A | **End-of-Module Assessment** | X |
-| B | **Individual Projects** | X |
-| C | **Group Projects** | X |
-| D | **Professional Development** | X |
-| E | **Community** | X |
-
-#### Notes
-
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
+| A | **End-of-Module Assessment** | 3 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | 3 |
+| E | **Community** | 3 |
 
 ------------------------------------------------
 
 ## A: End of Module Assessment
 
-| Category | Score |
-| ----- | - |
-| **Written Diagnostic** | PASS/FAIL |
-| **Timed Exercise** | PASS/FAIL |
-| **Ruby Syntax & API** | X |
-| **Completion and Progress** | X |
-| **Testing** | X |
-| **Workflow** | X |
-| **Collaboration** | X |
-| **Enumerable & Collections** | X |
-
-#### Assessor Comments
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
+| Category | Result (pass, fail, pending) |
+| ----- | --- |
+| Pairing Assessment | PASS|
+| Independent Timed Assessment | PASS |
+| Diagnostic | PASS |
 
 
 ## B: Individual Projects
@@ -50,19 +33,11 @@ This section does not need to be populated (and template text should therefore b
 | - | - | - | - |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
 | **Github** | [link](https://github.com/BethKnight1234/credit_check) | [link](https://github.com/BethKnight1234/flashcards) | [link](https://github.com/BethKnight1234/http_yeah_you_know_me) |
-| **Functional Expectations** | X | 3 | 3 |
-| **Test-Driven Development** | X | 3 | 2 |
-| **Encapsulation/Breaking Logic into Components** | X | 3 | 2 |
-| **Fundamental Ruby & Style** | X | 3 | 3|
-| **Loop or Recursion** | X | 3 | X |
-
-#### Notes
-
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
+| **Functional Expectations** | 3 | 3 | 3 |
+| **Test-Driven Development** | 3 | 3 | 2 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 | 2 |
+| **Fundamental Ruby & Style** | 3 | 3 | 3|
+| **Loop or Recursion** | X | 3 | 3 |
 
 ## C: Group Projects
 
@@ -76,19 +51,12 @@ This section does not need to be populated (and template text should therefore b
 | **Fundamental Ruby & Style** | 3 | X |
 | **Loop or Recursion** | X | X |
 
-#### Notes
-
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
-
-*   Note 1 (if applicable)
-*   Note 2 (if applicable)
-
 
 ## D: Professional Development
 
 ### Define-the-Relationship (DTR)
 
-[Link](http://example.com) to DTR Memo from 1 paired project.
+[Link](https://docs.google.com/document/d/1KNzgio6Uo6xFaOu7YXH-5vs1-RXP_QiA_SMYybsC_mw/edit?ts=58ac8c61) to DTR Memo from 1 paired project.
 
 ### Pair Feedback
 
@@ -111,13 +79,12 @@ One thing to improve on (and we talked about this), is your approach to "throwin
 Awesome all around!
 
 <3 Erin
+
 *   Project 2 (First Last): lorem ipsum
 
 ### Job Prep
 
 *   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/beth-knight-aa02abb/)
-
-
 
 ## E: Community
 
@@ -136,8 +103,12 @@ Awesome all around!
 #### Session 4
 [Link]https://gist.github.com/BethKnight1234/d74e5a346dc00fe6b2a97a797203b6fb
 
+#### Session 4
+[Link]https://gist.github.com/BethKnight1234/a0f2cf5b3deb934a5c3d31566f075be5
+
 ### Community Participation
-(insert description of how you've contributed to the Turing community)
+
+I showed up everyday with a smile on my face.
 
 -------------------------------------------------------------
 
