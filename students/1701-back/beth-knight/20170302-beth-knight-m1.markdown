@@ -61,23 +61,33 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 Feedback from partner projects.
 
-*   Project 1 : Dear Beth,
+*   Project 1 :
 
---- I loved working with you on this project. I felt like we shared a similar approach to how to tackle the problem and it paid off with a successful and satisfying assessment. I appreciate your commitment to me as your partner and to this project.
+```
+Dear Beth,
+
+ I loved working with you on this project. I felt like we shared a similar
+ approach to how to tackle the problem and it paid off with a successful
+ and satisfying assessment. I appreciate your commitment to me as your partner
+ and to this project.
 
 Your strengths include:
 	Super positive
 	Flexible attitude
 	Easy going
-	Resourceful (you are very good at finding answers, and getting unstuck and finding help when needed!)
+	Resourceful (you are very good at finding answers, and getting unstuck and
+	finding help when needed!)
 	Creative approach to testing and coding
 	Patient
 
-One thing to improve on (and we talked about this), is your approach to "throwing spaghetti" on the wall, but I think you advocated for yourself really well in asking to focus on TDD.
+One thing to improve on (and we talked about this), is your approach to
+"throwing spaghetti" on the wall, but I think you advocated for yourself
+really well in asking to focus on TDD.
 
 Awesome all around!
 
-<3 Erin ---
+<3 Erin
+```
 
 *   Project 2 (First Last): lorem ipsum
 
