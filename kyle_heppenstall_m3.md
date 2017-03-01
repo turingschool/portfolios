@@ -75,6 +75,35 @@ Students: Nick E & Kyle
 
     * 3.5: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 
+### Feedback
+
+From Nick:
+
+It was an awesome experience getting to work with you on Rales Engine.
+You quickly grasped the core theories at the heart of the project and were
+quick to share your thoughts and ideas.  You were always willing to pause
+what you were doing to help out or provide some perspective on a bit of
+code.  And it was especially low stress to experiment with a new technique
+or structure.  The half-hour of experimentation that we spent in the routes
+file ended up laying out the whole structure of our controllers for the
+project - kind of awesome.
+
+I was also great to get a chance to pair with you on the business logic.  I
+feel like I learned a tremendous amount going through that exercise with
+you.
+
+Your attention to detail with the project structure, organizing the spec,
+and staying consistent with the project style we established gave the
+project a consistent voice, despite the fact there were two of us working on it.
+
+For constructive feedback, if I have to find *some* area where I could
+recommend a delta for future projects, I would ask that you share the 
+interesting bits you find along the way.  All of us come up against little
+code challenges which trip us up for a moment, or maybe we find an elegant
+solution to something that had been verbose and unwieldy.  Share those
+nuggets of insight with the rest of your team.  You're a tremendous
+individual contributor, and you
+
 ## Cloney Island
 
 *   [GitHub URL](https://github.com/Robbie-Smith/kickstarter_clone)
@@ -128,6 +157,14 @@ Students: Kyle, Robbie, Jason, Dan, Drew
     * We want to recognize and reward risk-taking and exploration. Sometimes other areas might suffer if the risk doesn't pan out. Earn a bonus point to offset a score above.
     *   Did the team push themselves by taking risks?
     *   0: No
+
+### Feedback
+
+From Robbie: I really enjoyed working with Kyle during this project. I think that his attention to detail is excellent and vital to avoiding bugs. I also appreciated his work ethic. My one piece of feedback, is that when you feel like this is an issue that needs to be addressed, speak up and let's get it fixed instead of ignoring it.
+
+From Drew: Feedback: as ever, Kyle is one helluva programmer. He bring top notch levels of critical thinking, intelligence and raw coding talent to every team he's on. Best yet, he's awesome to work/pair with and there is no problem a team can't figure out without him. Constructive Feedback: Sometimes Kyle can be hard to get a hold of. Communication could be better in larger team environments.
+
+From Dan: I really enjoyed working with Kyle on Cloney Island. Thank you for taking the time to carefully review PRs, make suggestions, and explain your thought process. Although we only paired once, I was able to pick up a lot of useful techniques from your workflow. I really admire the time and effort that you put into refactoring every line of code, even tests. My only piece of constructive feedback is to make sure to speak up whenever you think there might be a better approach. You have great ideas and the whole team benefits from hearing them.
 
 ## D: Professional Skills
 
