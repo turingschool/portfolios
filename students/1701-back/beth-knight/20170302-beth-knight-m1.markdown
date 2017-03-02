@@ -39,7 +39,7 @@ Repeating this mod, I wanted to focus on TDD. I think I really learned a lot and
 
 ## C: Group Projects
 
-| CATEGORY | PROJECT 1 | PROJECT 2 |
+| CATEGORY | NIGHT WRITER | BLACK THURSDAY |
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://example.com) | [link](http://example.com) |
 | **Github** | [link](https://github.com/BethKnight1234/knight_rider) | [link](http://backend.turing.io/module1/projects/night_writer) |
@@ -53,7 +53,7 @@ Repeating this mod, I wanted to focus on TDD. I think I really learned a lot and
 
 ### Define-the-Relationship (DTR)
 
-[Link](https://docs.google.com/document/d/1KNzgio6Uo6xFaOu7YXH-5vs1-RXP_QiA_SMYybsC_mw/edit?ts=58ac8c61) to DTR Memo from 1 paired project.
+[Link](https://docs.google.com/document/d/1KNzgio6Uo6xFaOu7YXH-5vs1-RXP_QiA_SMYybsC_mw/edit?ts=58ac8c61) to DTR Memo from Night Writer paired project.
 
 ### Pair Feedback
 
