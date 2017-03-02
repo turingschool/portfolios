@@ -28,7 +28,7 @@ Repeating this mod, I wanted to focus on TDD. I think I really learned a lot and
 
 ## B: Individual Projects
 
-| CATEGORY | Credit Check | Flash Cards | HTTP |
+| CATEGORY | CREDIT CHECK | FLASH CARDS | HTTP |
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
 | **Github** | [link](https://github.com/BethKnight1234/credit_check) | [link](https://github.com/BethKnight1234/flashcards) | [link](https://github.com/BethKnight1234/http_yeah_you_know_me) |
