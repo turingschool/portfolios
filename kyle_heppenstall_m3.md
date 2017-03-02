@@ -166,6 +166,16 @@ From Drew: Feedback: as ever, Kyle is one helluva programmer. He bring top notch
 
 From Dan: I really enjoyed working with Kyle on Cloney Island. Thank you for taking the time to carefully review PRs, make suggestions, and explain your thought process. Although we only paired once, I was able to pick up a lot of useful techniques from your workflow. I really admire the time and effort that you put into refactoring every line of code, even tests. My only piece of constructive feedback is to make sure to speak up whenever you think there might be a better approach. You have great ideas and the whole team benefits from hearing them.
 
+From Jason: I had the pleasure of working with Kyle on Cloney Island. He was a great person to have on our team. He was always available to ask questions and was always willing to pair. He was extremely knowledgeable and I learned quite a bit from him. His attention to detail was amazing and really pushed me to be better. Constructive Feedback: Over all Kyle was a pleasure to work with, the only thing I would say from a constructive feedback standpoint is that sometimes there was a time gap between responses on PR comments.
+
+## Personal Project - Happy Trails
+
+*   [GitHub URL](https://github.com/ski-climb/happy_trails)
+*   [Heroku](https://pampered-trails.herokuapp.com/)
+
+Nick Erhardt and Kyle Heppenstall created Happy Trails to empower the community of trail users to log trailwork needs and organzize to work on trails. Guest visitors can see trailwork requests on an interactive map and toggle the requests based on status. Once logged in with Strava, a user can see his/her Strava routes and can add an issue. GPS data for issues is added using metadata from the photos or by dragging a marker to a users desired location. Users can comment on issues and administrators can add work days to automatically email participants with the time, location, and details of the day.
+
+
 ## D: Professional Skills
 
 ### Gear Up
