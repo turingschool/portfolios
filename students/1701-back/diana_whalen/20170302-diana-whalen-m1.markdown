@@ -13,7 +13,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | A | **End-of-Module Assessment** | 3 |
 | B | **Individual Projects** | 3 |
 | C | **Group Projects** | 3 |
-| D | **Professional Development** | n/a |
+| D | **Professional Development** | 3 |
 | E | **Community** | 3 |
 
 ------------------------------------------------
@@ -35,10 +35,10 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## B: Individual Projects
 
-| CATEGORY | PROJECT 1 (credit_check) | PROJECT 2 (flashcards) | CHALLENGE (wizarding_bank) |
+| CATEGORY | Credit Check | Flashcards | Wizarding Bank |
 | --- | --- | --- | --- |
-| **Project Spec** | [spec](http://backend.turing.io/module1/projects/credit_check) | [spec](http://backend.turing.io/module1/projects/flashcards) | [spec](https://github.com/turingschool/challenges/blob/620f4a12ab4e3c1a3f258bb4347e0c2c569a934d/wizarding_bank.markdown) |
-| **Github** | [repo](https://github.com/dianawhalen/credit_check) | [repo](https://github.com/dianawhalen/flashcards) | [repo](https://github.com/dianawhalen/wizarding_bank) |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](https://github.com/turingschool/challenges/blob/620f4a12ab4e3c1a3f258bb4347e0c2c569a934d/wizarding_bank.markdown) |
+| **Github** | [link](https://github.com/dianawhalen/credit_check) | [link](https://github.com/dianawhalen/flashcards) | [link](https://github.com/dianawhalen/wizarding_bank) |
 | **Functional Expectations** | X | X | X |
 | **Test-Driven Development** | X | X | X |
 | **Encapsulation/Breaking Logic into Components** | X | X | X |
@@ -50,8 +50,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | CATEGORY | PROJECT 1 (night_writer)| PROJECT 2 (black_thursday) |
 | --- | --- | --- |
-| **Project Spec** | [spec](http://backend.turing.io/module1/projects/night_writer) | [spec](http://backend.turing.io/module1/projects/black_thursday) |
-| **Github** | [repo](https://github.com/dianawhalen/night_writer) | [repo](https://github.com/dianawhalen/black_thursday) |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
+| **Github** | [link](https://github.com/dianawhalen/night_writer) | [link](https://github.com/dianawhalen/black_thursday) |
 | **Functional Expectations** | 3 | X |
 | **Test-Driven Development** | 2 | X |
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
@@ -59,17 +59,20 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Loop or Recursion** | n/a | X |
 
 
+## D: Professional Development
+
 ### Define-the-Relationship (DTR)
 
 [Link](https://docs.google.com/document/d/1sUTtfE7Rbg3e-CqPSZVo6YmFQb8c7-JBU04KEMCOybE/edit?usp=sharing) to DTR Memo from Black Thursday paired project.
+
 
 ### Pair Feedback
 
 Feedback from partner projects.
 
-*   Project 1 (Joseph Glass): "Hello Diana. The first thing I noticed working with you was your incredible energy and drive. You're willing to put as much research and time into learning a skill as it takes. You brought a lot of organization to our project and always ensured we knew how tasks were divided and assigned when we  closed for the day. I particularly admire how you tackle every challenge no matter its scope. You helped me go from zero Github knowledge to Github competent. Occasionally, you get sidetracked into researching more complicated methods instead of looking at the basic ones first. If you ask yourself "how do I need to change this specific data?" and "what will do that?", you might find that you can do more with basic methods like .delete, .push, and .each than you expected. You're a big picture person, which is often advantageous, but sometimes the problem is too big to hold in mind at once. Using irb to focus on one small problem until it's fixed can chip away at those "big problems"."
+*   Night Writer (Joseph Glass): "Hello Diana. The first thing I noticed working with you was your incredible energy and drive. You're willing to put as much research and time into learning a skill as it takes. You brought a lot of organization to our project and always ensured we knew how tasks were divided and assigned when we  closed for the day. I particularly admire how you tackle every challenge no matter its scope. You helped me go from zero Github knowledge to Github competent. Occasionally, you get sidetracked into researching more complicated methods instead of looking at the basic ones first. If you ask yourself "how do I need to change this specific data?" and "what will do that?", you might find that you can do more with basic methods like .delete, .push, and .each than you expected. You're a big picture person, which is often advantageous, but sometimes the problem is too big to hold in mind at once. Using irb to focus on one small problem until it's fixed can chip away at those "big problems"."
 
-*   Project 2 (Jonathan Kidd): pending
+*   Black Thursday (Jonathan Kidd): "..."
 
 
 ### Gear Up
@@ -77,7 +80,7 @@ Feedback from partner projects.
 #### Session 1
 [Growth Mindset](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown#turing-citizenship-1-growth-mindset)
 * How do you think past experiences or experiences this week that have encouraged growth or fixed mindsets?
-  My
+
 
 * What are your triggers, what's likely to move you to fixed mindset?
 
