@@ -266,7 +266,7 @@ I sent feedback to several other students.
 ### Being a Community Member
 
 (feedback to me)
-- I could tell that your confidence around the project material was not too high, but I thought you did a really great job pushing yourself. In terms of scheduling and being understanding you were a great partner. You taught me a ton just by asking a bunch of questions and coming up with different ideas of how to do things that I hadn't considered. Even though you felt weaker in javascript I thought you were able to contribute and together we were able to take ideas and make them happen. You used your strengths in CSS and HTML to help the project along. And I very much appreciated your reminders to go outside and walk!!
+- I could tell that your confidence around the project material was not too high, but I thought you did a really great job pushing yourself. In terms of scheduling and being understanding you were a great partner. You taught me a ton just by asking a bunch of questions and coming up with different ideas of how to do things that I hadn't considered. You used your strengths in CSS and HTML to help the project along. And I very much appreciated your reminders to go outside and walk!!
 
 - It has been really nice getting to know you.  I really like what you're able to accomplish with CSS and many could benefit from your knowledge about the subject.
 
