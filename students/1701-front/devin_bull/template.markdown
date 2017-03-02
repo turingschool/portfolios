@@ -1,4 +1,4 @@
-# (Devon Bull) - (M1) Portfolio
+# Devon Bull - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -7,11 +7,11 @@ Develop a strong Javascript foundation and improve CSS skills.
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: X
-*   **B: Individual Work & Projects**: X
-*   **C: Group Work & Projects**: X
-*   **D: Professional Skills**: X
-*   **E: Feedback & Community Participation**: X
+*   **A: End-of-Module Assessment**: 3
+*   **B: Individual Work & Projects**: 3
+*   **C: Group Work & Projects**: 3.5
+*   **D: Professional Skills**: 4
+*   **E: Feedback & Community Participation**: 4
 
 -----------------------
 
