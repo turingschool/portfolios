@@ -1,5 +1,6 @@
 # (Daniel Bucket) - (Mod1) Portfolio
 ## Areas of Emphasis
+
 JavaScript/JQuery, CSS, HTML
 (What did you set out to accomplish this module?)
 A general understanding of HTML, CSS and JavaScript foundations on which to build a stronger and more comprehensive coding arsenal.
