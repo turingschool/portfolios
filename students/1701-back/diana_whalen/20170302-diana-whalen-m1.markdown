@@ -9,12 +9,12 @@
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
 | Section | Category | Score |
-| --- | ---| --- |
-| A | **End-of-Module Assessment** | --- |
-| B | **Individual Projects** | --- |
-| C | **Group Projects** | --- |
-| D | **Professional Development** | --- |
-| E | **Community** | --- |
+| --- | --- | --- |
+| A | **End-of-Module Assessment** | 3 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | n/a |
+| E | **Community** | 3 |
 
 ------------------------------------------------
 
@@ -35,32 +35,28 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## B: Individual Projects
 
-| CATEGORY | PROJECT 1 (credit_check) | PROJECT 2 (flashcards) | PROJECT 3 () |
-| --- | --- | --- | --- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://example.com) |
-| **Github** | [link](https://github.com/dianawhalen/credit_check) | [link](https://github.com/dianawhalen/flashcards) | [link](http://example.com) |
-| **Functional Expectations** | X | X | X |
-| **Test-Driven Development** | X | X | X |
-| **Encapsulation/Breaking Logic into Components** | X | X | X |
-| **Fundamental Ruby & Style** | X | X | X |
-| **Loop or Recursion** | X | X | X |
+| CATEGORY | PROJECT 1 (credit_check) | PROJECT 2 (flashcards) | CHALLENGE (wizarding_bank)
+| --- | --- | --- |
+| **Project Spec** | [spec](http://backend.turing.io/module1/projects/credit_check) | [spec](http://backend.turing.io/module1/projects/flashcards) | [spec](https://github.com/turingschool/challenges/blob/620f4a12ab4e3c1a3f258bb4347e0c2c569a934d/wizarding_bank.markdown) |
+| **Github** | [repo](https://github.com/dianawhalen/credit_check) | [repo](https://github.com/dianawhalen/flashcards) | [repo](https://github.com/dianawhalen/wizarding_bank) |
+| **Functional Expectations** | X | X |
+| **Test-Driven Development** | X | X |
+| **Encapsulation/Breaking Logic into Components** | X | X |
+| **Fundamental Ruby & Style** | X | X |
+| **Loop or Recursion** | X | X |
 
 
 ## C: Group Projects
 
 | CATEGORY | PROJECT 1 (night_writer)| PROJECT 2 (black_thursday) |
-| --- | --- | --- | --- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
-| **Github** | [link](https://github.com/dianawhalen/night_writer) | [link](https://github.com/dianawhalen/black_thursday) |
+| --- | --- | --- |
+| **Project Spec** | [spec](http://backend.turing.io/module1/projects/night_writer) | [spec](http://backend.turing.io/module1/projects/black_thursday) |
+| **Github** | [repo](https://github.com/dianawhalen/night_writer) | [repo](https://github.com/dianawhalen/black_thursday) |
 | **Functional Expectations** | 3 | X |
 | **Test-Driven Development** | 2 | X |
 | **Encapsulation/Breaking Logic into Components** | 3 | X |
 | **Fundamental Ruby & Style** | 3 | X |
 | **Loop or Recursion** | n/a | X |
-
-
-## D: Professional Development
-
 
 
 ### Define-the-Relationship (DTR)
@@ -81,7 +77,7 @@ Feedback from partner projects.
 #### Session 1
 [Growth Mindset](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown#turing-citizenship-1-growth-mindset)
 * How do you think past experiences or experiences this week that have encouraged growth or fixed mindsets?
-
+  My
 
 * What are your triggers, what's likely to move you to fixed mindset?
 
