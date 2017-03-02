@@ -43,10 +43,10 @@ Repeating this mod, I wanted to focus on TDD. I think I really learned a lot and
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://example.com) | [link](http://example.com) |
 | **Github** | [link](https://github.com/BethKnight1234/knight_rider) | [link](http://backend.turing.io/module1/projects/night_writer) |
-| **Functional Expectations** | 2 | X |
-| **Test-Driven Development** | 4 | X |
-| **Encapsulation/Breaking Logic into Components** | 3 | X |
-| **Fundamental Ruby & Style** | 3 | X |
+| **Functional Expectations** | 2 | 3 |
+| **Test-Driven Development** | 4 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 4 |
+| **Fundamental Ruby & Style** | 3 | 3 |
 
 
 ## D: Professional Development
@@ -59,7 +59,7 @@ Repeating this mod, I wanted to focus on TDD. I think I really learned a lot and
 
 Feedback from partner projects.
 
-*   Project 1 :
+*   Project 1 (Erin Bassity): Night Rider
 
 ```
 Dear Beth,
@@ -87,7 +87,18 @@ Awesome all around!
 <3 Erin
 ```
 
-*   Project 2 (First Last): lorem ipsum
+*   Project 2 (Stephanie Bentley): Black Thursday
+
+```
+Dear Stephanie,
+
+	You were such a great partner! You were there everyday working right beside me for the past two weeks. I appreciate you coming in on the weekend to bust this guy out. I never felt we had any communication problems. We ended up programming most of it together which worked out really well because we could catch little mistakes that could have held us back. I think you’re super strong with the enumerables, which is a difficult concept to grasp.
+	I guess the only feedback I have would be to take a step back when we’re super stuck and maybe reach out for a new pair of eyes. I do the same thing where I start “throwing spaghetti at the walls”.
+	Thanks for being my partner! I really enjoyed our time together!
+
+	Beth
+
+```
 
 ### Job Prep
 
@@ -116,7 +127,7 @@ under education: [Link](https://www.linkedin.com/in/beth-knight-aa02abb/)
 
 ### Community Participation
 
-I showed up everyday with a smile on my face.
+I showed up everyday with a smile on my face. And cleaned the kitchen.
 
 -------------------------------------------------------------
 
