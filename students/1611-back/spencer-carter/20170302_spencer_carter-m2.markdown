@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 To gain my confidence back, become more involved in the community, and have a sense of pride in my work.
-Continue to increase
+Continue to increase my accuracy and WPM while typing code.
 ## Rubric Scores
 
 *   **A: End-of-Module Assessment**: Pass/Fail/Pending
@@ -19,12 +19,14 @@ Continue to increase
 
 
 ## B: Individual Work & Projects
-This mod was a roller coaster of emotion on projects, some I am very proud of, others never were finished due to confusion or syntax errors. 
+This mod was a roller coaster of emotion on projects, some I am very proud of, others never were finished due to confusion or syntax errors. Coming into week 3 I felt I had no idea what I was doing, I was expecting to fail my mid mod, yet I passed. 
+Bike-share and Little Shop went VERY well, I was a major contributor and was never scared to divide and conquer. Also Pairing with others and vbeing very successful! Another goal of mine is to be less bossy/ manage teammates. Both of these projects I did a very good job of keeping my mouth shut and helping the team be more positive and productive!
 
-#### (Project Name)
 
-*   [GitHub URL]()
-*   [Original Assignment]()
+#### (Bike Share)
+
+*   https://github.com/ande1618/bike_share
+
 In this project, we utilized the data from the San Francisco bike share program to create a database for stations, trips, weather, etc. 
 
 Functional Expectations
@@ -46,16 +48,10 @@ Working Collaboratively
 3: Good use of branches, pull requests, and a project-management tool
 
 
-## C: Group Work & Projects
+#### (Little Shop)
 
-### Projects
+* https://github.com/blackknight75/wabi_sabi
 
-(Intro)
-
-#### (Project Name)
-
-*   [GitHub URL]()
-*   [Original Assignment]()
 
 (description)
 
@@ -66,7 +62,6 @@ Working Collaboratively
 (feedback to me)
 
 ## D: Professional Skills
-(Intro)
 
 ### Gear Up
 #### (Tragedy of the Commons)
