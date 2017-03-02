@@ -14,7 +14,8 @@
 ** Tests! 
 ** Continue to do active record 
 ** Mid-mod
-
+## Blog Post
+[The Importance of Allyship in Tech](https://gist.github.com/cmacaulay/853e9c91a54d04db67726bea230a2b4c)
 ## Rubric Scores
 
 Fill in how you would grade yourself from 1-4 in the following categories this module:
