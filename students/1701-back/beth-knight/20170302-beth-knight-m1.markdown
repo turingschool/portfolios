@@ -6,7 +6,6 @@ Repeating this mod, I wanted to focus on TDD. I think I really learned a lot and
 
 ## Self-Assessment Scores
 
-Fill in how you would grade yourself from 1-4 in the following categories this module.
 
 | Section | Category | Score |
 | --- | --- | --- |
@@ -37,7 +36,6 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Test-Driven Development** | 3 | 3 | 2 |
 | **Encapsulation/Breaking Logic into Components** | 3 | 3 | 2 |
 | **Fundamental Ruby & Style** | 3 | 3 | 3|
-| **Loop or Recursion** | X | 3 | 3 |
 
 ## C: Group Projects
 
@@ -93,7 +91,8 @@ Awesome all around!
 
 ### Job Prep
 
-*   LinkedIn profile with a summary, descriptions under experience, and Turing under education: [Link](https://www.linkedin.com/in/beth-knight-aa02abb/)
+*   LinkedIn profile with a summary, descriptions under experience, and Turing
+under education: [Link](https://www.linkedin.com/in/beth-knight-aa02abb/)
 
 ## E: Community
 
