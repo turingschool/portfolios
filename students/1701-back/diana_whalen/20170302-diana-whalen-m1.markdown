@@ -85,60 +85,44 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 #### Session 1 - [Growth Mindset](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown#turing-citizenship-1-growth-mindset)
 * How do you think past experiences or experiences this week have encouraged growth or fixed mindsets?
-  Current experiences have confirmed past ones. I feel as though this has encouraged both fixed and growth mindset for me. Fixed, in that people generally respond as expected... with judgment, in response to share any personal information.
-  Growth mindset in that I still attempt to get to know them, in spite of this.
 
 * What are your triggers, what's likely to move you to fixed mindset?
-  People that refuse to acknowledge their privilege, who become critical and condescending when challenged on their bias, who have absolute confidence that their opinions or perceptions of the world are the norm, and that anyone that doesn't abide or conform to that model is somehow deficient. I try a couple more times to connect, but if not successful after that, all contact will be strictly mechanical and as-needed in nature.
 
 * What can your peers do to support you staying in the growth mindset?
-  I think my peers can support me by listening to a perspective and personal experience that may be vastly different than their own... By engaging in conversations outside the scope of their areas of comfort. I have great respect for those that don't let their experiences get in the way of getting to know others, and also that do not require others to maintain a particular demeanor for their comfort. Accepting others as they are, and digging deeper than the surface.
 
 
 #### Session 2 - [Getting Better at Difficult Things](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
 * What efforts do you make to manage your learning process? What challenges have you faced with this?
-  I am proactive about letting others know what I am good at, not so good at, what I'd like to learn and improve on, and what I would like to learn from them in particular. I will ask for help quickly, but will recoil if not well received. I also put in a lot of energy into filling in the gaps for myself, as my progress and learning tends to be asymmetrical.
 
 * How do Sierra's and Coate's material relate to your current process for learning?
-  I don't ever quit, no matter how often I am put down, discouraged, ridiculed  or ostracized. If I cannot learn with the help of others, I will learn in spite of them. I have persistence and stamina in spades, and I develop mastery by outlasting others.
 
 * What role does your emotional state of mind play in your learning? How do your successes and failures at learning affect your emotional state?
-  Sadly, my emotional state has far more bearing on my learning than I'd like. In life, and execution in the real world, I am oblivious and unaffected by my emotional state, or anyone with the potential to affect it. Being a workaholic, I escape in work, I am a machine. When it comes to learning however, this can be very precarious for me. People who are hypercritical, snarky, abrupt, patronizing, or generally cold instantly turn off my ability to open up and ask questions. Once I don't feel comfortable being vulnerable with someone, the part of me needed for learning just shuts down.
 
 
 #### Session 3 - [Managing Stress & Coping Mechanisms](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md)
 * In the past, what has gone well for you when dealing with stressful situations?
-  Solitude.
 
 * In the past, what has not gone so well when dealing with stressful situations?
-  Solitude.
+
 
 #### Session 4 - [Personal Stories & Connection](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_personal_story.markdown)
 * What brought you here?
-  Turing seemed different than other learning institutions.
 
 * What lenses or identities do you view the world through most often?
-  Disrupter.
 
 * What are the values that drive you?
-  Justice, Integrity, Consistency.
 
 * How do you think you demonstrate those values to people around you?
-  By being fair, honest, and consistent.
 
 * Could other people identify your values from your actions/words/presence? Why or why not?
-  Only the people close to me or have gotten to know me.
 
 
 #### Session 5 - [Code: Debugging the Gender Gap & Microaggressions in Tech](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
 * How are your experiences here at Turing similar or different than those shared in the documentary?
-  Similar.
 
 * What role do you play in creating a more inclusive environment in your cohort and the larger community at Turing?
-  Challenging the perceptions of others to consider their blindspots. Advocating for those that frequently have no voice or are silenced.
 
 * Brainstorm a specific situation(s) you’ve either witnessed or heard of happening at Turing that might be similar to the stories shared in the movie. What could’ve someone witnessing the instance done differently to positively impact the outcome of situation?
-  There have been several. They could have acknowledged it was happening, and not chosen to ignore it.
 
 
 ### Community Participation
