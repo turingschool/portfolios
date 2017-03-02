@@ -6,11 +6,13 @@ Do things.
 
 ## Self-Assessment Scores
 
-| Category | Result (pass, fail, pending) |
-| ----- | --- |
-| Pairing Assessment | pass |
-| Independent Timed Assessment | pass |
-| Diagnostic | pass |
+| Section | Category | Score |
+| --- | --- | --- |
+| A | **End-of-Module Assessment** | 3 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | 3 |
+| E | **Community** | 3 |
 
 ------------------------------------------------
 
