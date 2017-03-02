@@ -35,15 +35,15 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## B: Individual Projects
 
-| CATEGORY | PROJECT 1 (credit_check) | PROJECT 2 (flashcards) | CHALLENGE (wizarding_bank)
-| --- | --- | --- |
+| CATEGORY | PROJECT 1 (credit_check) | PROJECT 2 (flashcards) | CHALLENGE (wizarding_bank) |
+| --- | --- | --- | --- |
 | **Project Spec** | [spec](http://backend.turing.io/module1/projects/credit_check) | [spec](http://backend.turing.io/module1/projects/flashcards) | [spec](https://github.com/turingschool/challenges/blob/620f4a12ab4e3c1a3f258bb4347e0c2c569a934d/wizarding_bank.markdown) |
 | **Github** | [repo](https://github.com/dianawhalen/credit_check) | [repo](https://github.com/dianawhalen/flashcards) | [repo](https://github.com/dianawhalen/wizarding_bank) |
-| **Functional Expectations** | X | X |
-| **Test-Driven Development** | X | X |
-| **Encapsulation/Breaking Logic into Components** | X | X |
-| **Fundamental Ruby & Style** | X | X |
-| **Loop or Recursion** | X | X |
+| **Functional Expectations** | X | X | X |
+| **Test-Driven Development** | X | X | X |
+| **Encapsulation/Breaking Logic into Components** | X | X | X |
+| **Fundamental Ruby & Style** | X | X | X |
+| **Loop or Recursion** | X | X | X |
 
 
 ## C: Group Projects
