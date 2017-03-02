@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-Develop a strong Javascript foundation and improve CSS skills. 
+Develop a strong Javascript foundation and improve CSS skills.
 
 
 ## Rubric Scores
@@ -99,7 +99,7 @@ Collection of assignments and challenges over the course of the mod.
 *   [Project Github](https://github.com/DBULL7/number-guesser)
 *   [Original Assignment](https://github.com/turingschool/front-end-curriculum/blob/gh-pages/projects/number-guesser.md)
 
-Number Guesser was our first Javascript project. We took basic input and checked if it was within a range. Based on how close they were to the randomly generated number, the game would give the user feedback in the form of messages, color changes, etc. 
+Number Guesser was our first Javascript project. We took basic input and checked if it was within a range. Based on how close they were to the randomly generated number, the game would give the user feedback in the form of messages, color changes, etc.
 
 ######Assessment Feedback and Scores
 Address alignment issues at the larger screen sizes
@@ -130,8 +130,8 @@ Fundamental JavaScript
 *   [Original Assignment](https://github.com/turingschool/front-end-curriculum/blob/gh-pages/projects/m1-static-comp-1.md)
 
 We were asked to make a simple project to improve our CSS skills. Our project was shown and evaluated in front of the class.
- 
-Feedback: Incomplete. 
+
+Feedback: Incomplete.
 
 
 #### Static Comp 2
@@ -139,8 +139,8 @@ Feedback: Incomplete.
 *   [Project Github](https://github.com/DBULL7/static-comp-2)
 *   [Original Assignment](https://github.com/turingschool/front-end-curriculum/blob/gh-pages/projects/m1-static-comp-2.md)
 
-More complicated CSS project to learn/test Flexbox if we so chose. 
- 
+More complicated CSS project to learn/test Flexbox if we so chose.
+
 
 Evaluation Comments: Make the height equal to the page on large screen sizes. Add polish.
 
@@ -157,7 +157,7 @@ Final CSS project. Builds upon the previous static comps. We were scored on this
 
 ### Projects
 
-Paired projects 
+Paired projects
 
 #### Linked List
 
@@ -189,7 +189,7 @@ CSS Style
 *   [GitHub URL](https://github.com/DBULL7/ideabox)
 *   [Original Assignment](https://github.com/turingschool/front-end-curriculum/blob/gh-pages/projects/ideabox.md)
 
-Ideabox involves taking user input to generate html cards to the DOM. The main idea behind the project was to learn about storing and retrieving data using local storage and making that data persist. 
+Ideabox involves taking user input to generate html cards to the DOM. The main idea behind the project was to learn about storing and retrieving data using local storage and making that data persist.
 
 Assessment:
 
@@ -259,7 +259,7 @@ This Gear Up really helped accelerate my learning of a few key things. Using the
 *   DTR Memo: https://docs.google.com/document/d/164wMuZ8hnYqhfthYnN7mqwkWGyhO5AIIXS6QrxbrDNQ/edit
 
 ### Professional Development Workshops
-#### Professional Branding 
+#### Professional Branding
 
 Set up [Github](https://github.com/DBULL7), [LinkedIn](https://www.linkedin.com/in/bulldevon/), and [Stackoverflow](http://stackoverflow.com/users/6866140/devon-bull) per  Jeff's instructions.
 
@@ -287,7 +287,7 @@ Get some sleep dude. You're a super hard worker and that's amazing, but it doesn
 
 ### Playing a Part
 
-Held a Spike session on [Selenium testing](https://github.com/DBULL7/selenium-spike) 
+Held a Spike session on [Selenium testing](https://github.com/DBULL7/selenium-spike)
 
 ------------------
 
@@ -299,4 +299,4 @@ Held a Spike session on [Selenium testing](https://github.com/DBULL7/selenium-sp
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PENDING - waiting revised Static Comp due no later than Tuesday 9 am
