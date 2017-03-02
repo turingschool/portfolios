@@ -9,8 +9,8 @@ For this module, my goal was to establish a strong foundational knowledge in Jav
 Fill in how you would grade yourself from 1-4 in the following categories this module:
 
 * **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 2.75
-* **C: Group Work & Projects**: 2.75
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
 
