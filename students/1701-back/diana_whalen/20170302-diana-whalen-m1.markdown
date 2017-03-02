@@ -48,7 +48,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## C: Group Projects
 
-| CATEGORY | PROJECT 1 (night_writer)| PROJECT 2 (black_thursday) |
+| CATEGORY | Night Writer | Black Thursday |
 | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
 | **Github** | [link](https://github.com/dianawhalen/night_writer) | [link](https://github.com/dianawhalen/black_thursday) |
