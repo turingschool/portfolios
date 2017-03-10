@@ -52,10 +52,10 @@ The group projects I worked on during Module 1 include: Number Guesser, Linked L
 
 #### Number Guesser
 
-* [https://github.com/ImperialPint/number-guesser](GitHub URL)
-* [https://imperialpint.github.io/number-guesser/](GH-Pages)
-* [http://frontend.turing.io/projects/number-guesser.html](Original Assignment)
-* [https://docs.google.com/document/d/1vN6D03pUAZe7IQpbOAAIS1-bxrF1UdCxMe_JAjoD6Lw/edit?usp=sharing](DTR)
+* (GitHub URL)[https://github.com/ImperialPint/number-guesser]
+* (GH-Pages)[https://imperialpint.github.io/number-guesser/]
+* (Original Assignment)[http://frontend.turing.io/projects/number-guesser.html]
+* (DTR)[https://docs.google.com/document/d/1vN6D03pUAZe7IQpbOAAIS1-bxrF1UdCxMe_JAjoD6Lw/edit?usp=sharing]
 
 Description:
 
@@ -76,10 +76,10 @@ Working with Señor Crist was a great introduction to peer-pairing, and completi
 
 #### Linked List
 
-* [https://github.com/mziccardi/linkedList](GitHub URL)
-* [https://mziccardi.github.io/linkedList/](GH-Pages)
-* [http://frontend.turing.io/projects/linked-list.html](Original Assignment)
-* [https://docs.google.com/document/d/1RAoVmXbmUdNpPeoeYBsr2lpsCVYx5AhV0tGWpoxZhxU/edit?usp=sharing](DTR)
+* (GitHub URL)[https://github.com/mziccardi/linkedList]
+* (GH-Pages)[https://mziccardi.github.io/linkedList/]
+* (Original Assignment)[http://frontend.turing.io/projects/linked-list.html]
+* (DTR)[https://docs.google.com/document/d/1RAoVmXbmUdNpPeoeYBsr2lpsCVYx5AhV0tGWpoxZhxU/edit?usp=sharing]
 
 Description:
 
@@ -110,10 +110,10 @@ Working with Andrew on the Linked-List project was a very good experience. The f
 
 #### IdeaBox
 
-* [https://github.com/rcwestlake/ideabox](GitHub URL)
-* [https://rcwestlake.github.io/ideabox/](GH-Pages)
-* [http://frontend.turing.io/projects/ideabox.html](Original Assignment)
-* [https://docs.google.com/document/d/1JGaJdmsR-fYMwvI61vQjEKbboaNqcIZBNAuP505G3kE/edit?usp=sharing](DTR)
+* (GitHub URL)[https://github.com/rcwestlake/ideabox]
+* (GH-Pages)[https://rcwestlake.github.io/ideabox/]
+* (Original Assignment)[http://frontend.turing.io/projects/ideabox.html]
+* (DTR)[https://docs.google.com/document/d/1JGaJdmsR-fYMwvI61vQjEKbboaNqcIZBNAuP505G3kE/edit?usp=sharing]
 
 Description: IdeaBox utilized everything we had learned and executed on previous projects with the addition of using JSON and saving to local storage. Users should have been able to create a title/body, submit them so they render on the page, be able to change the value of each idea and be able to refresh the page with all ideas being re-rendered to the page.
 
@@ -141,11 +141,10 @@ What can I say? Andrew is da’ bomb. Ideabox was definitely the hardest project
 
 #### Game Time
 
-* [https://github.com/hilarylewis92/gametime](GitHub URL)
-* [https://hilarylewis92.github.io/gametime/](GH-Pages)
-* [http://frontend.turing.io/projects/game-time.html](Original Assignment)
-* [https://docs.google.com/document/d/1ZnljNUT3HLjgrkOS6LKL9d-_yla5I8yRV66uILGnEss/edit?usp=sharing](DTR)
-
+* (GitHub URL)[https://github.com/hilarylewis92/gametime]
+* (GH-Pages)[https://hilarylewis92.github.io/gametime/]
+* (Original Assignment)[http://frontend.turing.io/projects/game-time.html]
+* (DTR)[https://docs.google.com/document/d/1ZnljNUT3HLjgrkOS6LKL9d-_yla5I8yRV66uILGnEss/edit?usp=sharing]
 Description: This project is a culmination of all the skills we have learned during Module 1 and also introduced us to Test Driven Development and user a starter kit for a project. For this project, we decided to make the classic arcade game Breakout.
 
 Scores and Comments:
