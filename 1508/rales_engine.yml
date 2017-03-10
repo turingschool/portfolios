@@ -1,0 +1,213 @@
+submissions:
+  Aaron Careaga:
+    repo: github.com/acareaga/rails-engine
+    instructor: Andrew
+    notes: Reached for ruby within a handful of quieries. No model level tests, but controller tests had moderate to good robustness. Some stretegy changes were suggested within testing. Some refactoring of queries would have been good.
+    completion: 3
+    test-driven-development: 3.5
+    code-quality: 3
+    api-design: 3
+    queries: 3
+  Adam Jensen:
+    repo: https://github.com/adamki/rales-engine-2
+    instructor: Tess
+    completion: 3.5
+    test-driven-development: 4
+    code-quality: 3
+    api-design: 3.5
+    queries: 4
+  Amber Crawford:
+    repo: github.com/amcrawford/rails_engine
+    instructor: Andrew
+    notes: Good project. Queries fall to ruby sometimes but does use advanced active record too. TDD was good at the controller level but not at model level. Only two model level.
+    completion: 3
+    test-driven-development: 4
+    code-quality: 4
+    api-design: 3
+    queries: 3.5
+  Edgar Duran:
+    repo: github.com/eduran/rails_engine
+    instructor: Andrew
+    notes: Code quality could be focused on more. The controllers had some issues. Testing was good overall but could have used some model tests. 
+    completion: 3
+    test-driven-development: 3.5
+    code-quality: 2.5
+    api-design: 3
+    queries: 3.5
+  Emily Dowdle:
+    repo: github.com/emilydowdle/rails-engine
+    instructor: Andrew
+    notes: Great quieries but did reach for some ruby. Good code quality. Overall a good project. The tests were really good. To be perfect there would be more tests for find and findall etc, but there were good unit and controller tests.
+    completion: 3
+    test-driven-development: 4
+    code-quality: 4
+    api-design: 3
+    queries: 3.5
+  Jason Pilz:
+    repo:
+    instructor: Josh M.
+    notes: Solid project. Some queries there was a little confusion about but the queries themselves were solid. Hashes used to format instead of serializers.
+    completion: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+    test-driven-development: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    api-design: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+    queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
+  Jerrod Paul Junker:
+    repo:
+    instructor: Josh M.
+    notes: No show without communication.
+    completion:
+    test-driven-development:
+    code-quality:
+    api-design:
+    queries:
+  Jhun de Andres:
+    repo: github.com/joshuajhun/rails_engine
+    instructor: Andrew
+    notes: Most important thing to work on moving forward is refactoring. Code uality was ok, but could have reworked some queries. Only one piece of logic in controller, but it was the last thing being worked. No model level tests and some gaps controller test robustness.
+    completion: 3
+    test-driven-development: 3
+    code-quality: 3
+    api-design: 3
+    queries: 3
+  Jill Donohue:
+    repo: https://github.com/jillmd501/rails_engine
+    instructor: Tess
+    notes: Good use of active record. Would be useful to use serializers
+    completion: 3
+    test-driven-development: 3
+    code-quality: 3
+    api-design: 3
+    queries: 4
+  John Slota:
+    repo: https://github.com/slotaj/rails-engine
+    instructor: Tess
+    notes: Sort of hacky when didn't use serializers
+    completion: 3
+    test-driven-development: 4
+    code-quality: 3
+    api-design: 3
+    queries: 3
+  Justin Pease:
+    repo: https://github.com/jpease1020/Rails-Engine
+    completion: 4
+    test-driven-development: 4
+    code-quality: 3
+    api-design: 3
+    queries: 4
+
+  Marlo Major:
+    repo:
+    instructor: Josh M.
+    notes: 5 failures. 69% Test coverage.
+    completion: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+    test-driven-development: 2: Project demonstrates high test coverage (>70%) but does not adequately balance controller and unit tests.
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    api-design: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+    queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes
+  Matt Rooney:
+    repo: github.com/mattrooney/rails_engine
+    instructor: Andrew
+    notes: Solid project. Good robust controller tests, but no model tests. Could have done some more for testing. Quieries were good and had mostly activerecord, but did reach for ruby. At times I think the ruby was unessesary and could have been accomplished fairly easily with AR.
+    completion: 3
+    test-driven-development: 3.5
+    code-quality: 3
+    api-design: 3
+    queries: 3.5
+  Matt Stjernholm:
+    repo: https://github.com/matt-stj/rales_engine
+    instructor: Tess
+    notes:
+    completion: 3
+    test-driven-development: 4
+    code-quality: 3
+    api-design: 3.5
+    queries: 3
+  Michael Wong:
+    repo: https://github.com/Kealii/rails_engine_2
+    instructor: Tess
+    notes:
+    completion: 4
+    test-driven-development: 4
+    code-quality: 3
+    api-design: 3.5
+    queries: 3
+  Nicole Hall:
+    repo:
+    instructor: Josh M.
+    notes: The toughest business logic wasn't complete so some of the other categories were lacking.
+    completion: 2: Project completes most requirements but fails 10 to 6 spec harness tests.
+    test-driven-development: 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    api-design: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+    queries: : 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
+  Pat Wey:
+    repo: https://github.com/patwey/rails_engine
+    instructor: Tess
+    notes: Loved the restful API design, would benefit from serializers
+    completion: 3
+    test-driven-development: 4
+    code-quality: 3
+    api-design: 3
+    queries: 3
+  Robbie Lane:
+    repo:
+    instructor: Josh M.
+    notes:
+    completion: 4: Project completes all base requirements according to the spec harness.
+    test-driven-development: 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.
+    code-quality: 4: Project demonstrates exceptionally well factored code.
+    api-design: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+    queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
+  Ross Edfort:
+    repo: github.com/rossedfort/rails_engine
+    instructor: Andrew
+    notes: Great project. Some ruby for queries. 100% completion. Did not use serializers so api design was a 3. Tests were good but could have done more at the model level.
+    completion: 4
+    test-driven-development: 4
+    code-quality: 3.5
+    api-design: 3
+    queries: 3.5
+  Ryan Johnson:
+    repo: https://github.com/rjohnson4444/rails-engine
+    instructor: Josh M.
+    notes: 5 failures. A lot of tests (98%) but some don't test functionality. MVC is really solid. Super clean Controllers and Models. Using hashes in the model to format for the JSON response; should use serializers.
+    completion: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+    test-driven-development: 3+: Project completes most requirements but fails 5 or fewer spec harness tests.
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    api-design: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+    queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
+  Sekhar Paladugu:
+    repo: github.com/sekharp/rails-engine
+    instructor: Andrew
+    notes: Exceptional queries. Not so great test suite. Could have had a lot more controller tests. There where a handful of merchant model tests which I liked to see. Code quality was also good.
+    completion: 3
+    test-driven-development: 3
+    code-quality: 4
+    api-design: 3
+    queries: 4
+  Shannon Paige:
+    repo:
+    instructor: Josh M.
+    notes: Solid code quality. Definitely understands the code that is in the project. Testing was thrown together at the end and most weren't testing the business value.
+    completion: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+    test-driven-development: 2: Project demonstrates high test coverage (>70%) but does not adequately balance controller and unit tests.
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    api-design: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+    queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
+  Torie Warren:
+    repo:
+    instructor: Josh M.
+    notes: Really solid project. Great testing. Some queries could have been better, however there's a clear trajectory of improvment. Several queries were really clean and showed an understanding of advanced AR concepts.
+    completion: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+    test-driven-development: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    api-design: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+    queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
+  Tyler Komoroske:
+    repo: https://github.com/tjkomor/rails_engine
+    completion: 3
+    test-driven-development: 3.5
+    code-quality: 3
+    api-design: 3
+    queries: 3

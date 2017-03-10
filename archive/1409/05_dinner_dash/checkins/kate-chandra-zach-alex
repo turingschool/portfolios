@@ -1,0 +1,10 @@
+Checkin with: Horace
+Zach, Kate, Chandra, Alex
+
+Done:
+  - basic frontend infrastructure coming together
+  - db schema still quite minimal; need to model more of domain
+  - code looking clean so far but not too much done
+
+todo:
+  - don't use ApplicaitonController for rendering actual endpoints - migrate root to use index of another controller

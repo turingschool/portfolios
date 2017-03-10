@@ -1,0 +1,67 @@
+Checkin with: Josh Cheek
+Adam, Chandra, Viki
+
+no db
+do have admin
+do have auth
+
+high priority
+  database
+    play with Sequel until you can connect to your prod db
+      ```
+      $ heroku run bash
+      $ echo $DATABASE_URL
+      ```
+    connect your app to your prod db
+    create your schema in your prod db
+    stick the location data into your prod db
+    go help everyone doing the other shit
+  data presented to users is dynamic
+    edit the .erb file to generate the view from some type of data
+    (I would start with an array of hashes)
+  ability to edit the data
+    a form to fill in
+      make an endpoint: GET /admin/locations
+      it renders a form with appropriate fields for a location
+      ocne the db is in place, fill in the form data with the locations from the db
+    submitting the form does shit
+      another endpoint: POST /admin/locations
+      once db is in place, it saves the form data into the db
+
+
+low priority
+  Contact us
+  make a local db
+
+----
+
+class YamlDb
+  def load
+    YamlStore.load[:data][:form]
+  end
+end
+
+class PostgresDb
+  def load
+    DatabaseStore.execute('select * from thing where value = whatever').to_a
+  end
+end
+
+get '/' do
+  @locations = [
+    {name: 'Denver, CO',
+    hours1: 'Mon - Fri 7 am - 6 pm ',
+    ...
+    Sat - Sun 8 am - 6 pm
+
+    LoDo
+    1617 Wazee St
+    Denver, CO 80202
+    303-534-7900}
+  ]
+end
+
+
+
+
+

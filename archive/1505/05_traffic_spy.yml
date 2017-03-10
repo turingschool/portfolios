@@ -1,0 +1,49 @@
+submissions:
+  Marla, Lovisa, Mike:
+    repository: https://github.com/applegrain/traffic-spy
+    setup_notes:
+    instructor_evaluation: Rachel
+      notes:
+      rubric:
+        Functional Expectations: 3.5
+        Test-Driven Development: 4
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 4
+        Sinatra / Web and Business Logic: 4
+        View Layer: 3.5
+  Mitch, David, Jason:
+    repository: https://github.com/mitchashby16/traffic_spy
+    setup_notes:
+    instructor_evaluation: Rachel
+      notes: 
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 3
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 2.5
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
+  Adam, Alex, Michael, Samson:
+    repository:
+    setup_notes:
+    instructor_evaluation: Josh M.
+      notes: Really solid project. Naturally using presenter pattern.
+      rubric:
+        Functional Expectations: 4
+        Test-Driven Development: 3.5
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 4
+        Sinatra / Web and Business Logic: 4
+        View Layer: 3
+  Sebastian, Drew, Max, Jai:
+    repository:
+    setup_notes:
+    instructor_evaluation:
+      notes:
+      rubric:
+        Functional Expectations: 3.5
+        Test-Driven Development: 4
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3.5

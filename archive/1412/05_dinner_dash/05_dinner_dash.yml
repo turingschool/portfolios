@@ -1,0 +1,28 @@
+Kyra, Markus, & Mac: 
+  Feature Completeness: "3 - All features defined in the assignment are correctly implemented"
+  Views: "3.5"
+  Controllers: "4: Controllers show significant effort to push logic down the stack"
+  Models: "4: Models show excellent organization, refactoring, and appropriate use of Rails features"
+  Testing: "4: Project has a running test suite that exercises the application at multiple levels"
+  Usability: "3.5"
+  Workflow: "4: Excellent use of branches, pull requests, and a project management tool."
+
+Dustin, Stanley, Trey:
+  Feature Completeness: "1: There are bugs/crashes in the features present"
+  Views: "3: Views make use of layout(s), partials and helpers, but some logic leaks through"
+  Controllers: "2.5"
+  Models: "3: Models show an effort to push logic down the stack, but need more internal refactoring"
+  Testing: "3: Project has a running test suite that tests and multiple levels but fails to cover some features"
+  Usability: "2: Project needs significantly more attention to the User Experience, but works"
+  Workflow: "4: Excellent use of branches, pull requests, and a project management tool."
+
+DJ, Tino, Fred:
+  Feature Completeness: "2: There are one or two features missing or incorrectly implemented"
+  Views: "3: Views make use of layout(s), partials and helpers, but some logic leaks through"
+  Controllers: "3: Controllers are generally well organized with three or fewer particularly ugly parts"
+  Models: "3: Models show an effort to push logic down the stack, but need more internal refactoring"
+  Testing: "2.8"
+  Usability: "3: Project is highly usable, but needs more polish before it’d be customer-ready"
+  Workflow: "4: Excellent use of branches, pull requests, and a project management tool."
+
+

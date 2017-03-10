@@ -1,0 +1,74 @@
+submissions: 
+  group1:
+    app_name: "footprints"
+    members:
+    repo_url:
+    production_url:
+    collaborators:
+    technical_evaluation:
+      APIs:
+      interface:
+      background_workers:
+      test_driven_development:
+      process:
+    client_satisfaction:
+      deployment:
+      features:
+      interface:
+      concept:
+    notes:
+  group2:
+    app_name: "snowcial"
+    members:
+    repo_url:
+    production_url:
+    collaborators:
+    technical_evaluation:
+      APIs:
+      interface:
+      background_workers:
+      test_driven_development:
+      process:
+    client_satisfaction:
+      deployment:
+      features:
+      interface:
+      concept:
+    notes:
+  group3:
+    app_name: "successive life"
+    members: Tan Doan, Bobbie Gu, ERic Fransen, Gus
+    repo_url: https://github.com/ericfransen/successive_life
+    production_url: https://104.236.2.42
+    collaborators:
+    technical_evaluation:
+      APIs:
+      interface:
+      background_workers:
+      test_driven_development:
+      process:
+    client_satisfaction:
+      deployment:
+      features:
+      interface:
+      concept:
+    notes:
+  group4:
+    app_name: "tunefish"
+    members:
+    repo_url:
+    production_url:
+    collaborators:
+    technical_evaluation:
+      APIs:
+      interface:
+      background_workers:
+      test_driven_development:
+      process:
+    client_satisfaction:
+      deployment:
+      features:
+      interface:
+      concept:
+    notes:
+

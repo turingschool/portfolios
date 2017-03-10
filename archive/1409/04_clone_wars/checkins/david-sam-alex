@@ -1,0 +1,23 @@
+Checkin with: Josh Cheek
+David Sam Alex
+
+fix asssets by prepending a "/"
+
+Advice: merge multiple times a day
+
+users:
+  people visiting the site
+  admin wanting to update the price
+
+To have value to the admin:
+  Populate data on the view (/shop) from the database
+  admin page
+    form to edit the data (means an endpoint to render the form)
+    submits, leading to db updates (means an endpoint to take the data and toss it into the db)
+  auth of some sort
+  put auth on admin page
+  figure out how to connect the app to the Heroku db
+    ```
+    $ heroku run bash
+    $ echo $DATABASE_URL
+    ```

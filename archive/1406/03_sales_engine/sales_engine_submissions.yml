@@ -1,0 +1,303 @@
+# NOTE: You can verify that you haven't broken the format with
+# $ ruby -rpp -ryaml -e 'pp YAML.load File.read("1406/03_sales_engine/sales_engine_submissions.yml")
+submissions:
+  Jonmichael Chambers & Eric Fransen:
+    repository: https://github.com/tyrbo/sales_engine
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "Good grasp of ruby style and methods; would like to have seen higher-level integration test.
+              Spec harness produced one error when Rachel ran tests but no errors on Jon's machine."
+      rubric:
+        Functional Expectations: 4
+        Test-Driven Development: 3
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 3.5
+        Enumerable & Collections: 4
+        Code Sanitation: 4
+    peer_evaluation:
+      notes: "extension invoice spec test passes 1 of 2, but AWESOME!(so neat and clean) "
+      rubric:
+        Functional Expectations: 3.5
+        Test-Driven Development: 4
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 4
+        Enumerable & Collections: 4
+        Code Sanitation: 4
+  Allison Larson & Horacio Chavez:
+    repository: https://github.com/H6C5/sales_engine
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 2
+        Test-Driven Development: 2.5
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 2.5
+        Enumerable & Collections: 3
+        Code Sanitation: 4
+    peer_evaluation:
+      notes: "Spec harness incomplete, and some test failing for TDD. Great job using enumerables for the right situation."
+      rubric:
+        Functional Expectations: 2
+        Test-Driven Development: 2.5
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 4
+        Code Sanitation: 4
+  Corey Davis & Marc Garreau:
+    repository: git@github.com:MarcGarreau/sales_engine.git
+    setup_notes: "Completed 3/4 customer extensions"
+    instructor_evaluation:
+      instructor: Josh Cheek
+      notes: >
+        Collection Requirements
+          all returns all instances        Yes
+          random returns a random instance Yes
+          find_by_X(match)                 Yes, but not case insensitive
+          find_all_by_X(match)             Yes, but not case insensitive
+        Code
+          Generally readable and clean
+          Models
+            Have ref to repository rather than SalesEngine
+            So have to go through one more object to get to the thing they want
+            Good job normalizing data on initialization rather than every time you use it
+          Invoice
+            has line that isn't indented correctly
+            method that doesn't make sense / isn't run (customers)
+          Merchant
+            Clean implementations for business logic
+            like the abstractions that hide the details under a useful name
+          Enumerbales
+            Does sort.first instead of max_by
+          SalesEngine doesn't pass the dir to the repositories
+            Rather the path is coincidentally the same
+            There is the ability to override the file on an individual level
+            But not to override all repositories based on a csv dir
+      rubric:
+        Functional Expectations:    3 to 4
+        Test-Driven Development:    4
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style:   4
+        Enumerable & Collections:   4-
+        Code Sanitation:            4
+    peer_evaluation:
+      notes: "Code was very clean, missing all tests on Business Intelligence. Minitest also taking a very long time to load, from using full CSV. Not much actual refactoring needed. "
+      rubric:
+        Functional Expectations: 4
+        Test-Driven Development: 2
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 4
+        Enumerable & Collections: 4
+        Code Sanitation: 4
+  Robert Gu & Jessica Goulding:
+    repository: https://github.com/JessicaG/sales_engine
+    setup_notes: "did customer extension for most revenue and most items, did not complete invoices."
+    instructor_evaluation:
+      notes: "Good execution of implementation and tests, missing adding invoices, shows growing comfort with Ruby + processes."
+      rubric:
+        Functional Expectations: 2
+        Test-Driven Development: 3
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 3
+        Code Sanitation: 4
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
+  Chad Brading & Gustavo Villagrana & Hilary Denton:
+    repository: git@github.com:Hilaryous/sales_engine.git
+    setup_notes: ""
+    instructor_evaluation:
+      instructor: Josh Cheek
+      notes: >
+        Collection Requirements
+          all returns all instances         No
+          random returns a random instance  Yes
+          find_by_X(match)                  Yes, but not case insensitive
+          find_all_by_X(match)              Yes, but not case insensitive
+        Code
+          BigDecimals get mathed against floats
+          SalesEngine ignores path to #initialize, takes real path in #startup
+          Customer only talks to customer repository
+            Which only talks to SalesEngine
+            Which talks to the repos it created
+            Nice!
+            Could take it a bit futher:
+              35   module Finder
+              36     def find_by(value, attribute)
+              37       objects.find_all { |o| o.send(attribute) == value }
+              38     end
+              39   end
+              Which could be called from SalesEngine
+            Initializing things like Merchant with stored_revenue
+              But when the graph changes, this data becomes incorrect
+              And is never updated
+          Interface to path is wrong, some indentation issues (MerchantRepository#find_customers_with_pending_invoices, and the other long one)
+        Relationships
+          Exist and avoid a LOD violation that I probably would have hit
+        Separate parsing / data loading logic from business logic
+          Good effort!
+          Pull loader up out of repository and into whomever initializes repository (SalesEngine, a test, etc)
+        Did the Invoice Creating
+          Generally very good solution,
+          but gets bit by caching of some calculations, e.g. Merchant#stored_revenue
+        Test suites:
+          All pass, yours is fast!
+      rubric:
+        Functional Expectations:    3
+        Test-Driven Development:    3.5
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style:   3
+        Enumerable & Collections:   4
+        Code Sanitation:            3.5
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 3
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 2.5
+        Enumerable & Collections: 3
+        Code Sanitation: 4
+  Alan Smith & Watts Watkins:
+    repository: https://github.com/121watts/sales_engine.git
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "Well built and designed code, just needs the rest of the features"
+      rubric:
+        Functional Expectations: 2
+        Test-Driven Development: 4
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 3
+        Code Sanitation: 3
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
+  Emily Davis & Cara Dennis:
+    repository: git@github.com:emilyadavis303/sales_engine_davis_dennis.git
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "Missing some features, but did a good job executing tests and implementation."
+      rubric:
+        Functional Expectations: 2
+        Test-Driven Development: 3
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 3
+        Code Sanitation: 4
+    peer_evaluation:
+      notes: "Some business logic was missing.
+              Significant number of law of demeter violations.
+              Room for some refactoring. Some unnecessary variables."
+      rubric:
+        Functional Expectations: 2
+        Test-Driven Development: 3
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 2.5
+        Enumerable & Collections: 3
+        Code Sanitation: 4
+  Tim Proctor & Tan Doan:
+    repository: https://github.com/tdoan87/sales_engine.git
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "Well-written tests; need fixtures to avoid ridiculously long
+              time for testing. "
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 3
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 3.5
+        Enumerable & Collections: 3
+        Code Sanitation: 4
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
+  Will Faurot & Andy Mention:
+    repository: https://github.com/wfro/sales_engine
+    setup_notes: "We did a few extensions. Details are in README"
+    instructor_evaluation:
+      instructor: Josh Cheek
+      notes: >
+        Collection Requirements
+          all returns all instances         Yes
+          random returns a random instance  Yes
+          find_by_X(match)                  Yes, and are case insensitive
+          find_all_by_X(match)              Yes, and are case insensitive
+        Code
+          Finders work on custom collection name (e.g. `invoices` rather than `all)
+          Many duplicated finders could reduce potential for errors, complexity, duplication with something like
+            | class Repository
+            |   attr_accessor :all
+            |
+            |   def random
+            |     all.sample
+            |   end
+            |
+            |   def find_by_id(match)
+            |     all.detect { |t| t.id == match }
+            |   end
+            |
+            |   def find_by(target_value, attribute, &normalizer)
+            |     normalizer  ||= lambda { |value| value }
+            |     target_value = normalizer.call target_value
+            |     all.detect do |obj|
+            |       actual_value = obj.__send__(attribute)
+            |       normalizer.call(actual_value) == target_value
+            |     end
+            |   end
+            | end
+            |
+            | class TransactionRepository < Repository
+            |   def initialize(...)
+            |     @all = ...
+            |   end
+            |
+            |   def find_by_credit_card_number(match)
+            |     find_by match, 'credit_card_number', &:downcase
+            |   end
+            | end
+        Learning & Practice Goals
+          Separate parsing / data loading logic from business logic:
+            `SomethingRepository#initialize` calls `#from_csv`, so can't use repository without having CSVs
+            Suggestion: pull from_csv up into initialize and then up into SalesEngine
+            Anyone who wants to use
+        Extensions
+          2/3 of 2 :P
+        Test Suite
+          Really fast!
+          BUT low test coverage :(
+      rubric:
+        Functional Expectations:    3 to 4
+        Test-Driven Development:    2
+        Encapsulation / Components: 2
+        Fundamental Ruby & Style:   3 to 4
+        Enumerable & Collections:   4
+        Code Sanitation:            4
+    peer_evaluation:
+      notes: "Great understanding of enumerables, TDD and breaking things into smaller pieces.  Breaks LOD."
+      rubric:
+        Functional Expectations: 3.5
+        Test-Driven Development: 4
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3.5
+        Enumerable & Collections: 4
+        Code Sanitation: 4

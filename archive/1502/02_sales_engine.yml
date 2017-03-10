@@ -1,0 +1,87 @@
+submissions:
+    Kyle & Patrick
+    repository: https://github.com/kylehenson/salesengine
+    evaluation:
+      notes: | Very solid overall; a few cases of unnecessary instance variables which could be tidied up;
+             | enumerables quite good overall; a few opportunities remain for using reduce;
+             | test coverage is great; speed is not bad
+        Assessor: Horace
+        1. Functional Expectations - 3
+        2. Test-Driven Development - 3.5
+        3. Encapsulation / Breaking Logic into Components - 4
+        4. Fundamental Ruby & Style - 3
+        5. Enumerable & Collections - 3.5
+        6. Code Sanitation - 3.5
+    Kenny & Mihir
+    repository: https://github.com/mihir787/sales_engine
+    evaluation:
+      notes: | Pretty good overall; enumerables are strong; test coverage is good; ruby style
+             | could be improved by more careful attention to instance variables (use readers when possible,
+             | don't use ivars if not necessary, etc); encapsulation is pretty good but we sometimes start
+             | to leak query logic into places it doesnt necessarily belong.
+        Assessor: Horace
+        1. Functional Expectations - 3
+        2. Test-Driven Development - 3
+        3. Encapsulation / Breaking Logic into Components - 3
+        4. Fundamental Ruby & Style - 3
+        5. Enumerable & Collections - 3.5
+        6. Code Sanitation - 3.5
+    Tracy & Dmitry
+    repository: https://github.com/ycartc/SalesEngine
+    evaluation:
+      notes: | Not bad overall; testing is a little fluffy; would like to see some more diligent focus on
+             | testing the hard business logic methods; ruby style overall pretty good -- we should be a little
+             | more attentive to use of Ivars. Enumerables are fairly diverse and generally the right choice; some
+             | opportunity for avoiding intermediate local variables with inject or reduce.
+        Assessor: Horace
+        1. Functional Expectations - 3
+        2. Test-Driven Development - 3
+        3. Encapsulation / Breaking Logic into Components - 3.5
+        4. Fundamental Ruby & Style - 3
+        5. Enumerable & Collections - 3
+        6. Code Sanitation - 4
+    Jack & Minnie
+    repository: https://github.com/mlee21/sales_engine
+    evaluation:
+      notes: | A little quirky in some spots but mostly ok; enumerables are ok, test coverage is good,
+             | would have liked to see better coverage on the difficult BI methods; Biggest ruby issue
+             | is confusion around naming of methods and their responsibilities -- some instances of methods
+             | doing something different than what they claim to be doing.
+             | Also could do much better with codebase cleanliness -- indentation, trailing whitespace,
+             | commented out code, etc -- let's try to pay more attention to that in the future
+        Assessor: Horace
+        1. Functional Expectations - 3
+        2. Test-Driven Development - 3
+        3. Encapsulation / Breaking Logic into Components - 3
+        4. Fundamental Ruby & Style - 3
+        5. Enumerable & Collections - 3
+        6. Code Sanitation - 4
+    Andrew & Jamie
+    repository: https://github.com/carmer/sales_engine
+    evaluation:
+      notes: | Quite solid overall; performance improvements are clever and generally pretty well done;
+             | a little aggressive with the memo hammer; Encapsulation could be improved with some additional
+             | logic extractions into respective objects; Enumerables are pretty good with a few opportunities
+             | for greater concision with a more specific enumerable
+        Assessor: Horace
+        1. Functional Expectations - 3
+        2. Test-Driven Development - 4
+        3. Encapsulation / Breaking Logic into Components - 3
+        4. Fundamental Ruby & Style - 3
+        5. Enumerable & Collections - 3.5
+        6. Code Sanitation - 4
+    Michelle & Michael
+    repository: https://github.com/michaelkm/sales_engine
+    evaluation:
+      notes: | Very solid overall; great job on the extensions; biggest code issue is large methods pulling in data
+             | from far-flung portions of the object graph -- would like to see more of this type of logic encapsulated
+             | into individual objects. Enumerables are good -- if anything we might be over-using them because we're
+             | manipulating data from lots of places at once. Testing is quite good; only a couple small gaps in coverage
+             | and the integration test does a great job of coverin the hard components.
+        Assessor: Horace
+        1. Functional Expectations - 4
+        2. Test-Driven Development - 3.5
+        3. Encapsulation / Breaking Logic into Components - 3
+        4. Fundamental Ruby & Style - 3.5
+        5. Enumerable & Collections - 3.5
+        6. Code Sanitation - 4

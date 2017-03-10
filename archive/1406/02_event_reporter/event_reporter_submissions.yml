@@ -1,0 +1,109 @@
+submissions:
+  Corey Davis & Emily Davis:
+    repository: git@github.com:coreyd303/eventreporter_davis_davis.git
+    notes: "You will need the following gems to successfully run our program: colorize,  terminal-table,  ValidateEmail"
+    evaluation:
+      Functional Expectations: 3
+      REPL Interface: 3.5
+      Test-Driven Development: 1.5
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 3
+  Chad Brading & Robert Gu:
+    repository: git@github.com:chadbrading/event_reporter.git
+    notes: ""
+    evaluation:
+      Functional Expectations: 4
+      REPL Interface: 2
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 3
+  Jonmichael Chambers & Alan Smith:
+    repository: https://github.com/alanbsmith/EventReporter
+    notes: "Added Queue Math. Improved Queue Print. Improved Find. Partial support for Nightmare mode Find. Some other improvements (imo)."
+    evaluation:
+      Functional Expectations: 4
+      REPL Interface: 3.5
+      Test-Driven Development: 4
+      Breaking Logic into Components: 4
+      Fundamental Ruby & Style: 4
+      Enumerable & Collections: 4
+  Allison Larson & Tim Proctor:
+    repository: https://github.com/timproctor/event-reporter
+    notes:
+    evaluation:
+      Functional Expectations: 3
+      REPL Interface: 3.5
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 3
+  Will Faurot & Hilary Denton:
+    repository: git@github.com:Hilaryous/event_reporter.git
+    notes: "implemented save_to extension for only csv and txt files"
+    evaluation:
+      Functional Expectations: 3
+      REPL Interface: 3
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 3
+  Cara Dennis & Gustavo Villagrana:
+    repository: git@github.com:objectParadigm/event-cloaked-wallhack-reporter.git
+    notes: ""
+    evaluation:
+      Functional Expectations: 3
+      REPL Interface: 3
+      Test-Driven Development: 2
+      Breaking Logic into Components: 2
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Notes:
+        Help rolls individual queue items into one
+        Queue print only sorts by last_name
+        Tests not passing
+  Jessica Goulding & Eric Fransen:
+    repository: https://github.com/JessicaG/event_reporter
+    notes: "Gems needed are terminal-table and colorize"
+    evaluation:
+      Functional Expectations: 1
+      REPL Interface: 3
+      Test-Driven Development: 1
+      Breaking Logic into Components: 2
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 3
+      Notes:
+        Help misses the individual help items
+        Needs output folder to be made by hand
+        Extra .csv on output files
+        Failed story D & E
+        Tests do not run
+  Andrew Watkins & Horacio Chavez:
+    repository: git@github.com:121watts/event-reporter.git
+    notes: "no need for underscores in search fields i.e. first_name is simply first name"
+    evaluation:
+      Functional Expectations: 2
+      REPL Interface: 3.1
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3.1
+      Notes:
+        Queue print by only uses last name
+        Queue does not output CSV
+        Loads up the data at startup without Load
+  Tan Doan & Andy Mention & Marc Garreau:
+    repository: git@github.com:MarcGarreau/turing_event_reporter.git
+    notes: ""
+    evaluation:
+      Functional Expectations: 3
+      REPL Interface: 3
+      Test-Driven Development: 2
+      Breaking Logic into Components: 2
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Notes:
+        All stories passed with one little fix
+        Tests do not run as-is because of missing data file
+        Tests not deep enough, broad enough, need more levels of abstraction

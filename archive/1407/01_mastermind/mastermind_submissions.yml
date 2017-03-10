@@ -1,0 +1,92 @@
+submissions:
+  Jim Sutton:
+    repository: https://github.com/a6ftcruton/mastermind.git
+    notes: ""
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 2
+      REPL Interface: 4
+      Breaking Logic into Components: 3
+  Kavita Sachdeva:
+    repository: https://github.com/kavitasa/mastermind
+    notes: ""
+    evaluation:
+      Fundamental Ruby & Style: 3-
+      Enumerable & Collections: 2
+      Test-Driven Development: 2-
+      REPL Interface: 3
+      Breaking Logic into Components: 2.5
+  Glen Egbert:
+    repository:
+    notes: ""
+    evaluation:
+      Fundamental Ruby & Style: 3.5
+      Enumerable & Collections: 3.5
+      Test-Driven Development: 4
+      REPL Interface: 3.5
+      Breaking Logic into Components: 3
+  Rolando Navarette:
+    repository: https://github.com/rNavarrete/mastermind
+    notes: ""
+    evaluation:
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 4
+      Test-Driven Development: 2.5
+      REPL Interface: 3.5
+      Breaking Logic into Components: 3
+  Sara Simon:
+    repository:
+    notes: "brainstormed things to test"
+    evaluation:
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 2
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 1.5
+  Luke Aiken:
+    repository: git@github.com:lukeaiken/battleship.git
+    notes: ""
+    evaluation:
+      Fundamental Ruby & Style: 1
+      Enumerable & Collections: 4
+      Test-Driven Development: 2
+      REPL Interface: 1
+      Breaking Logic into Components: 4
+  Jessica Goulding:
+    repository: git@github.com:JessicaG/battleship.git
+    notes: ""
+    evaluation:
+      Fundamental Ruby & Style: 1
+      Enumerable & Collections: 2
+      Test-Driven Development: 1.5
+      REPL Interface: 1
+      Breaking Logic into Components: 2.5
+  Cara Dennis:
+    repository: git@github.com:objectParadigm/master-octo-mind-wallhack.git
+    notes: "Pretty clean, nice code but the app did not work. Very polished REPL but it is not fully working."
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 3
+      Test-Driven Development: 3
+      REPL Interface: 2
+      Breaking Logic into Components: 4
+  Ian Anderson:
+    repository: git@github.com:ianderse/battleship.git
+                git@github.com:ianderse/mastermind.git
+    notes: "Did two projects. Mastermind and Battleship. Both are working and are complete. Good level of effort."
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 3
+      Test-Driven Development: 3
+      REPL Interface: 3
+      Breaking Logic into Components: 4
+  Aaron Paul Wortham:
+    repository:
+    notes: ""
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 3
+      REPL Interface: 3.5
+      Breaking Logic into Components: 4

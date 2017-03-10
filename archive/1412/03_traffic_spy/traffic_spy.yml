@@ -1,0 +1,62 @@
+submissions:
+  Dustin, Paul, & Markus:
+    repository: https://github.com/neslom/traffic-spy
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "Fulfills all base expectations. Well tested. Use of 'serialize' PORO to encapsulate logic."
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 4
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 2.5
+        View Layer: 3
+  Miriam Moser & Edward McCarthy & Jeffrey Gu:
+    repository: 
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "All but one tiny thing fulfilled in base expectations. Break out view logic into partial."
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 2
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 2.5
+        Sinatra / Web and Business Logic: 3
+        View Layer: 2
+  Austin Wood & Kyra Steenbock & Lori Culberson:
+    repository: 
+    setup_notes: "Some missing base functionality. "
+    instructor_evaluation:
+      notes: 
+      rubric:
+        Functional Expectations: 2
+        Test-Driven Development: 2
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 2
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
+  Teresa Finn & DJ Greenfield & Trey Tomlinson:
+    repository: 
+    setup_notes: ""
+    instructor_evaluation:
+      notes: 
+      rubric:
+        Functional Expectations: 1
+        Test-Driven Development: 2
+        Encapsulation / Components: 2.5
+        Fundamental Ruby & Style: 1
+        Sinatra / Web and Business Logic: 2.5
+        View Layer: 2.5
+  Fred Block & Stanley Siudzinski & Charles Valentino Espinoza:
+    repository: 
+    setup_notes: ""
+    instructor_evaluation:
+      notes: 
+      rubric:
+        Functional Expectations: 1.5
+        Test-Driven Development: 2.5
+        Encapsulation / Components: 2.5
+        Fundamental Ruby & Style: 2.5
+        Sinatra / Web and Business Logic: 2.5
+        View Layer: 2.5
+

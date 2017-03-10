@@ -1,0 +1,63 @@
+TravelHome:
+  url: http://travel-home.herokuapp.com
+  repository: https://github.com/dalexj/da_pivot
+  team_members: "Danny, Alex, Viki, Sam"
+  instructor_evaluation:
+    notes: "Polished product. Showed good project management skills. Nice UX."
+    rubric:
+      Feature Delivery:
+        Completion: 3.5
+        Organization: 4
+        Progress: 4
+      Technical Quality:
+        Testing: 3
+        Code Quality: 3.5
+        UX: 3.5
+
+Kevaah:
+  url: https://keevah-pivot.herokuapp.com
+  repository: https://github.com/bayendor/the_pivot
+  team_members: "David, Travis, Chase, Kate"
+  instructor_evaluation:
+    notes: "UX needed significant more work. Backend was nicely done. Test coverage was superb."
+    rubric:
+      Feature Delivery:
+        Completion: 2.5
+        Organization: 4
+        Progress: 2.5
+      Technical Quality:
+        Testing: 4
+        Code Quality: 3.5
+        UX: 2
+
+AirLift:
+  url:
+  repository: https://airlyft.herokuapp.com
+  team_members: "Adam, Greg, Chandra, Herbert"
+  instructor_evaluation:
+    notes: "Good UX, registration flow needed improvement. Solid code."
+    rubric:
+      Feature Delivery:
+        Completion: 2.5
+        Organization: 3.5
+        Progress: 3
+      Technical Quality:
+        Testing: 1.5
+        Code Quality: 3.5
+        UX: 2.5
+
+EmployMe:
+  url: http://www.larsonkonr.com
+  repository: https://github.com/tmee/the-pivot
+  team_members: "Konr, Tim, Zach"
+  instructor_evaluation:
+    notes: "UX needed major improvement. Testing was lacking. Their overall project management skills need improvement."
+    rubric:
+      Feature Delivery:
+        Completion: 3
+        Organization: 2.5
+        Progress: 2
+      Technical Quality:
+        Testing: 1
+        Code Quality: 2.5
+        UX: 1.5

@@ -1,0 +1,15 @@
+Checkin with horace
+
+Progress
+  - index looks ok; needs some minor html tweaks
+  - schema is actually pretty flushed out
+  - test coverage is ok
+
+Todo
+  - slim down dem assets
+  - los links! link the site together; make it so i can get to other places from the root
+  - get signin working
+  - clean up pending tests
+  - lets start really zeroing in on the user stories
+  - dont make git messes
+  - read the logs

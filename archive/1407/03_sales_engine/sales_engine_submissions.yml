@@ -1,0 +1,122 @@
+# NOTE: You can verify that you haven't broken the format with
+# $ ruby -rpp -ryaml -e 'pp YAML.load File.read("1406/03_sales_engine/sales_engine_submissions.yml")
+submissions:
+  Jim Sutton & Aaron Paul Wortham:
+    repository:https://github.com/a6ftcruton/sales_engine.git
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "Well tested, but missing some business logic. Tests are consistent and thorough.
+              Excellent encapsulation and breaking lotic into components -- just not complete with business logic.
+              Code is easy to read; structured well.
+              Well-chosen enumerables; one place where could have chained enumerables. Would like to see business logic to get 4.
+              No problems with line length or confusing methods/variable names."
+      rubric:
+        Functional Expectations: 2
+        Test-Driven Development: 3.5
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 4
+        Enumerable & Collections: 3.5
+        Code Sanitation: 4
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
+  Cara Dennis & Luke Aiken:
+    repository: git@github.com:objectParadigm/sales-engine.git
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "Some business logic implemented (9 out of 12), but some functionality missing. 7 failing tests when running spec harness.
+              High-level integration tests are present, but would like to see more isolation and smaller-level integration tests.
+              Responsibilities are broken down, but some classes rely to heavily on others (repositories loading their own data).
+              Effort towards clarity and refactoring -- some confusingly-named variables, some long methods.
+              Good use of varied enumerables; some instances where enumerables were chained where one would have worked.
+              Code sanitation good -- method names, line length good. "
+      rubric:
+        Functional Expectations: 2
+        Test-Driven Development: 2.5
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 3.5
+        Code Sanitation: 4
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
+ Kavita Sachdeva & Sara Simon: https://github.com/kavitasa/sales_engine
+    repository:
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "Some business logic attempted, but failing tests in spec harness. 
+              Well-tested with both isolation and integration tests for current functionality.
+              Separation of concerns is present, but some logic is tightly coupled (merchant repository knowing about parser).
+              Evidence of refactoring (pulling finder methods into module), would like to have seen the same with parser.
+              Used appropriate enumerables for features implemented; some instances where enumerables (map + reduce) could be combined.
+              Some violations with rake sanitation, but most were similar issues in different files."
+      rubric:
+        Functional Expectations: 2
+        Test-Driven Development: 4
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 3
+        Code Sanitation: 3
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
+  Rolando Navarrete & Ian Andersen:
+    repository: git@github.com:ianderse/sales_engine.git
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "Consider using modules to keep code DRY; use of objects to specfic responsibilities was really good; clean short methods most of the time; confident use of Enumerable; functionality was broken out into clear methods"
+      rubric:
+        Functional Expectations: 4
+        Test-Driven Development: 4
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3.5
+        Enumerable & Collections: 4
+        Code Sanitation: 4
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
+  Jessica Goulding & Glen Egbert:
+    repository: https://github.com/JessicaG/sales_engine
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "Conditional loaded of CSVs, use of abstracted parser, non-static directory were all good. Consider using modules to keep code DRY, additional objects to handle common tasks, additional methods for granular functionality and better stack traces"
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 4
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 2.5
+        Enumerable & Collections: 3
+        Code Sanitation: 2
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0

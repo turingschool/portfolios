@@ -1,0 +1,64 @@
+submissions:
+  Bret Doucette:
+    repo: https://github.com/bad6e/mastermind
+    notes: Had it working with only one guess - in the process of tearing it apart into separate files 
+  Travis Haby:
+    repo: https://github.com/travishaby/mastermind
+    notes: works if you guess the right answer. position count works correctly, but number of correct characters isnt working correctly. edge cases for improper forms of input are not accounted for
+  Rose Kohn:
+    repo:https://github.com/roseak/mastermind
+    notes:
+  Mary Beth Burch:
+    repo: https://github.com/mbburch/mastermind
+    notes:
+  Alon Waisman:
+    repo: git@github.com:MowAlon/mastermind.git
+    notes: not done, but functional with what's there
+  Chris Cenatiempo:
+    repo:https://github.com/ChrisCenatie/mastermind
+    notes: HankHankHank
+  Mimi Schatz:
+    repo: https://github.com/mcschatz/mastermind/blob/master/mastermind.rb
+    notes:
+  Ryan Asensio:
+    repo:https://github.com/rasensio1/mastermind
+    notes: Boom
+  Michael Wong: 
+    repo: https://github.com/Kealii/mastermind
+    notes: Works except for telling you how many you have right already.
+  Matt Ewell:
+    repo: https://github.com/plato721/mastermind.git
+    notes:
+  Regis Boudinot:
+    repo: https://github.com/selfup/mastermind
+    notes:
+  Adam Jensen:
+    repo:https://github.com/adamki/mastermind-challenge
+    notes:
+  Jeff Ruane:
+    repo: https://github.com/jbrr/mastermind
+    notes:
+  Matt Hecker:
+    repo:
+    notes:
+  George Hudson:
+    repo:
+    notes:
+  Russell Harms:
+    repo:
+    notes:
+  Jerrod Paul Junker:
+    repo: https://github.com/Unsafepond/Mastermind/tree/master/Documents/Turing/3module/classwork/mastermind
+    notes:
+  David Stinnette:
+    repo: https://github.com/dastinnette/mastermind
+    notes: It ain't pretty, but it was fun. Apparently I need to relearn how to Ruby good.
+  Justin Holzmann:
+    repo: https://github.com/jphoenix86/mastermind
+    notes:
+  Jason Wright:
+    repo: https://github.com/noobjey/mastermind
+    notes: I didn't get real far. But that was fun.
+  Stanley Siudzinski:
+    repo:
+    notes:

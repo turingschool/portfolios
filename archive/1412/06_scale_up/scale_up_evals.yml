@@ -1,0 +1,23 @@
+Keevah (Markus, Jeff, Austin, Tino):
+  Production Performance: 4
+  Load Testing: 3
+  DB Scale: Check
+  Testing: 3
+  Code Quality: 4
+  Additional Features: 3
+
+HubStub (Rich, Dustin, DJ, Mac):
+  Production Performance: 1 -- not running in production
+  Load Testing: 2
+  DB Scale: Check
+  Testing: 2
+  Code Quality: 2
+  Additional Features: 2
+
+HomeAway (Miriam, Trey, Kyra, Kit, Paul):
+  Production Performance: 2
+  Load Testing: ~3
+  DB Scale: Check
+  Testing: 3.5
+  Code Quality: 3.5
+  Additional Features: 4

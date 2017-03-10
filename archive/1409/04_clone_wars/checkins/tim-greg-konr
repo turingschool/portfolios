@@ -1,0 +1,37 @@
+Checkin with: Josh Cheek
+Timothy, Gregory, Konr
+
+high priority
+  make "GET /menu" dynamic based on data from a controller. e.g.
+    get '/menu' do
+      @menu = [
+        {name: 'Shared Bites',
+         items: [
+           { name: 'Greek Nachos'.
+             price: '8',
+             description: 'House made pita chips, hummus, gyro meat drizzled with red pepper aioli and raita sauce.'
+           },
+          ]}
+      ]
+    end
+
+    <% @menu.each do |category| %>
+      <h1><%= category[:name] %></h1>
+      <ul>
+        <li>...</li>
+        ...
+      </ul>
+  can get menu items out of the database into some sort of usable form
+  admin form:
+    endpoint for "GET /admin/menu" renders a form based on same dynamic data as "GET /menu"
+    form submits to "POST /admin/menu" (make an endpoint -- it does nothing -- but is authenticated)
+    renders a form with the data filled in
+  once you can get data out:
+    generate the menu at "GET /menu" via the database data instead of being hard-coded in the view
+    generate the form at "GET /admin/menu" via the db data
+    when form is submitted "POST /admin/menu" take the form data and save it into the database
+
+low priority
+  to fix the links:
+    change "http://whatever.com/something" into "/something"
+  extensions

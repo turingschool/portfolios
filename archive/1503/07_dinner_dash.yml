@@ -1,0 +1,59 @@
+Morgan, Tyler, Michael:
+  Repo: "https://github.com/morganmiller/dinner_dash"
+  Feature Completeness: "3: All features defined in the assignment are correctly implemented"
+  Views: "4: Views show logical refactoring into layout(s), partials and helpers, with no logic present"
+  Controllers: "3: Controllers are generally well organized with three or fewer particularly ugly parts"
+  Models: "3.5"
+  Testing: "4: Project has a running test suite that exercises the application at multiple levels"
+  Usability: "3: Project is highly usable, but needs more polish before it’d be customer-ready"
+  Workflow: "4: Excellent use of branches, pull requests, and a project management tool."
+
+Whitney, Vanessa, Drew:
+  Repo: "https://github.com/whiemstra/dinner_dash"
+  Feature Completeness: "3: All features defined in the assignment are correctly implemented"
+  Views: "3: Views make use of layout(s), partials and helpers, but some logic leaks through"
+  Controllers: "3: Controllers are generally well organized with three or fewer particularly ugly parts"
+  Models: "2.5"
+  Testing: "3: Project has a running test suite that tests and multiple levels but fails to cover some features"
+  Usability: "3.5"
+  Workflow: "3.5"
+
+Max, Dave, Margarett:
+  Repo: "https://github.com/davemaurer/dinner_dash"
+  Feature Completeness: "3: All features defined in the assignment are correctly implemented"
+  Views: "3: Views make use of layout(s), partials and helpers, but some logic leaks through"
+  Controllers: "3: Controllers are generally well organized with three or fewer particularly ugly parts"
+  Models: "3: Models show an effort to push logic down the stack, but need more internal refactoring"
+  Testing: "3.5"
+  Usability: "3.5"
+  Workflow: "4: Excellent use of branches, pull requests, and a project management tool."
+
+Chelsea, Drew, Brett:
+  Repo: "https://github.com/adfink/dinner_dash"
+  Feature Completeness: "3: All features defined in the assignment are correctly implemented"
+  Views: "3.5"
+  Controllers: "3.5"
+  Models: "3.5"
+  Testing:"3: Project has a running test suite that tests and multiple levels but fails to cover some features"
+  Usability: "4: Project is highly usable and ready to deploy to customers"
+  Workflow: "4: Excellent use of branches, pull requests, and a project management tool."
+
+Josh Cass, Justin Holmes, Rob Cornell:
+  Repo: https://github.com/RMCornell/dinner_dash.git
+  Feature Completeness: 4
+  Views: 3
+  Controllers: 3.5
+  Models: 4
+  Testing: 4
+  Usability: 4
+  Workflow: 4
+
+Dmitry Vizersky, Lev Kravinsky, Rick Bacci:
+  Repo: https://github.com/kravinskylev/dinner_dash
+  Feature Completeness: ~3
+  Views: 2 - could benefit from more partials and organization here
+  Controllers: 3 - controllers are pretty tidy
+  Models: 3 - models are well organized and sufficient, but not incredibly sophisticated
+  Testing: 3 - test coverage is quite thorough, especially at the feature level; would like to see more unit testing, but this is still probabl the strongest part of the app
+  Usability: 1 - app needs a lot of work on interface
+  Workflow: 2 - sounds like a lot of communication issues along the way

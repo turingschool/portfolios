@@ -1,0 +1,14 @@
+{
+  :last_name => "Rogers",
+  :first_name => "Shane",
+  :project_name => "Socrada",
+  :project_description => "Socrada will visialize your social connections so that you can strategize your networking. Using Twitter relationships initially, Socrada will weight the ease of connectivity to someone in the network and provide the MER(maximum efficient route) to connecting with that person.",
+  :technologies => ['d3, neo4j'],
+  :integrations => ['twitter']
+  :repo => 'http://github.com/phoenixbox/socrada',
+  :heroku_account => 'rogerssh@gmail.com'
+  :needs_heroku_setup => true,
+  :needs_workers => true,
+  :needs_redis_to_go => true,
+  :other_needs => ["neo4j"]
+}

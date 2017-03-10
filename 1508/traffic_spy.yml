@@ -1,0 +1,111 @@
+submissions:
+   Edgar, Shannon, Jhun:
+     repository:
+     setup_notes:
+     instructor_evaluation:
+       notes:
+      rubric:
+        Functional Expectations: 3
+        TestDriven Development: 3.5
+        Encapsulation / Components: 2.5
+        Fundamental Ruby & Style: 2.5
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
+
+submissions:
+   Amber, Jill, Jason:
+     repository:
+     setup_notes:
+     instructor_evaluation:
+       notes: "full functionality + two extensions; good use of parser objects; good separation of web and business logic; would like to see fewer instance variables sent to views"
+      rubric:
+        Functional Expectations: 4
+        TestDriven Development: 3
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3.5
+        View Layer: 3.5
+
+submissions:
+   Emily Marlo, Charissa:
+     repository:
+     setup_notes:
+     instructor_evaluation:
+       notes:
+      rubric:
+        Functional Expectations: 2
+        TestDriven Development: 2
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 2.5
+        Sinatra / Web and Business Logic: 3
+        View Layer: 2.5
+
+submissions:
+   Robbie, Torie:
+     repository:
+     setup_notes:
+     instructor_evaluation:
+       notes: 'json + http basic auth extensions; all base functionality but something weird happening with event breakdown by hour;'
+      rubric:
+        Functional Expectations: 3.5
+        TestDriven Development: 3.5
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3.5
+        View Layer: 3.5
+
+submissions:
+   Ross, Nicole, Sekhar:
+     repository: git@github.com:rossedfort/src_traffic_spy.git
+     setup_notes:
+     instructor_evaluation:
+       notes: Some views are instantiating new objects within them. Need to pull out logic down the stack. Only on one page - so score is still 3 but should be aware it's not good practice. Scores for views and business logic are threes, but were close to twos because of the business logic in views.
+      rubric:
+        Functional Expectations: 3
+        TestDriven Development: 3
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
+
+submissions:
+   Aaron, Pat, Tyler:
+     repository:
+     setup_notes: one issue with sending payloads at first. Problem solved id should be identifier.
+     instructor_evaluation:
+       notes: One issue - mentioned above - Views are clean and contain no logic. Server(controller) is really clean. Great use of poros. Error page can be more specific to the issue.
+      rubric:
+        Functional Expectations: 3
+        TestDriven Development: 3
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 4
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
+
+submissions:
+   Chad, Matt, John:
+     repository: www.github.com/mattrooney/traffic-spy
+     setup_notes:
+     instructor_evaluation:
+       notes: Controller has more logic than desirable. Particularly "get "/sources/:identifier/events/:event_name"". Logic could have been separated more with POROS. Too many instance vairables in the controller, but no logic in views. Needs to utilize more active record. Too much ruby enumerables.
+      rubric:
+        Functional Expectations: 3
+        TestDriven Development: 2
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
+
+submissions:
+   Matt, Ryan:
+     repository: www.github.com/rjohnson4444/traffic-spy-skeleton
+     setup_notes: issue with error page because of merge conflict. Fixed.
+     instructor_evaluation:
+       notes: Overall good work. Server(controller) could be a little skinnier but made good use of POROs. Testing was good too, make sure to test all AR models for validations. Continue to TDD. Be careful of nameing variables. Be a little more robust with feature tests - click through some functionality. Great use of scoping feature tests. 
+      rubric:
+        Functional Expectations: 3
+        TestDriven Development: 3
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 4
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3

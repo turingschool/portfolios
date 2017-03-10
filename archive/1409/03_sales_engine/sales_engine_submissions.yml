@@ -1,0 +1,116 @@
+Chandra Carney & Gregory Narajka:
+    repository: https://github.com/gregnar/sales_engine.git
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "fulfills all base expectations.
+              passes spec harness.
+              well-tested; would like to see unit tests and integration tests split apart.
+              application shows strong effort towards organization, content, and refactoring.
+              application consistently makes use of the best-choice Enumerable methods."
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 3
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 4
+        Code Sanitation: 4
+
+Sam Kuhlmann & Zachary Routhier:
+    repository: https://github.com/skuhlmann/sales_engine
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "Application fulfills all base expectations as tested by the spec harness.
+             Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
+             Application effectively breaks logical components apart but breaks the principle of SRP.
+             Application shows strong effort towards organization, content, and refactoring.
+             Application consistently makes use of the best-choice Enumerable methods."
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 3.5
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3.5
+        Enumerable & Collections: 4
+        Code Sanitation: 3
+
+Travis Yoder & David Bayendor:
+    repository: git@github.com:trayo/sales_engine.git
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "Well-tested in isolation and w/ mocks for repos and sales engine. Would like to see tests for sales engine logic. 
+              All but three tests passing in spec harness.
+              Application shows strong effort towards organization, content, and refactoring.
+              Application consistently makes use of the best-choice Enumerable methods.
+              Zero complaints for rake sanitation."
+      rubric:
+        Functional Expectations: 2.5
+        Test-Driven Development: 3
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 4
+        Code Sanitation: 4
+
+Adam Smith & Alex Jensen & Herbert Joseph:
+    repository: 
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "Great use of enumerable methods. The team had a unique take on how to structure their SalesEngine. Some use of metaprogramming."
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 4
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 4
+        Enumerable & Collections: 4
+        Code Sanitation: 4
+
+Chase van Hekken & Christopher Bynum:
+    repository: 
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "100% test coverage."
+      rubric:
+        Functional Expectations: 4
+        Test-Driven Development: 3.5
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 3
+        Code Sanitation: 4
+
+Danny Glunz & Victoria Harrod:
+    repository: https://github.com/dglunz/sales_engine.git
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 4
+        Test-Driven Development: 4
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 4
+        Code Sanitation: 4
+
+ Kalah Cheek & Konr Josef Larson:
+    repository: https://github.com/larsonkonr/sales_engine.git
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 2
+        Test-Driven Development: 2
+        Encapsulation / Components: 2
+        Fundamental Ruby & Style: 2
+        Enumerable & Collections: 3
+        Code Sanitation: 4
+
+Kate Lane & Timothy Mee:
+    repository:  git@github.com:Tmee/sales_engine_project.git
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 3
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 3
+        Code Sanitation: 4
+

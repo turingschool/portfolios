@@ -1,0 +1,56 @@
+---
+submissions:
+  Sam Kuhlmann & Alex Jensen & David Bayendor:
+    repository: https://github.com/bayendor/clonewars_novo/
+    evaluation:
+      notes: "Well constructed, good attention to details. DB logic well encapsulated, reasonable test coverage. Some template subdivision / extraction. Admin side works well, integrates well with the rest of the site. Could have pushed a little harder on schema complexity but this is my only real critique"
+      Functional Expectations: 3
+      Test Driven Development: 3
+      Breaking Logic into Components: 3.5
+      Fundamental Ruby & Style: 3.5
+      Sinatra / Web and Business Logic: 4
+      View Layer: 3.5
+submissions:
+  Danny Glunz & Kate Lane & Herbert Joseph
+    repository: https://github.com/dglunz/clonewars
+    evaluation:
+      notes: "Decent recreation of existing site. Many components are half finished unfortunately -- file uploading, email form, updating some of admin pages. Would have been good to see more consolidation around the core 'primitive' of the pages and how they are edited and displayed. Would be good to have multiple tables and more organization around what components make up a page."
+      Functional Expectations: 2
+      Test Driven Development: 3
+      Breaking Logic into Components: 2
+      Fundamental Ruby & Style: 2
+      Sinatra / Web and Business Logic: 2
+      View Layer: 2
+submissions:
+  Travis Yoder & Zach Routhier & Chase Van Hekken
+    repository: https://github.com/ChasevanHekken/clone_wars
+    evaluation:
+      notes: "good use of multiple tables with foreign keys; admin update functionality works well; good recreation of existing site. Tests are nonexistant. Views could use some extraction - lots of repeated markup for elements like nav etc;"
+      Functional Expectations: 3
+      Test Driven Development: 0
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 2.5
+      Sinatra / Web and Business Logic: 3
+      View Layer: 2
+submissions:
+   Timothy Mee & Gregory Narajka & Konr Josef Laron
+    repository: https://github.com/Tmee/Clone-Wars---Jimmy-s
+    evaluation:
+      notes: "Code looked pretty solid. Did three extensions. Tests checked for info on page but failed to interact with page elements. Database logic could have been split up better. Ruby looked good."
+      Functional Expectations: 4
+      Test Driven Development: 1.5
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3.5
+      Sinatra / Web and Business Logic: 3
+      View Layer: 3
+submissions:
+   Chandra Carney & Adam Smith & Victoria Harrod
+    repository: https://github.com/VikiAnn/backcountry-deli-clone-wars
+    evaluation:
+      notes: "No tests. Code was headed in the right direction and the group knew what to do, but seemed to run out of time. Code written at the end is much nicer."
+      Functional Expectations: 3
+      Test Driven Development: 1
+      Breaking Logic into Components: 2.5
+      Fundamental Ruby & Style: 3
+      Sinatra / Web and Business Logic: 2.5
+      View Layer: 3

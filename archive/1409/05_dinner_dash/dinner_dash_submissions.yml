@@ -1,0 +1,57 @@
+Sam Herbert Yoder Tim
+    repository: https://github.com/Tmee/Dinner-Dash
+    setup_notes: "worked well"
+    instructor_evaluation:
+      notes: "Fullfills base expectations with 1 or 2 minor bugs
+              Very Nice UI; site quite usable; starting to look like a real product"
+      rubric:
+        Feature Completeness: "Grudging 3; features are there but a ocuple small bugs"
+        Views: 4
+        Controllers: 3
+        Models: 3
+        TDD: 3
+        Usability: 4
+
+
+
+Viki Greg Chase Konr
+    repository: https://github.com/larsonkonr/dinner_dash
+    setup_notes: "worked well"
+    instructor_evaluation:
+      notes: "Fullfills base expectations; 1 minor permission / auth issue with user updating
+              UI is servicable but leaves too many default rails components in place "
+      rubric:
+        Feature Completeness: "Grudging 3; features are there but a ocuple small bugs"
+        Views: 3
+        Controllers: 3
+        Models: 3.5
+        TDD: 3.5
+        Usability: 2
+
+
+
+Alex Chandra Kate Zach
+    repository: https://github.com/chandracarney/dinner-dash
+    setup_notes: "setup was fine"
+    instructor_evaluation:
+      notes: "Fullfills base expectations; JS search is a nice little bonus; functionality is simple but solid; code is similarly simple but solid"
+      rubric:
+        Feature Completeness: 3.2.to_i
+        Views: 3
+        Controllers: 3
+        Models: 3
+        TDD: 3
+        Usability: 3.5
+
+Adam Smith & Danny Glunz & David Bayendor
+    repository: https://github.com/dglunz/dinner_dash
+    setup_notes: "setup was fine"
+    instructor_evaluation:
+      notes: "Solid app; UI is pleasant but simple; good functionality including a couple extensions; no issues running through features"
+      rubric:
+        Feature Completeness: 4
+        Views: 4
+        Controllers: 3
+        Models: 3.5
+        TDD: 3
+        Usability: 3.5

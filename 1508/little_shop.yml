@@ -1,0 +1,52 @@
+Jhun, Ryan, Charissa:
+  repository:
+  setup_notes:
+  instructor_evaluation:
+    notes: "bugs / inconsistent behavior through user and admin experience, check duplicated headers/footers, like to see PORO to handle order creation (push logic down the stack), remove admin logic from regular controllers, mostly good test coverage -- a little lite on model tests, check robustness of tests to ensure tests catch bugs/missing features"
+    rubric:
+      Feature Completeness: 1.5
+      Views: 3
+      Controllers: 3
+      Models: 3
+      Testing: 3
+      Usability: 1.5
+      Workflow: 4
+Shannon, John, Amber:
+  repository:
+  setup_notes:
+  instructor_evaluation:
+    notes: "very well done project. all features complete + twilio integration. high test coverage (95%). logic pushed down the stack -- could refactor some pieces to presenters."
+    rubric:
+      Feature Completeness: 4
+      Views: 3.5
+      Controllers: 4
+      Models: 3.5
+      Testing: 3.5
+      Usability: 4
+      Workflow: 4
+Edgar, Matt R, Matt S:
+  repository:
+  setup_notes:
+  instructor_evaluation:
+    notes: "sharp product. all features implemented correctly, added mailer and fuzzy search for extensions. good test coverage -- would like to see less repetition in test data preparation. "
+    rubric:
+      Feature Completeness: 4
+      Views: 3.5
+      Controllers: 3.5
+      Models: 3.5
+      Testing: 3.5
+      Usability: 4
+      Workflow: 4
+Robbie, Ross, Tyler:
+  repository:
+  setup_notes:
+  instructor_evaluation:
+    notes: "visually pleasing site. a few bumps (cart quantity of 0, cart not clearing after order). high test coverage, but would like to see more model tests. good attempt at using a PORO for order completion; make sure that actions for order creation happen atomically."
+    rubric:
+      Feature Completeness: 3
+      Views: 3.5
+      Controllers: 3.5
+      Models: 3.5
+      Testing: 3.5
+      Usability: 3
+      Workflow: 4

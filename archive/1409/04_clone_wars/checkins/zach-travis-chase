@@ -1,0 +1,38 @@
+Checkin with: Josh Cheek
+Zach Travis Chase
+
+Delete the yaml stuff
+
+1 at a time:
+  Pick a thing (probably /dine-in)
+    step
+      take the menu and start daynamically filling in the data
+      based on a hash that you set in your controller
+    step
+      make an admin endpoint
+      ignore authentication
+      render your form
+    step
+      that form posts to another admin endpoint
+    step
+      once the db stuff is in place
+      go to the menu view (the one users see) replace that hash with data from the db
+    step
+      once the db stuff is in place
+      go to the admin endpoint and save it into the db
+    step
+      once authentication is available
+      stick it on the admin endpoints
+Authentication
+  Figure out how to use basic HTTP auth (or whatever is simple and easy)
+  Put a method into your app that you can call to auth a request
+Database
+  Figure out what the fuck "database" even means for your app
+    do it locally
+    against postgres
+  Figure out your heroku database credentials
+    $ heroku run bash
+    $ echo $DATABASE_URL
+    might need to figure out how to parse the url
+    or maybe Sequel can straight take the url
+

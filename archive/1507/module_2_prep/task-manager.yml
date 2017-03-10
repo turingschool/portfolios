@@ -1,0 +1,64 @@
+submissions:
+  Bret Doucette:
+    repo: https://github.com/bad6e/Task_Manager
+    notes: First Attempt
+  Travis Haby:
+    repo: https://github.com/travishaby/task_manager
+    notes: First creation. Links to show tasks arent working but tasks can be accessed via URL...not sure why, something wrong with the controller code? Was thinking the `tasks/:id` part wasnt working like it should be?
+  Rose Kohn: 
+    repo:https://github.com/roseak/task_manager
+    notes: for all the cookies
+  Mary Beth Burch:
+    repo: https://github.com/mbburch/task_manager
+    notes:
+  Alon Waisman:
+    repo: https://github.com/MowAlon/task_manager.git
+    notes: Gotta go make some yumyum noms
+  Chris Cenatiempo:
+    repo:https://github.com/ChrisCenatie/task_manager
+    notes: My sinuses are killing me. I will try to go through this one more time tonight
+  Mimi Schatz:
+    repo: https://github.com/mcschatz/task_manager
+    notes: clean that apt kids
+  Ryan Asensio:
+    repo:https://github.com/rasensio1/task_manager
+    notes:
+  Michael Wong:
+    repo: https://github.com/Kealii/task_manager
+    notes: Once around
+  Matt Ewell:
+    repo: https://github.com/plato721/task-manager
+    notes:
+  Regis Boudinot:
+    repo: https://github.com/selfup/task_manager
+    notes: Woop! It manages tasks
+  Adam Jensen:
+    repo:https://github.com/adamki/task-manager
+    notes:completed
+  Jeff Ruane:
+    repo: https://github.com/jbrr/task_manager
+    notes:
+  Matt Hecker:
+    repo: https://github.com/HoffsMH/task_manager
+    notes:
+  George Hudson:
+    repo:
+    notes:
+  Russell Harms:
+    repo: https://github.com/russelleh/task_manager
+    notes:
+  Jerrod Paul Junker:
+    repo:
+    notes:
+  Justin Pease:
+    repo:https://github.com/Jpease1020/Task_Manager-
+    notes:First time
+  David Stinnette:
+    repo: https://github.com/dastinnette/task_manager
+    notes: First pass
+  Justin Holzmann:
+    repo: https://github.com/philmphoenix/task_manager
+    notes: Through once
+  Rebekah Sosa:
+    repo: https://github.com/rebekahsosa/task_manager
+    notes:

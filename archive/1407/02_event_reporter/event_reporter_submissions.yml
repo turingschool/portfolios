@@ -1,0 +1,74 @@
+submissions:
+  Jim Sutton and Sara Simon:
+    repository: https://github.com/a6ftcruton/event_reporter.git
+    notes: "Tests present, but minimally functional.
+            TDD strong at beginning of project, but tests didn't work after last-minute changes were made.
+            Missing some functionality (print by <attribute> and correctly-formatted CSV)."
+    evaluation:
+      Functional Expectations: 2
+      REPL Interface: 3
+      Test-Driven Development: 2
+      Breaking Logic into Components: 3.5
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 3.5
+  Kavita Sachdeva and Ian Andersen:
+    repository: git@github.com:ianderse/event_reporter.git
+    notes: "Most example stories work well.
+            Initially got rejected trying to save the file.
+            One crash in the emptiness story.
+            Testing and decomposition are well done.
+            Code shows good effort towards readability.
+            "
+    evaluation:
+      Functional Expectations: 2
+      REPL Interface: 3
+      Test-Driven Development: 3
+      Breaking Logic into Components: 4
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+  Luke Aiken and Glen Egbert:
+    repository: Luke: https://github.com/lukeaiken/event_reporter, Glen: https://github.com/glenegbert/mastermind.git
+    notes: "Some test cases execute properly.
+            Good implementation of fundamental finding, printing.
+            Doesn't handle some edge cases.
+            Tests don't run, needs better coverage.
+            Decomposition is good.
+            Ruby is overall strong, but tries to do too much in places.
+            Good use of enumerable methods."
+    evaluation:
+      Functional Expectations: 1
+      REPL Interface: 3
+      Test-Driven Development: 1.5
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+  Jessica Goulding and Rolando Navarette:
+    repository:https://github.com/JessicaG/event_reporter_rj
+    notes: "Crashes during find w/o load and reloading CSV.
+            Good use of best-choice enumerables.
+            Decent separation of logic -- confusion with CLI and UserCommand class.
+            For Fundamental Ruby & Style -- looks mostly good, but app crashes because errors are not handled."
+    evaluation:
+      Functional Expectations: 2
+      REPL Interface: 4
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 4
+  Cara Dennis and Aaron Paul Wortham:
+    repository: git@github.com:objectParadigm/event-reporter.git
+    notes: "Some small deviations from the spec instructions.
+            Save outputs good data but misses headers, so re-load won't work.
+            Emptiness story won't work because data is autoloaded.
+            Bummer that some tests/code got lost up git creek.
+            Good Ruby structures and style.
+            Watch out for little debugging bits lingering around.
+            Ruby shows good style and care.
+            Good use of several enumerable techniques."
+    evaluation:
+      Functional Expectations: 2
+      REPL Interface: 3
+      Test-Driven Development: 2
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3

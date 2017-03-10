@@ -1,0 +1,8 @@
+{
+  :developers => ["Shane Rogers 1",]
+  :project_name => "Socrada",
+  :project_description => "There is currently no ability to visualise a 'stepping stone' map of connections to people within a social network. If I want to connect with someone outside of my immediate social network I should be able to plot the necessary connections to make in order to get a legitimate introduction. Socrada will pull in social media connections and attempt to weight the relationship value between two parties to facilitate a node graph search which will yield the most efficient route to connection.",
+  :backend_technologies => ['neo4j'],
+  :frontend_technologies => ['D3']
+  :repo => 'http://github.com/phoenixbox/socrada2'
+}

@@ -1,0 +1,63 @@
+Keevah:
+  url: http://keevahh.herokuapp.com
+  repository: https://github.com/mikedao/the_pivot
+  team_members: "Orion, Jeffrey, Michael, Emily, Adam"
+  instructor_evaluation:
+    notes:
+    rubric:
+      Feature Delivery:
+        Completion: 2
+        Organization: 3
+        Progress: 2
+      Technical Quality:
+        Testing: 4
+        Code Quality: 2.5
+        UX: 1.5
+
+Vagabondr:
+  url: http://vagabondr.herokuapp.com/
+  repository: https://github.com/cluhring/the_pivot
+  team_members: "Kit, Bryce, Lydia, Chris"
+  instructor_evaluation:
+    notes:
+    rubric:
+      Feature Delivery:
+        Completion: 2.5
+        Organization: 4
+        Progress: 1.5
+      Technical Quality:
+        Testing: 3
+        Code Quality: 2.5
+        UX: 3
+
+Airlift:
+  url: https://air-lift.herokuapp.com
+  repository: https://github.com/larsonkonr/The_Pivot
+  team_members: "Laura, Brandon, Rich, Alexandra, Konr"
+  instructor_evaluation:
+    notes:
+    rubric:
+      Feature Delivery:
+        Completion: 2
+        Organization: 4
+        Progress: 1.5
+      Technical Quality:
+        Testing: 2
+        Code Quality: 2
+        UX: 2
+
+HubStub:
+  url: http://hubba-hubba-hubstub.herokuapp.com
+  repository: https://github.com/KristaANelson/the_pivot
+  team_members: "Krista, Nathan, Bhargavi, Scott"
+  instructor_evaluation:
+    notes:
+    rubric:
+      Feature Delivery:
+        Completion: 4
+        Organization: 4
+        Progress: 3
+      Technical Quality:
+        Testing: 2
+        Code Quality: 3
+        UX: 4

@@ -1,0 +1,13 @@
+Checkin with: Horace
+Danny, Adam, David
+
+Done:
+  - db schema coming together; many models are created and validations in place
+  - user auth flow seems good
+  - test coverage seems pretty good; tdd seems ok; need to get them updated to reflect new status quo
+
+todo:
+  - seed data
+  - build out frontend more
+  - start looking at cart setup after Monday Cart class
+  - biggest remaining data model chunk is orders -- would start looking at that soon

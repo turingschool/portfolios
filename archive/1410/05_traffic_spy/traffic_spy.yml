@@ -1,0 +1,39 @@
+submissions:
+  Lydia, Laura, & Kit:
+    repository: https://github.com/kpearson/traffic_spy
+    setup_notes: ""
+    instructor_evaluation:
+      notes: "Good test coverage and use of TDD. Missing functionality, but well-written code."
+      rubric:
+        Functional Expectations: 2
+        Test-Driven Development: 3.5
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3.5
+        View Layer: 3
+submissions:
+  Rich, Jeff, & Brandon:
+    repository: https://github.com/Jwan622/traffic_spy
+    setup_notes: 
+    instructor_evaluation:
+      notes: "All base functionality. Application works, but some messy mixing of logic."
+      rubric:
+        Functional Expectations: 3
+        Test-Driven Development: 2
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
+submissions:
+  Bhargavi, Alex, & Mike:
+    repository: https://github.com/Jwan622/traffic_spy
+    setup_notes: 
+    instructor_evaluation:
+      notes: "All base functionality plus JSON and basic HTTP auth."
+      rubric:
+        Functional Expectations: 4
+        Test-Driven Development: 2
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 4
+        View Layer: 3.5
