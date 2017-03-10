@@ -76,7 +76,7 @@
 
 ### Giving Feedback
 
-(feedback from me)
+(list of people you provided feedback to)
 
 ### Being a Community Member
 
