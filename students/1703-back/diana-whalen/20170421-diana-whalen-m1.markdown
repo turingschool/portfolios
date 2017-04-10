@@ -1,4 +1,4 @@
-# FIRST LAST - M1 Portfolio
+# DIANA WHALEN - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -29,7 +29,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## B: Individual Projects
 
-| CATEGORY | Credit Check | Jungle Beats / Date Night | Battleship |
+| CATEGORY | Jungle Beats | Enigma | Mastermind |
 | --- | --- | --- | --- |
 | **Project Spec** | [link]() | [link]() | [link]() |
 | **Github** | [link]() | [link]() | [link]() |
@@ -42,16 +42,16 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## C: Group Projects
 
-| CATEGORY | Enigma | Black Thursday |
+| CATEGORY | X | X | Headcount |
 | --- | --- | --- | --- |
-| **Project Spec** | [link]() | [link]() |
-| **Github** | [link]() | [link]() |
-| **Functional Expectations** | x | x |
-| **Test-Driven Development** | x | x |
-| **Encapsulation/Breaking Logic into Components** | x | x |
-| **Fundamental Ruby & Style** | x | x |
-| **Enumerable & Collections** | x | x |
-| **Code Sanitation** | x | x |
+| **Project Spec** | [link]() | [link]() | [link]() |
+| **Github** | [link]() | [link]() | [link]() |
+| **Functional Expectations** | x | x | x |
+| **Test-Driven Development** | x | x | x |
+| **Encapsulation/Breaking Logic into Components** | x | x | x |
+| **Fundamental Ruby & Style** | x | x | x |
+| **Enumerable & Collections** | x | x | x |
+| **Code Sanitation** | x | x | x |
 
 
 ## D: Professional Development
