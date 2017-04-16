@@ -29,7 +29,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## B: Individual Projects
 
-| CATEGORY | Credit Check | Jungle Beats / Date Night | Battleship |
+| CATEGORY | Credit Check | Jungle Beats | Battleship |
 | --- | --- | --- | --- |
 | **Project Spec** | [link]() | [link]() | [link]() |
 | **Github** | [link]() | [link]() | [link]() |
@@ -42,7 +42,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ## C: Group Projects
 
-| CATEGORY | Enigma | Black Thursday |
+| CATEGORY | Enigma | Headcount |
 | --- | --- | --- | --- |
 | **Project Spec** | [link]() | [link]() |
 | **Github** | [link]() | [link]() |
@@ -86,29 +86,31 @@ Feedback from partner projects.
 
 ### Job Prep
 
-*  [LinkedIn profile]()
+*  [LinkedIn profile](https://www.linkedin.com/in/tom-soucie/)
 
 ## E: Community
 
 ### Gear Up
 
-#### Session 1: ___________
+#### Session 1: Growth Mindset
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-#### Session 2: ___________
+#### Session 2: Getting Better at Difficult Things
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-#### Session 3: ______________
+#### Session 3: Dealing with Difference: Introvert vs. Extrovert
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-#### Session 4: _____________
+#### Session 4: Strengths & Storytelling
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I think my perception and understanding of my strengths has enhanced over the last few weeks, and I'm continuing to work to use my strengths to enhance my learning and the learning of my cohort (Maximizer). Through the strength "learner" I feel like I'm continually engaged and motivated by new topics, and connectedness helps me reach out to my classmates when I need help or can offer some support. I have had to deal with a lot of personal discouragement and frustration in learning some of the more advanced Ruby topics over the last few weeks. Even though I have the strength of being "analytical" it doesn't mean that picking up the new language and syntax comes easy to me, and I've been getting discouraged and questioning "Why am I even doing this?". I know this is my lack of growth mindset, and I need to stay engaged with the struggle, and I try to use an analytical mindset to work through the discouragement. I try to make sure I recognize only a few months ago I hadn't even been aware of many of these concepts that I've mastered and feel confident in executing. While I have a lot of work left, I keep trying to use my strengths to build a growth mindset, stay mentally engaged with the "struggle", and keep working on ways to improve my learning process and help the learning of my cohort.
 
-#### Session 5: ________________
+Through acknowledging and working through the "struggle" I think it can help to normalize how difficult some of these concepts and topics can be, so that others don't feel bad or "less than" when they also struggle when learning new concepts. The struggle in seeking to break into the software industry is something I want to help others with in the future, and is definitely something that will continue to be a part of my story.
+
+#### Session 5: Debugging the Gender Gap
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
