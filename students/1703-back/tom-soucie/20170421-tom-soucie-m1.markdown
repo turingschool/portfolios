@@ -31,14 +31,13 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | CATEGORY | Credit Check | Jungle Beats | Battleship |
 | --- | --- | --- | --- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/jungle_beat) | [link](http://backend.turing.io/module1/projects/battleship
-) |
-| **Github** | [link]() | [link]() | [link]() |
-| **Functional Expectations** | x | x | x |
-| **Test-Driven Development** | x | x | x |
-| **Encapsulation/Breaking Logic into Components** | x | x | x |
-| **Fundamental Ruby & Style** | x | x | x |
-| **Loop or Recursion** | x | x | x |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/jungle_beat) | [link](http://backend.turing.io/module1/projects/battleship) |
+| **Github** | [link](https://github.com/TomSoucie/credit_check) | [link](https://github.com/TomSoucie/jungle_beats) | [link](https://github.com/TomSoucie/battleship) |
+| **Functional Expectations** | 3 | 3 | 1 |
+| **Test-Driven Development** | na | 3 | 2 |
+| **Encapsulation/Breaking Logic into Components** | 1 | 3 | 3 |
+| **Fundamental Ruby & Style** | 3 | 3 | 3 |
+| **Loop or Recursion** | na | 3 | 3 |
 
 
 ## C: Group Projects
