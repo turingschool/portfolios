@@ -1,4 +1,4 @@
-# FIRST LAST - M1 Portfolio
+# Tom Soucie - M1 Portfolio
 
 ## Areas of Emphasis
 
