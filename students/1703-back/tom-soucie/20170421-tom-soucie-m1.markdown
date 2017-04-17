@@ -1,4 +1,4 @@
-# FIRST LAST - M1 Portfolio
+# Tom Soucie - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -94,15 +94,15 @@ Feedback from partner projects.
 
 #### Session 1: Growth Mindset
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This was a great gear up for me as I've only recently heard about the concept of "growth mindset" and I had definitely been raised with the concept of a "fixed" mindset, that each individual is limited to certain skills and abilities and there's a limit to how much that can be expanded. Growth mindset is the opposite of this, with the mindset that any person can learn a new skill if they only work at it. This is a super powerful concept, but I still sometimes struggle with a fixed mindset when facing a challenging new topic or a project I can can't get to work. When this happens I take a second to remember growth mindset and get back into the state of mind of learning and growing. The supportive learning environement at Turing helps make it OK to not know everything, and to ask questions to keep growing and learning. Learning from peers also helps me ask the right question and break the question/problem down into more manageable size, making it easier to understand and work through. Which helps keep a growth mindset!
 
 #### Session 2: Getting Better at Difficult Things
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This gear introduced a neat topic around perceptual learning and how to build up difficult skills faster. The example of "chicken sexing" was pretty interesting and demonstrated how such a vague skill could be picked up most efficiently through perceptual learning. I want to start using this mindset in pairing, and for following demos/tutorials online. I really appreciated the different phases of learning and how to best accumulate the highest level of skill, which will help me as a progress as a software developer. 
 
 #### Session 3: Dealing with Difference: Introvert vs. Extrovert
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Being more of an introvert, it was  great to hear this topic and how I can utilize this as a strength. As an introvert I try to be more self aware and "check in" when working with others that are more extroverted, so I can ensure I'm being a good partner and supporting the project. This topic also had me thinking a lot about growth mindset, and how I can push myself beyond social comfort zones to become a better presenter/instructor in the future. It was enjoyable to learn more about my classmates in the group discussions and learn how varied our personalities are when it comes to introversion vs. extroversion.   
 
 #### Session 4: Strengths & Storytelling
 
