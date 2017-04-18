@@ -22,7 +22,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Category | Result (pass, fail, pending) |
 | ----- | --- |
-| Pairing Assessment | x |
+| Pairing Assessment | Pass |
 | Independent Timed Assessment | x |
 | Diagnostic | x |
 
