@@ -44,14 +44,16 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | CATEGORY | Enigma | Headcount |
 | --- | --- | --- | --- |
-| **Project Spec** | [link]() | [link]() |
-| **Github** | [link]() | [link]() |
-| **Functional Expectations** | x | x |
-| **Test-Driven Development** | x | x |
-| **Encapsulation/Breaking Logic into Components** | x | x |
-| **Fundamental Ruby & Style** | x | x |
-| **Enumerable & Collections** | x | x |
-| **Code Sanitation** | x | x |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma
+) | [link](http://backend.turing.io/module1/projects/headcount
+) |
+| **Github** | [link](https://github.com/TomSoucie/enigma) | [link]() |
+| **Functional Expectations** | 1 | x |
+| **Test-Driven Development** | 3 | x |
+| **Encapsulation/Breaking Logic into Components** | 3 | x |
+| **Fundamental Ruby & Style** | 3 | x |
+| **Enumerable & Collections** | na | x |
+| **Code Sanitation** | na | x |
 
 
 ## D: Professional Development
@@ -64,23 +66,25 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 Feedback from partner projects.
 
-#### Project 1 (Partner Name):
+#### Project 1 (Sarah Kirk):
 
-**Feedback for ___________:**
+**Feedback for Enigma:**
+
+> Sarah was a great partner for me as she would ask questions and check in and make sure we were both on the same page. Sarah also had a few merge conflicts but I think again this was due to lack of experience and just part of the learning process with git.  I felt the biggest issues faced during our project were merge conflicts with git and the overall "problem" of the Enigma machine and how it was to be completed for the project. The merge conflicts were a result of inexperience with git and improved over the course of the project. The technical aspects of the problem were dramatic at first but Sarah and I worked together to get the issues resolved, but I felt the complexity resulted in me not verbally communicating at times and simply staring at the monitor and reading to understand the project and code.  Sarah was a great partner for me as she would ask questions and check in and make sure we were both on the same page. Sarah also had a few merge conflicts but I think again this was due to lack of experience and just part of the learning process with git.
+
+Sarah always came to our project meetings with an upbeat attitude which helped us both get started with great energy. There were times during our project when we would encounter challenges writing the code, and figuring out the right way to solve the problem. Whenever we'd encounter this kind of "resistance" Sarah always maintained a positive attitude. Her willingness to work through the challenge was very motivating, and helped me stay mentally engaged and working on the problem. Sarah's motivating energy and positive outlook helped us complete the project and was a great asset to our team!
+
+**Feedback from Enigma:**
+
+> I can honestly say that I couldn't have asked for a better partner. We work extremely well together, and you really jive with my learning style. I think a large part of our success was how thoroughly we defined our relationship so that there were no surprises when I told you about how I get hangry or that I need a lot of communication to make sure things are going well. When asked to reflect on problems that we had run into, I mostly found myself looking at things I could have done better. I appreciated that you pulled me out of some "holes" with coffee and telling me that we needed to take a break. Overall, it was a pleasure to work with you and I hope that we pair again in the future.
+
+#### Project 2 (Mason Holland):
+
+**Feedback for Headcount:**
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-**Feedback from ___________:**
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-#### Project 2 (Partner Name):
-
-**Feedback for ___________:**
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-**Feedback from ___________:**
+**Feedback from Headcount:**
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -108,7 +112,7 @@ Being more of an introvert, it was  great to hear this topic and how I can utili
 
 I think my perception and understanding of my strengths has enhanced over the last few weeks, and I'm continuing to work to use my strengths to enhance my learning and the learning of my cohort (Maximizer). Through the strength "learner" I feel like I'm continually engaged and motivated by new topics, and connectedness helps me reach out to my classmates when I need help or can offer some support. I have had to deal with a lot of personal discouragement and frustration in learning some of the more advanced Ruby topics over the last few weeks. Even though I have the strength of being "analytical" it doesn't mean that picking up the new language and syntax comes easy to me, and I've been getting discouraged and questioning "Why am I even doing this?". I know this is my lack of growth mindset, and I need to stay engaged with the struggle, and I try to use an analytical mindset to work through the discouragement. I try to make sure I recognize only a few months ago I hadn't even been aware of many of these concepts that I've mastered and feel confident in executing. While I have a lot of work left, I keep trying to use my strengths to build a growth mindset, stay mentally engaged with the "struggle", and keep working on ways to improve my learning process and help the learning of my cohort.
 
-Through acknowledging and working through the "struggle" I think it can help to normalize how difficult some of these concepts and topics can be, so that others don't feel bad or "less than" when they also struggle when learning new concepts. The struggle in seeking to break into the software industry is something I want to help others with in the future, and is definitely something that will continue to be a part of my story.
+Through acknowledging and working through the "struggle" I think it can help to normalize how difficult some of these concepts and topics can be. And I hope by sharing this to help others not feel bad or "less than" when they also struggle when learning new concepts. The struggle in seeking to break into the software industry is something I want to help others with in the future, and is definitely something that will continue to be a part of my story.
 
 #### Session 5: Debugging the Gender Gap
 
