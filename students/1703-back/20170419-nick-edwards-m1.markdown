@@ -1,4 +1,4 @@
-# FIRST LAST - M1 Portfolio
+# Nick Edwards - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -10,11 +10,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | --- | --- | --- |
-| A | **End-of-Module Assessments** | x |
-| B | **Individual Projects** | x |
-| C | **Group Projects** | x |
-| D | **Professional Development** | x |
-| E | **Community** | x |
+| A | **End-of-Module Assessments** | 4 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | 3 |
+| E | **Community** | 3 |
 
 ------------------------------------------------
 
@@ -31,13 +31,13 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | CATEGORY | Credit Check | Jungle Beats / Date Night | Battleship |
 | --- | --- | --- | --- |
-| **Project Spec** | [link]() | [link]() | [link]() |
-| **Github** | [link]() | [link]() | [link]() |
-| **Functional Expectations** | x | x | x |
-| **Test-Driven Development** | x | x | x |
-| **Encapsulation/Breaking Logic into Components** | x | x | x |
-| **Fundamental Ruby & Style** | x | x | x |
-| **Loop or Recursion** | x | x | x |
+| **Project Spec** | http://backend.turing.io/module1/projects/credit_check | http://backend.turing.io/module1/projects/jungle_beat | http://backend.turing.io/module1/projects/battleship |
+| **Github** | https://github.com/nickedwards109/credit_check | https://github.com/nickedwards109/linked-list-jungle-beat | https://github.com/nickedwards109/battleship |
+| **Functional Expectations** | 2 | 3 | 3 |
+| **Test-Driven Development** | N/A | 3 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 4 | 3 | 3 |
+| **Fundamental Ruby & Style** | 3 | 3 | 3 |
+| **Loop or Recursion** | N/A | 3 | N/A |
 
 
 ## C: Group Projects
