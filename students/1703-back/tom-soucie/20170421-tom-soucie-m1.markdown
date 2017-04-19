@@ -10,11 +10,11 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | --- | --- | --- |
-| A | **End-of-Module Assessments** | x |
-| B | **Individual Projects** | x |
-| C | **Group Projects** | x |
-| D | **Professional Development** | x |
-| E | **Community** | x |
+| A | **End-of-Module Assessments** | 3 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | 3 |
+| E | **Community** | 3 |
 
 ------------------------------------------------
 
@@ -72,7 +72,7 @@ Feedback from partner projects.
 
 > Sarah was a great partner for me as she would ask questions and check in and make sure we were both on the same page. Sarah also had a few merge conflicts but I think again this was due to lack of experience and just part of the learning process with git.  I felt the biggest issues faced during our project were merge conflicts with git and the overall "problem" of the Enigma machine and how it was to be completed for the project. The merge conflicts were a result of inexperience with git and improved over the course of the project. The technical aspects of the problem were dramatic at first but Sarah and I worked together to get the issues resolved, but I felt the complexity resulted in me not verbally communicating at times and simply staring at the monitor and reading to understand the project and code.  Sarah was a great partner for me as she would ask questions and check in and make sure we were both on the same page. Sarah also had a few merge conflicts but I think again this was due to lack of experience and just part of the learning process with git.
 
-Sarah always came to our project meetings with an upbeat attitude which helped us both get started with great energy. There were times during our project when we would encounter challenges writing the code, and figuring out the right way to solve the problem. Whenever we'd encounter this kind of "resistance" Sarah always maintained a positive attitude. Her willingness to work through the challenge was very motivating, and helped me stay mentally engaged and working on the problem. Sarah's motivating energy and positive outlook helped us complete the project and was a great asset to our team!
+>Sarah always came to our project meetings with an upbeat attitude which helped us both get started with great energy. There were times during our project when we would encounter challenges writing the code, and figuring out the right way to solve the problem. Whenever we'd encounter this kind of "resistance" Sarah always maintained a positive attitude. Her willingness to work through the challenge was very motivating, and helped me stay mentally engaged and working on the problem. Sarah's motivating energy and positive outlook helped us complete the project and was a great asset to our team!
 
 **Feedback from Enigma:**
 
@@ -82,7 +82,9 @@ Sarah always came to our project meetings with an upbeat attitude which helped u
 
 **Feedback for Headcount:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> This has been the most difficult and lengthy project of the most difficult educational venture I've ever attempted but it was great to work with Mason on this project. At times I was overwhelmed with the scope of the project at hand, but Mason's positive attitudue kept us moving forward. Mason always came to work with a great outlook even when we were facing stress and uncertainty with the project, and his positive attitude helped me stayed engaged with the work. Mason was always obliging when I need a break, and we worked well together in pairing. I need to work at "navigating" more explicitly and Mason is great at giving friendly feedback during pairing, keeping the work fun even when the project requirements were challenging. 
+
+>Mason's strength of understanding of Ruby syntax and hash methods complimented my affinity for testing, allowing us to make significant progress toward completion of all the project specifications. At the end of Mod1 and almost done with Headcount, I'm extremely happy with what we've learned and was grateful Mason was my partner for this challenge. 
 
 **Feedback from Headcount:**
 
@@ -102,7 +104,7 @@ This was a great gear up for me as I've only recently heard about the concept of
 
 #### Session 2: Getting Better at Difficult Things
 
-This gear introduced a neat topic around perceptual learning and how to build up difficult skills faster. The example of "chicken sexing" was pretty interesting and demonstrated how such a vague skill could be picked up most efficiently through perceptual learning. I want to start using this mindset in pairing, and for following demos/tutorials online. I really appreciated the different phases of learning and how to best accumulate the highest level of skill, which will help me as a progress as a software developer. 
+This gear introduced a neat topic around perceptual learning and how to build up difficult skills faster. The example of of determining chicken gender was pretty interesting and demonstrated how such a vague skill could be picked up most efficiently through perceptual learning. I want to start using this mindset in pairing, and for following demos/tutorials online. I really appreciated the different phases of learning and how to best accumulate the highest level of skill, which will help me as a progress as a software developer. 
 
 #### Session 3: Dealing with Difference: Introvert vs. Extrovert
 
