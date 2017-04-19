@@ -12,19 +12,19 @@
 
 ## Group Work
 
-###[Quantified Self pt. 1](https://github.com/Dpalazzari/quantified_self)
+[Quantified Self pt. 1](https://github.com/Dpalazzari/quantified_self)
 
   Considering this project was in a new language, was very difficult, was a team project, and included testing in a brand new technology, I think we did pretty damn good.
 
   To clarify, Amy was in the midst of an intense job search during this project, as shown by the lack of completion and testing. The functionality and code that I did get written by myself is pretty good, and pretty well written. I learned a lot about javascript in this project, and despite the challenge, I had a blast figuring it out. Another day and a half, and the project would have been completed. The grading rubrick can be found [here](https://github.com/turingschool/ruby-submissions/blob/master/1610-b/4module/quantified-self-part-one/amy_drew.md).
 
-###[Quantified Self pt. 2](https://github.com/Dpalazzari/quantified-self)
+[Quantified Self pt. 2](https://github.com/Dpalazzari/quantified-self)
 
   I worked with David on the part 2 section of this project. We had a sweet Node.js back-end that was pushed to [heroku](https://quantified-self123.herokuapp.com/) and worked well with the front-end application we built. This project was the icing on the cake of JavaScript. It brought AJAX, jQuery, and a database all into one application. Everything we could have hoped for.
 
   Feedback for part 2 [here](https://github.com/Dpalazzari/qs_node/issues/16).
 
-###[Johari Window](https://github.com/Dpalazzari/johari_window_api)
+[Johari Window](https://github.com/Dpalazzari/johari_window_api)
 
   My group's mod 4 capstone project. Consisted off three apps. [One](https://github.com/turingschool-projects/census) already built and the other two built from scratch. I spent MOST of the time on the Ruby on Rails back-end API that we needed, which was great for a refresher. Up to this point I hadn't done any Ruby-ing for a couple weeks. Overall, we achieved almost everything the group set out to. The application's front-end was built in React.js, and I think everyone learned a great deal in the end. We all came to the conclusion, however, that perhaps React wasn't the best technology to use for the front-end. We really needed some login functionality, which was the one problem the application had.
 
