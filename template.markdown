@@ -177,6 +177,19 @@ Gain a foundation in front end web design
 ### Gear Up
 #### Growth Mindset
 
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
+
+I found the this gear up very helpful for me through my time at Turing.  Learning coding is a far departure from my background and I constantly found myself wondering if I was capable of learning coding.  This gear up gave me some tools to shift from the fixed mindset.
+
+#### Getting Better at Difficult Things
+
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md)
+
+This helped me recognize when I am dedicating too much time to being stuck in a process.  It gave me good insight to taking an approach to small tasks as opposed to trying to tackle the whole problem.
+
+#### Debugging the Gender Gap
+
+This gave great insight into building with the user in mind as opposed to only yourself.  The information regarding coding class in highschools is very disappointing and alarming.  Coding class is not applied as credit towards your diploma and only two States have certification standards for teachers on this subject.  The womens stories of mistreatment in school and in the work place was upsetting and came as a suprise to me for this industry. 
 
 
 
