@@ -1,117 +1,127 @@
-First Last - MX Portfolio
+# FIRST LAST - M1 Portfolio
 
-Areas of Emphasis
+## Areas of Emphasis
 
-(insert description here)
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Self-Assessment Scores
+## Self-Assessment Scores
 
 Fill in how you would grade yourself from 1-4 in the following categories this module.
 
-Section	Category	Score
-A	End-of-Module Assessment	X
-B	Individual Projects	X
-C	Group Projects	X
-D	Professional Development	X
-E	Community	X
-Notes
+| Section | Category | Score |
+| --- | --- | --- |
+| A | **End-of-Module Assessments** | x |
+| B | **Individual Projects** | x |
+| C | **Group Projects** | x |
+| D | **Professional Development** | x |
+| E | **Community** | x |
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
+------------------------------------------------
 
-Note 1 (if applicable)
-Note 2 (if applicable)
-A: End of Module Assessment
+## A: End of Module Assessment
 
-Category	Score
-Written Diagnostic	PASS/FAIL
-Timed Exercise	PASS/FAIL
-Ruby Syntax & API	X
-Completion and Progress	X
-Testing	X
-Workflow	X
-Collaboration	X
-Enumerable & Collections	X
-Assessor Comments
+| Category | Result (pass, fail, pending) |
+| ----- | --- |
+| Pairing Assessment | x |
+| Independent Timed Assessment | x |
+| Diagnostic | x |
 
-Note 1 (if applicable)
-Note 2 (if applicable)
-B: Individual Projects
 
-CATEGORY	PROJ 1 (replace)	PROJ 2 (replace)	PROJECT 3 (replace)
-Project Spec	link	link	link
-Github	link	link	link
-Functional Expectations	X	X	X
-Test-Driven Development	X	X	X
-Encapsulation/Breaking Logic into Components	X	X	X
-Fundamental Ruby & Style	X	X	X
-Loop or Recursion	X	X	X
-Notes
+## B: Individual Projects
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
+| CATEGORY | Credit Check | Jungle Beats / Date Night | Battleship |
+| --- | --- | --- | --- |
+| **Project Spec** | [link]() | [link]() | [link]() |
+| **Github** | [link]() | [link]() | [link]() |
+| **Functional Expectations** | x | x | x |
+| **Test-Driven Development** | x | x | x |
+| **Encapsulation/Breaking Logic into Components** | x | x | x |
+| **Fundamental Ruby & Style** | x | x | x |
+| **Loop or Recursion** | x | x | x |
 
-Note 1 (if applicable)
-Note 2 (if applicable)
-C: Group Projects
 
-CATEGORY	PROJECT 1	PROJECT 2
-Project Spec	link	link
-Github	link	link
-Functional Expectations	X	X
-Test-Driven Development	X	X
-Encapsulation/Breaking Logic into Components	X	X
-Fundamental Ruby & Style	X	X
-Loop or Recursion	X	X
-Teamwork	X	X
-Notes
+## C: Group Projects
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
+| CATEGORY | Enigma | Black Thursday |
+| --- | --- | --- | --- |
+| **Project Spec** | [link]() | [link]() |
+| **Github** | [link]() | [link]() |
+| **Functional Expectations** | x | x |
+| **Test-Driven Development** | x | x |
+| **Encapsulation/Breaking Logic into Components** | x | x |
+| **Fundamental Ruby & Style** | x | x |
+| **Enumerable & Collections** | x | x |
+| **Code Sanitation** | x | x |
 
-Note 1 (if applicable)
-Note 2 (if applicable)
-D: Professional Development
 
-Define-the-Relationship (DTR)
+## D: Professional Development
 
-Link to DTR Memo from 1 paired project.
+### Define-the-Relationship (DTR)
 
-Pair Feedback
+[Link]() to DTR Memo from 1 paired project.
+
+### Pair Feedback
 
 Feedback from partner projects.
 
-Project 1 (First Last): lorem ipsum
-Project 2 (First Last): lorem ipsum
-Job Prep
+#### Project 1 (Partner Name):
 
-Resume with a summary statement and placeholder for projects and skills to be obtained during Turing: link
-LinkedIn profile with a summary, descriptions under experience, and Turing under education: Link
-E: Community
+**Feedback for ___________:**
 
-Gear Up
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Session 1
+**Feedback from ___________:**
 
-(insert reflection summary here)
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Session 2
+#### Project 2 (Partner Name):
 
-(insert reflection summary here)
+**Feedback for ___________:**
 
-Session 3
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-(insert reflection summary here)
+**Feedback from ___________:**
 
-Session 4
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-(insert reflection summary here)
+### Job Prep
 
-Community Participation
+*  [LinkedIn profile]()
 
-(insert description of how you’ve contributed to the Turing community)
+## E: Community
 
-Final Review
+### Gear Up
 
-Note 1
-Note 2
-Outcome
+#### Session 1: ___________
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+#### Session 2: ___________
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+#### Session 3: ______________
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+#### Session 4: _____________
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+#### Session 5: ________________
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Community Participation
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+-------------------------------------------------------------
+
+## Final Review
+
+Please leave blank for assessor.
+
+### Outcome
 
 (PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
