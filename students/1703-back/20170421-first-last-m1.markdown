@@ -1,8 +1,8 @@
-# First Last - MX Portfolio
+# Joel Lindow - Mod1 Portfolio
 
 ## Areas of Emphasis
 
-(insert description here)
+Back End Software Development. Test Driven Development. 
 
 ## Self-Assessment Scores
 
@@ -82,7 +82,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 ### Pair Feedback
 
-#### Project 1 (Partner Name):
+#### Project 1 (Enigma - Ben Ross):
 
 **Feedback for Ben Ross:**
 
@@ -100,13 +100,19 @@ Joel Lindow
 
 Ben Ross
 
-#### Project 2 (Partner Name):
+#### Project 2 (Headcount - Padraic O'Neill):
 
-**Feedback for ___________:**
+**Feedback for Padraic O'Neill:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Padraic,
 
-**Feedback from ___________:**
+I've really enjoyed getting to know you better while we've worked on this project. I've spent more time with you in person or online than I've spent with my own family and now it feels like you're almost a cousin or a long lost brother. I'm always impressed by your knowledge. When you or I hit a dead end it seems we can find eachother a "way out" and a place to continue on. I think, given the crazy circumstances we both encountered during this project, that we still complemented eachother's working and learning styles better than could have been expected. 
+I would encourage you to keep pursuing refinement of test driven development. You're doing great work and I think that even better tests will push you far ahead of the pack in your abilities.
+Thanks for all of your hard work, patience and inspiration. It's been a fruitful experience. Keep up the great work.
+
+Joel Lindow
+
+**Feedback from Padraic O'Neill:**
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
