@@ -22,8 +22,8 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Category | Result (pass, fail, pending) |
 | ----- | --- |
-| Pairing Assessment | Pass |
-| Independent Timed Assessment | x |
+| Pairing Assessment | pass |
+| Independent Timed Assessment | pass |
 | Diagnostic | x |
 
 
@@ -116,11 +116,11 @@ Through acknowledging and working through the "struggle" I think it can help to 
 
 #### Session 5: Debugging the Gender Gap
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This short film re-inforced my decision to attend to Turing, just for the focus on the mission and bringing issues highlighted by 'Code' to part of the education conversation. This film definitely brings about an emotional response for me, as while I cannot imagine being in the place of a female in a hostile male work envirnoment, I know how frustrating and emotional trying to learn Ruby in a super positive supportive environement like Turing, so I can only think the frustration and emotionlal pain of some of the females in the film was infinitely worse. It only furthers my passion for learning web development and helping others learn web development to increase the number and diversity of qualified developers. 
 
 ### Community Participation
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+During the first few weeks at Turing I tried out several different posses for spike times and after class meetings (Wozniak, Supercool Study Groups & Productivity Lunch) and eventually settled on the Armstrong posse for the last 2 weeks. It was great to interact with students from other Mods and see how in a short time they've developed the skills and abilities to learn new languagues and pick up the ability to create and make, and it's super motivating that at the end of Turing I'll be able to do that too! I've also taken opportunity for pairing twice a week, and started taking advantage of impostors meetings and informal lunches / walk breaks with other students. The community at Turing has become my favorite part of the school environement. After the "learning difficult things" gear up I really bought into pairing (I was definitely resistant simply due to fear of making mistakes in front of others) and I've realized what a powerful and useful learning and production tool pairing is. Even though this is just one small example of the benefit I've gained from the Turing community, I want to give back more to future mods. Some possible things I want to support are helping with Armstrong posse and the Turing podcast. Podcasts are my favorite medium of entertainment / education so it would be great to help promote Turing in this form!
 
 -------------------------------------------------------------
 
