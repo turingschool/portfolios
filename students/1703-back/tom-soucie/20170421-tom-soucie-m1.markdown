@@ -43,7 +43,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 ## C: Group Projects
 
 | CATEGORY | Enigma | Headcount |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma
 ) | [link](http://backend.turing.io/module1/projects/headcount
 ) |
