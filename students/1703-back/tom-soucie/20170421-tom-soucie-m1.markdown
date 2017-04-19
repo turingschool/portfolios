@@ -82,7 +82,9 @@ Sarah always came to our project meetings with an upbeat attitude which helped u
 
 **Feedback for Headcount:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> This has been the most difficult and lengthy project of the most difficult educational venture I've ever attempted but it was great to work with Mason on this project. At times I was overwhelmed with the scope of the project at hand, but Mason's positive attitudue kept us moving forward. Mason always came to work with a great outlook even when we were facing stress and uncertainty with the project, and his positive attitude helped me stayed engaged with the work. Mason was always obliging when I need a break, and we worked well together in pairing. I need to work at "navigating" more explicitly and Mason is great at giving friendly feedback during pairing, keeping the work fun even when the project requirements were challenging. 
+
+Mason's strength of understanding of Ruby syntax and hash methods complimented my affinity for testing, allowing us to make significant progress toward completion of all the project specifications. At the end of Mod1 and almost done with Headcount, I'm extremely happy with what we've learned and was grateful Mason was my partner for this challenge. 
 
 **Feedback from Headcount:**
 
