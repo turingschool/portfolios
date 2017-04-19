@@ -2,15 +2,15 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+(what you think.)
 
 ## Rubric Scores
 
-*   **A: End-of-Module Assessment**: X
-*   **B: Individual Work & Projects**: X
-*   **C: Group Work & Projects**: X
-*   **D: Professional Skills**: X
-*   **E: Feedback & Community Participation**: X
+*   **A: End-of-Module Assessment**:
+*   **B: Individual Work & Projects**:
+*   **C: Group Work & Projects**:
+*   **D: Professional Skills**:
+*   **E: Feedback & Community Participation**:
 
 -----------------------
 
