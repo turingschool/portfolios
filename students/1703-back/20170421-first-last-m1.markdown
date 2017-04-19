@@ -155,7 +155,7 @@ After 5 weeks at Turing I didn't feel like a different person. However, I was a 
 [Link to Markdown](https://gist.github.com/JoelLindow/4f6f2626a0bfe2ca58296e40ccaffeff)
 
 ### Community Participation
-  + Bringing a positie attitude to each and every interaction
+  + Bringing a positive attitude to each and every interaction
   + Encouraging my classmates and sharing things I learn with those who have not learned those things yet
   + Giving honest and mature feedback through student advisory board, week end recaps and teacher surveys
   + Mediating heated discussions between classmates.
