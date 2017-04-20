@@ -22,9 +22,9 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Category | Result (pass, fail, pending) |
 | ----- | --- |
-| Pairing Assessment | x |
-| Independent Timed Assessment | x |
-| Diagnostic | x |
+| Pairing Assessment | Pass |
+| Independent Timed Assessment | Pass |
+| Diagnostic | Pass |
 
 
 ## B: Individual Projects
