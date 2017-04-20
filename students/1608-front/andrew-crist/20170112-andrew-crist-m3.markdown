@@ -143,6 +143,8 @@ The output from a code sanitizer (either JSHint or ESLint) shows…
 
 I appreciated this gear up because it spoke to something that I feel like I was naturally born with, however, in our discussions, I realized that what I considered to my grit may actually be circumstantial grit. I think grit is being able to stick with something despite your decision to be in that situation. I able able to exhibit grit in these circumstances, but my endurance is also fed by my desire to find myself in different circumstances where grit isn't necessary. Is this grit?
 
+###### [Flower Exercise](http://imgur.com/a/a79HK)
+
 ### Professional Development
 
 I worked extensively this mod to improve my resume. I have a lot of work to do on my LinkedIn. I also did some cold outreach to seven companies and have begun applying for jobs.
