@@ -61,18 +61,20 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | - | - | - |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link](http://backend.turing.io/module1/projects/headcount) |
 | **Github** | [link](https://github.com/JoelLindow/Enigma) | [link](http://www.linkedin.com) |
-| **Functional Expectations** | 3 | X |
-| **Test-Driven Development** | 3 | X |
-| **Encapsulation/Breaking Logic into Components** | 2 | X |
-| **Fundamental Ruby & Style** | 3 | X |
-| **Loop or Recursion** | X | X |
-| **Teamwork** | X | X |
+| **Functional Expectations** | 3 | 2 |
+| **Test-Driven Development** | 3 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 2 | 3 |
+| **Fundamental Ruby & Style** | 3 | 3 |
+| **Loop or Recursion** | X | 4 |
+| **Teamwork** | X | 4 |
 
 #### Notes
 
 * In the project "Enigma" I believe the evaluators comments should be recognized, mainly:
   + strong use of helper methods
   + great pair work - loved seeing the dynamic of raising each other up and making sure each is on the same page.
+* In the prohect "Headcount":
+  + simplecov set up with 100% coverage
 
 
 ## D: Professional Development
