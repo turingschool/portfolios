@@ -67,9 +67,9 @@
 
 ##### Feedback to me for Little Shop
 
-  >* From Joseph:
-  >* From Lauren:
-  >* From Jack:
+  >* From Joseph: All I can say is that We Can Pickle That is the prettiest project we’ve ever produced and you are a styling master. I enjoyed pairing with you at the start of our project, and appreciated you reaching out to pair towards the end as well, even when I couldn’t or was sadly neck-deep in another feature. You’re willing to put in long hours, you take setbacks and code explosions in stride, and I feel like you’re good at clearly communicating your opinions and thoughts, while still being flexible to anyone else’s contributions. I wish I’d asked to pair along with you for some of the styling, I’d love to learn how you did it. Hopefully we can do that some more on our next group project!
+  >* From Lauren: Hey Andrew! Really enjoyed working with you on the little shop project. If I had any constructive feedback for you, it's fine tune your git workflow. As mentioned in today's eval, if I could change something about the project implementation, it would be making sure the following was a clearly articulated best practice for our git workflow: 1. pull down from master, 2. merge master with your current branch, and 3. run RSpec before pushing/making a pull request to ensure your new code also passes any recent code that was merged to master since you last pulled down. You're funny and did a flipping awesome job on our project's styling. I think aside from all the neat features we implemented in our project, the styling really tied it together and set the stage for an awesome user experience. I really appreciate all the work you did to get it looking as professional as it did, with lots of funny little tid bits and flair. I'm ridiculously proud of our project!
+  >* From Jack: For Andrew: It was really cool to finally get to work with you! Your work on the styling was really critical to the success of this project. The attention to detail, and willingness to push through the gritty details of the styling. I really liked that you had no problems putting in after hours time, and caused literally no issues, social or otherwise. Areas for improvement: When you get deep into a feature or branch, make your life easier by pulling down master and merging it in occasionally.
 
 
 ## D: Professional Skills
@@ -82,13 +82,12 @@
 #### **Gear Ups**
 
 > [Empathy](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+\I am fairly conscious of my priviledge as a white male, but i will never knkow exact;y what it may be like for someone else. All I can do is try to place myself in someone else's position and be mindful of that and how the may perceive things differently from me.
 
 > [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
-
+\My level of grit has increased significantly in my time at turing. I'm much more comfortable with being uncomfortable, and pushing myself farther than i think i can go. On the flip size however, i've also learned to step back and take a break in order to stay productive.
 > [Automation](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+\Automation is coming whether we want it to or not. It's simply to practical not to use considering where we are at with technology. Apparently something close to half of all US jobs will be lost to automation in the coming few decades, so we need to figure out how to retrain and reorient the work force.
 
 
 ## E: Feedback and Community Participation
