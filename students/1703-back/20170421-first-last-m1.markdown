@@ -56,12 +56,12 @@ I came into module one with three goals: Fluency in Ruby and OOP, Fast and effec
 | --- | --- | --- | --- |
 | **Project Spec** | [Enigma Spec](http://backend.turing.io/module1/projects/enigma) | [Headcount Spec](http://backend.turing.io/module1/projects/headcount) |
 | **Github** | [Enigma Github](https://github.com/MrAaronOlsen/enigma) | [Headcount Github](https://github.com/MrAaronOlsen/headcount) |
-| **Functional Expectations** | 4 | x |
-| **Test-Driven Development** | 3 | x |
-| **Encapsulation/Breaking Logic into Components** | 3 | x |
-| **Fundamental Ruby & Style** | 3 | x |
-| **Enumerable & Collections** | na | x |
-| **Code Sanitation** | na | x |
+| **Functional Expectations** | 4 | 3 |
+| **Test-Driven Development** | 3 | 4 |
+| **Encapsulation/Breaking Logic into Components** | 3 | 3 |
+| **Fundamental Ruby & Style** | 3 | 3 |
+| **Enumerable & Collections** | na | 3 |
+| **Code Sanitation** | na | 4 |
 
 
 ## D: Professional Development
@@ -78,7 +78,7 @@ Feedback from partner projects.
 
 #### Project 1 (Mason Hollad):
 
-**Feedback for ___________:**
+**Feedback for Mason Holland:**
 
 * It was quite a pleasure working with Mason. I appreciated his ability to communicate what his limitations were. He laid it all out up front, being cognizant of how those limitations could affect the project, and how he could adjust if it was affecting the project. We agreed at the start on a few sideboards, scheduling conflicts, and what we wanted to achieve by the end. He stuck to those decisions and we had no conflict as a result throughout. Mason was ready to let me take control of the project, such as asking what I wanted him to do, or asking me how we should proceed. This is my main critique for Mason. He was more than capable of steering the direction or implication of the project, and when nudged he did. As a result our project benefited from his ideas and effort. The biggest critique is not just for Mason, but for me as well. We met all the basic criteria for the project far ahead of schedule. Rather than ask if there were ways we could further improve what we had, we called it good and moved on. It definitely looks good, and I’m proud of what we made, but we were not critical enough of the project when given the opportunity to be critical. Overall I think Mason has a sharp mind and is great person to work with. While he often downplayed his ability or his contribution, his work gave me no reason to doubt him.
 
@@ -88,13 +88,13 @@ Feedback from partner projects.
 
 #### Project 2 (Partner Name):
 
-**Feedback for ___________:**
+**Feedback for Marc Fidelman:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* Headcount was a massive project and really stretched both of our coding skills. Marc was right there the whole time keeping the momentum going to get through it. Marc’s workflow and knowledge of shortcuts and tricks was a huge help for me. I gained a lot from watching how he organized his workflow and how he used his editor to code. This project required a lot of problem solving and thinking ahead, and Marc was a great asset in discussing and figuring out some of more difficult aspects of the problems. The only real bump we ran into was when Marc overlooked an aspect of the spec. This required us to go back and rewrite a section of the project which put us a little behind. In the future I would make sure to double check the spec to make sure it is being followed correctly. I learned a lot from this project and Marc was a big part of that learning. Headcount was big and complex, and having Marc as a partner made the learning experience valuable and worthwhile.
 
-**Feedback from ___________:**
+**Feedback from Marc Fidelman:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* To Be Added
 
 ### Job Prep
 
@@ -110,23 +110,23 @@ Feedback from partner projects.
 
 #### Session 2: 3/22: Getting Better at Difficult Things
 
-* Reducing your cognitive load is a powerful way to increase your mastery of difficult things. This can be done by breaking your learning goals into smaller bits, prioritizing a few, and mastering those before taking on more. It can be easy to move several skills into a good understanding category. Trying to move all of those into mastery at the same pace will be difficult and discouraging. Combine this idea with the growth mindset and achieving mastery of something is far more realistic.
+* Reducing your cognitive load is a powerful way to increase your mastery of difficult things. This can be done by breaking your learning goals into smaller bits, prioritizing a few, and mastering those before taking on more. It can be easy to move several skills into a 'good understanding' category. Trying to move all of those into mastery at the same pace will be difficult and discouraging. Combine this idea with the growth mindset and achieving mastery of something is far more realistic.
 
 #### Session 3: 3/31: Introvert vs. Extrovert
 
-* Introverts and extroverts have at least one thing in common, they can both be great coders. In our class, more than 70 percent identified as being more introvert than extravert, and this can often be the stereotype of computer programers. While introverts may gain their energy from being alone, they are often strong team players as long they know how to recharge. The same goes for extraverts who gain energy from social interactions. As long as they know how to recharge themselves without disrupting team dynamics, then they can be strong team members too. In either case, both types of need to be clear in their communication when faced with opposing personalities to reduce conflict and increase productivity.  
+* Introverts and extroverts have at least one thing in common, they can both be great coders. In our class, more than 70 percent identified as being more introvert than extravert, and this seems be the stereotype of computer programers. While introverts may gain their energy from being alone, they are often strong team players as long as they know how to find the time to recharge. The same goes for extraverts who gain energy from social interactions. As long as they know how to recharge themselves without disrupting team dynamics, they can be strong team members too. In either case, both types need to be clear in their communication when faced with opposing personalities to reduce conflict and increase productivity.  
 
 #### Session 4: 4/05: Strengths & Storytelling
 
-* I would like others to see me as someone they can trust and rely on for whatever may be needed. I think that my story of self reliance and hard work stand out, but they're not necessarily unique. Lot's of people work hard to get where they want. For me the story is my desire to learn, my many varied interests, and my quest to better myself and be a good person. That I can be trusted and trust others is something I take very seriously, and I value highly my desire to know and learn.
+* I would like others to see me as someone they can trust and rely on for whatever might be needed. I think that my story of self reliance and hard work stand out, but those are not necessarily unique. Lot's of people work hard to get where they want. For me the story is my desire to learn, my many varied interests, and my quest to better myself and be a good person. That I can be trusted and trust others is something I take very seriously, and I value highly my desire to know and learn.
 
 #### Session 5: 4/14: Debugging the Gender Gap
 
-* The tech industry's lack of woman is a deep and troubling issue. There doesn't seem to be a simple answer and it can be frustrating in this regard. At this point the best thing seems to be keeping the dialogue open and upfront. As it goes with anything, respecting other people for being human and checking yourself for bias can go a long way. Then, when one finds themselves in a position to make greater positive change, hopefully they will be ready to make the right choices.
+* The tech industry's lack of woman in the workplace is a deep and troubling issue. There doesn't seem to be a simple answer and it can be frustrating in this regard. For the time being the best thing seems to be keeping the dialogue open and upfront. As it goes with anything, respecting other people for being human and checking yourself for bias can go a long way. Then, when one finds themselves in a position to make greater positive change, hopefully they will be ready to make the right choices.
 
 ### Community Participation
 
-* This is a difficult area to do too much in as a module one student at Turing. The pace of learning is enough to keep you late and focusing on your work is really the goal. With that said, I have made an effort to lend my self to others who need help, whether that's with coding or dealing with stress. I have joined two posses in the hopes I'll be able to commit to one next mod. I can also be heard doing an interview with the Turing School Podcast.
+* This is a difficult area to do too much in as a module 1 student at Turing. The pace of learning is enough to keep you late and focusing on your work is really the goal. With that said, I have made an effort to lend myself to others who need help, whether that's with coding or dealing with stress. I have joined two posses in the hopes I'll be able to commit to one next mod. I can also be heard doing an interview with the Turing School Podcast.
 
 -------------------------------------------------------------
 
