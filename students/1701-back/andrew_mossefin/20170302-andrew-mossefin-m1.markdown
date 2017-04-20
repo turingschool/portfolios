@@ -73,7 +73,7 @@
   * From Lauren: 
   `Hey Andrew! Really enjoyed working with you on the little shop project. If I had any constructive feedback for you, it's fine tune your git workflow. As mentioned in today's eval, if I could change something about the project implementation, it would be making sure the following was a clearly articulated best practice for our git workflow: 1. pull down from master, 2. merge master with your current branch, and 3. run RSpec before pushing/making a pull request to ensure your new code also passes any recent code that was merged to master since you last pulled down. You're funny and did a flipping awesome job on our project's styling. I think aside from all the neat features we implemented in our project, the styling really tied it together and set the stage for an awesome user experience. I really appreciate all the work you did to get it looking as professional as it did, with lots of funny little tid bits and flair. I'm ridiculously proud of our project!`
   
-  >* From Jack: 
+  * From Jack: 
   `For Andrew: It was really cool to finally get to work with you! Your work on the styling was really critical to the success of this project. The attention to detail, and willingness to push through the gritty details of the styling. I really liked that you had no problems putting in after hours time, and caused literally no issues, social or otherwise. Areas for improvement: When you get deep into a feature or branch, make your life easier by pulling down master and merging it in occasionally.`
 
 
