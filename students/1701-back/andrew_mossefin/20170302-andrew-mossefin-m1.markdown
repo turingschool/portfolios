@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-In this module, i wanted to learn how to build beyond simple logic programs. It was exciting to learn how to actually build a full app from the ground floor and databases, all the way to the end user view. I also wanted to learn how to effectively cooperate with a full group of several people on a project as opposed to just a single partner.
+>* In this module, i wanted to learn how to build beyond simple logic programs. It was exciting to learn how to actually build a full app from the ground floor and databases, all the way to the end user view. I also wanted to learn how to effectively cooperate with a full group of several people on a project as opposed to just a single partner.
 
 ## Self-Assessment
 
@@ -15,7 +15,6 @@ In this module, i wanted to learn how to build beyond simple logic programs. It 
 | E | **Feedback & Community Participation** | 3 |
 
 >* Personal items aside, I'll be the first to admit that while Ruby was a learning process, it didn't completely challenge me. Rails, however, absolutely challenged me. Growth mindset was a difficult thing to graple with and improve on in this mod. 
->* \<Notes>
 
 -----------------------
 
