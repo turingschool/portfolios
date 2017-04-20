@@ -14,7 +14,7 @@ In this module, i wanted to learn how to build beyond simple logic programs. It 
 | D | **Professional Development** | 2 |
 | E | **Feedback & Community Participation** | 3 |
 
-Personal items aside, I'll be the first to admit that while Ruby was a learning process, it didn't completely challenge me. Rails, however, absolutely challenged me. Growth mindset was a difficult thing to graple with and improve on in this mod. 
+>* Personal items aside, I'll be the first to admit that while Ruby was a learning process, it didn't completely challenge me. Rails, however, absolutely challenged me. Growth mindset was a difficult thing to graple with and improve on in this mod. 
 >* \<Notes>
 
 -----------------------
@@ -26,7 +26,7 @@ Personal items aside, I'll be the first to admit that while Ruby was a learning 
 | **Pairing Assessment** | TBD |
 | **Written Diagnostic** | 5/5 |
 
-* I had a couple of major takeaways from the final assessment. The first was that just because you were able to figure out how to perform something one day, does not mean you will retain that ability if you shift focus onto something else shortly after. Second, was that I really have a weakness with testing that I need to improve. In mod-1 I had trouble implementing TDD even though I could accurately write a working program without it, and it took until the last couple of weeks in the mod to learn how to use testing (minitest) to complement my code. In this mod, TDD with RSpec was ESSENTIAL for furthering your code with new features. While i understood the Rails processes, I didn't take the time to truly understand how to decifer RSpec failiures, and that hurt me. When Beth aptly pointed this out, it made perfect sense as far as where I would get thrown off. I have to continue to try and train myself not to put the cart before the horse, like I've done in other aspects of my life. And, likely most importantly, I guess what I really need help with is leanring how to ask for help.
+>* I had a couple of major takeaways from the final assessment. The first was that just because you were able to figure out how to perform something one day, does not mean you will retain that ability if you shift focus onto something else shortly after. Second, was that I really have a weakness with testing that I need to improve. In mod-1 I had trouble implementing TDD even though I could accurately write a working program without it, and it took until the last couple of weeks in the mod to learn how to use testing (minitest) to complement my code. In this mod, TDD with RSpec was ESSENTIAL for furthering your code with new features. While i understood the Rails processes, I didn't take the time to truly understand how to decifer RSpec failiures, and that hurt me. When Beth aptly pointed this out, it made perfect sense as far as where I would get thrown off. I have to continue to try and train myself not to put the cart before the horse, like I've done in other aspects of my life. And, likely most importantly, I guess what I really need help with is leanring how to ask for help.
 
 
 ## B: Individual Work & Projects
@@ -44,7 +44,7 @@ Personal items aside, I'll be the first to admit that while Ruby was a learning 
 ## C: Group Work & Projects
 
 > **Bike Share** 
-**N/A
+>* N/A
 
 > **Little Shop of Orders** 
 >* Created the [finest picklery](https://wecanpicklethat.herokuapp.com/) in all the land!
