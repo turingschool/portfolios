@@ -31,7 +31,7 @@
 ## B: Individual Work & Projects
 
 #### Blog Post:
-> [\<Topic>](https://)
+> [Rails to Heroku Guide](https://andrewmossefin.info/post)
 
 #### Tutorials: Blogger & Mix Master
 >* Blogger what a bit of a shock to the system after initially getting acquainted to building a rails web app with sinatra. At first, i didn't think it would be that much of a difference. But well all the 'magic' items and methods in rails started doing everything for you, it was a bit intimidating and frustrating trying to remember what did what without seeing all of the logic laid out in front of you. I honestly didn't think that I was going to get used to it or like it. Now I can't imagine doing the larger projects we are now entirely by hand in sinatra. 
