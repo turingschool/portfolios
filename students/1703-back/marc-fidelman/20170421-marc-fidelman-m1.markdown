@@ -82,7 +82,7 @@ I am very glad I was paired with Aaron Olsen for Headcount. Aside from being a p
 
 **Feedback from Aaron Olsen:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Headcount was a massive project and really stretched both of our coding skills. Marc was right there the whole time keeping the momentum going to get through it. Marc's workflow and knowledge of shortcuts and tricks was a huge help for me. I gained a lot from watching how he organized his workflow and how he used his editor to code. This project required a lot of problem solving and thinking ahead, and Marc was a great asset in discussing and figuring out some of more difficult aspects of the problems. The only real bump we ran into was when Marc overlooked an aspect of the spec. This required us to go back and rewrite a section of the project which put us a little behind. In the future I would make sure to double check the spec to make sure it is being followed correctly. I learned a lot from this project and Marc was a big part of that learning. Headcount was big and complex, and having Marc as a partner made the learning experience valuable and worthwhile.
 
 ### Job Prep
 
