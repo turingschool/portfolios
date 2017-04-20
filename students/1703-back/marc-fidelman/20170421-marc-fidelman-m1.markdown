@@ -46,12 +46,12 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | --- | --- | --- | --- |
 | **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link](http://backend.turing.io/module1/projects/headcount) | [link](http://backend.turing.io/module1/projects/flashcards) |
 | **Github** | [link](https://github.com/MarcOverZero/enigma) | [link](https://github.com/mraaronolsen/headcount) | [link](https://github.com/MarcOverZero/flashcards) |
-| **Functional Expectations** | 2 | x | n/a |
-| **Test-Driven Development** | 3 | x | n/a |
-| **Encapsulation/Breaking Logic into Components** | 3 | x | n/a |
-| **Fundamental Ruby & Style** | 3 | x | n/a |
-| **Enumerable & Collections** | n/a | x | n/a |
-| **Code Sanitation** | n/a | x | n/a |
+| **Functional Expectations** | 2 | 3 | n/a |
+| **Test-Driven Development** | 3 | 4 | n/a |
+| **Encapsulation/Breaking Logic into Components** | 3 | x | 3 |
+| **Fundamental Ruby & Style** | 3 | 3 | n/a |
+| **Enumerable & Collections** | n/a | 3 | n/a |
+| **Code Sanitation** | n/a | 4 | n/a |
 
 
 ## D: Professional Development
