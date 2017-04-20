@@ -1,4 +1,4 @@
-# FIRST LAST - M1 Portfolio
+# MARC FIDELMAN - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -78,7 +78,7 @@ I am grateful that Marc was very conscious and self-aware during the entirety of
 
 **Feedback for Aaron Olsen:**
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am very glad I was paired with Aaron Olsen for Headcount. Aside from being a pleasure to work with, Aaron has a capacity to wrap his head around complex moving parts and explain his vision for them. Connected with a fearlessness in pry and a swiftly growing familiarity with ruby, Aaron really brought a lot to the table. His fixation on the challenge of the task at hand goes a long way, but Aaron would go faster and further if he could orate his process to colleagues or partners sooner. I also think Aaron may find some increases in efficiency by more often considering a dev-environment that shows more than just one program on the screen at once, especially for trouble shooting. While these are areas where I think Aaron can improve, it is worth note that I have already witnessed significant growth in these areas just over the course of the project.
 
 **Feedback from Aaron Olsen:**
 
