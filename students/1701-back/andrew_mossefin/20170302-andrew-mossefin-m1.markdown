@@ -51,8 +51,8 @@
 
 | CATEGORY | Bike Share (scores optional) | Little Shop (scores optional) |
 | --- | --- | --- |
-| **Project Spec** | Bike Spec | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
-| **Github Repo** | Bike Repo | [Shop Repo](https://github.com/lao9/we_can_pickle_that) |
+| **Project Spec** | N/A | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
+| **Github Repo** | N/A | [Shop Repo](https://github.com/lao9/we_can_pickle_that) |
 | **Functional Expectations** | N/A | X |
 | **ActiveRecord** | N/A | X |
 | **User Experience and Conventions** | N/A | X |
