@@ -281,6 +281,15 @@ need clarity around timer and it's functionality, can't delete an item in the gr
 
         I think our capstone group was awesome. Like a couple of us have already said, it would have been best to DTR, assign a PM, and stick with waffle. I think our product turned out great but we could have worked a bit more on our organization. Overall awesome job to everyone, I don’t think we could have done it without everyone’s 100% effort!
         -Bekah Lundy
+        
+      Our Capstone turned out better than I could have expected!  A large team presented both opportunities and challenges.
+
+      The positives really shown when watching Gabi, Anna, and Devin take on auth0, which was completely new to all of us, and       get it implemented.  It was also really beneficial to bounce ideas off each other.  I loved that we each at some point         relied on someone else to help us overcome a hurdle.  That’s teamwork.  
+
+      That said, some of the challenges related to communication.  A DTR and better organization would have definitely helped.       There were times when I wasn’t sure where people stood on certain things or where they might be struggling.  I                 challenge our team, including me, to make sure we are continually updating people on what we are working on and where we       might need support.  
+
+      In conclusion, we delivered a great product and pushed through the end (which is tough this late in the game).  Thanks         to everyone!
+      -Elijah Williams
 
 ## D: Professional Skills
 
