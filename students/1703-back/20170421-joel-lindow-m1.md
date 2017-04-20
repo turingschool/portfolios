@@ -10,16 +10,17 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 
 | Section | Category | Score |
 | - | ----- | - |
-| A | **End-of-Module Assessment** | 2 |
+| A | **End-of-Module Assessment** | 3 |
 | B | **Individual Projects** | 3 |
-| C | **Group Projects** | 2 |
+| C | **Group Projects** | 2.5 |
 | D | **Professional Development** | 4 |
 | E | **Community** | 4 |
 
 #### Notes
 
 * I believe I still have room to learn a few things. However, considering how sick I was for the last week of class and durring assessments, I believe I did well enough to prove my progress.
-* I have 3 children and a 4th child due in about 5 weeks. Despite heavy responsibilities at home I have still put in over 60 hours a week on my education. I have contributed to my community by helping classmates where I can, supporting others who needed friend, creating silly events for the class to participate in together and doing my part to bring people together. I have been truly overwhelmed by my current list of responsibilities but feel I've managed them well considering the load.
+* I believe my overall scores in my individual projects and assessments represent a strong 3 when averaged accross the board.
+* I have 3 children and a 4th child due in about 8 weeks. Despite heavy responsibilities at home I have still put in over 60 hours a week on my education. I have contributed to my community by helping classmates where I can, supporting others who needed friend, creating silly events for the class to participate in together and doing my part to bring people together. I have been truly overwhelmed by my current list of responsibilities but feel I've managed them well considering the load.
 
 ------------------------------------------------
 ## A: End of Module Assessment
