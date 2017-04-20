@@ -1,8 +1,9 @@
 # Tom Soucie - M1 Portfolio
 
 ## Areas of Emphasis
+The first module of Turing has been one of the most challenging experiences of my life. There's definitely been times I've felt like I was thrown into the deep end of the pool, but after 6 weeks I'm starting to adjust and appreciate the intensity. I'm starting to figure out how to best utilize all the collaboration at Turing through pairing, posse work and informal coaching/demo with other students and instructors. While I have been immensely challenged, the concept of "growth mindset" has lit a fire for me to keep moving forward and continuing to work to improve and learn.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I started Mod1 with the desire to better understand all the basic Ruby concepts and TDD. I have gotten very confident with these concepts and learned so much more including git workflow, SimpleCov testing tools, and ORM. I've also really started to enjoy pairing and project work, which absolutely petrifed me 6 weeks ago. Getting to collaborate and contribute to a project has been a very positive experience and I'm excited to continue this collaborative work in future mods and as a software developer. 
 
 ## Self-Assessment Scores
 
@@ -24,7 +25,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | ----- | --- |
 | Pairing Assessment | pass |
 | Independent Timed Assessment | pass |
-| Diagnostic | x |
+| Diagnostic | pass |
 
 
 ## B: Individual Projects
@@ -80,9 +81,9 @@ Feedback from partner projects.
 
 **Feedback for Headcount:**
 
-> This has been the most difficult and lengthy project of the most difficult educational venture I've ever attempted but it was great to work with Mason on this project. At times I was overwhelmed with the scope of the project at hand, but Mason's positive attitudue kept us moving forward. Mason always came to work with a great outlook even when we were facing stress and uncertainty with the project, and his positive attitude helped me stayed engaged with the work. Mason was always obliging when I need a break, and we worked well together in pairing. I need to work at "navigating" more explicitly and Mason is great at giving friendly feedback during pairing, keeping the work fun even when the project requirements were challenging. 
+> This has been the most difficult and lengthy project of the most difficult educational venture I've ever attempted but it was great to work with Mason on this project. At times I was overwhelmed with the scope of what has fondly become known as "Bodycount", but Mason's positive attitudue kept us moving forward. Mason always came to work with a great outlook even when we were facing stress and uncertainty with the project, and his positive attitude helped me stayed engaged with the work. Mason was always obliging when I need a break, and we worked well together in pairing. I need to work at "navigating" more explicitly and Mason is great at giving friendly feedback during pairing, keeping the work fun even when the project requirements were challenging. 
 
->Mason's strength of understanding of Ruby syntax and hash methods complimented my affinity for testing, allowing us to make significant progress toward completion of all the project specifications. At the end of Mod1 and almost done with Headcount, I'm extremely happy with what we've learned and was grateful Mason was my partner for this challenge. 
+>Mason's strength of understanding of Ruby syntax and hash methods complimented my affinity for testing, allowing us to make significant progress toward completion of all the project specifications. As Mason continues to work to improve his programming skills he could improve the frequency of commits, but I'm extremely happy with what we've learned on this project and was grateful Mason was my partner for this challenge.
 
 **Feedback from Headcount:**
 
