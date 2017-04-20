@@ -175,6 +175,7 @@ Gain a foundation in front end web design
 (Intro)
 
 ### Gear Up
+
 #### Growth Mindset
 
 *   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
@@ -190,7 +191,6 @@ This helped me recognize when I am dedicating too much time to being stuck in a 
 #### Debugging the Gender Gap
 
 This gave great insight into building with the user in mind as opposed to only yourself.  The information regarding coding class in highschools is very disappointing and alarming.  Coding class is not applied as credit towards your diploma and only two States have certification standards for teachers on this subject.  The womens stories of mistreatment in school and in the work place was upsetting and came as a suprise to me for this industry. 
-
 
 
 ## E: Community Participation
