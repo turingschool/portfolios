@@ -80,7 +80,7 @@ series of phrases on iterating through LinkedList.
 1: Application is missing more than one base expectation
 
 2. Test-Driven Development
-3: Application is well tested but does not balance isolation and integration tests, 
+3: Application is well tested but does not balance isolation and integration tests,
    using only the data necessary to test the functionality
 
 3. Encapsulation / Breaking Logic into Components
@@ -166,7 +166,7 @@ some stuff in Enigma could be broken out to a separate class
    still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
 
 3. Test-Driven Development
-   3: Application uses tests to exercise core functionality, 
+   3: Application uses tests to exercise core functionality,
    but has some gaps in coverage or leaves edge cases untested.
 
 4. Breaking Logic into Components
@@ -180,8 +180,8 @@ went really well and that we both tried our best to help the project move along 
 During our project I felt like I was learning new things each day. I didn’t do most of the typing
 but I do not feel like this took away from my learning. We were both there checking in on each other
 and making sure we were on the same page. My advice to you is next time you are working with someone
-I would make sure that you trade off doing the driving because you may not be paired with someone 
-who actually is on the same page. I think we are a great team and I am glad I got a chance to work with you. 
+I would make sure that you trade off doing the driving because you may not be paired with someone
+who actually is on the same page. I think we are a great team and I am glad I got a chance to work with you.
 
 
 
@@ -191,7 +191,7 @@ Repo: https://github.com/andrewdwooten/headcount.git
 Assignment: https://github.com/turingschool/curriculum/tree/master/source/projects/headcount
 
 (Description)
-	Utilized Ruby language to parse information from provided CSV files into related objects to 
+	Utilized Ruby language to parse information from provided CSV files into related objects to
 	perform analytic work with data and infer data trends.
 
 Assessed By: Beth Sebian
@@ -240,12 +240,12 @@ Growth Mindset: Carol Dweck “The Power of Believing”.
 
 	I enjoyed my first GearUp.  It was a good change from class time, and I was pleased to get exposed
 	to personal development content.  I’d actually heard the TED talk by Carol Dweck before, but I hadn’t
-	given it much thought or application to how I approached my life.  At the time, I was committed to a 
+	given it much thought or application to how I approached my life.  At the time, I was committed to a
 	career, and I wasn’t in a mindset where I could see that my own fairly fixed mindset was causing harm
 	to my life. Fast-forwarding to where I’m at in life presently, and I can definitely see how applicable
 	a growth mindset is to not just professional success but personal also. I grew up in fairly competitive
-	and pressured school environment; it was never unloving; however, there were high expectations set for 
-	grades/school/behavior/etc.  A ‘B’ was frowned upon.  I ended up carrying that mindset with me after 
+	and pressured school environment; it was never unloving; however, there were high expectations set for
+	grades/school/behavior/etc.  A ‘B’ was frowned upon.  I ended up carrying that mindset with me after
 	high school, through college, and into my first career path.  While it gave me drive to succeed, it also
 	had the unfortunate side effect of a myriad of negative feelings when I didn’t live up to my own fairly
 	high expectations.  It hampered my ability to see progress I’d made in making it to a goal, and while I
@@ -255,12 +255,12 @@ Growth Mindset: Carol Dweck “The Power of Believing”.
 	to make sense I suppose.  I’ve found it’s application immediately helpful, and it’s among my focuses for
 	school to maintain a growth mindset.  Looking back at the first week made me feel really good about life.
 	My growth mindset helped me focus on how much I’d already learned and accomplished rather than what I’d
-	failed at throughout my time thus far.  It was very liberating, and I much prefer thinking that way to 
+	failed at throughout my time thus far.  It was very liberating, and I much prefer thinking that way to
 	constantly having my attention on my failures and areas for progress. I enjoyed the group talks we had
 	following the presentation.  I felt comfortable opening up, if only slightly, and was delighted to find
 	that I wasn’t alone in how I felt about something, particularly in what caused me to slide into a fixed
-	mindset.  The dialogue that took place within my group was immensely enjoyable.  It was productive and 
-	an excellent use of our time at Turing; I enjoyed getting to know my group members more closely. Overall, 
+	mindset.  The dialogue that took place within my group was immensely enjoyable.  It was productive and
+	an excellent use of our time at Turing; I enjoyed getting to know my group members more closely. Overall,
 	I was delighted at the content and surrounding experiences of my first GearUp.  I zealously look forward
 	to the next.  
 
@@ -279,7 +279,7 @@ Introversion/Extroversion Spectrum
 	 I cannot, therefore I must adapt.
 
 	 I don't think of my introversion as a strength or a weakness, just a state of being which is, depending on situation,
-	 a hindrance and an asset. I think the responsibility falls on the individual to know oneself intimately enough to 
+	 a hindrance and an asset. I think the responsibility falls on the individual to know oneself intimately enough to
 	 safely navigate situations that the world puts before them. As a function of my introversion, there is certainly a
 	 list of needs that need to be met in order to self-maintain: alone time to recharge, routine, exercise, safe interaction
 	 with people, and even occasional deviations from all the above.  Some of those may be individual to me, but I'm aware of
@@ -287,10 +287,10 @@ Introversion/Extroversion Spectrum
 	 feeling which one has gone unmet.  I would submit that in taking care of myself that I'm self-enabling to put out the
 	 best of me into the world, workplace, school, whathaveyou.
 
-	 It sounds simple doesn't it?  Make a list, check items off the list, and everything is okay.  I submit that the best 
+	 It sounds simple doesn't it?  Make a list, check items off the list, and everything is okay.  I submit that the best
 	 any person can do is to arrange ones life such that their baseline needs are seen to.  From there, engage a constant
 	 battle to push the envelope farther and harder lest they end up sendentary, which isn't a good thing for anyone. If you
-	 first master yourself, then you are best equipped to affect whatever change you see fit in the world.  I learned not that 
+	 first master yourself, then you are best equipped to affect whatever change you see fit in the world.  I learned not that
 	 much during GearUp; that's not to degrade the content, which was excellent.  It was a good reminder to remain self-
 	 conscious in the best way possible.  My largest takeaway was growing closer to my fellow 1611 backenders.  I was happy to
 	 sit in my small group and share experiences, challenges faced, and solutions come to.  I was thankful for that time.
@@ -299,7 +299,7 @@ GearUp Reflection 1/6/16
 
 	I've enjoyed, in particular, the mindset GearUps.  The Grit session was no different.  In doing some self-examination
 	after the fact, I realized that there are a lot of times when I 'grit' too much, and it's damaging.  While there are
-	absolutely times in ones life when they must do the 'grin and bear it', engaging in this behavior on too regular a 
+	absolutely times in ones life when they must do the 'grin and bear it', engaging in this behavior on too regular a
 	basis can leave a person exhausted, burnt out, and isolated.  Ilana actually gave helpful advice some time ago in this
 	department.  She cited that she doesn't do any good work past 9PM.  In practice, I found that I roughly have the same
 	working parameters.  Before getting this advice, I did my best to grit through to the point of exhaustion.  I've found
@@ -311,11 +311,11 @@ GearUp Reflection 1/6/16
 
 Personal Branding I 11/29/16
 
-	I thought that this was a pretty interesting session.  I was happy to see how seriously Turing takes preparing its 
+	I thought that this was a pretty interesting session.  I was happy to see how seriously Turing takes preparing its
 	students for the job search and the professional world.  Overall, I was pleased with the content and to be challenged to
 	begin develop a personal brand that will serve me well in the software world. It caught me off guard how much there would
 	be to put together.  I suppose I never realized how much was out there.  I've assembled a LinkedIn page as well as an updated
-	resume.  I'm fairly happy with both; although, they both need work.  I'm pretty pleased with the feedback I 
+	resume.  I'm fairly happy with both; although, they both need work.  I'm pretty pleased with the feedback I
 	received from my peers regarding what I put together.  I've updated both deliverables based on the feedback and look forward
 	more professional development education in the future.
 
@@ -345,60 +345,60 @@ Maria Stenquist
 	nonjudgmental attitude and has always contributed meaningful content to any conversation that we have; also, she showed
 	a great deal of respect to me when a conversation was going a direction I was uncomfortable with.  She played a large part
 	in our cohort remaining cohesive, engaging equally with each member throughout module 1.  Our conversations kept me afloat
-	on several bad days throughout the program.  Maria is a stellar example of the behaviors Turing community member should 
+	on several bad days throughout the program.  Maria is a stellar example of the behaviors Turing community member should
 	exhibit, and I was fortunate that we shared a cohort.  Keep being awesome!
 
 Ken Lee
-	I am continually impressed with Kens drive to learn.  I’m sincere when I say that there are few in our cohort who have 
+	I am continually impressed with Kens drive to learn.  I’m sincere when I say that there are few in our cohort who have
 	exhibited the grit and growth mindset that Ken has. On a near daily basis since the start of our cohort, I have watched Ken
-	plug through almost every drill imaginable and, with an incredible amount of grace, admit openly that he was struggling to 
-	gain an understanding of the material.  I am honored that he reached out to me several times in the past several weeks for 
-	help.  He was a pleasure to work through things with and at no time exhibited self-pity, whining, or any other negative 
+	plug through almost every drill imaginable and, with an incredible amount of grace, admit openly that he was struggling to
+	gain an understanding of the material.  I am honored that he reached out to me several times in the past several weeks for
+	help.  He was a pleasure to work through things with and at no time exhibited self-pity, whining, or any other negative
 	behavior that one general associates with someone in duress; rather, he always kept about him an attitude of knowledge-seeking and odd glee when faced with problems.  He forced me to grow my own knowledge in making, at times, haphazard attempts to explain things, and I’m thankful for the time I got to spend with working with Ken.  	
-	I’m always impressed with the ease with which Ken interacts with people.  He is seemingly continually engaged in dialogue 
-	with some member of our cohort.  He is quick to compliment someones work and always keeps those around him in good cheer 
-	with jokes.  I’m happy that we were both a part of 1611.  His presence and our interactions single-handedly made the past 
+	I’m always impressed with the ease with which Ken interacts with people.  He is seemingly continually engaged in dialogue
+	with some member of our cohort.  He is quick to compliment someones work and always keeps those around him in good cheer
+	with jokes.  I’m happy that we were both a part of 1611.  His presence and our interactions single-handedly made the past
 	6 weeks better.  Don’t change at all Ken.  You’re a rock star!
 
 
 Spencer Carter
-	There is nobody in our cohort who has made me laugh more than Spencer.  In the first weeks when our cohort was finding it’s 
+	There is nobody in our cohort who has made me laugh more than Spencer.  In the first weeks when our cohort was finding it’s
 	groove and people were still feeling each other out, there was Spencer readily making jokes and helping bring us together.  
-	He played a large part in developing and maintaining our group cohesiveness.  He’s made it clear through his behavior that 
-	his mindset is one of equality.  No person is greater or less than another.  He happily welcomes engagement with anyone he 
-	comes into contact with.  I’ve not made the opportunity to work with Spencer on technical problems; however, he is a continual 
-	shining example of how people should treat each other.  The Turing community prides itself on such behavior, and our community 
-	at-large and the 1611 cohort benefit from having him as a member.  Spencer, if your personality and how you treat people never 
+	He played a large part in developing and maintaining our group cohesiveness.  He’s made it clear through his behavior that
+	his mindset is one of equality.  No person is greater or less than another.  He happily welcomes engagement with anyone he
+	comes into contact with.  I’ve not made the opportunity to work with Spencer on technical problems; however, he is a continual
+	shining example of how people should treat each other.  The Turing community prides itself on such behavior, and our community
+	at-large and the 1611 cohort benefit from having him as a member.  Spencer, if your personality and how you treat people never
 	changes, that would be a great thing.
 
 ### Being a Community Member
 Maria Stenquist
 Andy has been a great resource in the class for me to go to. He is always willing to lend an ear and listen to any topic (personal,
-code-related, off-topic and fun) and is definitely the 'go-to' listener in the class. He listens without judgement and provides 
-constructive comments to the conversation. Moreover, he is so polite and respectful to everyone in the class, and when I was having 
-a rough moment, he had the wherewithal to take a step back--but he didn't forget and made sure to reach out to me at a later point 
+code-related, off-topic and fun) and is definitely the 'go-to' listener in the class. He listens without judgement and provides
+constructive comments to the conversation. Moreover, he is so polite and respectful to everyone in the class, and when I was having
+a rough moment, he had the wherewithal to take a step back--but he didn't forget and made sure to reach out to me at a later point
 which showed a great deal of empathy--and that awareness extends to all others' in the cohort.  In addition to being a great team-player
-in the class, he is always willing to help others with understanding code concepts, and I have seen him dedicate a lot of time to 
-helping others (including myself). Keep being such a supportive Turing member, and I look forward to all the cool app ideas coming 
+in the class, he is always willing to help others with understanding code concepts, and I have seen him dedicate a lot of time to
+helping others (including myself). Keep being such a supportive Turing member, and I look forward to all the cool app ideas coming
 to fruition! I look forward to showing you around some pretty epic spots up in the high country of Colorado 😃
 
 Ken Lee
 Andy, I have enjoyed getting to know you in our cohort and seeing how much you are learning so far. You have always been so positive
 and reminding me that everything is okay. I appreciate all your help you have giving me working on drills. You were always positive
-and patiently leading me in the right direction letting me solve problems myself. Your cool head and enthusiasm at solving complex 
-problems is something I want to learn from. Your approach of writing down on paper where the data goes has been influential to my 
-learning processes and I plan to use that method more on my projects. I see you making a big impact on any team you wind up working 
-for. You are the exact type of developer that companies I've worked for look for in a new hire. A great culture fit and abilities 
+and patiently leading me in the right direction letting me solve problems myself. Your cool head and enthusiasm at solving complex
+problems is something I want to learn from. Your approach of writing down on paper where the data goes has been influential to my
+learning processes and I plan to use that method more on my projects. I see you making a big impact on any team you wind up working
+for. You are the exact type of developer that companies I've worked for look for in a new hire. A great culture fit and abilities
 to learn complex ideas and solve them in a calm and fun attitude will definitely get you going places.
 
 Spencer Carter
-From the first day at Turing, Andy’s positive attitude has rubbed off on all those lucky enough to have come into contact with him. 
-Always the first one to class, he would show up prepared, determined, and genuinely excited about the forthcoming material. His 
-upbeat demeanor was truly contagious and frequently kept many members of the Turing community alive during periods of exhaustion 
-late in the evening. On a daily basis, I watched him exemplify his passion for the field, always willing to lend a helping hand to 
-those who needed it. Even when he appeared to have exerted the remainder of his energy, he would look over his peers’ code with a 
-fresh pair of eyes. His drive, work ethic, optimism, and passion led him to improve with every project he completed, and in upcoming 
-modules I believe that we will only continue to see Andy excel as a coder. Andy, you truly challenged every one of us to be the best 
+From the first day at Turing, Andy’s positive attitude has rubbed off on all those lucky enough to have come into contact with him.
+Always the first one to class, he would show up prepared, determined, and genuinely excited about the forthcoming material. His
+upbeat demeanor was truly contagious and frequently kept many members of the Turing community alive during periods of exhaustion
+late in the evening. On a daily basis, I watched him exemplify his passion for the field, always willing to lend a helping hand to
+those who needed it. Even when he appeared to have exerted the remainder of his energy, he would look over his peers’ code with a
+fresh pair of eyes. His drive, work ethic, optimism, and passion led him to improve with every project he completed, and in upcoming
+modules I believe that we will only continue to see Andy excel as a coder. Andy, you truly challenged every one of us to be the best
 version of ourselves on a daily basis– thank you.
 
 ### Playing a Part
@@ -418,4 +418,3 @@ whole.  I think that this could be best accomplished with some outreach, co-ordi
 ### Outcome
 
 PROVISIONAL
-
