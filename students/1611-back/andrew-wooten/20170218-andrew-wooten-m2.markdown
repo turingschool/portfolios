@@ -615,17 +615,18 @@ Feedback to me:
   question-asking helps everyone learn and by no means hinders it. I'm excited
   to go through Mod 3 with you in our cohort. We're gonna have a great time.
 
+
 ### Getting Feedback
 
     From Dan Olson:
     Andy,
       Of all the people in our cohort, you helped me stay grounded when I got stuck
-    or frustrated. Your willingness to reach out and check-in with me is your best 
+    or frustrated. Your willingness to reach out and check-in with me is your best
     trait. I always knew that I could lean on you if I had to vent or if we needed
     to go for a walk you were always willing. Seeing you progress through this program
     has been an inspiration. The way you communicate with people makes you so easy to
-    talk to. You always listen to understand and I and everyone else appreciate that 
-    about you. Als, your lightning talk on communication was awesome!!! Keep it 
+    talk to. You always listen to understand and I and everyone else appreciate that
+    about you. Als, your lightning talk on communication was awesome!!! Keep it
     up Andy. You got this!!!
 
 ### Being a Community Member
@@ -659,6 +660,7 @@ feel more inspired/have a purpose to do things.
 
 for further, redirect_to top_of_portfolio_path :)
 (feedback to me)
+
 
 
 ------------------
