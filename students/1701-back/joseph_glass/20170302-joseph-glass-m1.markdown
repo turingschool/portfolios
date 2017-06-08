@@ -16,7 +16,7 @@
 
 #### Notes
 
-* I've recieved so much support from the Turing community, and want to mentor more in the next module so that other students can feel the same.
+* I've received so much support from the Turing community, and want to mentor more in the next module so that other students can feel the same.
 
 ------------------------------------------------
 
@@ -89,7 +89,7 @@ Hey Joseph, your skill and understanding of everything we've learned so far is m
 
 ### Job Prep
 
-[LinkedIn profile](https://www.linkedin.com/in/joseph-glass-bba99753/) 
+[LinkedIn profile](https://www.linkedin.com/in/joseph-glass-bba99753/)
 
 
 
@@ -101,13 +101,13 @@ Hey Joseph, your skill and understanding of everything we've learned so far is m
 It's hard to ignore current failure. It's hard to ignore current success. But in order to progress, you need to focus on what actions bring growth, not which have a short-term payoff or short-term punishment. As you learn to focus on the process, not the immediate outcome, you're more willing to take wise risks, to push yourself to failure, to leave the comfort zone and enter the growth zone. Recognize that every single skill is developed, and that as you focus on your weaknesses, they can become strengths.
 
 #### Session 2: Getting Better at Difficult Things
-Attention is a limited resource. Instead of trying to develop a passable skill level in many areas, practice small skills to mastery. Break large skills into small ones, then practice them. Once they are automatic, they'll take almost no attention, and you can focus on mastering the next skill. To effectively master skills, you need repeated practice over a large number of examples, with excellent feedback, given by expert mentors (preferably) or at least self-evaluation. 
+Attention is a limited resource. Instead of trying to develop a passable skill level in many areas, practice small skills to mastery. Break large skills into small ones, then practice them. Once they are automatic, they'll take almost no attention, and you can focus on mastering the next skill. To effectively master skills, you need repeated practice over a large number of examples, with excellent feedback, given by expert mentors (preferably) or at least self-evaluation.
 
 #### Session 3: Stress Management
 Build stress management into your routine. Find things that relax and rejuvenate you and build them into your schedule. The times when you are most under stress are when you can least afford to skip them. Personally, I find exercise, prayer and meditation, and reading to be the most relaxing. Cooking and spending time with family and friends are the best activities for recreation and feeling like I've given my brain a break from coding. I can systematically reduce stresses if I plan for them. For example, if my commute is stressful, I can leave ten minutes early and listen to podcasts on my way.
 
 #### Session 4: Personal Stories and Connections
-Each of us come from different backgrounds and bring different values and experiences. These different lenses bring unique strengths and insights to our groups, but differences can also lead to division or miscommunication if not addressed. For example, if one group member is an introvert, they might not feel included or enjoy the work style of extroverts. Being aware of these differences, and seeking out the opinion of each group member ensure everyone can thrive with their common values. 
+Each of us come from different backgrounds and bring different values and experiences. These different lenses bring unique strengths and insights to our groups, but differences can also lead to division or miscommunication if not addressed. For example, if one group member is an introvert, they might not feel included or enjoy the work style of extroverts. Being aware of these differences, and seeking out the opinion of each group member ensure everyone can thrive with their common values.
 
 
 #### Session 5: Debugging the Gender Gap
@@ -115,7 +115,7 @@ There were more similarities between myself and the girls featured on the movie 
 
 
 ### Community Participation
-I've enjoyed the overwhelming support and sense of community here at Turing, and have tried to cultivate those cultural values for my module and future students. Whenever I find a useful link or training resource, I pass it into our slack channel so others can use it as well. I was able to use my lightning talk to research and present on Deliberate Practice to help my classmates make their practice time more effective. On an individual level, I have paired with many classmates to work on their weak points and drill fundamentals, and they have mentored me in turn on my weak points. Next module I want to review the coursework ahead of time in order to be a more effective mentor. 
+I've enjoyed the overwhelming support and sense of community here at Turing, and have tried to cultivate those cultural values for my module and future students. Whenever I find a useful link or training resource, I pass it into our slack channel so others can use it as well. I was able to use my lightning talk to research and present on Deliberate Practice to help my classmates make their practice time more effective. On an individual level, I have paired with many classmates to work on their weak points and drill fundamentals, and they have mentored me in turn on my weak points. Next module I want to review the coursework ahead of time in order to be a more effective mentor.
 
 
 -------------------------------------------------------------
