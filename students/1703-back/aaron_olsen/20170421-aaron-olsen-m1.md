@@ -2,8 +2,8 @@
 
 ## Areas of Emphasis
 
-I came into module one with three goals: Fluency in Ruby and OOP, Fast and effecient workflow, and Building a First Layer Network. TDD development was added as a fourth goal when it's importance became clear early on.
-1. Fluencey in Ruby and OOP:
+I came into module one with three goals: Fluency in Ruby and OOP, Fast and efficient workflow, and Building a First Layer Network. TDD development was added as a fourth goal when it's importance became clear early on.
+1. Fluency in Ruby and OOP:
     * I've become very comfortable writing in Ruby, to the point where I'm solving most problems directly rather then solving it <i>through</i> Ruby. I understand and can use the Ruby API in order to reference and learn new Ruby syntax. I have a fluent use of Ruby's basic building blocks; Enumerables, Strings, Arrays, and Hashes. I understand how to write the meaning of my code in the code itself and when to use brevity over clarity.
     * Through Ruby I now have a very functional understanding of object oriented programming. I follow the SOLID, DRY, and LoD rules to organize my methods, classes, modules, and blocks. I have a strong grasp on Object Relational Mapping, how to utilize objects to limit dependencies, and how to break a large problem up with Agile design.
 2. Fast and Efficient Workflow:
@@ -94,7 +94,7 @@ Feedback from partner projects.
 
 **Feedback from Marc Fidelman:**
 
-* To Be Added
+* I am very glad I was paired with Aaron Olsen for Headcount. Aside from being a pleasure to work with, Aaron has a capacity to wrap his head around complex moving parts and explain his vision for them. Connected with a fearlessness in pry and a swiftly growing familiarity with ruby, Aaron really brought a lot to the table. His fixation on the challenge of the task at hand goes a long way, but Aaron would go faster and further if he could orate his process to colleagues or partners sooner. I also think Aaron may find some increases in efficiency by more often considering a dev-environment that shows more than just one program on the screen at once, especially for trouble shooting. While these are areas where I think Aaron can improve, it is worth note that I have already witnessed significant growth in these areas just over the course of the project.
 
 ### Job Prep
 
@@ -132,7 +132,6 @@ Feedback from partner projects.
 
 ## Final Review
 
-Please leave blank for assessor.
 
 ### Outcome
 
