@@ -32,6 +32,7 @@ I love individual projects as it allows me to option to try something different 
 * [Faker Pull Request](https://github.com/stympy/faker/pull/941)
 * [Original Assignment](http://backend.turing.io/module4/lessons/contributing_to_open_source)
 * [Blog post about experience](https://medium.com/@edilene/contributing-to-an-open-source-project-b7d92b58baf9)
+* [Documentation update for Pahlka's food4all project](https://github.com/Turing-Pahlka-Posse/food4all/pull/18)
 
 I simply love the Faker gem and all the fun stuff that contributors comes up with adding some fun to tests. I knew I wanted to contribute to it from the moment I heard about open source contribution. My main goal was to make the gem more inclusive to the Brazilian community of developers and to those who would have access to a demoed project. During the process I realized that this would be better achieved by creating a separate gem with the Ruby methods and documentation all in Portuguese so that will be something I will be looking forward in the next year as a side project.
 
@@ -108,7 +109,7 @@ _I don't see most stories estimated or even started in your Pivotal Tracker. I d
 * [Production URL](https://shielded-meadow-66130.herokuapp.com)
 
 
-Working in brownfield was the main goal of the project and the group and I were very excited to work on the Turing's Mentorship app where students can choose mentors based on their gender, expertise, background or even common interests. The project brought tons of surprises and challenges that each member had to overcome but it was a great learning experience on what to expect in the real world. Unfortunately, after learning ReactJS and working on a feature, it didn't get added to the project so I'm hoping to tackle it during my Module 5 inning. On the bright side, what I learned in React, helped me understand JavaScript better. 
+Working in brownfield was the main goal of the project and the group and I were very excited to work on the Turing's Mentorship app where students can choose mentors based on their gender, expertise, background or even common interests. The project brought tons of surprises and challenges that each member had to overcome but it was a great learning experience on what to expect in the real world. Unfortunately, after learning ReactJS and working on a feature, it didn't get added to the project so I'm hoping to tackle it during my Module 5 inning. On the bright side, what I learned in React, helped me understand JavaScript better.
 
 
 ### 1. Project Management
@@ -150,9 +151,11 @@ Working in brownfield was the main goal of the project and the group and I were 
 
 * [Lending privilege markdown](https://gist.github.com/edilenedacruz/9f6c15d735c7b2420067ff266eba1ebe)
 
-When documenting your community contribution, say a few words about the facilitation experience.
+For the first time I lead a Gear Up, but not only lead it but also come up with the content and work with two amazing women: Katy Farmer and Staci McWilliams. We picked up a very controversial topic: Lending privilege. I admit that I was unaware of the idea until last month. I always thought about it as "doing the right thing". As a immigrant, latina woman in America I didn't really think of the privileges I actually have until recently and leading this talk definitely prepared me to stand up for others when time comes or even how to discreetly use my privilege to empower others. My first battle is in my own household with my own significant other. He is colorblind, which is not a bad thing in general, he treats everyone the same regardless of color, gender, race, sexual orientation, age etc. And with that he fails to see each person experience the world differently just for being themselves. It will be an interesting journey but a welcomed one.
 
 ### Pahlka Posse
+
+For the past 4 modules I participated at the Pahlka posse and for the first time (it only took 5 modules) I felt that I was a contributing member of the posse. I finally had the technical skills to help them. I helped them consume data from a CSV file provided by the City of Denver and create a API rendering json for consumption for the front end graphics and maps that are now in development. What's best about it, is that if they need help in the front end, I'm not intimidated. I could actually do something! 
 
 ------------------
 
