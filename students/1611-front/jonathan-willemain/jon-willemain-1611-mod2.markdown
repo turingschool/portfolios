@@ -277,7 +277,7 @@ I have not done as much as I want to - I think trying to stay afloat in this dif
 
 PASS
 
-A: End-of-Module Assessment: 3 
+A: End-of-Module Assessment: 3
 B: Individual Work & Projects: 3
 C: Group Work & Projects: 3
 D: Professional Skills: 3

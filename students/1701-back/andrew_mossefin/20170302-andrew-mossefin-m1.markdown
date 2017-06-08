@@ -8,11 +8,13 @@ This module I wanted to get comfortable with the general concepts of code struct
 
 | Section | Category | Score |
 | --- | ----- | --- |
+
 | A | **End-of-Module Assessment** | 4 |
 | B | **Individual Projects** | 2.5 |
 | C | **Group Projects** | 4 |
 | D | **Professional Development** | 3 |
 | E | **Community** | 3 |
+
 
 #### Notes
 
@@ -122,4 +124,7 @@ I've tried to participate in Gear Up discussions as often as possible by being t
 *   Strong improvements in testing in particular and project completion
 
 ### Outcome
-PROMOTED
+
+
+(PROMOTED, RETAINED, DISMISSED, PROVISIONAL)
+

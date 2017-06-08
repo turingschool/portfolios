@@ -1,0 +1,123 @@
+# Seth Moser - M2 Portfolio
+
+## Self-Assessment
+
+| Section | Category | Score (optional) |
+| --- | ----- | --- |
+| A | **End-of-Module Assessment** | 4 |
+| B | **Individual Work & Projects** | 3 |
+| C | **Group Projects** | 4 |
+| D | **Professional Development** | 3 |
+| E | **Feedback & Community Participation** | 3 |
+
+>* Rails makes life so easy.
+
+-----------------------
+
+## A: End-of-Module Assessment
+
+| Category | Score (optional) |
+| ----- | --- |
+| **Pairing Assessment** | X |
+| **Written Diagnostic** | X |
+
+>* I feel like I know a lot more than I think after going into the pairing assessment and getting the scores I did.
+>* You don't know how you'll do till you try.
+
+
+## B: Individual Work & Projects
+
+#### Blog Post:
+> [Personal Site](https://themenintights.github.io/)
+
+#### Tutorials: Blogger & Mix Master
+> I liked the tutorials but and found them really helpful.
+
+#### Projects: Job Tracker & Rails Mini Project
+> Being able to finish these and actually see what is is we're making is great and gettting active record methods working in these were awesome.
+
+
+## C: Group Work & Projects
+
+> **Bike Share** 
+>* Create a web app that shows bike lot info from san fransisco without rails
+>* It was great learning the behind the scenes of rails and how everything connects, really wish I understood ActiveRecord more before turning it in.
+
+> **Little Shop of Orders** 
+>* Create a webpage based on stories given by instructor
+>* Creating our own site based on parameters given to us by instructors has been one of my favorite things we've done so far. Being able to create our own site with our own vision for it and having these awesome utilities inside it and knowing, "I made this" is just a great feeling. glad this was a project.
+
+| CATEGORY | Bike Share (scores optional) | Little Shop (scores optional) |
+| --- | --- | --- |
+| **Project Spec** | [Bike Spec](https://github.com/turingschool/bike-share/blob/master/README.md) | [Shop Spec](http://backend.turing.io/module2/projects/little_shop) |
+| **Github Repo** | [Bike Repo](https://github.com/slague/bike-share) | [Shop Repo](https://github.com/josh-works/black_shop_of_horrors) |
+| **Functional Expectations** | 3 | X |
+| **ActiveRecord** | 2 | X |
+| **User Experience and Conventions** | 4 | X |
+| **Code Organization/Quality** | 4 | X |
+| **Testing** | 4 | X |
+| **Working Collaboratively** | 4 | X |
+
+> Bike Share evaluation comments:
+  Weather CRUD: solid
+  Trip CRUD: solid
+  Station CRUD: solid
+  Style: quirky yet sufficient
+  Heavily relying on Ruby instead of ActiveRecord for manipulations
+
+> Little Shop evaluation comments:
+
+
+##### Feedback to me for Bike Share
+
+  >* From Josh: "Your technical expertise has been 
+  >* From Jonathan: "I had a great  time working with you on this project. Our team was much better off having your quick problem-solving skills on board. I was especially impressed with your ability to apply concepts (from class, documentation, or wherever) to real-world problems. One thing you could focus on to be even more effective would be finding a way to more clearly communicate your thought-processes to everyone else in the group, walking through step by step."
+  >* From Stephanie:
+
+##### Feedback to me for Little Shop
+
+  >* From Josh:"Seth! This was our what... fourth project together? I’ve really enjoyed working with you, and continue to be impressed by how quickly you crush those waffle cards and piece together complex logic.
+>
+> I look forward to working with you again down the road. Since we’re supposed to have recommendations, I’d recommend (again) working on listening. Sometimes when we’d be chatting with Andrew or Beth or someone, you’d ask a question, then they’d start to give a response, and then you’d interrupt to add more info about your question. Not a huge deal, but since they’re the experts, it’s generally best to let them finish their thought before jumping in again. 
+>
+> Your technical skills are top notch. I’ve enjoyed them!"
+  >* From Chris: "As always you are impressive with your knowledge and with the speed at how you do things.  You surprise me with your thoughts, as sometimes you are working on one thing, while thinking about something totally else and solving it at the same time.  This is great, but slow down sometimes and try to vocalize your thought process a little more.  You are going to be a great coder."
+
+#### **Gear Ups**
+
+> [Empathy](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
+Some of these questions asked in this gear up confused me and I wondered how they were even considered for the gear up, but after talking with the group I was assigned to and seeing their point of view was a real eye openner.
+
+> [Grit](https://github.com/turingschool/gear-up/blob/master/grit.markdown)
+Our group talked about how grit is such a terrible word for it, they use both grit and Open Mindset to describe the same thing, when they're not.
+
+> [Automation](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
+Getting a look at how much is actually becoming automated is amaing, When we think automation we think more about automation in the sense of factories, and because of that we don't think it's harmful at all, and learning about this really opens our eyes.
+
+
+## E: Feedback and Community Participation
+
+#### **Giving Feedback**
+
+##### Feedback from me for Bike Share
+
+  >* For Jonathan: It was great working with you on this project since last mod we didn't really do much, and the experience was great, your ability to see other's point of view and ideas was really helpful and cool to see, but maybe being a little more strong on your own ideas might be a good idea for the next time.
+  >* For Josh: Having your expertise on github commands really helped us get through this project, it's always enjoyable working with you and making jokes. 
+  >* For Stephanie: Thank you for taking up the project manager position, I know it isn't an easy thing but having you assign things for us to do and able to see what each of us are good at really pusehd this project along and I don't know if we would have gotten as far had you not been so on point.
+
+##### Feedback from me for Little Shop
+
+  >* For Josh: It's has been nice working with you and with your consistant ability to stay on task and not get distracted has been really helpful in keeping myself from doing those. It has also been nice exchanging keyboard shortcuts and other valuable computer navigation tricks with you.
+  >* For Chris: Working with you was fun, since I haven't worked with you since last mod getting your point of view on topics has been helpful. Something that could help you in the future would maybe spend time learning your keyboard shortcuts for text editors to help you move along your code much easier.
+  
+#### **Playing a Part**
+
+> I've made myself available and contacted MOD 1 students to offer help and support.
+
+------------------
+
+## Final Review
+
+> #### Notes ( Leave blank for reviewers )
+
+> #### Outcome ( Leave blank for reviewers )

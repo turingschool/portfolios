@@ -55,6 +55,8 @@ January 16, 2017
 <br>
  * Six weeks ago, I didn't know what an editor was, I wasn't skilled on how to navigate the command line, setting up a git repository was beyond my league. So when it came to Ruby I had no clue what it was, apart from it being a language that I would be learning its basics in the coming six weeks. Today I can say that I know what Ruby is. Ruby is an object oriented language, meaning that everything in Ruby is an object that can be given its own attributes. To me Ruby is also an open door to creating with freedoms previously unknown to me. Ruby has allowed me to immerse myself into the world of programming that six weeks ago I had a faint idea of what it was about. I can't say, that as I type this blog, I can create programs on the whim but I can say that everyday that goes by I learn a bit more about this facinating language. I pick up tips and tricks here and there that make it even more enjoyable to work with, everyday that goes by I fall in love with it just a bit more. Learning "How To Ruby" has been one of my best experiences not only the past six weeks but I can see myself and Ruby being together for a long time to come.
 
+Developing Apps 
+March 2, 2017
 
 ###Individual Projects
 
@@ -229,3 +231,5 @@ Spencer Carter
 
 #### Community Involvement
 * I would like to start of by saying that my involvement this mod has not been what I set it out to be. One of my biggest goals this mod was to set up a diversity panel that brings in people outside of Turing to share their thoughts on what it is to be a minority out in the tech field. It's still a goal but now It's a goal for mod3. I believe that it would be beneficial to show that the tech industry does have a diverse pool and that those individuals are thriving not because of their color/gender/religion but because of their abilities. Another thing that I set out to do was to help out mod1 students through the pairing schedule, it was great being able to help out other students with questions, problems that they were having and/or being able to work through them. Next mod I am setting to become more involved, I feel that being involved in the community is a great way to establish relationships and at the same time expand your learning through tasks that are enjoyable.
+
+

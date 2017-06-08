@@ -98,12 +98,9 @@ During Bike Share we implemented Ruby, Sinatra and ActiveRecord to build a site 
 
 ### 1. Functional Expectations
 
-
 * __2: Application has some small missing base functionality__
 
-
 ### 2. ActiveRecord
-
 
 * __3: ActiveRecord methods generally live in the appropriate model, but some Ruby is used to organize data after database queries. A project at this level may have some queries that have not produced the correct results based on the expectations described, but in those cases the query was still generally on the right path and demonstrated some minor misunderstanding.__
 

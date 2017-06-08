@@ -171,8 +171,7 @@ Below is the DTR with Becca we created for the Weatherly project.
 ### Gear Up
 #### Tragedy of the Commons
 
-[Link](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown
-)
+[Link](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 
 This was an interesting approach to explaining bias by using shapes instead calling out a specific race or gender. An interesting API that communicated the problem and how the even a small bias could effect the entire community.
 

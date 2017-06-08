@@ -45,11 +45,6 @@ Your completed portfolio is also comprised of the following required material:
   * Linked List or Foto Finder
   * Idea Box
   * 2DoBox Pivot
-
-* Professional Development:
-  * [DTR Memo](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing) from 1 paired project
-  * Feedback Paragraphs: Self-solicited from your peers (from project pairs and anyone else you've consistently worked with)
-
 * Community:
   * A recap of reflections from Gear Up
 
@@ -67,13 +62,8 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
   * Include what you learned/took away from the project.
 * Evaluated projects: Little Shop, Bike Share
 * Assessments: Final
-* Professional Development:
-  * Paragraph reflection on project management strategies you used in your team projects; What went well? What didn’t go well?
-  * Paragraph reflecting on your PD/Feedback lessons and outcomes this module
-  * Plan for reaching out to a mentor or alumni and/or a description of how you've already created a relationship with a mentor.
 * Community:
   * A recap of reflections from Gear Up
-* Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
 
 ### Module 2 (Front-end)
 
@@ -81,30 +71,16 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 * Required Project: ToDo Box Pivot, Shoot the Breeze, FireBae (Tier Two) -- scores should all be passing (All 3's) or show gradual improvement
 * Included Projects:
  * Weatherly
-* Professional Development:
-  * Paragraph reflection on project management strategies you used in your team projects; What went well? What didn’t go well?
-  * Paragraph reflection on how you incorporated feedback from your team members and what you learned about yourself in the process
-  * [Completed Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) -- Students can either upload a PDF of their completed flower graphic organizer OR they can create a gist with summarized points listed for each petal:
-    * Transferable Skills
-    * Favorite/Most Valued Knowledge
-    * Favorite working conditions
-    * Favorite people to work with/serve
-    * Values/Goals/Mission in life
-    * Preferred places to live
-    * Preferred salary and level of responsibility
-  * Plan for reaching out to a mentor or alumni and/or a description of how you've already created a relationship with a mentor.
 * Community:
   * A recap of reflections from Gear Up
-* Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
-  * Required feedback from at least one student outside of your cohort who you have paired with (Mod 1 student, back end student) AND/OR a mentor.    
+  * Summary of how you've contributed to the community
 
 
 ### Module 3 (Back-end)
-
+* See template [here](https://github.com/turingschool/portfolios/blob/master/BEM3_template.md)
 * Individual Assessment
 * Included Projects: Self-Directed Project, Rales Engine, Cloney Island
 * Bonus Project (not required): APIcurious
-* Feedback: Self-Solicited and collected from Cloney Island
 * Something valuable you've taken away from your posse.
 * Community:
   * A recap of reflections from Gear Up
@@ -116,25 +92,6 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 * Individual Assessment
 * Included Projects: Self-Directed Project, Remember (Number of Completed User Stories), Weather Forecast
 * Bonus Project (not required): None
-* Feedback: Self-Solicited and collected from Weather Forecast and Remember
-* Professional Development:
-  To include in your portfolio:
-  * Pitch for personal project/Documentation showing your thought process
-  * [Completed Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) -- Students can either upload a PDF of their completed flower graphic organizer OR they can create a gist with summarized points listed for each petal:
-    * Transferable Skills
-    * Favorite/Most Valued Knowledge
-    * Favorite working conditions
-    * Favorite people to work with/serve
-    * Values/Goals/Mission in life
-    * Preferred places to live
-    * Preferred salary and level of responsibility
-  * Reflection of how to be successful in interviews
-
-  To send to Meg (via email at [mstewart@turing.io](mail:to) )
-  * Link to completed Turing portfolio
-  * Job search action plan for M4
-  * Link to Trello board (add Meg to this if you haven't already)
-
 * Community:
   * A recap of reflections from Gear Up
 
@@ -145,7 +102,6 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
   * Should include points breakdown per project
 * Link to your PR for opensource contributions
 * Community:
-  * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
   * A recap of reflections from Gear Up
 
  Complete and document 2 of the following:
@@ -159,15 +115,11 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 ### Module 4 (Front-end)
 
 * Individual Assessment
-* Required Projects (4 out of 5): Capstone Project, Imposter Syndrome, Jet Fuel, Real Time & Homework Assignment
+* Required Projects (4 out of 5): Capstone Project, Imposter Syndrome, Jet Fuel, BYOB
   * Should include points breakdown per project
-* Professional Development:
-*PD deliverables should be submitted via email to Meg at [mstewart@turing.io](mail:to)*
-  * Synopsis of six cold outreach emails sent. [Use these guidelines for your synopsis](https://github.com/turingschool/professional_skills/blob/master/module_four/outreach_deliverable_guidelines.md)
-  * Documentation of participation in actual interview or practice interview
 
 * Community:
-  * Feedback: Self-solicited and project pairs feedback, plus a summary of how you've contributed to the community
+  * Summary of how you've contributed to the community
   * A recap of reflections from Gear Up
 
 ## Submission Guidelines

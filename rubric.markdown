@@ -49,7 +49,7 @@ A Turing student values professional growth and seeks opportunities to continuou
 * 1: Student puts minimal effort into deliverable(s), does not follow directions, or is off topic.
 * 0: Student does not complete the deliverable(s).
 
-## E: Feedback & Community Participation
+## E: Community Participation
 
 A Turing student accelerates the growth of those around
 them by delivering specific, kind, and actionable feedback. They accelerate their
