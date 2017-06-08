@@ -13,7 +13,7 @@ For this mod, I wanted to focus on using TDD to drive my projects. I also wanted
 | C | **Group Projects** | 3 |
 | D | **Professional Development** | 3 |
 | E | **Feedback & Community Participation** | 3 |
-
+ 
 -----------------------
 
 ## A: End-of-Module Assessment
