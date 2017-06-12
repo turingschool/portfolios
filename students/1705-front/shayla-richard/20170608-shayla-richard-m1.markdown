@@ -37,7 +37,7 @@ https://github.com/turingschool/front-end-submissions-public/blob/master/1705/mo
 https://shayla303.github.io/linked-list/
 
 A: End of Module Assessment
-I did not pass the end of the module assessment. I have known I'd be repeating Mod 1 for a few weeks now which has allowed me to focus and remediate on JS foundations and exercises. I am not embarrassed or discouraged by this, I feel eager to repeat and utilize what I've learned going forward.
+
 
 B: Individual Work & Projects
 I worked alone on Numberguess and Idea Box. I had a good time working on those things and felt as if my JS skills greatly improved by those projects. 
