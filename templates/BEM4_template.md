@@ -8,7 +8,7 @@ What do you want to focus on this inning? What do you hope to accomplish by grad
 
 Include your final outcome (pass/fail) and a reflection based on answering the following questions:
 
-* What was your biggest techincal challenge?
+* What was your biggest technical challenge?
 * What did you like the most about the challenge?
 * How did you solve that challenge? What was your approach?
 * What did you learn?
@@ -17,7 +17,7 @@ Include your final outcome (pass/fail) and a reflection based on answering the f
 
 Include a reflection answering the following questions:
 
-* What was your biggest techincal challenge?
+* What was your biggest technical challenge?
 * How did you solve that challenge? What was your approach?
 * What did you like the most about the challenge?
 * What are three technical concepts you learned during this project?
@@ -28,7 +28,7 @@ Include a reflection answering the following questions:
 
 Include a reflection answering the following questions:
 
-* What was your biggest techincal challenge?
+* What was your biggest technical challenge?
 * How did you solve that challenge? What was your approach?
 * What did you like the most about the challenge?
 * What are three technical concepts you learned during this project?
