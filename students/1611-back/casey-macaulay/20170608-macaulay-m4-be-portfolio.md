@@ -217,7 +217,7 @@ _You used PT to track your progress and estimate stories._
 
 ## C: Open Source
 
-*** Outstanding **
+[3 Tips for Success: Your First Open Source Contribution](https://medium.com/@caseyanne1220/3-tips-for-success-your-first-open-source-contribution-f1583b4c32e8)
 
 ## D: Gear Up Recap
 
