@@ -79,4 +79,9 @@
 
 ### Outcome
 
+DOM Manipulation: Pass
+Mythical Creatures: Pass
+Quizlette: Pass
+Static Comp Challenge 3: Pass
+
 ( Leave blanks for reviewers )
