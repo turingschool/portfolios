@@ -41,22 +41,22 @@ I wanted to start building a portfolio I would be comfortable sending people.
 
 | CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
 | --- | --- | --- | --- |
-| **Github Repo** | [Rales Repo](https://) | [Cloney 1 Repo](https://) | [Cloney 2 Repo](https://) |
-| **Heroku** | [Rales](https://) | [Cloney 1](https://) | [Cloney 2](https://) |
-| **Functional/Client Expectations** | X | X | X |
-| **TDD** | X | X | X |
-| **Code Organization/Quality** | X | X | X |
-| **API Design** | X | N/A | N/A |
-| **Queries** | X | N/A | N/A |
+| **Github Repo** | [Rales Repo](https://github.com/ACC25/rails_engine) | [Cloney 1 Repo](https://github.com/ACC25/trail-up) | [Cloney 2 Repo](https://github.com/squeemishly/dark_clout) |
+| **Heroku** | [Rales](https://github.com/ACC25/rails_engine) | [Cloney 1](https://trail-up.herokuapp.com/) | [Cloney 2](https://github.com/squeemishly/dark_clout) |
+| **Functional/Client Expectations** | n/a | n/a | n/a |
+| **TDD** | n/a | X | X |
+| **Code Organization/Quality** | n/a | n/a | n/a |
+| **API Design** | n/a | N/A | N/A |
+| **Queries** | n/a | N/A | N/A |
 
 > Rales Engine evaluation comments:
-\<Instructor Comments Here>
+n/a
 
 > Cloney Island Sprint 1 evaluation comments:
-\<Instructor Comments Here>
+n/a
 
 > Cloney Island Sprint 2 evaluation comments:
-\<Instructor Comments Here>
+n/a
 
 ## C. **Gear Ups**
 
