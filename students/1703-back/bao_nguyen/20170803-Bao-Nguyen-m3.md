@@ -1,6 +1,6 @@
-Bao Nguyen - M3 Portfolio
+# Bao Nguyen - M3 Portfolio
 
-Areas of Emphasis
+## Areas of Emphasis
 
 We started Mod 3 with Rales Engine. This focused on building an API backend only and
 then writing SQL queries to solve business intelligence. I liked it very much and
@@ -12,86 +12,63 @@ backend to then replicate changes across different databases. The second project
 on learning websockets and how Action Cable gives us the ability to instantly transfer data
 to another person over a Redis server.
 
-Self-Assessment Scores
+## Self-Assessment
 
-Fill in how you would grade yourself from 1-4 in the following categories this module.
+| Section | Category | Score |
+| --- | ----- | --- |
+| A | **End-of-Module Assessment** | 3 |
+| B | **Individual Work & Projects** | 3 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | 3 |
+| E | **Feedback & Community Participation** | 3 |
 
-Section	Category	Score
-A	End-of-Module Assessment	3
-B	Group Projects	3
-C	Professional Development	3
-D	Community	3
-Notes
+>* Honestly I didn't meet my own expectations for this module. I was way too tired at times and didn't
+put in the effort in the hard things that needed to get done.
+>* \<Notes>
 
-In the last week posse meetings, I gave a lightning talk about JWTs and how they apply to
-front and back ends. I hope people learned something
+-----------------------
 
-This section does not need to be populated (and template text should therefore be removed) if no scores warrant explanation.
+## A: Individual Work & Projects (Optional)
 
-Note 1 (if applicable)
-Note 2 (if applicable)
-A: End of Module Assessment
-
-Category	Score
-Timed Exercise	PASS?
-Ruby Syntax & API	2
-Completion and Progress	3
-Testing	3
-
-Note 1 (if applicable)
-Note 2 (if applicable)
-B: Individual Projects
-
-CATEGORY	PROJ 1 (Rails Engine)	PROJ 2 (AirBnb) PROJ 3 (AirBnB-me-a-river)
-Project Spec	http://backend.turing.io/module3/projects/rails_engine	http://backend.turing.io/module3/projects/cloney_island/cloney_island
-Github	https://github.com/rongxanh88/rales_engine	https://github.com/rongxanh88/cloney_island_airbnb	https://github.com/iamchrissmith/air_bnb_clone
-Functional Expectations	3	X	4
-Active Record           4 X X
-Code Quality            4 X $
-Test-Driven Development	3	X	4
-Working Collaboratively	4	X	4
-API Design              4 X $
-Notes
-
-Individual Proj (AirBnB)
-Client Expectations 4
-Testing             4
-Code Quality        4
+> **[APIcurious](http://backend.turing.io/module3/projects/apicurious)**
+>* Talking to the Reddit API sucks. I won't do it again and I would never work for Reddit. Seriously.
 
 
-D: Professional Development
+## B: Group Work & Projects
 
-# PD1: Storytelling and Resumes
-I did my resume over break, so I got some good feedback from Meg pretty early. After revising it and building out my portfolio, I am starting to understand what kind of job I would like
-and what should go on my resume.
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
+>* Overall, I think this project went well. We communicated well and the project was finished. That said, we didn't DTR properly, which leads to problems on my next project.
 
-# PD2: Flower
-The flower helped me to look at what I have liked and disliked in the past. I think it is actually steering me away from 100% software development. While I like Rails, I don't really like
-CRUD operations. I like solving backend problems. I think I will look more towards 80% Dev and 20% Ops.
-
-# PD3: Job Tracker
-I built out my Trello boards. So far they are pretty sparse, but I have a good idea of what I want to to. I just recently met someone over a beer and we talked about working at a 
-consulting company called Stelligent.
-
-# PD4: Finding Opportunities
-I am focusing on finding firms that I would like to work at. I think this will be a superior approach to applying blindly online. I don't think doing that will lead anywhere
-so I will resist sending in applications.
-
-Feedback from partner projects.
-
-Project 1 (): Rales Engine
-Overall, I think this project went well. We communicated well and the project was finished. That said, we didn't DTR properly, which leads to problems on my next project.
-
-Project 2 (): AirBnB 1
-Overall, I think this project turned our really well even though it got pretty disfunctional. I think the group dynamic was fine, but the project itself could have been better.
+> **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
+> **[Cloney Island Sprint 1](https://)** 
+>* Overall, I think this project turned our really well even though it got pretty disfunctional. I think the group dynamic was fine, but the project itself could have been better.
 Part of this, was the lack of a true DTR as well. I think what happened is that the software building process was affected and problems arose because we didn't merge, PR, and
 deploy.
 
-Project 2 (): AirBnb 2
-This project went really well. We did a proper DTR and I think all together, the three projects taught me a lot about how to make group projects work better. It helps to make me
+> **[Cloney Island Sprint 2](https://)** 
+>* This project went really well. We did a proper DTR and I think all together, the three projects taught me a lot about how to make group projects work better. It helps to make me
 a better developer and a better collaborator.
 
-Gear Up
+| CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
+| --- | --- | --- | --- |
+| **Github Repo** | [Rales Repo](https://github.com/rongxanh88/rales_engine) | [Cloney 1 Repo](https://github.com/rongxanh88/cloney_island_airbnb | [Cloney 2 Repo](https://github.com/iamchrissmith/air_bnb_clone) |
+| **Heroku** | [Rales](None) | [Cloney 1](None) | [Cloney 2](https://airbnb-me-a-river.herokuapp.com/) |
+| **Functional/Client Expectations** | 3 | 4 | 4 |
+| **TDD** | 3 | 4 | 4 |
+| **Code Organization/Quality** | 4 | 4 | 4 |
+| **API Design** | 4 | N/A | N/A |
+| **Queries** | 4 | N/A | N/A |
+
+> Rales Engine evaluation comments:
+None
+
+> Cloney Island Sprint 1 evaluation comments:
+Tough story and delivered!! Tests are thorough for your api and on the main app. Connecting all these things is difficult and you excelled, nice work!
+
+> Cloney Island Sprint 2 evaluation comments:
+None
+
+## C. **Gear Ups**
 
 # Session 1: Microaggressions
 
@@ -136,10 +113,23 @@ my moral principles and admit that I have some power in this. It use to be that 
 This content was filtered out. The expense of writing something or putting up an ad prevented a peasant from spreading falsehoods. Today, there are
 potentially billions of content writers, and no filters. With that in mind, we can only hope to programmatically fix this problem.
 
-Final Review
+## D: Community Participation
 
-Note 1
-Note 2
-Outcome
+#### **Community Contribution Option**
+>* I gave a lightning talk on JWTs and how it can be used in the front and back end in my posse. I hope that helps someone solve a problem.
 
-PROMOTED
+#### **Posse**
+  >* We did some coding challenges, gave a couple of lightning talks and got to know each other.
+  >* Our posse experience was okay. I think I'll take a bigger role and making it better for students that are new to Turing.
+
+#### **Playing a Part**
+
+> I somehow helped a number of mod 2 students with their projects. I say somehow because I don't feel like I contributed much but they were happy!
+
+------------------
+
+## Final Review
+
+> #### Notes ( Leave blank for reviewers )
+
+> #### Outcome ( Leave blank for reviewers )
