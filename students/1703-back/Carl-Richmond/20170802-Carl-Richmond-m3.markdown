@@ -43,11 +43,11 @@ I wanted to start building a portfolio I would be comfortable sending people.
 | --- | --- | --- | --- |
 | **Github Repo** | [Rales Repo](https://github.com/ACC25/rails_engine) | [Cloney 1 Repo](https://github.com/ACC25/trail-up) | [Cloney 2 Repo](https://github.com/squeemishly/dark_clout) |
 | **Heroku** | [Rales](https://github.com/ACC25/rails_engine) | [Cloney 1](https://trail-up.herokuapp.com/) | [Cloney 2](https://github.com/squeemishly/dark_clout) |
-| **Functional/Client Expectations** | n/a | n/a | n/a |
-| **TDD** | n/a | n/a| n/a |
-| **Code Organization/Quality** | n/a | n/a | n/a |
-| **API Design** | n/a | n/a | n/a |
-| **Queries** | n/a | n/a | n/a |
+| **Functional/Client Expectations** | 3 | 2 | n/a |
+| **TDD** | 4 | n/a| n/a |
+| **Code Organization/Quality** | 3 | 1 | n/a |
+| **API Design** | 4 | n/a| n/a |
+| **Queries** | 4 | n/a | n/a |
 
 > Rales Engine evaluation comments:
 n/a
