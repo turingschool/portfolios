@@ -43,8 +43,9 @@ _It is difficult to give myself self-assessment scores but...._
 | **REPL Interface** | N/A | N/A | 3 |
 
 ### B: Ungraded Projects
+
 | CATEGORY | Mastermind | Flash Cards|
-| --- | --- | --- | --- |
+| ---- | --- | --- |
 | **Project Spec** | [link](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown) | [link](https://github.com/turingschool/curriculum/blob/master/source/projects/flashcards.markdown) |
 | **Github** | [link](https://github.com/yoasyo25/master_mind) | [link](https://github.com/MarcOverZero/flashcards) |
 
@@ -53,8 +54,8 @@ _It is difficult to give myself self-assessment scores but...._
 ## C: Group Projects
 
 | CATEGORY | Enigma | Headcount |
-| --- | --- | --- | --- |
-| **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link]() |
+| ---- | --- | --- | 
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/enigma) | [link](http://backend.turing.io/module1/projects/headcount) |
 | **Github** | [link](https://github.com/squeemishly/enigmatic) | [link](https://github.com/yoasyo25/headcount) |
 | **Functional Expectations** | 1 | 2 |
 | **Test-Driven Development** | 3 | 3 |
@@ -90,7 +91,7 @@ _It is difficult to give myself self-assessment scores but...._
 
 **Feedback from Chantal Justamond:**
 
-> GET FEEDBACK
+> I honestly don't have any constructive feedback!  I know we are supposed to give suggestions on how we could improve but I can't think of a single area where you could have given more, you're effort was outstanding.  I think we were good about switching roles, picking up each other's slack when we were brain-dead & dividing and conquering. We never surrendered to Head Count, even when we had to refactor iteration zero 3 times. Frustration never got the best of us, we kept fighting it and winning.  I would like to add It was a real pleasure working with you!  The fact that you were so willing to put every last minute of your free time into this project was highly motivating.
 
 ### Job Prep
 

@@ -7,8 +7,9 @@ What do you want to focus on this inning? What do you hope to accomplish by grad
 ## Assessment
 
 Include your final outcome (pass/fail) and a reflection based on answering the following questions:
+N/A
 
-* What was your biggest techincal challenge?
+* What was your biggest technical challenge?
 * What did you like the most about the challenge?
 * How did you solve that challenge? What was your approach?
 * What did you learn?
@@ -17,20 +18,28 @@ Include your final outcome (pass/fail) and a reflection based on answering the f
 
 Include a reflection answering the following questions:
 
-* What was your biggest techincal challenge?
+* What was your biggest technical challenge?
+
 * How did you solve that challenge? What was your approach?
+
 * What did you like the most about the challenge?
+
 * What are three technical concepts you learned during this project?
+
 * If you could change one thing about your technical approach, what would it be and why?
+
 * What was the experience like working with a pair while learning something new?
 
 ## Capstone Project
 
 Include a reflection answering the following questions:
 
-* What was your biggest techincal challenge?
+* What was your biggest technical challenge?
+
 * How did you solve that challenge? What was your approach?
+
 * What did you like the most about the challenge?
+
 * What are three technical concepts you learned during this project?
 
 ## Feedback
@@ -48,4 +57,3 @@ How else did you give back to the community this inning? Why do you think this i
 ## Going Forward
 
 What three skills (professional and/or technical) are you going to take forward with you during your next job post-Turing?
-

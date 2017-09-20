@@ -197,3 +197,5 @@ I've been writing blog posts, that I hope will eventually serve the turing commu
 > #### Notes ( Leave blank for reviewers )
 
 > #### Outcome ( Leave blank for reviewers )
+
+Promoted

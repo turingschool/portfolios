@@ -31,11 +31,11 @@
 >* Overall this project went really well and I enjoyed working on it. I plan to look over the ActiveRecord portion of the project as this was definitely the hardest part for me.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://github.com/NicholasJacques/corkboard)** 
+> **[Cloney Island Sprint 1](https://github.com/NicholasJacques/corkboard)**
 >* In this project we attempted to clone the website 'Thumbtack'
 >* This project was challenging for a number of reasons. Our database schema was particularly challenging and the site required a lot of work to get the base functionality in place. This left me with little time to work on my personal user story. I did enjoy my user story, however, and I feel as though I have a really good understanding of how polymorphism works as a result.
 
-> **[Cloney Island Sprint 2](https://)** 
+> **[Cloney Island Sprint 2](https://)**
 >* This was a brownfield project in which we added functionality to an existing clone of the website 'Kickstarter'
 >* I had a lot going on outside of school during this project and didn't get to participate on it as much as I would have liked. My user story involved using background workers and mailers to send confirmation emails. I ran into issues trying to get url_helpers to render in my mailer that I'm still working on figuring out.
 
@@ -73,3 +73,4 @@ I attended the Black Mirror gear up on how our online presence affects our every
 > #### Notes ( Leave blank for reviewers )
 
 > #### Outcome ( Leave blank for reviewers )
+Provisional

@@ -30,17 +30,17 @@
 
 ## C: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
 >* This is Rails and ActiveRecord project to build a JSON API which exposes the SalesEngine data schema.
 >* In this project I used Ruby and ActiveRecord to perform complicated business intelligence
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https:// https://github.com/lukyans/punstartr)** 
+> **[Cloney Island Sprint 1](https:// https://github.com/lukyans/punstartr)**
 >* In this group project, we built a new platform from scratch to handle multiple types of users (guests, registered users & admins). It's a secure web application that supports multitenancy. Consuming an external API. Building an internal API
 >* For this project I focused on bulding Google Maps Embed API
 
 
-> **[Cloney Island Sprint 2](https://https://github.com/lukyans/fair_bnb)** 
+> **[Cloney Island Sprint 2](https://https://github.com/lukyans/fair_bnb)**
 >* For this project I focused on bulding feature to Send Email with SendGrid
 
 | CATEGORY | Rales Engine (scores optional) | Cloney Island 1 (scores optional) | Cloney Island 2 (scores optional) |
@@ -70,11 +70,11 @@
 #### **Gear Ups**
 
 > [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
-* Because of microaggression we’ve been pushing people away from the tech industry for decades, and this immense loss of talent is both absurd and embarrassing. 
+* Because of microaggression we’ve been pushing people away from the tech industry for decades, and this immense loss of talent is both absurd and embarrassing.
 
 > [Tragedy of the Commons](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
 * After playing with Parable of the polygons, I gave answers to some questions:
-Let's say tech executives (consciously or subconsciously) seek teams in which at least 1/3 of team members are like them (gender, age, race). How will this impact the types of jobs available? 
+Let's say tech executives (consciously or subconsciously) seek teams in which at least 1/3 of team members are like them (gender, age, race). How will this impact the types of jobs available?
 I think it will create an environment mostly consisted with th same gender, age, race the executives are.
 This game demonstrates how unconsciously we can create segregated environment.
 
@@ -87,8 +87,8 @@ This game demonstrates how unconsciously we can create segregated environment.
 
 #### **Posse**
   >* I participated in Jennifer Pahlka posse over the module
-  >* We used workshop and meeting time to talk about strategic components of projects, then groups can split up based on interests to execute the tech side of projects. 
-  
+  >* We used workshop and meeting time to talk about strategic components of projects, then groups can split up based on interests to execute the tech side of projects.
+
 ## Final Review
 
 > #### Notes ( Leave blank for reviewers )
@@ -102,4 +102,4 @@ This game demonstrates how unconsciously we can create segregated environment.
 > #### Notes ( Leave blank for reviewers )
 
 > #### Outcome ( Leave blank for reviewers )
-
+Promoted

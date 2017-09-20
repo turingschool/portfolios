@@ -106,4 +106,9 @@ The Turing community was way more of a support structure for me this mod, than I
 
 > #### Notes
 
+* Needs PD deliverables.
+* Requires to complete a story from Cloney Island sprint 2.
+
 > #### Outcome
+
+Provisional

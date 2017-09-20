@@ -45,9 +45,9 @@
 | --- | --- | --- | --- |
 | **Github Repo** | [Rales Repo](https://github.com/jk1dd/rales-engine) | [Cloney 1 Repo](https://github.com/jk1dd/grab_bag) | [Cloney 2 Repo](https://github.com/josh-works/corkboard) |
 | **Heroku** | [Rales](https://) | [Cloney 1](https://) | [Cloney 2](https://corkboarded.herokuapp.com/) |
-| **Functional/Client Expectations** | 3 | 3 | X |
-| **TDD** | 4 | 2 | X |
-| **Code Organization/Quality** | 4 | 3 | X |
+| **Functional/Client Expectations** | 3 | 3 | 2 |
+| **TDD** | 4 | 2 | 3 |
+| **Code Organization/Quality** | 4 | 3 | 3 |
 | **API Design** | 3 | N/A | N/A |
 | **Queries** | 4 | N/A | N/A |
 
@@ -93,3 +93,5 @@ Black Mirror and Social Media. We had a chance to view part of an episode of Bla
 > #### Notes ( Leave blank for reviewers )
 
 > #### Outcome ( Leave blank for reviewers )
+
+Promoted

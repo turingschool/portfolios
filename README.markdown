@@ -114,11 +114,17 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 
 ### Module 4 (Front-end)
 
-* Individual Assessment
-* Required Projects (4 out of 5): Capstone Project, Imposter Syndrome, Jet Fuel, BYOB
-  * Should include points breakdown per project
-
-* Community:
+* **Areas of Emphasis** - briefly describe the goals you had for this mod and if/how you accomplished them
+* **Rubric scores** - Fill in how YOU would grade yourself from 1-4 in the following categories this module:
+  * End-of-Module Assessment
+  * Individual Work & Projects
+  * Group Work & Projects
+  * Professional Development
+  * Feedback & Community Participation
+* **Individual Assessment:** - (Pass/Fail)
+* **Required Projects** - Capstone Project, House of Vars (blog post), Jet Fuel, BYOB
+  * Should include points breakdown per project where applicable
+* **Community**
   * Summary of how you've contributed to the community
   * A recap of reflections from Gear Up
 

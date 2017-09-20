@@ -62,15 +62,8 @@
 
 ## C. **Gear Ups**
 
-> [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
-
-> [Tragedy of the Commons](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
-
-> [Choose your own adventure](https://github.com/turingschool/gear-up/)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
-
+> [Link To Gear Up]()
+\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently for each gear up>
 
 ## D: Community Participation
 

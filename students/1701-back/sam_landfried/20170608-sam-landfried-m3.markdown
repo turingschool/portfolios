@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-This mod, I tried to concentrate my attention on activities that would best prepare me for the job hunt. This involved networking and developing my proffesional branding in addition to applying to jobs. 
+This mod, I tried to concentrate my attention on activities that would best prepare me for the job hunt. This involved networking and developing my proffesional branding in addition to applying to jobs.
 
 ## Self-Assessment
 
@@ -25,16 +25,16 @@ This mod, I tried to concentrate my attention on activities that would best prep
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
 >* We built an API to serve business analytics.
 >* I need to work on my ActiveRecord skills.
 
 > **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://)** 
->* My group cloned DropBox. 
+> **[Cloney Island Sprint 1](https://)**
+>* My group cloned DropBox.
 >* This was the first very functional app I have built. It was great to integrate it with AWS and build a complicated schema that effectively replicated DropBox functionality.
 
-> **[Cloney Island Sprint 2](https://)** 
+> **[Cloney Island Sprint 2](https://)**
 >* I extracted AirBnB's messaging into an external service hosted on Digital Ocean.
 >* I got to work with a Linux VPS for the first time, which was a good learning experience. I also liked the process of extracting part of a site's functionality to make it more flexible.
 
@@ -51,33 +51,32 @@ This mod, I tried to concentrate my attention on activities that would best prep
 ## C. **Gear Ups**
 
 > [Microagressions](https://github.com/turingschool/gear-up/blob/master/microaggressions_original.markdown)
-Microagressions are when something 
 
-> [Tragedy of the Commons](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
+A microagression occurs when someone is treated differently because of their background, which sends the message, 'You don't belong here'. Sometimes these are innocuous off hand comments that are unintentionally hurtful, and sometimes the ignorance is more obvious. It is are job to be aware of these microagressions to keep ourselves from offending, and to ally with those that might be affected. 
 
 > [Choose your own adventure](https://github.com/turingschool/gear-up/)
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently>
-
+I attended the 'Dangers of a Single Story' gear up. Basically, we let ourselves believe a single story about people because of their backgrounds. Humans are great at generalizing and stereotyping, which is how we process tons of information and can function in the world. The danger comes when we believe incorrect things about people, or make assumptions about them without recognizing their individuality.
 
 ## D: Community Participation
 
 #### **Community Contribution Option**
->* \<Link &/or blurb about the option you chose (blog post, lead a spike or posse, lightning talk, open source contribution or pair > 3 times)>
+I was a leader of the Wozniak Posse and paired with other students.
 
 #### **Posse**
-  >* \<Blurb about what you did with your posse over the module>
-  >* \<Your favorite thing about the posse experience>
-  >* \<How has your posse experience helped you grow as a professional?>
+  >* Woz Poz focused on practicing technical interviews.
+  >* It was nice to focus on algorithmic challenges.
+  >* It has made me more aware of my own strengths and interests, in addition to improving my technical interview skills.
 
 #### **Playing a Part**
 
-> \<How else you've contributed to the community>
+I've done my best to participate in cohort retros and group projects in meaningful ways.
 
 ------------------
 
 ## Final Review
 
 > #### Notes ( Leave blank for reviewers )
+Needs to complete Portfolio
 
 > #### Outcome ( Leave blank for reviewers )
+Provisional

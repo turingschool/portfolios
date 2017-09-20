@@ -32,17 +32,17 @@
 
 ## B: Group Work & Projects
 
-**[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
+**[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
 * In this project, we used Rails and ActiveRecord to build a JSON API that exposed the SalesEngine data schema.
 * This project was instrumental in my understanding of developing endpoints to expose an API.
 
 **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
 
-**Cloney Island Sprint 1** 
+**Cloney Island Sprint 1**
 * In this project, our team built a new platform from scratch to handle multiple types of users (guests, registered users, and admins). We developed a clone of AirBnB, a “greenfield” project. We created a secure web application that supports multitenancy, create seed files, consume an external API to display weather conditions on all property pages, expose an internal API, among other functionality.
 * This project was a wonderful experience. I really enjoyed developing the service and supporting models to consume an external weather API and display weather conditions on our site. I participated in styling, strengthened my git process knowledge, developed wireframes, wrote unit tests and several features, and enjoyed working on my largest rails project to date with a great team.
 
-**Cloney Island Sprint 2** 
+**Cloney Island Sprint 2**
 * In this project, I joined a new team and moved to another project developed during Cloney Island Sprint 1, a clone of Kickstarter. This sprint gave us exposure to working with “brownfield” development and was a wonderful and valuable experience.
 * The aspect of this sprint that took up most of my time was learning how to use jQuery and AJAX to add a feature that allows users to upvote a project, which saves a vote for that user on that project only (and allows the user ONLY one vote on that particular project) in our database. The user can also downvote the project in order to remove her vote from the project. These actions happen via AJAX calls without a page reload. This was a challenge for me given me limited exposure to Javascript, jQuery and AJAX to date, and it proved quite valuable and fun for me in terms of learning.
 
@@ -91,3 +91,5 @@
 > #### Notes ( Leave blank for reviewers )
 
 > #### Outcome ( Leave blank for reviewers )
+
+Promoted
