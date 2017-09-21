@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-I set out to further 
+I set out to further my understanding of JavaScript ES6 and looked forward to learning React and Sass.
 
 ## Rubric Scores
 
@@ -41,7 +41,14 @@ The solo projects this mod facilitated a significant amount of growth in the thi
 * [Sorting Suite GitHub URL](https://github.com/AdamMescher/sorting-suite)
 * [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
 
-This project was a wonderful introduction to sorting algorithms and the thinking process behind them. 
+Sorting algorithms are one of the common domains for studying Computer Science data structures and algorithms. They give us an opportunity to focus on algorithms of various complexity all solving a relatively simple problem.
+
+In this project, I was challenged to implement four fundamental sorting algorithms: 
+
+1. Bubble Sort
+2. Insertion Sort
+3. Merge Sort
+4. Quick Sort
 
 Testing
 
