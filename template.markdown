@@ -29,16 +29,6 @@ The solo projects this mod facilitated a significant amount of growth in the thi
 
 This project was a wonderful introduction to sorting algorithms and the thinking process behind them. 
 
-
-#### Complete Me
-
-* [GitHub URL](https://github.com/AdamMescher/sorting-suite)
-* [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
-
-(description)
-
-Sorting Suite comments
-
 Testing
 
 Nice tests
@@ -65,6 +55,14 @@ If you do that, the for loop must be changed to include i < array.length
 Score:
 
 Pass
+
+
+#### Complete Me
+
+* [GitHub URL](https://github.com/AdamMescher/sorting-suite)
+* [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
+
+(description)
 
 Evaluator comments:
 
