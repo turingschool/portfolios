@@ -208,7 +208,7 @@ This gear up was an interesting look at how others see the world. It's easy to g
 
 * [Groupthink GitHub URL](https://github.com/turingschool/gear-up/blob/master/groupthink.md)
 
-
+My biggest takeway from the groupthink gear up was the realization of how easy it is to fall prey to gropupthink. What most people would attribute as strength - familarity and monoculture, is the thing that needs to be most fought against. The example of the Bay of Pigs was a very strong reminder that surrounding yourself with or becoming a yes man can have significant consequences for any organization. This lesson encouraged me to be the one asking hard questions confidently. 
 
 
 #### Privacy
