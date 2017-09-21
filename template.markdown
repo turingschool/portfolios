@@ -197,15 +197,15 @@ The output from a code sanitizer (either JSHint or ESLint) shows…
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Empathy and Privilege
 
-* [Empathy and Privilege GitHub URL](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
+
+#### Empathy and Privilege
 
 * [Groupthink GitHub URL](https://github.com/turingschool/gear-up/blob/master/groupthink.md)
 
-
-
-* Privacy
+#### Privacy
 
 The Mod 4 led discussion surrounding privacy was a fascinating look at what privacy means to the individual and how an aspiring developer should respond accordingly. My takeaway from this session was the realization that data may be collected with good intentions but never deleting that information may allow that information to be used for nefarious actions in the future. Thus, Data collection without deletion means that the data could fall into the wrong hands at any time, either through hacking or the business failing and being bought by others. As a developer, I want to learn more about an intelligent way to sunset user data. 
 
