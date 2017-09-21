@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Adam Mescher - M2 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I set out to further 
 
 ## Rubric Scores
 
@@ -16,17 +16,51 @@
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
-
+Pass
 
 ## B: Individual Work & Projects
 
-(Intro)
+The solo projects this mod facilitated a significant amount of growth in the thinking behind test driven development. 
 
-#### (Project Name)
+#### Sorting Suite
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [Sorting Suite GitHub URL](https://github.com/AdamMescher/sorting-suite)
+* [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
+
+This project was a wonderful introduction to sorting algorithms and the thinking process behind them. 
+
+Evaluator comments:
+
+Very strong understanding of SRP (duplicate code broken into helper functions, etc)
+Good organization with obvious refactoring
+Score is pending until complete, passing test suite is submitted
+1. Fundamental JavaScript & Style
+
+3.5: Application shows strong effort towards organization, content, and refactoring
+2. Test-Driven Development
+
+Score pending submission of completed, passing test suite
+
+4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+2: Application makes some use of tests, but the coverage is insufficient
+1: Application does not demonstrate strong use of TDD
+3. Encapsulation / Breaking Logic into Components
+
+4: Application is expertly divided into logical components each with a clear, single responsibility
+4. Functional Expectations
+
+3.5: Application meets all requirements as laid out per the specification.
+5. Code Sanitation
+
+The output from ESLint shows…
+
+4 - Zero complaints
+
+#### Complete Me
+
+* [GitHub URL](https://github.com/AdamMescher/sorting-suite)
+* [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 
 (description)
 
@@ -40,10 +74,23 @@
 
 (Intro)
 
-#### (Project Name)
+#### Game Time
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [Game Time GitHub URL](https://github.com/AdamMescher/game-time)
+* [Original Assignment](http://frontend.turing.io/projects/game-time.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### Weathrly
+
+* [Weathrly Repository](https://github.com/AdamMescher/game-time)
+* [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 
 (description)
 
