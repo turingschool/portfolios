@@ -245,8 +245,9 @@ Overall, I feel a much stronger bond to the Turing community as a whole as Mod 2
 
 ### Notes
 
-( Leave blanks for reviewers )
+Great Job!!!
 
 ### Outcome
 
-( Leave blanks for reviewers )
+Pass
+
