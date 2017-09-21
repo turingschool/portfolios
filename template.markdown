@@ -194,6 +194,7 @@ The output from a code sanitizer (either JSHint or ESLint) shows…
 4 - Zero complaints
 
 ## D: Professional Skills
+
 (Intro)
 
 ### Gear Up
