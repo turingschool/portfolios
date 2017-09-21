@@ -201,9 +201,15 @@ The output from a code sanitizer (either JSHint or ESLint) shows…
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
 
+This gear up was an interesting look at how others see the world. It's easy to get lost in your own bubble and ignore the struggles of others I had never contemplated before. My takeaway from this gear up was that it's possible to have significant blind spots and the only way to learn more about them is to be exposed to the personal experience of others. I hope to be much more careful of my assumptions about others and to be more mindful of whether or not I am truly empathetic of their experience. 
+
+
 #### Empathy and Privilege
 
 * [Groupthink GitHub URL](https://github.com/turingschool/gear-up/blob/master/groupthink.md)
+
+
+
 
 #### Privacy
 
