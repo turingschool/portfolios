@@ -1,34 +1,34 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Nik Bornemeier - (M3) Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Learn about React, Redux, and Router
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: N/A
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+Repeating
 
 
 ## B: Individual Work & Projects
 
-(Intro)
+I learned quite a lot this mod from all of the projects and class asignments
 
-#### (Project Name)
+#### (Team Builder)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/NikBorn/Personal-Project)
+* [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
 
-(description)
+
 
 (evaluation comments)
 
@@ -40,12 +40,38 @@
 
 (Intro)
 
-#### (Project Name)
+#### HeadCount
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/mollyfoz/headcount2.0)
+* [Original Assignment](https://github.com/turingschool-examples/headcount2.0)
 
-(description)
+Created an app to compare school district data.
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### SwapiBox
+
+* [GitHub URL](https://github.com/lcaroselli/SwapiBox)
+* [Original Assignment](http://frontend.turing.io/projects/swapi-box.html)
+
+created an app to display information from the Star Wars API
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### MovieTracker
+
+* [GitHub URL](https://github.com/lcaroselli/SwapiBox)
+* [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
+
+Built an app similar to Netflix
 
 (evaluation comments)
 
