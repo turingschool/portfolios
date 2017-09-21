@@ -214,9 +214,11 @@ The Mod 4 led discussion surrounding privacy was a fascinating look at what priv
 
 ### Playing a Part
 
-I set out to participate in a larger number of extra events organized by Turing memebers. Attending events such as the demo night finals as well as lunches with speakers made me feel much more connected to the Turing community as a whole. 
+I set out to participate in a larger number of extra events organized by Turing memebers. Attending events such as the demo night and hearing speakers from companies during lunch were wonderful ways to further my understanding of what is expected of me both within Turing and after I depart. 
 
 I emphasized ensuring adequete pairing slots for Mod 1. I gave up my lunch hour each day for 4 weeks, and that time was utilized all but 2 days. It was rewarding to spend time helping others learn more while also reinforcing my own undestanding of the material I learned 7 weeks prior. 
+
+Overall, I feel a much stronger bond to the Turing community as a whole as Mod 2 draws to a close. 
 
 ------------------
 
