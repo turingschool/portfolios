@@ -6,11 +6,25 @@ I set out to further
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3.25
+
+I feel prepared to move on but I realize that there is still much to learn in React and TDD.
+
+* **B: Individual Work & Projects**: 3.5
+
+I felt very confident following Complete Me. I proved to myself I don't always need a partner to push me to continue to further my skills.
+
+* **C: Group Work & Projects**: 3
+
+I felt very good about my group projects while I was pairing. 
+
+* **D: Professional Skills**: 3
+
+I feel as if I gaining a stronger understanding of how to network within the tech industry as a whole and what is expected of me as a candidate for open positions.
+
+* **E: Community Participation**: 3
+
+I made an effort to attend more Turing events and each experience I felt was a rewarding use of my time. 
 
 -----------------------
 
@@ -96,14 +110,14 @@ The output from ESLint shows…
 
 ### Projects
 
-(Intro)
+The projects in Mod 2 gave much less rigid and gave some room to be creative while also meeting the underlying requirements.
 
 #### Game Time
 
 * [Game Time GitHub URL](https://github.com/AdamMescher/game-time)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
-(description)
+Game Time was a project meant to introduce HTML5 Canvas. My partner and I chose Snake from the list of games and ended up with a project to which I am proud to attach my name. 
 
 Functional Expectations
 
@@ -131,7 +145,7 @@ The output from ESLint shows…
 * [Weathrly Repository](https://github.com/AdamMescher/weathrly)
 * [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 
-(description)
+This project was a fantastic introduction into React and API calls via fetch. While there were some significant struggles, by the end I feel excited to continue learning more about React in the future. 
 
 Comments:
 Lovely interface and good UI
@@ -178,15 +192,24 @@ The output from a code sanitizer (either JSHint or ESLint) shows…
 ### Gear Up
 #### (Session Name)
 
-* [GitHub URL]()
+* [Empathy and Privilege GitHub URL](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+* [Groupthink GitHub URL](https://github.com/turingschool/gear-up/blob/master/groupthink.md)
+
+
+
+* Privacy
+
+The Mod 4 led discussion surrounding privacy was a fascinating look at what privacy means to the individual and how an aspiring developer should respond accordingly. My takeaway from this session was the realization that data may be collected with good intentions but never deleting that information may allow that information to be used for nefarious actions in the future. Thus, Data collection without deletion means that the data could fall into the wrong hands at any time, either through hacking or the business failing and being bought by others. As a developer, I want to learn more about an intelligent way to sunset user data. 
+
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I set out to participate in a larger number of extra events organized by Turing memebers. Attending events such as the demo night finals as well as lunches with speakers made me feel much more connected to the Turing community as a whole. 
+
+I emphasized ensuring adequete pairing slots for Mod 1. I gave up my lunch hour each day for 4 weeks, and that time was utilized all but 2 days. It was rewarding to spend time helping others learn more while also reinforcing my own undestanding of the material I learned 7 weeks prior. 
 
 ------------------
 
