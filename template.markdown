@@ -83,7 +83,7 @@ Pass
 * [GitHub URL](https://github.com/AdamMescher/sorting-suite)
 * [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 
-(description)
+Complete-Me is a project that takes a deep dive into the prefix trie data structure. It was fascinating to learn about linked lits, doubly linked lists, binary trees, and binary search trees along the way to figuring out how to properly implement the prefix trie.
 
 Evaluator comments:
 
