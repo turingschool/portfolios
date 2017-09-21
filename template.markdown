@@ -34,7 +34,7 @@ Pass
 
 ## B: Individual Work & Projects
 
-The solo projects this mod facilitated a significant amount of growth in the thinking behind test driven development. 
+The solo projects this mod facilitated a significant amount of growth in the thinking behind test driven development via implementation of sorting algorithims and data structures. 
 
 #### Sorting Suite
 
