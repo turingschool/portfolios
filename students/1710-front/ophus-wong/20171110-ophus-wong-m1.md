@@ -334,6 +334,13 @@ This session focused on how we crafted our personal stories - which is important
 
 This session focused on the gender gap currently plaguing the tech industry. We watched a brief documentary which presented a ton of new information and helped me to view things from different perspective, especially regarding previous behaviors I may have exhibited towards women in my life which I had no idea was perpetuating this problem. I also found that much of what we discussed is also extremely valid for applying to other discussions regarding diversity.
 
+
+#### (Rule Number 6 - Don't Take Yourself So Seriously)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1710-inning/group_two.md)
+
+This session was led by Module 4 students and focused on not taking ourselves so seriously. More specifically, the session emphasized understanding one's current situation by taking a step back to get a different perspective. I felt that this session was important as it's easy for me to get tunnel vision when I focus on a goal. In the past, this has led to deterioration in my personal health and relationships with friends, family, and significant others. Moving forward after the session, I have ways to step away from my current situation, appreciate those around me, and have a good laugh.
+
 ## E: Community Participation
 
 ### Playing a Part
