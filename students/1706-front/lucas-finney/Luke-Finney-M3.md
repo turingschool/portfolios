@@ -131,9 +131,10 @@ This Gear-Up attempted to have us dive into a rather vast issue, being masculini
 
 ## Playing a Part
 
-I maintain a google doc of mod-specific resources for my classmates to use as we go throughout the mod.
-Paired with lower mod students on a few occasions.
-Helped re-start my posse.
+- I maintain a google doc of mod-specific resources for my classmates to use as we go throughout the mod.
+- Paired with lower mod students on a few occasions.
+- Helped re-start my posse.
+
 ------------------
 
 ## Final Review
