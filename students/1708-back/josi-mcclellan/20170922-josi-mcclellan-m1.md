@@ -1,4 +1,4 @@
-# First Last - M1 Portfolio
+# Josi McClellan - M1 Portfolio
 
 ## Areas of Emphasis
 
