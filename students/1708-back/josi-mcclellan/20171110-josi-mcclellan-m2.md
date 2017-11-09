@@ -3,7 +3,7 @@
 ## Areas of Emphasis
 
 #### What did you set out to accomplish this module? Were you successful?
-Question 1, eh?  Well I set out to:
+I set out to:
 - pass the module, and didn't
 - learn rails, and did (to a mod 2 degree)
 - learn how to collaborate on bigger project, mixed results
