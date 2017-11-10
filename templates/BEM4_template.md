@@ -3,63 +3,87 @@
 ## Area of Emphasis
 
 What do you want to focus on this inning? What do you hope to accomplish by graduation?
+* I want to improve my JavaScript skills and feel comfortable enough to apply for JS jobs after graduation.
 
 ## Assessment
 
 Include your final outcome (pass/fail) and a reflection based on answering the following questions:
-N/A
+  * Pass
 
 * What was your biggest technical challenge?
+  * In the JS assessment, I found that understanding the spec was the biggest challenge.
+  
 * What did you like the most about the challenge?
+  * I enjoyed getting the word size to reflect the amount of words that were in any given text.
+
+  
 * How did you solve that challenge? What was your approach?
+  * I started by thinking that the API was responsible for returning the word count. I approached it by reading the docs carefully and using postman to play with the API to check my assumptions. I then realized that I was supposed to create a function to count the words myself, after which things started to go pretty smoothly.
+  
 * What did you learn?
+  * I learned to read instructions carefully and to re-check my assumptions so that I can save time down the road.
+
 
 ## Quantified Self
 
 Include a reflection answering the following questions:
 
 * What was your biggest technical challenge?
+  * Getting the calorie counts to refresh dynamically.
 
 * How did you solve that challenge? What was your approach?
+  * I started by trying to get each table to reload by making a fresh AJAX call. However it became complicated fairly quickly, so I realized that I needed to refactor first to make things more modular, which then made it easier to create a function that would update calorie counts.
 
 * What did you like the most about the challenge?
+  * I really enjoyed working in JavaScript with jQuery, and I think I liked binding events to listeners more than anything.
 
 * What are three technical concepts you learned during this project?
+  * I learned how to use jQuery effectively, I learned how to debug a Node.js backend in production, and I learned how to create a GitHub page and link it to a backend running on Heroku.
 
 * If you could change one thing about your technical approach, what would it be and why?
+  * I would change the way I approached the project, which was much more jQuery-heavy and modular than HTML-heavy. I realize now that it's not bad to have a solid HTML frame that you can add content to with jQuery. Initially I believed that having as little HTML and making everything dynamically load via JS/jQuery was the way to go, but I realize now that it isn't an ideal approach.
 
 * What was the experience like working with a pair while learning something new?
+  * It was a great learning experience. I found that having someone else that may have to look at your code was a good motivator to write clean code and refactor whenever possible. Concepts that either of us weren't clear about were clarified by talking to each other as well.
 
 ## Capstone Project
 
 Include a reflection answering the following questions:
 
 * What was your biggest technical challenge?
+  * Working with Kubernetes on Raspberry Pi architecture.
 
 * How did you solve that challenge? What was your approach?
+  * I had a backup plan of using Docker Swarm, which I had tested previously and knew I could get up and running. My approach was that I could deep dive into new territory, knowing that I had a backup that was still interesting should K8s not work out.
 
 * What did you like the most about the challenge?
+  * I really enjoyed doing something that was completely different than any other project I'd done before. My favorite part was actually seeing my app running in a container.
 
 * What are three technical concepts you learned during this project?
+  * Containers, Raspberry Pis, and networking in general (SSH, DNS, IP addresses)
 
 ## Feedback
 
 What's one piece of meaningful feedback you received during B4? What have you done or going to do regarding this feedback?
+  * I realized that I wasn't communicating as effectively as I could be. I've decided to write detailed articles online to improve on my communication skills and give back to the community.
 
 ## Gear Up
 
 Write a reflection about the process of planning/revising a Gear Up session and facilitating the session. Did you enjoy the experience? What was challenging? What was most rewarding?
+  * I found planning for Gear Up to be fairly straightforward. I enjoyed planning things with those who were interested, and it was slightly annoying to try to get those who weren't interested in participating on board. I enjoyed getting to talk to the students who chose our Gear Up, and I found the biggest reward to be when good conversation/questions came out of our presentation. I think the biggest challenge was keeping the flow of the presentation on track while keeping the attention of the class.
 
 ## Community Involvement
 
 How else did you give back to the community this inning? Why do you think this is a required part of the Turing experience?
+  * I gave back by cleaning up after people in our classroom, and by leading Beryllium sessions to try to prepare people for job interviews. I think it's part of the Turing experience because it brings us all closer to each other and helps make each other's lives easier in an environment where things get difficult pretty quickly.
 
 ## Going Forward
 
 What three skills (professional and/or technical) are you going to take forward with you during your next job post-Turing?
+  * The ability to work with others, the ability to solve problems by reading documentation, the ability to refactor code for better readability/reusability.
 
 ## Professional Development
 
-* Link to 30-day post-grad job search action plan using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* Link to 30-day post-grad job search action plan using https://github.com/turingschool/career-development-curriculum/blob/master/deliverable_submissions/archive/1705-b/jean-francois_lalonde.md
 * Prepare a summarized version of your professional story to share during the portfolio review. This is a 1-2 minute sharing highlighting who you are, why you are in software, and what's next in your career.
 * Prepare and share your Turing story during week six.
