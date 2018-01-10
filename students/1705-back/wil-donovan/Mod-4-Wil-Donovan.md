@@ -3,79 +3,116 @@
 ## Area of Emphasis
 
 What do you want to focus on this inning? What do you hope to accomplish by graduation?
-Pass and get a job.  Make JS a instinctive language. Find the driving passion for creativing and code that I had in Mod 1 and Mod 2. 
 
-## Assessment
+Completion and Advancement of Java Script knowledge and skills. Learning something new.
 
-Include your final outcome (pass/fail) and a reflection based on answering the following questions:
-Pass- my belief. But subjectively graded @ Fail.
+## JS Assessment
+
+Include your final outcome (pass/fail) and a reflection based on answering the following questions: 
 
 * What was your biggest technical challenge?
-  The API endpoint was not working properly and the documentation wasn't the greatest I have worked.  The Assessment scope was quite vague.
+  Repeating and staying motivated through all the projects 
   
 * What did you like the most about the challenge?
-  Seeing the assessment scope.  Time challenge of the assessment.  The TCA is a good interview prep session, but the questions asked were not expected from the description of the assessment.
+  New challenges were being proposed that were new experiences.
   
 * How did you solve that challenge? What was your approach?
-  Broke it down quickly and used the 4 weeks of JS knowledge I possessed and completed it.
+  Time management. 
   
 * What did you learn?
-  Documentation is so important.
+  The importance of Time and energy management. Learning how to manage people.
+
+## Technical Communication Assessment
+
+Include your final outcome (pass/fail) and a reflection based on answering the following questions:
+N/A
+
+* What was your biggest challenge?
+* What did you like the most about the challenge?
+* How did you solve that challenge? What was your approach?
+* What did you learn?
 
 ## Quantified Self
 
 Include a reflection answering the following questions:
 
 * What was your biggest technical challenge?
-  Doing the whole node API by myself.  Possessing little knowledge of file structure and still finding resources to get the project ahead of schedule while I was working alone for the first week.
-  
+  Keeping up with my partner.  Finding features to expand the project on.
+
 * How did you solve that challenge? What was your approach?
-  Found resources and got the job done.
-  
+  Personally we would find ways to challenge each other.
+
 * What did you like the most about the challenge?
-  Not being graded or counted.
-  
+  Working with someone of that skills capability and work ethic
+
 * What are three technical concepts you learned during this project?
-  JS file organization,  Team member expectation, work load responsibility and neglect.
-  
+  Promises, syntax, local storage
+
+* If you could change one thing about your technical approach, what would it be and why?
+  A longer pre-planning phase and implementation of a different state-storing mechanism
+
 * What was the experience like working with a pair while learning something new?
-   It taught a great amount and inflicted more harm physically and mentally than any other project.
-   
+  This pair was amazing to work for.
+
 ## Capstone Project
 
 Include a reflection answering the following questions:
 
 * What was your biggest technical challenge?
-  Coming up with an idea that was small scaled enough to suffice for Techies but large enough in scope to show value beyone Tech for my personal passion.
-  Give a week to complete with massive amounts of leadership disruptions made this extremely difficult with out much project scope direction.
-  
+  React-Native, Redux, React Navigation were all extremely difficult!
+
 * How did you solve that challenge? What was your approach?
-  Talked with peers. Found interesting answers.  Reached out and did the required standups.
-  
+  Still working on solving and making everything synch with redux
+
 * What did you like the most about the challenge?
-  The result of the project.
-  
+  Learning all the new tech is awesome! Redux is awesome. 
+
 * What are three technical concepts you learned during this project?
-  8 different new peices of technology and deploying to new hosting sites was MASSIVE in building my knowledge and problem sovling skill. I am utterly glad I did each one and wish I could have integrated it with Rails to REALLY show what i had learned in 7 months.  
-  
+  React-Native, Redux, React Navigation
+
+## Open Source Project
+
+Include a reflection answering the following questions:
+
+* What codebase did you contribute to?
+  RGSOC team tracker.
+
+* What was your biggest technical challenge?
+  Learning their code base
+
+* How did you solve that challenge? What was your approach?
+  Get in the Code as much as possible
+
+* What did you like the most about the challenge?
+  New Code base
+
+* What are three technical concepts you learned during this project?
+  Mock doubles.  Large code base. Organization.
+
 ## Feedback
+
+What's one piece of meaningful feedback you received during B4? What have you done or going to do regarding this feedback?
+  "Work ethics and a moral compass are becoming a method to lay a tough rode in this worl will you be ready?"
+  Forseeing the troubles these values will pose. 
 
 ## Gear Up
 
 Write a reflection about the process of planning/revising a Gear Up session and facilitating the session. Did you enjoy the experience? What was challenging? What was most rewarding?
 
+  The process was difficult with trying to stay motivated and have a passion to give that gearup becomes increasingly difficult with the amount of time between start to end of presentation of 5 weeks.  That problem is perfect as there will be multiple situations where this will benefit and prepare me to keep myself motivated.
+
 ## Community Involvement
 
 How else did you give back to the community this inning? Why do you think this is a required part of the Turing experience?
- Paired and supported/helped peers
+  Mentoring. Helping Cohort Mates. 
+
 ## Going Forward
 
 What three skills (professional and/or technical) are you going to take forward with you during your next job post-Turing?
-RAILS JS, a massively better understanding of how important cultures are to each and every company.  How incredibly important culture is to a companies future, potential, and longevity.
-The massive importance on leadership and how it needs to be used effectively.
-The incredible importance of Big Picture thinking, thinking outside of the box, and foresight are and how easily it is lost.
+  Leadership
+  Accountability
+  Analysis
 
 ## Professional Development
 
-* Link to 30-day post-grad job search action plan using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
-https://gist.github.com/swdonovan/2eca7b8bb7c577d702ba2b4855902148
+* Link to 30-day post-grad job search action plan using [post-grad plan](https://gist.github.com/swdonovan/2eca7b8bb7c577d702ba2b4855902148):
