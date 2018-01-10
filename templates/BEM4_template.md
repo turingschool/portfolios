@@ -120,6 +120,6 @@ Communicate with tech lead , be open and honest about capabilities/constraints, 
 
 ## Professional Development
 
-* Link to 30-day post-grad job search action plan using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): https://github.com/vaidashi/career-development-curriculum/commit/1a61dfeff48598ba3ecab01f23373036d0270f26
+* Link to 30-day post-grad job search action plan using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md)
 * Prepare a summarized version of your professional story to share during the portfolio review. This is a 1-2 minute sharing highlighting who you are, why you are in software, and what's next in your career.
 * Prepare and share your Turing story during week six.
