@@ -19,32 +19,30 @@
 
 -----------------------
 
-## A: Individual Work & Projects (Optional)
+## A: Individual Work & Projects
 
-> **[APIcurious](http://backend.turing.io/module3/projects/apicurious)**
+> **[APIcurious](http://backend.turing.io/module3/projects/apicurious) (Optional)**
 >* \<Description>
 >* \<Takeaways, your experience>
 
+> **[Self Directed](http://backend.turing.io/module3/projects/self_directed_project)**
+>* \<Description>
+>* \<Takeaways, your experience>
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
 >* \<Description>
 >* \<Takeaways, your experience>
 
-> **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://)** 
+> **[The Pivot](http://backend.turing.io/module3/projects/the_pivot)**
 >* \<Description>
 >* \<Takeaways, your experience>
 
-> **[Cloney Island Sprint 2](https://)** 
->* \<Description>
->* \<Takeaways, your experience>
-
-| CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
+| CATEGORY | Rales Engine | Self Directed | The Pivot |
 | --- | --- | --- | --- |
 | **Github Repo** | [Rales Repo](https://) | [Cloney 1 Repo](https://) | [Cloney 2 Repo](https://) |
-| **Heroku** | [Rales](https://) | [Cloney 1](https://) | [Cloney 2](https://) |
+| **Heroku** | [Rales](https://) | [Self Directed](https://) | [The Pivot](https://) |
 | **Functional/Client Expectations** | X | X | X |
 | **TDD** | X | X | X |
 | **Code Organization/Quality** | X | X | X |

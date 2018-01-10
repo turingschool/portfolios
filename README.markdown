@@ -123,18 +123,20 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 ### Module 4 (Front-end)
 
 * **Areas of Emphasis** - briefly describe the goals you had for this mod and if/how you accomplished them
-* **Rubric scores** - Fill in how YOU would grade yourself from 1-4 in the following categories this module:
-  * End-of-Module Assessment
-  * Individual Work & Projects
-  * Group Work & Projects
+* **Rubric scores** - Fill in how _you_ would grade yourself from 1-4 in the following categories this module:
+  * Individual Final Assessment
+  * Required Projects
   * Professional Development
-  * Feedback & Community Participation
-* **Individual Assessment:** - (Pass/Fail)
-* **Required Projects** - Capstone Project, House of Vars (blog post), Jet Fuel, BYOB
+  * Community Participation
+* **Individual Final Assessment:** - (Pass/Fail) - Do not put any rubric scores, only pass/fail
+* **Required Projects** - Capstone Project, House of Vars (link to blog post), Palette Picker, BYOB
   * Should include points breakdown per project where applicable
+* **Professional Development**
+  * Link to 30-day post-grad job search action plan using this template (https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):
+  * Prepare and share your Turing story during week six
 * **Community**
   * Summary of how you've contributed to the community
-  * A recap of reflections from Gear Up
+  * A recap of reflections from the Gear Up session you led
 
 ## Submission Guidelines
 

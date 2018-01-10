@@ -70,7 +70,7 @@ description: In this project you’ll use Ruby on Rails to build an online comme
 
 Role: I worked with Ricky on user MVC set-up and authentication, I worked alone on the earlier admin authorization stories, I worked with Mimi on fleshing out admin authorization for viewing orders, I worked mainly alone on analytics with help from Andy and Ricky.
 
-This project went really well, I thought. (With the exception of my lack of styling contributions.) I finally started to feel comfortable with the MVC; building out the analytics with its own controller/PORO/view really helped me to understand how to move data through class methods across the app (which hadn't been making sense). And helped me understand how to present that information with only one instance variable in the view(!!!!!).  I don't feel like I can write an essay yet, but I feel better about writing paragraphs.  Building out the higher level controllers (like for Admin, Analytics / resources without models) helped concretize the role of the controller, and bought the flow of information through the App into sharper relief for me.
+This project went really well, I thought. (With the exception of my lack of styling contributions.) I finally started to feel comfortable with the MVC; building out the analytics with its own controller/PORO/view really helped me to understand how to move data through class methods across the app (which hadn't been making sense). And helped me understand how to present that information with only one instance variable in the view(!!!!!).  I don't feel like I can write an essay yet, but I feel better about writing paragraphs.  Building out the higher level controllers (like for Admin, Analytics / resources without models) helped concretize the role of the controller, and brought the flow of information through the App into sharper relief for me.
 
 -----------------------
 
@@ -79,7 +79,7 @@ This project went really well, I thought. (With the exception of my lack of styl
 How did you do on written and timed independent?
 Was this a representation of your best work?
 
-I never feel like I'm doing my best work at Turing; I only ever feel like I'm barely not drowning. But, I had less water in my lungs during the final than I am accustomed to. 
+I never feel like I'm doing my best work at Turing; I only ever feel like I'm barely not drowning. But, I had less water in my lungs during the final than I am accustomed to.
 
 -----------------------
 
