@@ -33,9 +33,6 @@ The first javascript project that we were given was an individual project. Here 
 - Build a game where the user guesses a number between 1 and 100.  
 - Phase 4 is optional. If you execute phase 4, create a separate branch in Git for that work for evaluation (using Git is an extra challenge – investigate how to initialize a Git repo and make a branch! We’ll go over how to do this in class in a few days, so this is a great time to investigate on your own).)
 
-### Eval Comments
-(n/a)
-
 ### Eval Scores
 1. Functional Expectations
 - Novice: Application meets all of the expectations of phase one
@@ -83,49 +80,49 @@ Throughout the module we were assinged a different pair project after Number Gue
 #### Linked List
 With Maddy Dannenberg
 
-[GitHub URL](https://github.com/hannahbare/LinkedList)
-* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+- [GitHub URL](https://github.com/hannahbare/LinkedList)
+- [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
-In it’s simplest form, the application should have the following:
-Two input fields
-One for the title of the bookmark
-One for the URL that the bookmark should link to
-One button for creating the bookmark and adding it to the page
-A section for all of the created bookmarks; each bookmark should display:
-The title of the bookmark
-The URL of the bookmark (this should be clickable and link to the URL)
-A button to “Mark as Read”
-A button to “Remove” the bookmark
+- In it’s simplest form, the application should have
+- - Two input fields
+- - One for the title of the bookmark
+- - One for the URL that the bookmark should link to
+- - One button for creating the bookmark and adding it to the page
+- - A section for all of the created bookmarks; each bookmark should display:
+- - The title of the bookmark
+- - The URL of the bookmark (this should be clickable and link to the URL)
+- - A button to “Mark as Read”
+- - A button to “Remove” the bookmark
 
 ### Eval Comments
-UI is a little squirrely as the screen size is reduced
-some broken layout elements on mobile
-good use of github, using issues and PRs
-CSS could use a refactor
-avoid percentages for margin and padding
-absolutely positioned elements that likely don't need to be absolutely positioned
+- UI is a little squirrely as the screen size is reduced
+- some broken layout elements on mobile
+- good use of github, using issues and PRs
+- CSS could use a refactor
+- avoid percentages for margin and padding
+- absolutely positioned elements that likely don't need to be absolutely positioned
 
 ### Eval Scores
-Functional Expectations
-Novice: Application meets all of the functional expectations in Phase One.
-Advanced Be: Application meets all of the functional expectations in Phase Two.
-COMP RECREATION / DESIGN
-Advanced Beginner
-HTML
-Advanced Beginner
-Proficient
-CSS
-Advanced Beginner
-Proficient
-JS/jQuery
-Advanced Beginner
-Proficient
-GIT & GITHUB
-Advanced Beginner
-Proficient
-Pairing/Collaboration
-Advanced Beginner
-Proficient
+1. Functional Expectations
+- Novice: Application meets all of the functional expectations in Phase One.
+- Advanced Be: Application meets all of the functional expectations in Phase Two.
+2. COMP RECREATION / DESIGN
+- Advanced Beginner
+3. HTML
+- Advanced Beginner
+- Proficient
+4. CSS
+- Advanced Beginner
+- Proficient
+5. JS/jQuery
+- Advanced Beginner
+- Proficient
+6. GIT & GITHUB
+- Advanced Beginner
+- Proficient
+7. Pairing/Collaboration
+- Advanced Beginner
+- Proficient
 
 ### Feedback To Me
 Hannah, I was very happy with our end project! I think outside of some styling and responsive issues, we got a lot of positive feedback from Louisa. During the week, I appreciated how you initiated a full DTR and continued to check in throughout the week on our progress as a partnership. I think we worked well together figuring out git and GitHub and forcing ourselves to use it and kudos to us for figuring it out by the end! I know you were dealing with a lot of stress during the week and I appreciate how you communicated that with me. In the future, managing your stress will help you be even more effective in pairing and have more time to take on additional tasks. I appreciated that you clearly wanted to learn everything that was going on, and if we were to work together again I think you could improve by doing more outside research in order to figure out the javascript to learn and understand it deeper.
