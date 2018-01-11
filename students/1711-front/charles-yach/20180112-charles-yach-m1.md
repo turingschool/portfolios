@@ -6,17 +6,17 @@ In Mod 1 I set out to create a strong foundation of knowledge upon which I can b
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 3
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+I am currently pending my end of module assessment due to an extension for my static-comp-challenge-3.
 
 
 ## B: Individual Work & Projects
@@ -34,7 +34,6 @@ Number Guesser tested our skills in HTML, CSS, and JavaScript after only one wee
 
 ## Evaluator: David Whitaker
 ## Notes/What To Work On:
-
 * Excellent work getting it to work with 4 players
 * In the future, build half a thing, not a half assed thing though - this code would be a nightmare to maintain as is
 
@@ -296,9 +295,77 @@ if (parsedIdea.quality === 'quality:swill') {
 
 2DoBox was a great experiment in taking another groups Idea Box and pivoting it into our own project. Without scraping the previous groups code, we were to complete any missing functionality, change it's styling, and building more functionality on top of it. This provided a great experience of not starting from scratch, breaking down and understanding someone else's code, then knowing the code well enough to utilize it in expanded functionality.
 
-(evaluation comments) Not yet provied
+## Evaluator: Louisa
+## Notes/What To Work On:
+- good, thoughtful UI changes
+- clean, well refactored CSS. Very nicely done.
+- well refactored JS
 
-(evaluation scores) Not yet provided
+## Functional Expectations
+* Proficient  
+
+## HTML
+
+#### Accessibility
+* Proficient  
+
+#### Style
+* Proficient  
+
+
+## CSS
+
+#### Structure of Code
+* Proficient  
+
+#### Implementation
+* Proficient  
+
+
+## JAVASCRIPT
+
+#### Data Types
+* Proficient  
+
+#### Conditional Logic
+* Proficient  
+
+#### Functions & Scope
+* Proficient  
+
+#### Arrays
+* Proficient  
+
+#### Objects & Prototypes
+* Proficient  
+
+#### DOM Manipulation
+* Proficient  
+
+#### Style
+* Proficient  
+
+
+## GIT & GITHUB
+
+#### Git
+* Proficient  
+
+#### Github
+* Proficient  
+
+
+## DESIGN
+
+#### Design Concepts
+* Proficient  
+
+
+## PAIRING
+
+#### Collaboration
+* Proficient  
+
 
 ## Feedback from Partner
 "We made a great team on this project and this is evidenced by the feedback we received during our evaluation.  You are remarkably fast at developing javascript solutions and your commitment to completing the project sooner than later is commendable.  We had a great DTR and I am glad we knocked it out on day 1.  As a result, we both had very clear understandings of each other's expectations.  I was able to work in a manner and on a schedule that suited my working style and I was never forced to make unreasonable compromises.  If we had to do the project again, the only thing that I would want to change is to be more diligent in our testing procedures.  The first 95% of the project was completed with almost a week to spare, but we found ourselves patching bugs well into the evening before our evaluation.  We pulled through, but we could have been more thorough with our solution if we had given ourselves more time.  Overall, I consider this project/pairing a great success!""
