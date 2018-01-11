@@ -16,7 +16,7 @@ This module, my area of emphasis was to improve my understand of array prototype
 
 ## A: End of Module Assessment
 
-I believe that I have completed the requisite work for promotion to the next module.
+I believe that my performance was satisfactory for completion of Module 2.
 
 ## B: Individual Work & Projects
 
@@ -139,19 +139,19 @@ TBD
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1711-inning/Group_6.md)
 
-This gearup focused on discussions of the ethical implications surrounding user privacy and how our choices as developers can affect these situations. Much of the small group and classroom discussion was framed in the context following the recent San Bernadino attacks where the FBI requested Apple to create version of iOS that would allow access to a device recovered from one of the attackers. I found this gearup extremely engaging as I previously would have sided that Apple should have rendered assistance to the FBI to access the device 
+This gearup focused on discussions of the ethical implications surrounding user privacy and how our choices as developers can affect these situations. Much of the small group and classroom discussion was framed in the context following the recent San Bernadino attacks where the FBI requested Apple to create version of iOS that would allow access to a device recovered from one of the attackers. I found this gearup extremely engaging as pre-Turing I would have sided with the FB, but as I've gone through the front-end program, my opinion has definitely changed to side with Apple and maintaining client privacy. I think weighing these types of decisions will be some of the most difficult choices I will have to make as a developer.
 
 #### Attention Economy
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Attention_Economy.md)
 
-Reflection
+This gearup centered around attention as a resource that we must value for ourselves and our users. We also discussed responsiblity of spending time wisely and how choices a developer makes can impact a user in various ways. This gearup definitely challenged how I spent my time and which applications I focused on using the most. As a developer, this has helped to shape my perspective in coding to not only providing useful, but efficient and intuitive interfaces. As a result of this session, I have also made it a point to track the amount of time I spend on a mobile device and determining if the applications used are helpful or harmful.
 
 #### Empathy and Privilidge
 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/empathy.markdown)
 
-Reflection
+This gearup specifically asked us to examine the priviledge each of us and how we can utilize that to empathize with other individuals. I found this gear up to extremely important for our cohort as a group as it helped many of us to uncover unconscious biases or actions based on our or other's priviledges. The session was one of the more vulnerable sessions as I learned many personal things about my peers that I would not have thought to ask about before in day to day conversation. This was one of my favorite sesions. 
 
 
 
@@ -159,7 +159,7 @@ Reflection
 
 ### Playing a Part
 
-Reflection
+This module, I participated in a number of community events including the winter festival and code fair. I also engaged with some of the Mod 1 students with pairing sessions and just helping them out in general. As a memeber of the community, I felt that I have stepped up from the last mod and would like to continue my progression in creating an inclusive environment at Turing where everyone feels welcome and encouraged.
 
 ------------------
 
