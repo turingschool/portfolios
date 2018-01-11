@@ -38,20 +38,20 @@ The first javascript project that we were given was an individual project. Here 
 
 ### Eval Scores
 *Functional Expectations
-  Novice: Application meets all of the expectations of phase one.
-  Advanced Beginner: Application meets all of the expectations of phase two.
+  Novice: Application meets all of the expectations of phase one.  
+  Advanced Beginner: Application meets all of the expectations of phase two.  
 *COMP RECREATION / DESIGN
-  Advanced Beginner
-  Proficient
+  Advanced Beginner . 
+  Proficient . 
 *HTML
-  Advanced Beginner
-  Proficient
+  Advanced Beginner . 
+  Proficient  
 *CSS
-  Advanced Beginner
-  Proficient
+  Advanced Beginner . 
+  Proficient . 
 *JS/jQuery
-  Advanced Beginner
-  Proficient
+  Advanced Beginner . 
+  Proficient . 
 
 #### STATIC COMP1
 
