@@ -30,28 +30,28 @@ The first javascript project that we were given was an individual project. Here 
 * [Number Guesser GitHub URL](https://github.com/hannahbare/numberguesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-⋅⋅*Build a game where the user guesses a number between 1 and 100
-⋅⋅*Phase 4 is optional. If you execute phase 4, create a separate branch in Git for that work for evaluation (using Git is an extra challenge – investigate how to initialize a Git repo and make a branch! We’ll go over how to do this in class in a few days, so this is a great time to investigate on your own).)
+  Build a game where the user guesses a number between 1 and 100.  
+  Phase 4 is optional. If you execute phase 4, create a separate branch in Git for that work for evaluation (using Git is an extra challenge – investigate how to initialize a Git repo and make a branch! We’ll go over how to do this in class in a few days, so this is a great time to investigate on your own).)
 
 ### Eval Comments
 (n/a)
 
 ### Eval Scores
-⋅⋅*Functional Expectations
-Novice: Application meets all of the expectations of phase one.
-Advanced Beginner: Application meets all of the expectations of phase two.
-⋅⋅*COMP RECREATION / DESIGN
-Advanced Beginner
-Proficient
-⋅⋅*HTML
-Advanced Beginner
-Proficient
-⋅⋅*CSS
-Advanced Beginner
-Proficient
-⋅⋅*JS/jQuery
-Advanced Beginner
-Proficient
+*Functional Expectations
+  Novice: Application meets all of the expectations of phase one.
+  Advanced Beginner: Application meets all of the expectations of phase two.
+*COMP RECREATION / DESIGN
+  Advanced Beginner
+  Proficient
+*HTML
+  Advanced Beginner
+  Proficient
+*CSS
+  Advanced Beginner
+  Proficient
+*JS/jQuery
+  Advanced Beginner
+  Proficient
 
 #### STATIC COMP1
 
