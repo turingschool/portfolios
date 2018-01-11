@@ -216,6 +216,8 @@ This project built on the foundations established in Linked List. The web page a
   ##### Feedback from Partner:
   Ophus is a great paring partner. More specifically, his enthusiasm for whatever we're doing is infectious. While he might be completely exhausted or burnt out mentally, he never hinted at giving up. Tenacious would be an understatement. He's got a solid grasp of javascript and is willing to jump into any problem you're working on. As for coaching, the one big thing I would suggest to him is to stop falling in love with a possible solution. Be more willing to delete the code you're stuck on and start over. He sometimes would fight with code for several hours, despite not making any notable progress. After having finally scrapped that idea and restarting from the beginning, things tended to go much more smoothly. Also, use more console.logs to debug. He seemed to want to debug programs all in his head, without resorting to simple console.logs. While impressive if he managed to succeed, it often seemed to slow down his path to a solution. Outside of that, I'm jealous of his organizational skills and ability to quickly prioritize work. His eye for and attention to detail is equally admirable. He'll make a great partner for anyone.
 
+
+
 #### (2DoBox)
 
 * [GitHub URL](https://github.com/OphDub/2DoBox-Pivot)
@@ -333,6 +335,13 @@ This session focused on how we crafted our personal stories - which is important
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_5_debugging_gender_gap.md)
 
 This session focused on the gender gap currently plaguing the tech industry. We watched a brief documentary which presented a ton of new information and helped me to view things from different perspective, especially regarding previous behaviors I may have exhibited towards women in my life which I had no idea was perpetuating this problem. I also found that much of what we discussed is also extremely valid for applying to other discussions regarding diversity.
+
+#### (Rule Number 6 - Don't Take Yourself So Seriously)
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1710-inning/group_two.md)
+
+This session was led by Module 4 students and focused on not taking ourselves so seriously. More specifically, the session emphasized understanding one's current situation by taking a step back to get a different perspective. I felt that this session was important as it's easy for me to get tunnel vision when I focus on a goal. In the past, this has led to deterioration in my personal health and relationships with friends, family, and significant others. Moving forward after the session, I have ways to step away from my current situation, appreciate those around me, and have a good laugh.
+
 
 ## E: Community Participation
 
