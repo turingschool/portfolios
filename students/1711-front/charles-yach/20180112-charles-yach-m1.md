@@ -16,7 +16,7 @@ In Mod 1 I set out to create a strong foundation of knowledge upon which I can b
 
 ## A: End of Module Assessment
 
-I am currently pending my end of module assessment due to an extension for my static-comp-challenge-3.
+My end of module assesments went well. I was strong, but slow, with my DOM manipulation and creature code challenge. My coding was slower due to my desire to be thoughtful and thorough instead of sporatic and chaotic. I also felt very strong about the quiz with uncertainty about only one or two of the questions. I am currently pending my end of module assessment due to an extension for my static-comp-challenge-3.
 
 
 ## B: Individual Work & Projects
