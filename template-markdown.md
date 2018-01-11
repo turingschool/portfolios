@@ -30,49 +30,49 @@ The first javascript project that we were given was an individual project. Here 
 * [Number Guesser GitHub URL](https://github.com/hannahbare/numberguesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-  Build a game where the user guesses a number between 1 and 100.  
-  Phase 4 is optional. If you execute phase 4, create a separate branch in Git for that work for evaluation (using Git is an extra challenge – investigate how to initialize a Git repo and make a branch! We’ll go over how to do this in class in a few days, so this is a great time to investigate on your own).)
+- Build a game where the user guesses a number between 1 and 100.  
+- Phase 4 is optional. If you execute phase 4, create a separate branch in Git for that work for evaluation (using Git is an extra challenge – investigate how to initialize a Git repo and make a branch! We’ll go over how to do this in class in a few days, so this is a great time to investigate on your own).)
 
 ### Eval Comments
 (n/a)
 
 ### Eval Scores
-Functional Expectations
-1. Novice: Application meets all of the expectations of phase one
-  *Advanced Beginner: Application meets all of the expectations of phase two  
+1. Functional Expectations
+- Novice: Application meets all of the expectations of phase one
+- Advanced Beginner: Application meets all of the expectations of phase two  
 2. COMP RECREATION / DESIGN
-  *Advanced Beginner   
-  *Proficient  
+- Advanced Beginner   
+- Proficient  
 3. HTML
-  *Advanced Beginner  
-  *Proficient  
-CSS
-Advanced Beginner
-Proficient
-JS/jQuery
-Advanced Beginner
-Proficient
+- Advanced Beginner  
+- Proficient  
+4. CSS
+- Advanced Beginner
+- Proficient
+5. JS/jQuery
+- Advanced Beginner
+- Proficient
 
 #### STATIC COMP1
 
 (My Static Comp1) [https://github.com/hannahbare/comp1]
 (Original Comp1) [http://frontend.turing.io/projects/m1-static-comp-1.html]
 
-INFO ABOUT PROJECT
+- This project is the beginning of our three static comp projects where we take an image of a website and recreate it. We were instructed to use the same design but with freedom to change the theme and color palette. This static comp is required to be responsive.
 
 #### STATIC COMP2
 
 (My static comp2) [https://github.com/hannahbare/comp2]
 (Original comp2) [http://frontend.turing.io/projects/m1-static-comp-2.html]
 
-This project was about creating a website with four cards in a row with two rows. I combined new knowledge of grid as well as traditional CSS in this project. 
+- This project was about creating a website with two rows of four cards with specific details in the header as well as inside the cards. I combined new knowledge of grid and traditional CSS in order to accomplish this project. This static comp is required to be responsive.
 
 #### STATIC COMP3
 
 (My static comp3) [https://github.com/hannahbare/hb-comp-challenge-3]
 (Original comp3) [http://frontend.turing.io/projects/m1-static-comp-3.html]
-INFO ABOUT PROJECT
 
+- Static comp 3 was the last of the series of static comps which involved a much more intensive layout. This static comp is required to be responsive.
 
 ## C: Group Work & Projects
 
