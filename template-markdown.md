@@ -55,22 +55,22 @@ The first javascript project that we were given was an individual project. Here 
 
 #### STATIC COMP1
 
-(My Static Comp1) [https://github.com/hannahbare/comp1]
-(Original Comp1) [http://frontend.turing.io/projects/m1-static-comp-1.html]
+[My Static Comp1](https://github.com/hannahbare/comp1)
+[Original Comp1](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
 - This project is the beginning of our three static comp projects where we take an image of a website and recreate it. We were instructed to use the same design but with freedom to change the theme and color palette. This static comp is required to be responsive.
 
 #### STATIC COMP2
 
-(My static comp2) [https://github.com/hannahbare/comp2]
-(Original comp2) [http://frontend.turing.io/projects/m1-static-comp-2.html]
+[My static comp2](https://github.com/hannahbare/comp2)
+[Original comp2](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
 - This project was about creating a website with two rows of four cards with specific details in the header as well as inside the cards. I combined new knowledge of grid and traditional CSS in order to accomplish this project. This static comp is required to be responsive.
 
 #### STATIC COMP3
 
-(My static comp3) [https://github.com/hannahbare/hb-comp-challenge-3]
-(Original comp3) [http://frontend.turing.io/projects/m1-static-comp-3.html]
+[My static comp3](https://github.com/hannahbare/hb-comp-challenge-3)
+[Original comp3](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 - Static comp 3 was the last of the series of static comps which involved a much more intensive layout. This static comp is required to be responsive.
 
