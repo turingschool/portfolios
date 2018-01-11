@@ -30,26 +30,26 @@ The first javascript project that we were given was an individual project. Here 
 * [Number Guesser GitHub URL](https://github.com/hannahbare/numberguesser)
 * [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
 
-Build a game where the user guesses a number between 1 and 100.
-Phase 4 is optional. If you execute phase 4, create a separate branch in Git for that work for evaluation (using Git is an extra challenge – investigate how to initialize a Git repo and make a branch! We’ll go over how to do this in class in a few days, so this is a great time to investigate on your own).)
+⋅⋅*Build a game where the user guesses a number between 1 and 100
+⋅⋅*Phase 4 is optional. If you execute phase 4, create a separate branch in Git for that work for evaluation (using Git is an extra challenge – investigate how to initialize a Git repo and make a branch! We’ll go over how to do this in class in a few days, so this is a great time to investigate on your own).)
 
 ### Eval Comments
 (n/a)
 
 ### Eval Scores
-Functional Expectations
+⋅⋅*Functional Expectations
 Novice: Application meets all of the expectations of phase one.
 Advanced Beginner: Application meets all of the expectations of phase two.
-COMP RECREATION / DESIGN
+⋅⋅*COMP RECREATION / DESIGN
 Advanced Beginner
 Proficient
-HTML
+⋅⋅*HTML
 Advanced Beginner
 Proficient
-CSS
+⋅⋅*CSS
 Advanced Beginner
 Proficient
-JS/jQuery
+⋅⋅*JS/jQuery
 Advanced Beginner
 Proficient
 
@@ -312,7 +312,7 @@ Gear up and Professional Development classes are extremely important for the suc
 
 ### Gear Up
 
-####Health & Wellness: Growth Mindset
+#### Health & Wellness: Growth Mindset
 
 This was a really good class because it gave me the feeling that although I have things in my past in regards to learning, if I just continue to try that I can change my mindset. The concept of being able to do anything is definitely easier said than done but I really appreciated this and continue to practice it. I think this was hard for me during a time of high stress because I was putting pressure on myself that I "can do this" but yet the frustration of me not doing it was really high. I do think that it is a really powerful thought tool.
 
@@ -322,7 +322,7 @@ This was a really good class because it gave me the feeling that although I have
 
 The Health and Wellness classes about stress were very helpful. The meditation at the beginning, the natural objects on the table, and the understanding of what was happening to my brain at that moment was really important for me to experience. During this time my stress levels were really high and I realized that I needed to reach out to get support to overcome this obstacle. These classes help to balance out the type of learning and experiencing. I realized that I was going from an extreme environment to another extreme environment and being kind to myself about my stress was helpful.
 
-####Mod 4 Leads: Learn From Struggle
+#### Mod 4 Leads: Learn From Struggle
 
 This was an interesting Gear Up. It was more about growth mindset as well as using grit to your advantage and how to alter your experience with failure. I had a moment in this gear up where I realized that the build up to failure is much worse than the actual failure itself. I've been keeping this in mind as I continue through my projects and evals.
 
