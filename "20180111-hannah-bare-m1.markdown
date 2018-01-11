@@ -32,7 +32,7 @@ The first javascript project that we were given was an individual project. Here 
 - Build a game where the user guesses a number between 1 and 100.  
 - Phase 4 is optional. If you execute phase 4, create a separate branch in Git for that work for evaluation (using Git is an extra challenge – investigate how to initialize a Git repo and make a branch! We’ll go over how to do this in class in a few days, so this is a great time to investigate on your own).)
 
-### Eval Scores
+##### Eval Scores
 1. Functional Expectations
 - Novice: Application meets all of the expectations of phase one
 - Advanced Beginner: Application meets all of the expectations of phase two  
@@ -93,7 +93,7 @@ With Maddy Dannenberg
   - A button to “Mark as Read”
   - A button to “Remove” the bookmark
 
-### Eval Comments
+##### Eval Comments
 - UI is a little squirrely as the screen size is reduced
 - some broken layout elements on mobile
 - good use of github, using issues and PRs
@@ -101,7 +101,7 @@ With Maddy Dannenberg
 - avoid percentages for margin and padding
 - absolutely positioned elements that likely don't need to be absolutely positioned
 
-### Eval Scores
+##### Eval Scores
 1. Functional Expectations
 - Novice: Application meets all of the functional expectations in Phase One.
 - Advanced Be: Application meets all of the functional expectations in Phase Two.
@@ -123,7 +123,7 @@ With Maddy Dannenberg
 - Advanced Beginner
 - Proficient
 
-### Feedback To Me
+##### Feedback To Me
 Hannah, I was very happy with our end project! I think outside of some styling and responsive issues, we got a lot of positive feedback from Louisa. During the week, I appreciated how you initiated a full DTR and continued to check in throughout the week on our progress as a partnership. I think we worked well together figuring out git and GitHub and forcing ourselves to use it and kudos to us for figuring it out by the end! I know you were dealing with a lot of stress during the week and I appreciate how you communicated that with me. In the future, managing your stress will help you be even more effective in pairing and have more time to take on additional tasks. I appreciated that you clearly wanted to learn everything that was going on, and if we were to work together again I think you could improve by doing more outside research in order to figure out the javascript to learn and understand it deeper.
 
 
@@ -139,7 +139,7 @@ With Ngoc Phan
   - JSON and localStorage to persist data between sessions.
   - Our entire application consists of one HTML page or template.
 
-### Eval Comments
+##### Eval Comments
 1. comp
 - content should not get bigger as page becomes smaller, try going mobile first next time
 2. html
@@ -157,7 +157,7 @@ With Ngoc Phan
 - Exceptional 
 - The application meets all of the requirements listed above and implements one or more of the extensions.
 
-### [Eval Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1711/mod-1/idea-box/hannah-ngoc.md)
+##### [Eval Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1711/mod-1/idea-box/hannah-ngoc.md)
 1. HTML
 2. Accessibility
 - Advanced Beginner Leverages more precise semantic tags when applicable, and employs basic ARIA roles attributes for added clarity in structure, descriptive image alt attributes, title attributes for applicable anchor tags.
@@ -208,7 +208,7 @@ With Ngoc Phan
 - Proficient Can diplomatically handle issues that arise between the pair through respectful, focused, targeted feedback and implement changes to positively adapt the working relationship and keep the project on track. Can effectively implement tactics to support their partner’s learning and project goals, while also honoring their own personal learning and project goals, should the two be different or at different levels due to skill delta.
 - Exceptional Pair collaboration and communication is exceptional, with the distribution of work being equal and balanced, and both partners experiencing a good working flow, able to handle stress, deadlines, issues with calm and focused demeanor.
 
-### Feedback To Me
+##### Feedback To Me
 Hey Hannah! I’m very happy with our project! I know we didn’t get to phase four, but we learned a lot and I believe we took a lot away from what we did accomplish. I appreciated us working at a pace we both were comfortable with and asked questions of each other when one of us didn’t understand before we moved on. Thank you for accommodating my work schedule and my need to finish each function before taking a break. I apologize for not taking more poms. Since we both used vanilla javascript prior to this project, I think we should continue to work on our jQuery. It was very nice struggling through with you in this process. I believe our next project reiterates local storage so that’s something we can both work on. We can work on git too so we don’t spend 2 hours on it at the beginning of the next project. Try and be easier on yourself in future projects, not stress so much so you give yourself the opportunity to open your mind and express what you know. Overall, it was great working with you. We rocked it!
 
 
@@ -220,7 +220,7 @@ With Om Seatehn
 
 Directions: Refactor another group's code from the previous project, IdeaBox.
 
-### Eval Comments
+##### Eval Comments
 1. DESIGN/COMP
 - Made it through the middle of Phase 3 with strikethrough persisting!
 - Colors work together; however, cork background is kind of busy and distracting
@@ -251,7 +251,7 @@ return JSON.parse(retrievedKey);
 - Advanced Beginner
 - Proficient
 
-### [Eval Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1711/mod-1/2dobox/hannah-om.md)
+##### [Eval Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1711/mod-1/2dobox/hannah-om.md)
 1. HTML
 2. Accessibility
 - Advanced Beginner
@@ -288,7 +288,7 @@ return JSON.parse(retrievedKey);
 - Collaboration
 - Proficient
 
-### Feedback To Me
+##### Feedback To Me
 Our first challenge was that we were assigned a project during the break and that our internet gave up on us both while we attempted to work remotely for the first time! I really appreciated that you dedicated your time so that we could work together in person on holidays. Despite code-related frustrations that took place from time to time during the project, it's great that you ask questions about what you don't understand and it encourages me to do the same, to keep pushing for an answer especially when we feel overwhelmed. I still wholeheartedly believe that with perseverance, no matter how long or how many times it would take to go over unsolved problems, redoing them over and over until we can finally reproduce them is definitely a good goal for us. For the same reason that I absolutely enjoy being your classmate, you are very caring, thoughtful, quick on your feet and a very dedicated partner. We worked so hard and pushed through all those difficulties together. It was a pleasure working with you, Hannah! Let's keep on rocking and passing the stokes!
 
 
