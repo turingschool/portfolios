@@ -30,7 +30,7 @@ Your promotion to the next module is based upon a summative assessment coined "T
   4. Final Paired Project
   5. Completed Portfolio
 
-**Instructions for Submitting a Completed Portfolio:** 
+**Instructions for Submitting a Completed Portfolio:**
   1. Fork and clone this repo.
   2. Follow instructions in [Module 1 Portfolio Guidelines](http://backend.turing.io/module1/portfolios) to create your folder and M1 portfolio file.
   4. Update placeholder text in your file.
@@ -57,6 +57,7 @@ Your completed portfolio is also comprised of the following required material:
   * A recap of reflections from Gear Up
 
 You may optionally elect to include a status of "pass", "fail", "pending" for each of the individual Pentathlon challenges in your portfolio, but it is not required. Your instructors will send your Pentathlon challenge scores to you upon completion of those evaluations and in advance of portfolio reviews.
+
 
 ### Module 2 (Back-end)
 
