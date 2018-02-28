@@ -199,7 +199,9 @@ Proficient
 
 * **Working styles introvert / extrovert / ambivert** 
 
-* **Getting Better at Difficult Things:** 
+* **Getting Better at Difficult Things:**
+
+* **Personal Stories & Connection**
 
 * **Avoiding burnout** 
 
