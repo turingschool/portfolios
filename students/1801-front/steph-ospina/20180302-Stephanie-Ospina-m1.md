@@ -23,7 +23,7 @@ In this module I wanted to learn the foundations of Javascript, learn Jquery and
 
 ### Number Guesser 
 
-I enjoyed doing Number Guesser, this was a great way to start using basic javascript. 
+I enjoyed doing Number Guesser, I think this was a great way to start using basic vanila javascript. We also got to practice HTML and CSS.
 
 * [GitHub Repo](https://github.com/sospinar21/NumberGuesser/)
 * [GitHub Pages](https://sospinar21.github.io/NumberGuesser/)
@@ -73,8 +73,8 @@ The static comp challenge is a series of three challenges to keep you working th
 
 ### Linked Lists
 
-* [GitHub URL](https://github.com/Kc2693/linked-list)
-* [GitHub Pages](https://sospinar21.github.io/SO-comp-challenge-3/)
+* [GitHub URL](https://github.com/sospinar21/LinkedList)
+* [GitHub Pages](https://sospinar21.github.io/LinkedList/)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
 #### Evaluation Comments
@@ -100,8 +100,7 @@ Exceptional: You completed Phase Three and did something with Phase Four.
 - Hot fire
 
 ### IdeaBox
-
-In Idea Box we had to put in practice everything we learned about HTML, CSS, JS/jQuery and DOM manipulation. This project also introduced us to using local storage. 
+In Idea Box we had to put in practice everything we had learn about HTML, CSS, JS/jQuery and DOM manipulation. This project also introduced us to using local storage. 
 
 * [GitHub URL](https://github.com/sospinar21/IdeaBox)
 * [GitHub Pages](https://sospinar21.github.io/IdeaBox/)
