@@ -1,0 +1,67 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Number Guesser</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300, 700" rel="stylesheet">
+</head>
+
+<body>
+
+  <main id="container">
+
+    <header>
+      <h1><span>Number</span> Guesser</h1>
+    </header>
+
+    <form id="main-content">
+
+      <section id="enter-guess">
+        <input type="number" id="guessed-number" placeholder="Enter your guess"> 
+      </section>
+
+      <section id="range">
+       <h2>Specify range</h2>
+       <input type="text" id="min-number" placeholder="Min"> 
+       <p>and</p>
+       <input type="text" id="max-number" placeholder="Max"> 
+      </section>
+
+      <section id="guess-btns">
+        <button type="submit" id="submit-button">Submit Guess</button>
+        <button type="reset" id="clear-button" class="flt-rt">Clear</button>
+      </section>
+
+      <section id="guess-results">
+       <p>Your last guess was</p>
+       <p id="display-number">?</p>
+       <p id="display-hi-low">Because you haven't guessed yet</p>
+      </section>
+
+      <section id="play-again">
+        <article id ="play-again-content" clas="modal">
+          <p><strong>You guessed right!</strong></p> 
+          <p><span>Your min range will decrease by 10 and max will increase by 10.</span></p>
+          <div id="play-again-btns">
+            <button type="button" id="play-again-btn">Play Again?</button>
+            <button type="reset" id="play-again-reset-btn" class="flt-rt">Start New Game</button>
+          </div>
+        </article>
+      </section>
+
+      <section id="reset-btn">
+        <button id ="reset-button">Reset</button>
+      </section>      
+
+    </form>
+
+  </main>
+
+  <script src="script.js"></script>
+  
+</body>
+
+</html>

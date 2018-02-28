@@ -1,0 +1,196 @@
+/* Containers */
+body {
+  margin: 0px;
+}
+#container {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    padding: 0px;
+    color: #d0d2d3;
+    font-family: 'Open Sans',serif;
+}
+#main-content {
+  height: 850px;
+  display: block;
+}
+
+/* Header */
+header {
+  background: #404041;
+  height: 132px;
+  line-height: 132px;
+}
+
+/* Global font styles */
+h1 {
+  font-weight: 300;
+  font-size: 52px;
+  text-align: center;
+  margin: 0px;
+  color: #e6e7e8
+}
+h1 span {
+  color: #ed458b;
+  font-weight: bold;
+}
+
+h2 {
+  color: #929497;
+  font-weight: 300;
+}
+p {
+  margin: 0px;
+}
+
+/* Buttons */
+button {
+  background: #929497;
+  border-radius: 30px;
+  color: #fff;
+  outline: none;
+}
+button[disabled]:hover {
+background: #d0d2d3 !important;
+cursor: pointer;
+}
+button[disabled] {
+background: #d0d2d3 !important;
+}
+button:hover {
+  background: #eb008b;
+  cursor: pointer;
+}
+/*button#play-again {
+  display: none;
+  width: 260px;
+}*/
+#reset-btn button {
+  height: 50px;
+  width: 540px;
+  font-size: 20px;
+  display: block;
+  margin: 0 auto;
+}
+#play-again button {
+    height: 50px;
+    width: 200px;
+    font-size: 16px;
+    font-weight: 300;
+    box-shadow: none;
+}
+#guess-btns button {
+  height: 57px;
+  width: 260px;
+  font-size: 28px;
+  font-weight: 300;
+  box-shadow: none;
+}
+button#play-again-reset-btn {
+  margin-left: 20px;
+}
+#guess-btns {
+    width: 540px;
+    margin: 55px auto 0 auto;
+}
+input:focus {
+    outline:none;
+}
+.flt-rt {
+  float: right;
+}
+
+/* Range */
+#range {
+    width: 332px;
+    display: block;
+    margin: 15px auto 0 auto;
+    text-align: center;
+    overflow: auto;
+}
+#range p {
+    margin: 0px;
+    width: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    color: #d0d2d3;
+    float: left;
+}
+
+/* Inputs */
+#range input {
+    width: 116px;
+    float: left;
+    height: 47px;
+    border: 2px solid #D0D2D3;
+    font-size: 28px;
+    color: #D0D2D3;
+    font-weight: 300;
+    padding-left: 20px;
+    display: inline-block;
+}
+#enter-guess input {
+  width: 520px;
+  height: 47px;    
+  margin: 67px auto 0 auto;
+  display: block;
+  font-size: 28px;
+  color: #D0D2D3;
+  border: 2px solid #D0D2D3;
+  font-weight: 300;
+  padding-left: 20px;
+}
+::placeholder {
+  color:#D0D2D3;
+}
+
+/* Guess results */
+#guess-results {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 300;
+  color: #404041;
+  margin-top: 65px;
+  height: 360px;
+}
+#display-number {
+  margin: 40px;
+  font-size: 180px;
+  color: #eb008b;
+  line-height: 132px;
+}
+
+/* Play again modal */
+#play-again {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+#play-again-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 40px;
+    border: 1px solid #888;
+    width: 80%;
+    text-align: center;
+    font-size: 28px;
+    color: #eb008b;
+}
+#play-again span {
+  font-size: 20px;
+  font-weight: 300;
+  color: #404041;
+}
+#play-again-btns {
+    width: 420px;
+    margin: 40px auto 20px auto;
+}
+
