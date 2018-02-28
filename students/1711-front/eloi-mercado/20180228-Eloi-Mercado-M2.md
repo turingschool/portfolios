@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-My learning focus was on really getting down JavaScripts fundamentals. I want to grow my skills on writing readable code. I believe I can continue working to improve my skills.
+My learning focus was on really getting down JavaScripts fundamentals. I want to grow my skills on writing readable code. I believe I can continue working to improve my skills.   
 
 ## Self-Evaluation
 _How do you feel you did in these areas this inning?_
