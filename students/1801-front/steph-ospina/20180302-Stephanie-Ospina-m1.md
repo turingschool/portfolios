@@ -199,15 +199,13 @@ Proficient
 
 ### Gear Up
 
-* **Growth Mindset:** 
+* **Stress management:** 
 
-* **Working Styles:** 
+* **Working styles introvert / extrovert / ambivert** 
 
 * **Getting Better at Difficult Things:** 
 
-* **Storytelling and Strengths:** 
-
-* **Debugging the Gender Gap:** 
+* **Avoiding burnout** 
 
 ## E: Community Participation
 
