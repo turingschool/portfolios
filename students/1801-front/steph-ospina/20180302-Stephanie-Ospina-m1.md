@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+In this module I wanted to learn the foundations of Javascript, learn Jquery and get better at HTML and CSS. I also wanted to get better at working as a team and improve my communication skills.
 
 ## Rubric Scores
 
@@ -22,6 +22,8 @@
 ## B: Individual Work & Projects
 
 ### Number Guesser 
+
+I enjoyed doing Number Guesser, this was a great way to start using basic javascript. 
 
 * [GitHub Repo](https://github.com/sospinar21/NumberGuesser/)
 * [GitHub Pages](https://sospinar21.github.io/NumberGuesser/)
@@ -99,6 +101,8 @@ Exceptional: You completed Phase Three and did something with Phase Four.
 
 ### IdeaBox
 
+In Idea Box we had to put in practice everything we learned about HTML, CSS, JS/jQuery and DOM manipulation. This project also introduced us to using local storage. 
+
 * [GitHub URL](https://github.com/sospinar21/IdeaBox)
 * [GitHub Pages](https://sospinar21.github.io/IdeaBox/)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
@@ -143,6 +147,7 @@ Does not save when quality changes
 * Proficient Can diplomatically handle issues that arise between the pair through respectful, focused, targeted feedback and implement changes to positively adapt the working relationship and keep the project on track. Can effectively implement tactics to support their partner’s learning and project goals, while also honoring their own personal learning and project goals, should the two be different or at different levels due to skill delta.
 
 #### 2DoBox
+2DoBox involved refactoring another groups code from the IdeaBox project and building upon it. It was interesting to work with someone else’s code base. 
 
 * [GitHub URL](https://github.com/sospinar21/2DoBox-Pivot)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
