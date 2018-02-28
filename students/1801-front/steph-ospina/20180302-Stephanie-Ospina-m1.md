@@ -103,7 +103,7 @@ Exceptional: You completed Phase Three and did something with Phase Four.
 In Idea Box we had to put in practice everything we had learn about HTML, CSS, JS/jQuery and DOM manipulation. This project also introduced us to using local storage. 
 
 * [GitHub URL](https://github.com/sospinar21/IdeaBox)
-* [GitHub Pages](https://sospinar21.github.io/IdeaBox/)
+* [GitHub Pages](https://sospinar21.github.io/IdeaBox/?)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
 
 #### Evaluation Comments -- Evaluated by Nathaniel 
