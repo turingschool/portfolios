@@ -149,7 +149,7 @@ Does not save when quality changes
 2DoBox involved refactoring another groups code from the IdeaBox project and building upon it. It was interesting to work with someone else’s code base. 
 
 * [GitHub URL](https://github.com/sospinar21/2DoBox-Pivot)
-* [GitHub Pages] (https://sospinar21.github.io/2DoBox-Pivot/)
+* [GitHub Pages](https://sospinar21.github.io/2DoBox-Pivot/)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
 
 #### Evaluation Scores
