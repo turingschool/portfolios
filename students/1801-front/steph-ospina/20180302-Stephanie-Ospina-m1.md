@@ -194,16 +194,31 @@ Proficient
 -----------------------
 
 ### Gear Up
+ 
 
 * **Stress management:** 
 
-* **Working styles introvert / extrovert / ambivert** 
+* When I first started at Turing, I had a little bit of experience with wordpress and basic web design, and it was mostly a hobby that I really enjoyed. When you turn a hobby in to a career, I think its very common to encounter a lot of stress and feel pressure that wasn’t there when you were just doing side projects for fun. This has defiantly been true at Turing, because the classes are so intense. But what helps me is looking at it like exercise for your mind. When I feel stressed, I try my best to imagine it as being tired after a hard work out, in the end it makes you stronger and happier.
 
+ 
+* **Working styles introvert / extrovert / ambivert**
+
+* Even though I’ve always seen myself as an extrovert, I’ve realized when it comes to working, I actually prefer some space. My favorite working style is to divide up tasks, tackle them separately, then regroup to discuss and move forward. That style fits well with introverts, but a lot of people enjoy working together much more closely throughout the whole process. At a big company, I think that it’s more likely that a high level of collaboration will be required from start to finish. I’d like to figure out how make people who feel the need for close collaboration feel comfortable, while still maintaining enough space to allow everyone to be productive.
+
+ 
 * **Getting Better at Difficult Things:**
 
+* I feel very comfortable with some of the things we have studied, but others have been much harder. One of the most important things is to not get scared and intimidated by hard topics. Getting stressed out hurts the ability to think clearly, and makes progress even hard. I definitely need to focus on remembering that when it comes to some of the more challenging topics, like objects and prototypes.
+
+ 
 * **Personal Stories & Connection**
 
+* I love how different everyone in the class is, there is a great range of ages and backgrounds and skill sets. It’s a great place to learn, because everyone has such a different style and perspective that you get to hear things explained in lots of different ways. The group study sessions are great for this, I remember I finally had a moment when objects clicked for me after hearing 3 of my classmates try and explain it in totally different ways.
+
+ 
 * **Avoiding burnout** 
+
+* I was listening to someone on NPR talk about learning (vocal) languages the other day, and one of his pieces of advice was to not treat it like a marathon. “The brain is not dumb muscle”, and you can’t just work it till you collapse and expect to get better. I’ve noticed that when I really feel “on”, I am can accomplish 10x as much in an hour as when I’m feeling “off”. I haven’t quite figured out what it is that just makes everything click sometimes, but I am starting to focus a lot on learning about what I need to do to handle those times when I’m just not feeling productive.
 
 ## E: Community Participation
 
@@ -214,8 +229,7 @@ Proficient
 
 ### Notes
 
-( Leave blanks for reviewers )
 
 ### Outcome
 
-PASS
+
