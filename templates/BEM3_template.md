@@ -1,4 +1,4 @@
-# \<Your Name> - M3 Portfolio
+# \Alex Barnes - M3 Portfolio
 
 ## Areas of Emphasis
 
@@ -70,7 +70,7 @@
 ## C. **Gear Ups**
 
 > [Link To Gear Up]()
-\<3-4 sentences summarizing your takeaways, including things you're continuing to think about, things you learned, things you're doing differently for each gear up>
+\< I found the microagressions gear-up very informative and illustrative of the kinds of microagressions I may come across on a daily basis.  The parable of the Polygons was also effective at illustrating the impact of biases, something I had never considered before.  Additionally the mod 4 led gear up was a great oppportunity to open up about emotional stresses at Turing and discuss 
 
 ## D: Community Participation
 
