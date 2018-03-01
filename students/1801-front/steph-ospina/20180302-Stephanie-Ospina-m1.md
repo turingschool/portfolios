@@ -218,7 +218,7 @@ Proficient
  
 * **Avoiding burnout** 
 
-* I was listening to someone on NPR talk about learning (vocal) languages the other day, and one of his pieces of advice was to not treat it like a marathon. “The brain is not dumb muscle”, and you can’t just work it till you collapse and expect to get better. I’ve noticed that when I really feel “on”, I am can accomplish 10x as much in an hour as when I’m feeling “off”. I haven’t quite figured out what it is that just makes everything click sometimes, but I am starting to focus a lot on learning about what I need to do to handle those times when I’m just not feeling productive.
+* I was listening to someone on NPR talk about learning (vocal) languages the other day, and one of his pieces of advice was to not treat it like a marathon. “The brain is not dumb muscle”, and you can’t just work it till you collapse and expect to get better. I’ve noticed that when I really feel “on”, I can accomplish 10x as much in an hour as when I’m feeling “off”. I haven’t quite figured out what it is that just makes everything click sometimes, but I am starting to focus a lot on learning about what I need to do to handle those times when I’m just not feeling productive.
 
 ## E: Community Participation
 
