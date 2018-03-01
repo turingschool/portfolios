@@ -42,4 +42,6 @@ I think what I've gained the greatest understanding of is how to work with other
 
 [Presentation](https://docs.google.com/presentation/d/1uGGSML0i_vf4vipHfNW9sK-eRKK8YxOK4h2FT9amLkg/edit#slide=id.gc6f889893_0_0)
 <br />
-[30-day action plan](https://calendar.google.com/calendar/r/agenda/2018/3/6)
+[30-day calendar](https://calendar.google.com/calendar/r/agenda/2018/3/6)
+<br />
+[30-day action plan](https://gist.github.com/rmorgan323/0d1146021bc858c84d0c27ae7e24b273)
