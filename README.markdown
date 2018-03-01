@@ -22,11 +22,19 @@ A submission summarizes your accomplishments in these key areas:
 
 ### Module 1 (Back-end)
 
-1. Fork and clone this repo.
-2. Follow instructions in [portfolio expectations](http://backend.turing.io/module1/portfolios/portfolio_expectations) to create your folder and file for your M1 portfolio.
-3. Copy the template code from the [M1 template markdown](http://backend.turing.io/module1/portfolios/portfolio_template) to your new file.
-4. Update placeholder text in template.
-5. Commit your changes, push to your remote repo, then create a PR to the `turing/portfolios` repo.
+Your promotion to the next module is based upon a summative assessment coined "The Pentathlon." You must receive 3s in all categories or show strong upward sloping trend in performance in order to be promoted to Module 2. The Pentathlon includes:
+
+  1. Paired Assessment
+  2. Independent Timed Diagnostic
+  3. Written Diagnostic
+  4. Final Paired Project
+  5. Completed Portfolio
+
+**Instructions for Submitting a Completed Portfolio:**
+  1. Fork and clone this repo.
+  2. Follow instructions in [Module 1 Portfolio Guidelines](http://backend.turing.io/module1/portfolios) to create your folder and M1 portfolio file.
+  4. Update placeholder text in your file.
+  5. Commit your changes, push to your remote repo, and create a PR to this repo by 2:30p the day prior to your portfolio review.
 
 
 ### Module 1 (Front-end)
@@ -97,30 +105,15 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 
 ### Module 4 (Back-end)
 
-* Individual Assessment
-* Required Project: Capstone Project
-  * Should include points breakdown per project
-* Link to your PR for opensource contributions
-* Community:
-  * A recap of reflections from Gear Up
+* You will prepare and present a 10-12 minute overview of your module to a panel of reviewers. Specific instructions [are here](https://gist.github.com/LouisaBarrett/03aa5567937943ca274437205bc35271). Please note that a markdown should be provided as well as the slide deck for presentation
 
- Complete and document 2 of the following:
-  * Lead or co-lead a Friday Spike
-  * Deliver any session at a meetup or conference
-  * Pair three or more times with students in lower modules
-  * Contribute in a meaningful way to project of a student/team not in your module
-
- *Professional Development does not need to be included in the portfolio. Deliverables and submission guidelines are [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)*
+* A [30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) must be linked in the markdown and send to your coach.
 
 ### Module 4 (Front-end)
 
-* Individual Assessment
-* Required Projects (4 out of 5): Capstone Project, Imposter Syndrome, Jet Fuel, BYOB
-  * Should include points breakdown per project
+* You will prepare and present a 10-12 minute overview of your module to a panel of reviewers. Specific instructions [are here](https://gist.github.com/LouisaBarrett/03aa5567937943ca274437205bc35271)
 
-* Community:
-  * Summary of how you've contributed to the community
-  * A recap of reflections from Gear Up
+* Your 30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) must be linked in the markdown and sent to your coach.
 
 ## Submission Guidelines
 

@@ -1,0 +1,107 @@
+# Matt Renn Mod2 Portfolio
+
+## Areas of Emphasis
+
+This mod, I was really focused on continuing to build a deep understanding of the concepts we were learning, and being able to explain my code at a high level. I also wanted to improve in refactoring. It's really important to me that I turn in my best work, but I still prioritize learning the concepts over 'finishing' a project. I also wanted to be more confident and feel comfortable speaking up to ask questions and get help.
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: Pass
+* **B: Individual Work & Projects**: Pass
+* **C: Group Work & Projects**: Pass
+* **D: Professional Skills**: Yes
+* **E: Community Participation**: Yes
+
+-----------------------
+
+## A: End of Module Assessment
+
+pass
+
+## B: Individual Work & Projects
+
+### Sorting Suite
+
+* [GitHub URL](https://github.com/rennmatthewp/sorting-suite)
+* [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
+
+##### Evaluation Score: 
+* Pass
+
+
+### Complete Me
+
+* [GitHub URL](https://github.com/rennmatthewp/complete-me)
+* [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
+
+##### Evaluation Comments:
+* Application shows strong effort towards organization, content, and refactoring
+* Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+* Application effectively breaks logical components apart but breaks the principle of SRP
+
+##### Evaluation Scores:
+* JS Style: 3.5
+* TDD: 3
+* Logic into Components: 3.5
+* Functional Expectations: 3
+* Code Sanitation: 4
+
+
+## C: Group Work & Projects
+
+### Game Time
+
+* [GitHub URL](https://github.com/ameseee/game-time)
+* [Original Assignment](http://frontend.turing.io/projects/game-time.html)
+
+##### Evaluation Comments:
+* Get rid of anonymous numbers :) Utilize parameters to reduce redundancy
+* Very thoughtful UX
+* Strong testing suite
+* Great code organization
+
+##### Evaluation Scores:
+* Functional Expectations: 4
+* User Interface: 3.5
+* Testing: 3.5
+* JS Style: 3
+* Workflow: 3.5
+* Code Sanitation: 4
+
+
+### Weathrly
+
+* [GitHub URL](https://github.com/rennmatthewp/weathrly)
+* [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
+
+##### Evaluation Comments:
+* Pass
+
+##### Evaluation Scores:
+* Pass
+
+
+## D: Professional Skills
+
+### Gear Up Reflections:
+
+* [GitHub URL](https://github.com/rennmatthewp/career-development-curriculum/blob/master/deliverable_submissions/1708-f/matt_renn.md)
+
+
+## E: Community Participation
+
+### Playing a Part
+
+I participated in IronFE sessions. I was helpful to the Mod 1 students as much as I could be.  
+
+------------------
+
+## Final Review
+
+### Notes
+
+You showed really great hustle this mod. Keep it up! Great work.
+
+### Outcome
+
+Promote to Mod 3

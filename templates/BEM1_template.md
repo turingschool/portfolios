@@ -4,6 +4,7 @@
 
 What did you set out to accomplish this module? Were you successful?
 
+
 What did you struggle most with this module? What did you learn from that struggle?
 
 ## Projects
@@ -33,4 +34,3 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Professional Development** |   X   |
 | **Community**                |   X   |
 | **Pentathlon**               |   X   |
-
