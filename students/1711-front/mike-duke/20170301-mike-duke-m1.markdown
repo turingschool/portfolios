@@ -1,0 +1,94 @@
+# Mike Duke - M2 Portfolio
+
+## Areas of Emphasis
+
+I'm not sure that i can say what my learning focus was this inning. We spend so much time just trying to get by that it's hard to say that i was really focused on one concept or another, or one learning style or another. I did make an effort this Mod to do more to study and, in general, be more orgalized with my learning. At the same time, however, i don't feel like i ever landed on a good way to capture and retain what was happening in class. i'm a bit too slow with my typing at this point to keep up, but only taking notes made it harder to recreate the lesson later. 
+
+## Self-Evaluation
+_How do you feel you did in these areas this inning?_
+
+* **A: Individual Work & Projects**: **2/3**
+* **B: Group Work & Projects**: **2/3**
+* **C: Professional Skills**: **3**
+* **D: Community Participation**: **3**
+* **E: Final Assessment**: *fail*
+
+-----------------------
+
+## A: Individual Work & Projects
+
+Individual work projects were something of a breath of fresh air after having paired projects all through Mod1 and then GameTime. However, with how those projects are structured, it feels more like a group project that we are individually responsible for. Our class leaned heavily on a couple of people and the rest of us just sort of followed along and tried to make sure that we could speak coherently about the topic. It was frustrating when it didn't work, but when it did and we were working well together, it was kind of fun. 
+
+### Study Habits
+
+My study habits did not serve me well at all. I felt like i was constantly behind and never really felt like i had time to catch up. As i said above, as much as i like the code-alongs and the exercieses built into the lessons, i move kind of slow and so i never finished any of them. I would often try to go back and complete the exercises that night or a couple of nights later, but often--without the context of the classroom and the lesson--it was hard to get the code to work properly. 
+
+### Sorting Suite
+* **Outcome:** *Pass*
+
+The most enjoyable thing about sorting suite was the class interaction and working together. I was actually quite stressed out when we got the project, thinking that i had no idea ho to break down the pieces correctly. Once we started working together on the problem, however, then things started to come together in a good way. 
+
+### Complete Me
+* **Fundamental JS and Style:** *3*
+* **Testing:** *3*
+* **Encapsulation/Breaking Logic into Components:** *3*
+* **Functional Expectations:** *3*
+* **Code Sanitation:** *3*
+
+Complete Me was a slightly different animal than sorting suite, for better of for worse. We, as a class, didn't seem to gel in the same way that we did the previous week. This was the first project, however, that i felt like we were really making something that was real-world and useful. Unfortunately, with only having the testing suite available to know that it works, it was a little anti-climactic.
+
+## B: Group Work & Projects
+I was less lucky with group work in mod2 than i was in mod1. Of the two pairing projects we had, our first turned out to be a difficult pairing which was reflected in the outcome of our project. My weatherly pairing was much more beneficial, but also had it's difficulties. 
+
+### GameTime
+* **Partner:** Edgar Munoz
+* **Game:** Frogger
+* **Functional Expectations:** **3**
+* **User Interface:** **3**
+* **Testing/Code Sanitation:** **3**
+* **JS Style:** **3**
+* **Workflow:** **3**
+
+Game time ended up teaching me more about who i am as a partner than who i am as a developer. i learned some HTML5, Canvas, etc, but it ended up taking more effort to steer the pairing in the right direction than i ever spent on the game itself. 
+
+### Weathrly
+* **Partner:** Jon Sweet
+* **Spec Adherence:** _N/A_
+* **User Interface:** _N/A_
+* **HTML Style:** _N/A_
+* **CSS/Sass Style:** _N/A_
+* **JS/React Style:** _N/A_
+* **Testing:** _N/A_
+* **Workflow:** _N/A_
+* **Code Sanitation:** _N/A_
+
+Weatherly was an exciting project because it is the first project that i could show people outside of turing and they would understand that it was more than just the cute scribbles of a kindergardener with crayons. My pairing for this one was complicated, however, because i get along very well with him, but he's also one of our cohorts wiz-kids. He understood more about react than i did by a large margin, and that kind of pairing can make it difficult to keep up when you're the one trailing behind. 
+
+## C: Professional Skills
+
+* **PD Sessions:**
+  * Agile Practices and Leadership
+  * Feedback 2
+  * Feedback 3
+  * Storytelling 2
+  * Outreach and Networking
+
+I think the most useful of the PD sessions was the storytelling session. I very much like the idea of developing the story of how we got to where we are now, and i appreciate that Turing recognizes that this is something we need. I am looking foreward to getting out into te world and attending a couple of meetups, but the thought of cold outreach leaves me in cold sweats.
+
+* **Gear Up Sessions:**
+  * Empathy and Privilege
+  * Parable of the Polygon, etc
+  * Mod 4 Gear ups
+
+The one gear up that i was really looking foreward to this mod was the mod4 gear ups since i was so impressed with the previous yea's. However, the Mod4 gear up i atteneded was not quite as good as the one i went to in 1711. Granted, it mush be 
+difficult to gather a group of introverts and try to get them to engage each other, but i also feel like they should have planned for that. 
+
+## Community Participation
+
+My biggest community participation this mod was pairing with Mod1 students in order to help them with projects and other questions. I ended up doing about half-a-dozen pairings over the course of the Mod. Generally, these were interesting and informative, and a little uplifting. It was fun to see how far we had really come in so short a time. 
+
+## Final Assessment
+i will be reviewing HTML Canvas and React over the break in order to help stregnthen my knowledge of both before repeating Mod2. i also need to send out some messages to potential mentors. I want to spend some time with my family, who have been amazing throughout all of this, as well as do a lot of cooking and as much writing as i can fit in. 
+
+# Outcome:
+_Leave blank for instructors_
