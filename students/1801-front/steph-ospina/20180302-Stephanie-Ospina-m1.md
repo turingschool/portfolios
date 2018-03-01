@@ -16,7 +16,7 @@ In this module I wanted to learn the foundations of Javascript, learn Jquery and
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+
 
 -----------------------
 ## B: Individual Work & Projects
@@ -73,13 +73,15 @@ The static comp challenge is a series of three challenges to keep you working th
 ### Projects
 
 ## Linked Lists
+Linked List was an awesome project, we did it all in vanila JS so we learned a lot about creating elements, appending and removing elements. 
 
 * [GitHub URL](https://github.com/sospinar21/LinkedList)
 * [GitHub Pages](https://sospinar21.github.io/LinkedList/)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
+
 ### Evaluation Comments
-Through all 4 phases with some bugs: read button does not toggle red, URL validation buggy, hover still works on disabled button
+Through all 4 phases
 ### Evaluation Scores -- Evaluated by Pam
 ### Functional Expectations
 Proficient: Application meets all of the functional expectations in Phase Three.
@@ -145,7 +147,7 @@ Does not save when quality changes
 * Proficient Can diplomatically handle issues that arise between the pair through respectful, focused, targeted feedback and implement changes to positively adapt the working relationship and keep the project on track. Can effectively implement tactics to support their partner’s learning and project goals, while also honoring their own personal learning and project goals, should the two be different or at different levels due to skill delta.
 -----------------------
 ## 2DoBox
-2DoBox involved refactoring another groups code from the IdeaBox project and building upon it. It was interesting to work with someone else’s code base. 
+2DoBox involved refactoring other people's code from IdeaBox and building upon it. It was interesting to work with someone else’s code. 
 
 * [GitHub URL](https://github.com/sospinar21/2DoBox-Pivot)
 * [GitHub Pages](https://sospinar21.github.io/2DoBox-Pivot/)
@@ -198,7 +200,7 @@ Proficient
 
 * **Stress management:** 
 
-* When I first started at Turing, I had a little bit of experience with wordpress and basic web design, and it was mostly a hobby that I really enjoyed. When you turn a hobby in to a career, I think its very common to encounter a lot of stress and feel pressure that wasn’t there when you were just doing side projects for fun. This has defiantly been true at Turing, because the classes are so intense. But what helps me is looking at it like exercise for your mind. When I feel stressed, I try my best to imagine it as being tired after a hard work out, in the end it makes you stronger and happier.
+* When I first started at Turing, I had a little bit of experience with wordpress and basic web design, and it was mostly a hobby that I really enjoyed. When you turn a hobby in to a career, I think its very common to encounter a lot of stress and feel pressure that wasn’t there when you were just doing side projects for fun. This has definitely been true at Turing, because the classes are so intense. But what helps me is looking at it like exercise for your mind. When I feel stressed, I try my best to imagine it as being tired after a hard work out, in the end it makes you stronger and happier.
 
  
 * **Working styles introvert / extrovert / ambivert**
@@ -218,12 +220,13 @@ Proficient
  
 * **Avoiding burnout** 
 
-* I was listening to someone on NPR talk about learning (vocal) languages the other day, and one of his pieces of advice was to not treat it like a marathon. “The brain is not dumb muscle”, and you can’t just work it till you collapse and expect to get better. I’ve noticed that when I really feel “on”, I can accomplish 10x as much in an hour as when I’m feeling “off”. I haven’t quite figured out what it is that just makes everything click sometimes, but I am starting to focus a lot on learning about what I need to do to handle those times when I’m just not feeling productive.
+* One of his pieces of advice was to not treat it like a marathon. “The brain is not dumb muscle”, and you can’t just work it till you collapse and expect to get better. I’ve noticed that when I really feel “on”, I can accomplish 10x as much in an hour as when I’m feeling “off”. I haven’t quite figured out what it is that just makes everything click sometimes, but I am starting to focus a lot on learning about what I need to do to handle those times when I’m just not feeling productive.
 
 ## E: Community Participation
 
 ### Playing a Part
 
+I started by getting to know people in my cohort, I think overall we are a great group that supports each other, also I contacted people from other mods, did a couple pairings every week and I'm very happy that I found other Latinos like Jorge and Aldo that are super supportive. Next mod I plan on becoming more involved in the community at Turing.
 
 ## Final Review
 
