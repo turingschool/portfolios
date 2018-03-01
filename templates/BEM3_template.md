@@ -2,54 +2,61 @@
 
 ## Areas of Emphasis
 
-> \<What did you set out to accomplish this module?>
+> Make substantial gains in my knowledge of consuming and generating APIs.  By the end of mod 3 I was counting on no longer being intimidated by consuming an unfamiliar API.
 
 ## Self-Assessment
 
 | Section | Category | Score |
 | --- | ----- | --- |
-| A | **End-of-Module Assessment** | X |
-| B | **Individual Work & Projects** | X |
-| C | **Group Projects** | X |
-| D | **Professional Development** | X |
-| E | **Feedback & Community Participation** | X |
+| A | **End-of-Module Assessment** | 2 |
+| B | **Individual Work & Projects** | 4 |
+| C | **Group Projects** | 2 |
+| D | **Professional Development** | 3 |
+| E | **Feedback & Community Participation** | 3 |
 
 >* \<Takeaways, your experience>
+   Between the job shadowing and Le Pivot, this module gave me what I believe is a real sense of what a day in the life of a developer will be like.  I've gotten more familiar and less intimidated with integrating new technologies and accessing resources to find new tools.
 >* \<Notes>
 
 -----------------------
 
 ## A: Individual Work & Projects (Optional)
 
-> **[APIcurious](http://backend.turing.io/module3/projects/apicurious)**
+> **[APIcurious](https://github.com/abarnes26/api_curious)**
 >* \<Description>
+  Become familiar with consuming APIs and delegating tasks to services and POROs to complete these tasks, while you attempt to recreate
 >* \<Takeaways, your experience>
-
+  Branching out to utilize POROs to interact with MVC set-up.  Familiarity with setting up requests with Figaro.
 
 ## B: Group Work & Projects
 
-> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)** 
+> **[Rales Engine](https://github.com/abarnes26/rales_engine)** 
 >* \<Description>
+  Build an API to consume e-commerce data in csv format.  Build endpoints to return business analytical data.
 >* \<Takeaways, your experience>
+  Increasing flexability in utilizing routes to direct requests.  Familiarity with handling JSON.  Branching out to utilize controllers in a new way.
 
-> **[Cloney Island](http://backend.turing.io/module3/projects/cloney_island/cloney_island)**
-> **[Cloney Island Sprint 1](https://)** 
+> **[Le Pivot](https://github.com/seoulstice/le_pivot)**
 >* \<Description>
+  Take over an existing code base (e-commerce store), refactor existing code and add extra features.
 >* \<Takeaways, your experience>
+  Working with a large group on a shared code base can be a challenge in itself.  Rebasing is a pain upfront to save you pain down the road. I became much less intimidated by coming into someone else's code base and making changes.
 
-> **[Cloney Island Sprint 2](https://)** 
+> **[Self-Directed Project](https://github.com/abarnes26/stub_stash)** 
 >* \<Description>
+  Create a platform for users to track their attendance at live envents. Users should see customized pages for each of their followed artists, and attended venues. Users can import their followed artists from Spotify, find venue suggestions from Jambase API, see all visited shows displayed on google maps.
 >* \<Takeaways, your experience>
+  I learned to not bite off more than I can chew, and the value in using an agile workflow.  After setting up the basic crud features, I immediately jumped ahead to integrating the spotify API without even having the page to use it on.  In future projects I'll be focusing much more on building a basic product before adding on other features.
 
-| CATEGORY | Rales Engine | Cloney Island 1 | Cloney Island 2 |
+| CATEGORY | Rales Engine | Le Pivot | Self-Directed Project |
 | --- | --- | --- | --- |
-| **Github Repo** | [Rales Repo](https://) | [Cloney 1 Repo](https://) | [Cloney 2 Repo](https://) |
-| **Heroku** | [Rales](https://) | [Cloney 1](https://) | [Cloney 2](https://) |
-| **Functional/Client Expectations** | X | X | X |
-| **TDD** | X | X | X |
-| **Code Organization/Quality** | X | X | X |
-| **API Design** | X | N/A | N/A |
-| **Queries** | X | N/A | N/A |
+| **Github Repo** | [Rales Repo](https://github.com/abarnes26/rales_engine) | Le Pivot(https://github.com/seoulstice/le_pivot) | [Self-Directed](https://github.com/abarnes26/stub_stash) |
+| **Heroku** | [Rales Engine](https://) | [Le Pivot] (https://le-pivot-turing.herokuapp.com/) | [Self-Directed](https://stub-stash.herokuapp.com/) |
+| **Functional/Client Expectations** | 3 | 1 | 3 |
+| **TDD** | 3 | 2 | 2 |
+| **Code Organization/Quality** | 3 | 2 | 3 |
+| **API Design** | 3 | N/A | N/A |
+| **Queries** | 3 | N/A | N/A |
 
 > Rales Engine evaluation comments:
 \<Instructor Comments Here>
