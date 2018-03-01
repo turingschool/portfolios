@@ -1,4 +1,4 @@
-# YOUR NAME - M2 Portfolio
+# Charles Yach - M2 Portfolio
 
 ## Areas of Emphasis
 
