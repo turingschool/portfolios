@@ -1,4 +1,4 @@
-# Stephanie Ospina - (M1) Portfolio
+# Stephanie Ospina - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -103,7 +103,7 @@ Exceptional: You completed Phase Three and did something with Phase Four.
 - Hot fire
 -----------------------
 ## IdeaBox
-In Idea Box we had to put in practice everything we had learn about HTML, CSS, JS/jQuery and DOM manipulation. This project also introduced us to using local storage. 
+In Idea Box we had to put in practice everything we had learn about HTML, CSS, JS/jQuery and DOM manipulation. This project also introduced us to local storage. 
 
 * [GitHub URL](https://github.com/sospinar21/IdeaBox)
 * [GitHub Pages](https://sospinar21.github.io/IdeaBox/?)
