@@ -70,23 +70,12 @@
 ## C. **Gear Ups**
 
 > [Link To Gear Up]()
-\< I found the microagressions gear-up very informative and illustrative of the kinds of microagressions I may come across on a daily basis.  The parable of the Polygons was also effective at illustrating the impact of biases, something I had never considered before.  Additionally the mod 4 led gear up was a great oppportunity to open up about emotional stresses at Turing and discuss 
+\< I found the microagressions gear-up very informative and illustrative of the kinds of microagressions I may come across on a daily basis.  The parable of the Polygons was also effective at illustrating the impact of biases, something I had never considered before.  Additionally the mod 4 led gear up was a great oppportunity to open up about emotional stresses at Turing and discuss stretegies for maintaining a relxed and clear-headed state.  I found the session itself to be very theraputic.
 
 ## D: Community Participation
 
 #### **Community Contribution Option**
->* \<Link &/or blurb about the option you chose (blog post, lead a spike or posse, lightning talk, open source contribution or pair > 3 times)>
-
-#### **Posse**
-  >* \<Blurb about what you did with your posse over the module>
-  >* \<Your favorite thing about the posse experience>
-  >* \<How has your posse experience helped you grow as a professional?>
-
-#### **Playing a Part**
-
-> \<How else you've contributed to the community>
-
-------------------
+>* \<This module I led a lightning talk and shared with the community some of my favorite tools for maintaing mental clarity and living a happy life.  Additionally I am organizing a Turing ski day for the weekend after the module ends.>
 
 ## Final Review
 
