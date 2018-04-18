@@ -1,4 +1,4 @@
-# Jonathan Sweet - M2 Portfolio
+# Jonathan Sweet - M3 Portfolio
 
 ## Areas of Emphasis
 
