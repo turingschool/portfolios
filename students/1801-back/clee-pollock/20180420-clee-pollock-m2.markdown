@@ -1,4 +1,4 @@
-# First Last - M2 Portfolio
+# Clee Pollock - M2 Portfolio
 
 ## Goals
 What did you set out to accomplish this module? Were you successful?
