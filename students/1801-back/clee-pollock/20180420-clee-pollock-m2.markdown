@@ -2,7 +2,7 @@
 
 ## Goals
 What did you set out to accomplish this module? Were you successful?
-> Learn Rails, ActiveRecord
+> Learn Rails, ActiveRecord. I was successfull.
 
 ## Areas of Emphasis
 
