@@ -1,0 +1,19 @@
+* What was your biggest achievement of the module?
+
+Mod 4 has been one of the craziest mods at Turing, but I think my real break through was when we started learning about servers and the back end in week 1. All of a sudden, the request/response cycle that I kept getting asked in all my mock interviews started to make sense and I am now better equipped to explain it. Another big achievement of mine was getting an offer by week 3 of the mod. It's been pretty hard to balance school and the job search, but I got a good offer I was proud of in the first half of the mod. I think that is good proof that we are all employable after finishing Mod 3. Other than that, I'm really proud that we built our Capstone project in React Native. It was a challenge for us to take on a new technology, and I think we built a solid app. 
+
+* What provided you with the most struggle? What did you learn from that struggle?
+
+Building our capstone project in React Native was definitely the hardest thing we had to do this mod. We thought that it was going to be easy because we already knew React, but there were definitely pain points we did not expect. The main ones being styling in React Native, integrating Firebase (and finding out that it doesn't play well with React Native), and linking assets. It was tough and there were a lot of sad days, but what it taught me was that we are more than capable of learning a new framework and building a fully functional app in it. It gives me confidence that I will be able to also do this on the job in my new career. 
+
+* What have you done this inning that sets you apart from your peers?
+
+This mod, I think I've spent at least 4+ hours/week pairing with people in other mods/classes. I've helped a lot of people in back end Mod 4 with JavaScript and React, and I've also paired/set up study sessions with people in both Mod 2 and Mod 3 to help them learn array prototypes or work through testing in Jest. I've also continued to be an active member of Joan Clarke Society and have tried to come to as many meetings as possible. In addition, I've been available for job help/interview practice with my classmates. Community is very important to me, so once I got a job, I made it my number one priority to try and focus my extra energy on helping other people succeed. Whether those were other cohort-mates or people in other mods. 
+
+* How did your Mod 4 experience with this part of the stack (e.g. front-end technologies for BE students/back-end technologies for FE students) impact what you wanted to be doing after Turing? How did it reframe what you learned in previous modules?
+
+As I mentioned above, learning the back end really helped give context for what we have been doing in the front end. It also helped me understand VERBS in fetch requests and how there aren't built in methods for each verb. So when I've dealt with hard to understand API's in the past, I realized that part of that had to do with documentation and the types of errors and status codes sent back in the response. I think that overall this mod has made me a stronger and more empathetic developer. 
+
+* What is the most important skill or lesson that you will take from Turing into your next job?
+
+When I first started Turing, some of my friends who are OG Turing told me that really what Turing teaches you is how to learn. I believed them at the time, but right now I really know that that's true. I've had to learn so many new technologies in such a short amount of time and I've seen myself success at them, so I feel like I'll be successful at them in the future too. Turing has also provided me with good structure and I am going to take Jeff's advice to build out a portfolio similar to what we do at Turing for my job and present that when I ask for a raise. I really feel prepared going into the workforce with the tools and network that Turing has provided me with. 

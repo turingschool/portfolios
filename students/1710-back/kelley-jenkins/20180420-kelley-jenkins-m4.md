@@ -1,0 +1,28 @@
+# B4 Portfolio Template
+
+
+* What was your biggest achievement of the module?
+
+  I ended Mod3 feeling pretty upset with my performance and low on confidence. I knew Mod4 was a whole new technology so I tried to push aside my insecurities from Mod3 and come into it with an open mind and willingness to learn. I definitely felt like I succeeded at doing so. I really enjoyed JavaScript and I felt good about my ability to pick it up relatively quickly. I remember the homework from week 1 implementing some basic logic functions in JavaScript and it was exciting to see how naturally I could come up with the solution in this new langugage. It really demonstrated that strength of the foundational Ruby/programming we had built the previous 3 mods. I think my biggest acheivement this mod was completing a personal project that I felt really demonstrated the JavaScript and jQuery we learned in Mod4. While it definitely can be improved, I am proud of having a viable product that communicated effectively with my backend and rendered what I wanted. 
+
+* What provided you with the most struggle? What did you learn from that struggle?
+
+  The biggest struggle for me this Mod was looming job search and balancing Turing with the professional development necessary to be prepared for the next steps. This was particularly challenging because I felt I could not do a good job trying to do both. Mid way through the mod I was feeling incredibly overwhelmed by learning the Mod4 material in addition to preparing for interviews and code challenges at the same time. At that point I decided to focus on Turing and give 100% to my job prep once I had completed the Turing requirements. Knowing the job search was coming was stressful enough and this approach made my last few weeks much more manageable mentally. 
+  
+  Technically the biggest challenge was feeling like I hadn't learned enough advanced concepts. This has been a recurring feeling throughout Turing that I am learning the fundamentals required for each mod but not really having the capacity to dive into the additional concepts that are introduced. It's difficult because other students were able to absorb more of these things. At times I worried that I was not trying hard enough or challenging myself enough because I didn't pick up React or Firebase or make a mobile applicaiton in my last weeks. What I learned along the way is that this is my coding journey and it's true that it takes me a little bit longer to absorb things. So, absorbing what I needed to absorb to get through Turing is okay, and making a list of other things that I want to come back to is okay too. I enjoy learning and know that I am capable of learning and that's what's important. 
+
+* What have you done this inning that sets you apart from your peers?
+
+  I think this inning can go a lot of different ways for different people. Some people focus heavily on finding a job, others focus more on learning the curriculum, and others fade out altogether. I don't know if this sets me apart, but I'm proud of myself for staying focused on continuing to learn the material and fulfill the requirements of the program. For me it was really important not to worry about what everyone else around me was focused on and instead do what was best for me. That meant gaining confidence in coding and the new material I was learning and setting aside some of the demands of the job search so that I could be my best when Turing was over. I went to every class and paid attention, I participated in class and tried my best to stay motivated through the end. 
+
+* How did your Mod 4 experience with this part of the stack (e.g. front-end technologies for BE students/back-end technologies for FE 
+students) impact what you wanted to be doing after Turing? How did it reframe what you learned in previous modules?
+
+  This mod really impacted what I am looking for in a job after Turing. I would love a job that would allow me to dive deeper into some front-end technologies, while still being back-end focused. I think this Mod gave me a much better understanding of the relationship between front-end and back-end technologies and how they work together. I found it interesting that there was some overlap where a decision had to be made on whether to include the logic on the back-end or use the front-end to acheive the same thing. I used knowledge from all my previous modules during Mod4. I don't know if it reframed what I learned as much as it pulled it all together seeing how the database is used on the front-end and how logic is necessary on both sides of the coin. 
+
+* What is the most important skill or lesson that you will take from Turing into your next job?
+
+    I hope that the most important skill I have is the ability to learn to code in other languages. I will encounter countless new concepts, languages and frameworks in my first job, and jobs thereafter, so that skill is invaluable. Learning JavaScript quickly gives me confidence in my ability to do so. The other key skill is learning how to figure things out. This inlcudes knowing what to search for and how to read and understand the material that is available on the internet. I know this skill has improved through my time at Turing and I believe it will continue to serve me on the job. Finally, I plan to bring with me the empathy to change the industry. As a woman entering tech, I have learned how important it is to stand up for myself, other women, and underrepresented groups in this industry. I plan on taking the lessons learned and knowledge acquired at Turing to make this industry better for everyone. 
+    
+
+30 Day Action Plan: https://gist.github.com/kelleyjenkins/2ffd4e8bd736aea3beff230a74f9b94b

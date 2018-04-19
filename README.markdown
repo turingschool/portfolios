@@ -30,7 +30,7 @@ Your promotion to the next module is based upon a summative assessment coined "T
   4. Final Paired Project
   5. Completed Portfolio
 
-**Instructions for Submitting a Completed Portfolio:** 
+**Instructions for Submitting a Completed Portfolio:**
   1. Fork and clone this repo.
   2. Follow instructions in [Module 1 Portfolio Guidelines](http://backend.turing.io/module1/portfolios) to create your folder and M1 portfolio file.
   4. Update placeholder text in your file.
@@ -97,48 +97,26 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 
 ### Module 3 (Front-end)
 
-* Individual Assessment
-* Included Projects: Self-Directed Project, Remember (Number of Completed User Stories), Weather Forecast
-* Bonus Project (not required): None
-* Community:
-  * A recap of reflections from Gear Up
+* Individual Goals for the Module
+* Individual Self Assessment 
+* Final Assessmnet (PASS/FAIL)
+* Included Projects: Headcount 2.0 (Group), SWAPIBox (Individual), Movie Tracker (Group), and Self-Directed Project (Individual)
+* A recap of your reflections from Gear Up
+* A summary of how you've contributed to the community
+
+*All of your PD deliverables must be completed and submitted [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions) before your portfolio review*
 
 ### Module 4 (Back-end)
 
-* Individual Assessment
-* Required Project: Capstone Project
-  * Should include points breakdown per project
-* Link to your PR for opensource contributions
-* Community:
-  * A recap of reflections from Gear Up
+* You will prepare and present a 10-12 minute overview of your module to a panel of reviewers. Specific instructions [are here](https://gist.github.com/LouisaBarrett/03aa5567937943ca274437205bc35271). Please note that a markdown should be provided as well as the slide deck for presentation
 
- Complete and document 2 of the following:
-  * Lead or co-lead a Friday Spike
-  * Deliver any session at a meetup or conference
-  * Pair three or more times with students in lower modules
-  * Contribute in a meaningful way to project of a student/team not in your module
-
- *Professional Development does not need to be included in the portfolio. Deliverables and submission guidelines are [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)*
+* A [30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) must be linked in the markdown and send to your coach.
 
 ### Module 4 (Front-end)
 
-* **Areas of Emphasis** - briefly describe the goals you had for this mod and if/how you accomplished them
-* **Rubric scores** - Fill in how YOU would grade yourself from 1-4 in the following categories this module:
-  * Individual Final Assessment
-  * Individual Work & Projects
-  * Group Work & Projects
-  * Professional Development
-  * Feedback & Community Participation
-* **Individual Assessment:** - (Pass/Fail) - Do not put any rubric scores, only pass/fail
-* **Required Projects** - Capstone Project, House of Vars (link to blog post), Palette Picker, BYOB
-  * Should include points breakdown per project where applicable
-* **Professional Development**
-  * Link to 30-day post-grad job search action plan using this template (https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md):
-  * Prepare a summarized version of your professional story to share during the portfolio review. This is a 1-2 minute sharing highlighting who you are, why you are in software, and what's next in your career.
-  * Prepare and share your Turing story during week six
-* **Community**
-  * Summary of how you've contributed to the community
-  * A recap of reflections from Gear Up
+* You will prepare and present a 10-12 minute overview of your module to a panel of reviewers. Specific instructions [are here](https://gist.github.com/LouisaBarrett/03aa5567937943ca274437205bc35271)
+
+* Your [30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) must be linked in the markdown and sent to your coach.
 
 ## Submission Guidelines
 

@@ -35,19 +35,15 @@
 >* \<Description>
 >* \<Takeaways, your experience>
 
-> **[The Pivot](http://backend.turing.io/module3/projects/the_pivot)**
+> **[Battleshift](http://backend.turing.io/module3/projects/battleshift)**
 >* \<Description>
 >* \<Takeaways, your experience>
 
-| CATEGORY | Rales Engine | Self Directed | The Pivot |
+| CATEGORY | Rales Engine | Self Directed | Battleshift |
 | --- | --- | --- | --- |
-| **Github Repo** | [Rales Repo](https://) | [Cloney 1 Repo](https://) | [Cloney 2 Repo](https://) |
-| **Heroku** | [Rales](https://) | [Self Directed](https://) | [The Pivot](https://) |
-| **Functional/Client Expectations** | X | X | X |
-| **TDD** | X | X | X |
-| **Code Organization/Quality** | X | X | X |
-| **API Design** | X | N/A | N/A |
-| **Queries** | X | N/A | N/A |
+| **Github Repo** | [RailsEngine](https://) | [Self Directed](https://) | [Battleshift](https://) |
+| **Heroku** | [RailsEngine](https://) | [Self Directed](https://) | [Battleshift](https://) |
+| **Passing/Not Passing** | X | X | X |
 
 > Rales Engine evaluation comments:
 \<Instructor Comments Here>

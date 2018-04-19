@@ -16,8 +16,7 @@ I wanted to learn JavaScript, increase my knowledge about HTML and CSS, and find
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
-
+Passed
 
 ## B: Individual Work & Projects
 

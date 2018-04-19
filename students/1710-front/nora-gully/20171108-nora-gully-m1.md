@@ -72,7 +72,7 @@ N/A
 * [GitHub URL](https://github.com/nogully/ng-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-Our second comp critique was scheduled the day of Halloween 2017, so I knew that I would be dressed as Medusa (fitting with our class theme of Mythical Creatures). As a tie-in, I decided to make my static comp about Medusa's victims - the people she 'stoned'. I had a lot of fun with it. I also felt way more comfortable with Flexbox and the transition from desktop to mobile layouts. 
+Our second comp critique was scheduled the day of Halloween 2017, so I knew that I would be dressed as Medusa (fitting with our class theme of Mythical Creatures). As a tie-in, I decided to make my site about Medusa's victims - the people she 'stoned'. I had a lot of fun with it. I also felt way more comfortable with Flexbox and the transition from desktop to mobile layouts. 
 
 **Evaluator: Louisa**
 
@@ -125,6 +125,8 @@ During Mod 1 at Turing, my required group work and pairing projects were *Linked
 * [GitHub URL](https://github.com/nogully/Linked-List)
 * [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
 
+I had Bruce as my partner on Linked List, and I think it went really well. We got through the MVP and did one of the extensions (RegEx). This was our introduction to jQuery so we were really figuring it out between the two of us. This was also the first project where I went to Turing on the weekend and I found it really helped, because Mod 2 was around and could comment on our code immediately. My only complaint is that both of us really relied on our strengths to get the project done quickly, so we didn't necessarily push ourselves. On the other hand, we were done before other teams and had a lot of spare time to help others, so I don't regret it one bit. 
+
 **Evaluator: David**
 
 **Evaluation Comments**
@@ -158,6 +160,8 @@ During Mod 1 at Turing, my required group work and pairing projects were *Linked
 
 * [GitHub URL](https://github.com/michellehoffman/ideabox)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+
+I think this was the project where everything clicked for me. It was definitely the hardest because I was struggling with manipulating objects and arrays. But once we were using them in our project, all that made much more sense. My partner was Michelle and I feel lucky that we were paired together. Not only did we get along, but we were really honest about what we wanted to work on. We may have gone slower than other groups, but neither of us left the other behind. We also paired with Mod 2 a lot and found a really good teacher among them (Hugh H) who asked us tough questions and followed up with us over a few days. We completed the assignment with maybe an hour to spare but walked into our eval beaming. 
 
 **Evaluator: David**
 
@@ -198,6 +202,7 @@ During Mod 1 at Turing, my required group work and pairing projects were *Linked
 
 * [GitHub URL](https://github.com/nogully/todo-box)
 * [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+This was the project where we took someone else's code and pivoted it. It was really interesting to be able to dig into someone elses' project and fix things. Their code was a lot like mine and Michelle's so the process of refactoring was pretty straightforward. My partner was Nyssa, and since my last pairing was so great, I really tried to make sure that we were on the same level at all times. We paired with Mod 2 just about every day, and were very focused about what we wanted tackle with each session, which I think was a great approach. We definitely struggled with our project's wacky CSS and should have refactored it more in advance. We did great on the Javascript though and I was particularly proud of the stuff that we refactored with Katie's help on Wednesday. In all, we got through Phase 3 with time to spare. 
 
 **Evaluator: Louisa**
 
@@ -253,7 +258,6 @@ I really loved the essay by Ta-Nehisi Coates, where he described how hard it is 
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
 
 This documentary film definitely hit home for me in that I have been working as a woman in a technical field for a number of years. I learned the term "stereotype threat", which I feel is on par with imposter syndrome as a good way to describe the persistent feeling that you will live up to a bad gender stereotype, like women being "bad at math". I really loved EllenMary's facilitating and how she highlighted our cohort's gender diversity and how we, maybe more than other cohorts, are in the process of tipping the scales of gender representation.
-
 
 #### Community Gear Up: Social Movements in Tech (Week 5)
 * [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1710-inning/group_four.md)
