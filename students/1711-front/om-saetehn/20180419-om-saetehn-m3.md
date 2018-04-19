@@ -99,5 +99,10 @@ There hasn't been enough time to contribute more to Pahlka, or join other civic 
 ## Final Assessment
 We've learned many new concepts this mod, looking forward to some downtime so I solidify what I have learned so far.
 
-# Outcome:
-_Leave blank for instructors_
+# Outcome: PASS
+
+* **A: Individual Work & Projects**: 3.5
+* **B: Group Work & Projects**: 3.5
+* **C: Professional Skills**: 3
+* **D: Community Participation**: 3
+* **E: Final Assessment**: 3.5
