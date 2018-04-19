@@ -98,10 +98,10 @@ I worked more closely with the 1711 class this mod. I worked with several M2 stu
 
 ### Outcome
 
-* **A: End-of-Module Assessment**: 
-* **B: Individual Work & Projects**: 
-* **C: Group Work & Projects**: 
-* **D: Professional Skills**: 
-* **E: Community Participation**: 
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3.5
 
-OUTCOME:  
+OUTCOME:  PASS
