@@ -5,6 +5,7 @@
 
 What did you set out to accomplish this module? Were you successful?
 
+I set out to gain more familiarity with connecting different pieces of the coding puzzle. I definitely think I accomplished this.
 
 I set out to build cool things, I am happy with what I helped to create.
 

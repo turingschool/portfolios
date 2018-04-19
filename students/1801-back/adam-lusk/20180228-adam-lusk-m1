@@ -1,0 +1,131 @@
+Adam Lusk M1 Portfolio
+
+Areas of Emphasis  
+object oriented programming, Ruby, computer science, professional development   
+
+Rubric Scores   
+A: End-of-Module Assessment: 2  
+B: Individual Work & Projects: 2   
+C: Group Work & Projects: 3   
+D: Professional Skills: 3   
+E: Community Participation: 3
+
+A: End of Module Assessment   
+Paired Assessment: Fail.  
+All 3's except for 2 on completion  
+Individual Assessment: Fail.  
+Ruby Syntax & Style  3: Meets expectations   
+Breaking Logic into Components  3: Meets expectations  
+Test-Driven Development  3: Meets expectations  
+Version Control  3: Meets expectations  
+Completed Functionality  2: Below expectations  
+
+B: Individual Work & Projects   
+A summary of three projects, all mostly incomplete upon submission.  
+
+Flash Cards  
+Repo: Repo not working   
+Write a flashcard program that is used through the command line.  
+
+Notes: Issues Creating Repo, No Runner, Lack of edge case testing, Tests are not focused, Assertions not specific enough (using too much instance_of)  
+
+Ruby Syntax & Style: 3   
+Breaking Logic into Components: 3  
+Test-Driven Development: 2   
+Functionality: 2   
+
+Date Night  
+https://github.com/Vadlusk/date_night Build a binary search tree and many associated methods.  
+Notes: project mostly incomplete   
+
+Ruby Syntax & Style: 3 . 
+Breaking Logic into Components: 3  
+Test-Driven Development: 3   
+Functionality: 1   
+
+HTTP, Yeah You Know Me!  
+https://github.com/Vadlusk/HTTPYeahYouKnowMe  
+An introduction to HTTP, the protocol that runs the web. Build a functioning web server  
+
+Notes: Got through IT3, Using only server and request files for running. Some longer methods Would like to see further work towards encapsulation. MORE TESTS!  
+
+Ruby Syntax & Style: 1   
+Breaking Logic into Components: 1   
+Test-Driven Development: 1   
+Functionality: 2   
+Version Control: 3   
+
+C: Group Work & Projects  
+A summary of two group projects, both of which I contributed a fair share.  
+
+Enigma  
+https://github.com/Vadlusk/enigma  
+Build a tool for cracking an encryption algorithm.  
+
+Notes: decrypt.rb file io not working, Enigma.encrypt not working in pry, ^working in tests, Only Enigma class, Tests error out in Rake, Tested different lengths of messages, nil, tested upper case, Lots of helper methods. Could have factored out into other classes
+
+Ruby Syntax & Style: 2  
+Breaking Logic into Components: 2   
+Test-Driven Development: 2   
+Git Workflow: 3   
+Functionality: 2   
+
+Here is my feedback from Rob:  
+
+Working with you was a real pleasure. Our personalities, communications, and interactions went so smoothly.
+Your knowledge of coding, and your ability to figure out what was needed in a given situation was fantastic.
+When you find your partner is lost, it may be beneficial to see if they would like to spend time going over what they do not understand, thus giving the opportunity for mutual learning. I may have coded the key creation, but you figured out the files, encryption, and decryption. Would be happy to collaborate with you again, great job!
+Remember…YOU CAN DO IT!!!  
+
+Black Thursday   
+https://github.com/anon0mys/black_thursday  
+Build a system able to load, parse, search, and execute business intelligence queries  
+against the data from a typical e-commerce business.
+
+Ruby Syntax & Style: 3  
+Breaking Logic into Components: 3  
+Test-Driven Development: 3  
+Functionality: 3  
+Version Control: 3   
+
+D: Professional Skills  
+Summaries of what I took away from each Gear Up session  
+
+Growth Mindset   
+https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown   
+Much of the material here I've learned from being a musician. I'm never too down on myself for what I do or  
+don't know, or my skill level of anything at any given time. I'm well aware that people change.  
+
+Getting Better at Difficult Things  
+https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_2_getting_better_at_difficult_things.md   
+I learned that cognitive resources are finite and have to be watched to be used best. I continue to categorize  
+my skill sets into the three categories defined in the video. I especially find useful the skill of breaking up a  
+task that is possible with effort into many pieces to move that skill into the can do with no effort category.  
+
+Working Styles  
+https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_intro_extro_ambivert_styles.markdown  
+Nothing in this session was surprising to learn about myself. I learned a lot of intersting in ways which people  
+perceive themselves. Even ambiverts have their quirks and pet peeves. It is best just to stay open minded to many   
+different working styles and be willing to work outside of your comfort zone.  
+
+Managing Stress & Coping Mechanisms   
+https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_3_managing_stress.md   
+Being healthy is different for everybody, and I learned that I shouldn't feel guilty for doing  
+the things that keep me healthy, like being alone for periods and going for long walks. In my own experience,  
+my health doesn't improve if I focus on it. Accomplishing things and moving forward makes me feel good, so if  
+I focus on the solution to a problem or can say definitively that I've learned a new concept, then I naturally  
+gravitate towards healthier habits.
+
+Community Gear Up: Mod 4 Leads From Introvert to Influential  
+https://github.com/turingschool/gear-up/blob/master/m4_sessions/1801-inning/group_5.md  
+There are many ways you can fake confidence until you have actually have it. One way I always forget is that  
+by just having confident body language, you can trick others into thinking you have it. This also tricks your  
+own body: changing your posture can also change your cortisol and testosterone levels.  
+
+E: Community Participation Playing a Part  
+I'm still too much of a noob to help others right now, but I do much bragging about the school. Many people  
+have never heard of it.  I have been decently social and I ask others what they're working on in other mods.  
+
+Final Review Notes ( Leave blanks for reviewers )
+
+Outcome ( Leave blanks for reviewers )

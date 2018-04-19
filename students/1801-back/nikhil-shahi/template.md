@@ -1,82 +1,40 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# First Last - M2 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+What did you set out to accomplish this module? Were you successful?
 
-## Rubric Scores
+What did you struggle most with this module? What did you learn from that struggle?
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+## Blog
 
------------------------
+Link your blog post here. Include a short description of your topic (one sentence is fine).
 
-## A: End of Module Assessment
+## Projects
 
-(Indicate whether you passed or failed the end of module assessment)
+What were your favorite projects this module? Least favorite? Why?
 
+What did you learn from your independent projects?
 
-## B: Individual Work & Projects
+What did you learn from your paired projects?
 
-(Intro)
+## Community
 
-#### (Project Name)
+What was your favorite Gear Up? Least favorite? Why?
 
-* [GitHub URL]()
-* [Original Assignment]()
+How did you contribute to the Turing community this module?
 
-(description)
+What would you like to do to contribute next module?
 
-(evaluation comments)
+## Self-Assessment Scores
 
-(evaluation scores)
+Fill in how you would grade yourself from 1-4 in the following categories this module.
 
-## C: Group Work & Projects
-
-### Projects
-
-(Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
-
-## D: Professional Skills
-(Intro)
-
-### Gear Up
-#### (Session Name)
-
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-## E: Community Participation
-
-### Playing a Part
-
-(ways you supported the larger Turing community)
-
-------------------
-
-## Final Review
-
-### Notes
-
-( Leave blanks for reviewers )
-
-### Outcome
-
-( Leave blanks for reviewers )
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   X   |
+| **Group Projects**           |   X   |
+| **Professional Development** |   X   |
+| **Community**                |   X   |
+| **Final Written**            |   X   |
+| **Final Timed**              |   X   |

@@ -97,11 +97,14 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 
 ### Module 3 (Front-end)
 
-* Individual Assessment
-* Included Projects: Self-Directed Project, Remember (Number of Completed User Stories), Weather Forecast
-* Bonus Project (not required): None
-* Community:
-  * A recap of reflections from Gear Up
+* Individual Goals for the Module
+* Individual Self Assessment 
+* Final Assessmnet (PASS/FAIL)
+* Included Projects: Headcount 2.0 (Group), SWAPIBox (Individual), Movie Tracker (Group), and Self-Directed Project (Individual)
+* A recap of your reflections from Gear Up
+* A summary of how you've contributed to the community
+
+*All of your PD deliverables must be completed and submitted [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions) before your portfolio review*
 
 ### Module 4 (Back-end)
 
@@ -111,7 +114,9 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
 
 ### Module 4 (Front-end)
 
-You will prepare and present a 10-12 minute overview of your module to a panel of reviewers. Specific instructions [are here](https://gist.github.com/LouisaBarrett/03aa5567937943ca274437205bc35271)
+* You will prepare and present a 10-12 minute overview of your module to a panel of reviewers. Specific instructions [are here](https://gist.github.com/LouisaBarrett/03aa5567937943ca274437205bc35271)
+
+* Your [30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) must be linked in the markdown and sent to your coach.
 
 ## Submission Guidelines
 

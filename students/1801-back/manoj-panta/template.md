@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+Manoj Panta M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -16,7 +16,6 @@
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
 
 
 ## B: Individual Work & Projects
@@ -25,8 +24,7 @@
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [Original Assignment]
 
 (description)
 
@@ -40,7 +38,7 @@
 
 (Intro)
 
-#### (Project Name)
+#### (Enigmao )
 
 * [GitHub URL]()
 * [Original Assignment]()

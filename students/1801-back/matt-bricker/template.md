@@ -25,8 +25,8 @@
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/brickstar/flashcards)
+* [Original Assignment](flashcards)
 
 (description)
 
@@ -42,8 +42,8 @@
 
 #### (Project Name)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/brickstar/perilous_journey)
+* [Original Assignment](perilous_journey)
 
 (description)
 
@@ -52,6 +52,34 @@
 (evaluation scores)
 
 (feedback to me)
+
+#### (Project Name)
+
+* [GitHub URL](https://github.com/brickstar/enigma)
+* [Original Assignment](enigma)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### (Project Name)
+
+* [GitHub URL](https://github.com/brickstar/HTTP_Yeah_You_Know_Me)
+* [Original Assignment](http_yeah_you_know_me)
+
+(description)
+
+(Mapping the headers into a hash in the split method is elegant
+Tests only cover integration up to word_search)
+
+(evaluation scores)
+
+(feedback to me)
+
 
 ## D: Professional Skills
 (Intro)
