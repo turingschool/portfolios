@@ -199,8 +199,6 @@ My resume is up on the Turing portfolio site.
 
 Microaggressions are an issue that requires constant vigilance and self-checking. Even if one has an inclusive, non-biased perspective, microaggressions can easily sneak into one's speech patterns if not cognizant.
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
 ### Group Think
 
 [GitHub](https://github.com/turingschool/gear-up/blob/master/groupthink.md)
@@ -219,8 +217,12 @@ After two innings as an SAB rep, I used my extra time this inning to try to help
 
 ### Notes
 
-( Leave blanks for reviewers )
+PASS
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
