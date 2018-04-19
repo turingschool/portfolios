@@ -16,8 +16,7 @@ This module I wanted to level up my React abilities. Additionally, I wanted to p
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
-
+PASS
 
 ## B: Individual Work & Projects
 
@@ -291,8 +290,12 @@ First and foremost, I, along with Jared, taught Turing how to make coffee `If yo
 
 ### Notes
 
-( Leave blanks for reviewers )
+HARD PASS
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 4
