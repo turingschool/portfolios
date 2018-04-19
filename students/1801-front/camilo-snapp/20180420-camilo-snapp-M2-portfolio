@@ -1,0 +1,263 @@
+# Camilo Snapp - M2 Portfolio
+
+## Areas of Emphasis
+
+**What was your learning focus this inning?** 
+
+My ultimate learning goal has always been application development. I have always known that I want to focus efforts this
+ inning was learning React. However, since joining Turing I learned that about TDD. A primary goal of mine is that I want
+ to learn how to implement TDD development effectively. 
+
+**What technical and communication skills did you want to grow?** 
+
+I wanted to grow my ability to speak about my code.
+ 
+**Do you feel like you've achieved those goals?**
+
+Yes. I completed my first react project. 
+I did increase my vocab and my ability to discuss code clearly. I do know that I need to stick to
+ only using the correct terminology to discuss code with classmates so that it becomes normal.
+
+## Self-Evaluation
+_How do you feel you did in these areas this inning?_
+
+* **A: Individual Work & Projects**: _3_
+* **B: Group Work & Projects**: 4
+* **C: Professional Skills**: 4
+* **D: Community Participation**: 3
+* **E: Final Assessment**: 3
+
+-----------------------
+
+## A: Individual Work & Projects
+
+_Reflect on your individual work and projects throughout the inning._
+
+**Did they help you with your areas of emphasis (from above)?** 
+
+Only the last project helped me learn React. GameTime and Weathrly allowed me to start to form my ability to 
+learn Test Driven Development. It is a really great feeling to complete a new project that includes new skills
+that you learned.
+
+**What was the most challenging?**
+
+I felt that shifting to Test Driven Development is the most challenging. I always 
+feel that front-loading your decisions while developing your application is difficult.
+
+**What patterns do you plan to continue for the next inning?**
+
+As I said before I want to only discuss my code with correct terminology. I also want to become a 
+daily practice of coding every morning just to learn. I feel since I completed several projects. I 
+want to continue coding daily. I want to do continue to do code-wars daily.
+
+**What do you plan to change?** 
+
+Now that I have the knowledge and ability to make react applications I want to 
+develop side project and start to continue to projects outside of Turing. By having side projects will
+allow me to develop a rounded developer abilities.
+
+### Study Habits
+
+**What did you notice changed in your study habits from the previous inning to this one?** 
+    
+During this inning I developed a daily study habit of doing practice coding problems. I code more frequently 
+because the projects are larger and I am more used to coding daily. I also started to appreciate time boxing. 
+I received feedback from one of my instructors to place a limit on different things I focus on. This will help 
+you push forward your projects by knowing the take time to focus on both of them. It will help you take extra 
+steps to move your project forward that you wouldn't take otherwise. I also attended Iron FE.
+
+**What stayed the same?**
+I attended all classes, completed all projects, and attended all personal development sessions.
+ 
+**Do your study habits serve you well?** 
+I do feel that my updated study habits are starting to help me accelerate my learning my
+application development. 
+
+Yes, but I feel I can continue developing daily study habits. In the past I used to not like doing coding challenges
+ like codewars it but now I look forward to solving them.
+
+### Sorting Suite
+* **Outcome:** _Pass_
+
+**What did you enjoy about Sorting Suite? What was challenging?**
+
+Sorting Suite was a really good set of problems. It was a great project, and gave me a good feel for recursion and the stack. 
+
+**How did working together on Sorting Suite compare to your work for GameTime? for Weathrly?**
+I was not able to work together with any of my classmates until late Tuesday. Therefore, it was a high pressure environment
+to learn how recursion works and the call stack. 
+ 
+**How does this project serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?**
+For Weathrly, it was a paired project. The work I put into this project solidified my process and prepared 
+me to work on further react application developer.
+
+### Complete Me
+* **Fundamental JS and Style:** _3_
+* **Testing:** _3_
+* **Encapsulation/Breaking Logic into Components:** _3_
+* **Functional Expectations:** _4_
+* **Code Sanitation:** _4_
+
+**What did you enjoy about Complete Me?** 
+
+I enjoyed the fact that I was able to implement Complete Me into Weathrly. I also liked that it just nested objects.
+
+**What was challenging?** 
+
+It was hard to visualize Complete Me and you are only able to break down the problem with whiteboarding. 
+
+**How did working together on Sorting Suite compare to your work for GameTime?**
+
+Sorting Suite for me was a really challenging experience. I was not able to work with anyone initially due to a 
+github error. After finally getting working suite. I was very aggressive on the final day before Sorting Suite was due.
+I finally was able to work with other students and whiteboard the sorting algorithms. This lead to me understanding
+the breakdown of recursive functions and increased my understanding of the call stack.
+
+**for Weathrly?** 
+
+Initially, my understanding of react was non existent and it was hard to understand the concepts of data flowing down,
+state and components. It took making a couple components to start understand the flow of the data.  
+
+**How does this project serve your Areas of Emphasis (from above)?**
+
+I do feel as I progress through Turing I really do feel an sense of achievement when I learn and apply new skills
+in a new project. 
+
+**How does it serve your overall goals at Turing and beyond?**
+
+I came to Turing to become job ready and by finally getting to get React develop and TDD I am know that I am
+finally starting to build marketable skills.
+
+## B: Group Work & Projects
+
+**Reflect on your group work and projects throughout the inning.** 
+
+Did they help you with your areas of emphasis (from above)? 
+What was the most challenging? What patterns do you plan to continue for the next inning? What do you plan to change?
+
+I feel like I learned the most from Weathrly since it was an react application and was fundamentally different from
+a jQuery focused project and it is in more demand.
+
+Projects however are really good at cementing fundamentals in my mind. While making them they force you
+apply the new concepts consistently. 
+ 
+
+### GameTime
+* **Partner:** _Megan_
+* **Game:** _Connect Four_
+* **Functional Expectations:** _3_
+* **User Interface:** _3+_
+* **Testing/Code Sanitation:** _2_
+* **JS Style:** _3_
+* **Workflow:** _3_
+
+**What did you enjoy about GameTime? What was challenging?**
+I really like that I was able to make a game and visualize the problems that we were working with. 
+The most challenging was having to conceptualize the how the game would operate. In the previous projects
+they were more focused on web form applications.
+
+**What skills did you learn that serve your Areas of Emphasis (from above)?**
+GameTime was a nice project with object oriented programming.
+
+**How does it serve your overall goals at Turing and beyond?**
+Gametime helps you understand object oriented programming.
+
+
+### Weathrly
+* **Partner:** _David_
+* **Spec Adherence:** _4_
+* **User Interface:** _4_
+* **HTML Style:** _4_
+* **CSS/Sass Style:** _4_
+* **JS/React Style:** _3_
+* **Testing:** _2_
+* **Workflow:** _3_
+* **Code Sanitation:** _4_
+
+**What did you enjoy about Weathrly?**
+
+I enjoyed that I have a fully functioning application based on react and an actual API.
+ 
+**What was challenging? What skills did you learn that serve your Areas of Emphasis (from above)?**
+
+Being able to learn how an a new javascript library works was difficult at the beginning.
+However, learning react was a primary goal of mine since before joining Turing and I am really glad I finally got
+the chance to not only use an API but also use a extremely popular javascript library.
+
+**How does it serve your overall goals at Turing and beyond?**
+
+One thing I knew before coming to Turing was that truely transferable skills is development. By finally reaching
+a modern javascript it allowed my learn new tools that are valid for front-end developers.
+
+## C: Professional Skills
+
+* **PD Sessions:**
+* _**Feedback 2**_ - 
+* _**Storytelling II**_ - 
+* _**Feedback III**_ - 
+* _**Outreach & Networking**_ - 
+
+**What did you learn during the PD sessions that was surprising?** 
+
+The professional development sessions this mod were great. The one things that I really found surprising how 
+Turing teaches how to do network as well as coding. I also really like how Turing helps teach you how to craft
+your story. During the break I am going to systematically look expand my online presence through social media and in 
+person events. I definitely feel that I have more tools and more confident networking in Denver.
+
+
+**What skills did you hone? Do you feel better prepared for your future professional life as a developer?**
+
+* **Gear Up Sessions:**
+  * _Empathy & Privilege_
+  * _Group Think_
+  * _Empathy & Privilege_
+
+ **What did you learn during the Gear Up sessions that was surprising?**
+ 
+ One on the things I found the most surprising was how hard it is to avoid Groupthink. 
+ 
+ **Do you find it important to have conversations like the ones in the Gear Up Sessions?**
+ 
+ I find the sessions with gearups are good to not only take a break from constantly coding but the have
+ a different perspective on life and the workplace. 
+ 
+ **Do you feel like you have the tools to keep having these conversations in the future?** 
+ **in your workplace? with your teammates?**
+ 
+I do feel that they help my have these conversation in the future.
+ 
+ 
+## Community Participation
+
+_**Reflect on your community participation this inning. How did you opt-in to the community here at Turing?
+ in Denver?** 
+ 
+It in kinda funny how I feel about Turing now that I am in Mod2 vs Mod 1. I kinda reached a phase where I am much more
+comfortable. I paired with numerous Mod1 students and I really do feel that they felt comfortable talking to me.
+ 
+**Did you pair with students in other modules? Was the experience enjoyable?** 
+ 
+Yes, I paired with several Mod1 students and I enjoyed it more than I thought I would, including a couple
+emergency pairings. I like to see how people are stuck and helping them when they really need it. 
+ 
+
+## Final Assessment
+
+What skills from this inning do you plan to review/strengthen over intermission week?
+
+Over the break I plan on creating a Mod1 project with react. I am also taking to another student about personal 
+a react application. I feel that since I worked with one API in an application. The world APIs are available to me now.
+I also want to start using prop-types in react development and attempt to self teach my self Redux during the break. 
+
+**What are you looking forward to about next inning?**
+
+I am simply looking forward to making applications. 
+
+**What are you going to do over intermission week to recharge your batteries and reconnect with your longterm goals?**
+
+I will workout daily and I actually have to fly back to Kansas City to move out of my apartment in preparation of
+moving to Denver for a job search later on.
+
+
+# Outcome:
+_Leave blank for instructors_
