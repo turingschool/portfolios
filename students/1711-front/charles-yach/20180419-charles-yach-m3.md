@@ -214,8 +214,13 @@ This module I continued the relationships I had with other modules that were bui
 
 ### Notes
 
-( Leave blanks for reviewers )
+PASS
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 4
+
