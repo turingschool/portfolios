@@ -238,3 +238,22 @@ I enjoyed the PD sessions this mod. They felt like they were providing us with v
 ### Gear Up
 
 The mod 4 lead gear up on public data was well done and was the most interesting student run gear up I've been forced to attend. The microaggression gear-up was enlightning. The groupthink gear-up seemed to be quite unproductive. It lacked balance and seemed to be contradictory.
+
+### Community Participation
+
+* Pairing
+* Coffee Sermon
+
+## Outcomes
+
+### Notes
+
+PASS
+
+### Scores
+
+* **A: End-of-Module Assessment**: 3 
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
