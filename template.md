@@ -105,8 +105,13 @@ I attended the Demo Competition and had the pleasure of watching my former class
 
 ### Notes
 
-( Leave blanks for reviewers )
+* Going to meet with EM and Allison to build a personalized PD plan to ensure success in the job hunt in Mod 4 
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3+
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3+
+* **D: Professional Skills**: 3-
+* **E: Community Participation**: 3-
+
