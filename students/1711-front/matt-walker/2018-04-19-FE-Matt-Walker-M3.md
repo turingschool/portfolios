@@ -16,7 +16,7 @@ My goal in Mod 3 was to come in early, stay late and learn how to build apps usi
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+PASS
 
 
 ## B: Individual Work & Projects
@@ -99,8 +99,12 @@ I led Iron FE twice this mod and tried to help out Mod 1 and 2'ers whenever they
 
 ### Notes
 
-( Leave blanks for reviewers )
+HARD PASS
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3.5
+* **E: Community Participation**: 4
