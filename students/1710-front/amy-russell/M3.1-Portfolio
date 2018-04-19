@@ -1,0 +1,82 @@
+# Amy Russell - M3.1 Portfolio
+
+## Areas of Emphasis
+Testing, Strengethening React/Redux and async JS. 
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: X
+* **B: Individual Work & Projects**: X
+* **C: Group Work & Projects**: X
+* **D: Professional Skills**: X
+* **E: Community Participation**: X
+
+-----------------------
+
+## A: End of Module Assessment
+
+Pass
+
+## B: Individual Work & Projects
+
+CryptoDex
+
+* [GitHub URL](https://github.com/amy-r/cryptodex)
+* [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
+
+CryptoDex is an indexing app for the cryptocurrency market. It fetches the Nomics API to receive up to date information about the 
+market, while utilizing Firebase, React, and Redux to allow users to compare their portfolios to the market index. 
+
+## C: Group Work & Projects
+
+### Projects
+
+#### Movie Tracker
+
+* [GitHub URL](https://github.com/amy-r/movie-tracker2)
+* [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
+
+Movie tracker involved flexing react and redux muscles. I pulled in a local API sorted and cleaned data, and allowed users to track their favorite movies
+
+#### Headcount
+
+* [GitHub URL](https://github.com/valentinovtino/headcount2.0)
+* [Original Assignment](https://github.com/turingschool-examples/headcount2.0)
+
+Headcount started off this mod by reinforcing React basics and data sorting.
+
+## D: Professional Skills
+### Gear Up
+
+### Microaggressions
+
+[GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod3_Week1_Microaggressions_update.md)
+Although it was my second time going through this gear up, I still got a lot out of it. It was especially useful to go through scenarios of microaggressions and practice different responses. We had a deep discussion on how a lot of marginalization is hidden, so don't make assumptions about people.
+
+### Group Think
+[GitHub URL](https://github.com/turingschool/gear-up/blob/master/Rotation_Session_Groupthink.md)
+This session made me think about the dangers of homogenized groups, both ones that I'm a part of and those that I'm exluded from. I thought a lot about how to use my voice to elevate the voices of other in order to make sure that every opinion is being heard, not just the loudest in the room. 
+
+### Mod 4 Lead
+[GitHub URL](https://docs.google.com/spreadsheets/d/1xVlmU6mXCUMJGy0qcjRufEusr9ktbtRWO72K8nkewNY/edit#gid=393922023) (Your cellphone as a civil rights issue)
+This gear up was one of my favorites for my whole time at Turing. We talked about the data that each of our apps tracks on us, and the extent to which our lawmakers are clueless. We split up into groups and read the privacy policies of various apps, and what we learned was honestly shocking. This gear up had an immediate and direct impact on the way that I relate to the apps that I use.
+
+## E: Community Participation
+
+### Playing a Part
+I paired with my classmates and helped reinforce some foggy topics on redux after school. I also brought a classmate to blockchain meetup and introduced him to people I know. I also attended a React meetup and an LGBT coders meetup. I participated in the queer coders student group, and consoled some individuals that were particularly triggered by the discussion in watercooler.
+
+### Ways that Turing Supported Me
+I feel an enormous sense of gratitude for Turing as a whole, and for Will and Christie specifically. Repeating Mod 3 was a difficult decision. But with the encouragement, support, and patience from my instructors, I've come out a much stronger and passionate programmer. 
+
+------------------
+
+## Final Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
