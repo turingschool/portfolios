@@ -217,8 +217,12 @@ Attended Iron FE and helped any of my classmates that needed assistance.
 
 ### Notes
 
-( Leave blanks for reviewers )
+PASS
 
 ### Outcome
 
-( Leave blanks for reviewers )
+* **A: End-of-Module Assessment**: 4 
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3
