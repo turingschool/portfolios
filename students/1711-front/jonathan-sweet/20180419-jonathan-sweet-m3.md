@@ -89,5 +89,10 @@ This inning, I volunteered to lead Iron-FE when available and spent time pairing
 
 I feel very comfortable with React, Redux, middleware, utilizing external APIs, end to end testing, and understanding scalable architecture and patterns. Over the intermission, I intend to apply for jobs.
 
-# Outcome:
-_Leave blank for instructors_
+# Outcome: PASS
+
+* **A: Individual Work & Projects**: 4
+* **B: Group Work & Projects**: 4
+* **C: Professional Skills**: 3.5
+* **D: Community Participation**: 4
+* **E: Final Assessment**: 4
