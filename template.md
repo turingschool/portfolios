@@ -21,6 +21,48 @@ Learn Javascript fundamentals and basic tools and techniques of web development.
 
 ## B: Individual Work & Projects
 
+My individual projects this mod were Number Guesser and three static composition challenges.
+
+#### Number Guesser
+
+* https://github.com/brandido/number-guesser
+* http://frontend.turing.io/projects/number-guesser.html
+
+Build a game where the user guesses a number between 1 and 100.  The application generates a random number in the range and gives feedback based on if the user guess is too high, too low or correct.
+
+https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/number-guesser/brandon-cunningham.md
+
+#### Static Comp Challenges
+
+I was given a series of three static compositions and asked to recreate them with a responsive design while respecting the integrity of the original design. The creative license included copy, images, icons and color palette.
+
+https://github.com/brandido/Static-comp-1
+
+https://github.com/brandido/bc-static-comp-challenge-2
+
+https://github.com/brandido/bc-comp-challenge-3
+
+## C: Group Work & Projects
+
+### Projects
+
+My paired projects this mod were LinkedList, IdeaBox and 2DoBox.
+
+#### LinkedList
+
+* https://github.com/brandonfiebiger/linked-list
+* http://frontend.turing.io/projects/linked-list.html
+
+Description: Build an application in which a user can input and bookmark a webpage title and URL. Each bookmark should have a "mark to read" button and remove button and user should be able to see a count of all the bookmarks and all the read bookmarks.
+
+https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/linked-list/brandonc-brandonf.md
+
+(evaluation scores)
+
+(feedback to me)
+
+### IdeaBox
+
 (Intro)
 
 #### (Project Name)
@@ -34,7 +76,7 @@ Learn Javascript fundamentals and basic tools and techniques of web development.
 
 (evaluation scores)
 
-## C: Group Work & Projects
+(feedback to me)
 
 ### Projects
 
