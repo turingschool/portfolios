@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Brandon Cunningham - (M1) Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Learn Javascript fundamentals and basic tools and techniques of web development.
 
 ## Rubric Scores
 
