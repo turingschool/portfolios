@@ -1,89 +1,95 @@
-# YOUR NAME - M2 Portfolio
+# OM SAETEHN - M2 Portfolio
 
 ## Areas of Emphasis
 
-_What was your learning focus this inning? What technical and communication skills did you want to grow? Do you feel like you've achieved those goals?_
+Understanding basic algorithms, data structures, introduced to HTML5 Canvas and React Javascript. More practices of Array prototypes.
 
 ## Self-Evaluation
-_How do you feel you did in these areas this inning?_
-
-* **A: Individual Work & Projects**: _0 - 4_
-* **B: Group Work & Projects**: _0 - 4_
-* **C: Professional Skills**: _0 - 4_
-* **D: Community Participation**: _0 - 4_
-* **E: Final Assessment**: _0 - 4_
+* **A: Individual Work & Projects**: 3
+* **B: Group Work & Projects**: 3
+* **C: Professional Skills**: 3
+* **D: Community Participation**: 3
+* **E: Final Assessment**: 3
 
 -----------------------
 
 ## A: Individual Work & Projects
 
-_Reflect on your individual work and projects throughout the inning. Did they help you with your areas of emphasis (from above)? What was the most challenging? What patterns do you plan to continue for the next inning? What do you plan to change?_
+Individual projects in this mod are the workings of data structures as a class and a personal learning journey with sandbox for getting started in React.js. Being introduced to new concepts are challenging but not impossible to wrap my head around once given more time and more repetitions.
 
 ### Study Habits
 
-_What did you notice changed in your study habits from the previous inning to this one? What stayed the same? Do your study habits serve you well?_
+There are challenges and distractions back home, but it can be improved so that I can focus on study and work better next mod.
 
 ### Sorting Suite
 * **Outcome:** _Pass/Fail_
 
-_What did you enjoy about Sorting Suite? What was challenging? How did working together on Sorting Suite compare to your work for GameTime? for Weathrly? How does this project serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
+This project brings complex logic and inner workings of sorting methods into visualizations through codes- which was also the most challenging part. When the class works together, it's enjoyable to explain the codes and our understanding to each other.
 
 ### Complete Me
-* **Fundamental JS and Style:** _0 - 4_
-* **Testing:** _0 - 4_
-* **Encapsulation/Breaking Logic into Components:** _0 - 4_
-* **Functional Expectations:** _0 - 4_
-* **Code Sanitation:** _0 - 4_
+* **Fundamental JS and Style:** 3
+* **Testing:** 3
+* **Encapsulation/Breaking Logic into Components:** 3
+* **Functional Expectations:** 3
+* **Code Sanitation:** 3
 
-_What did you enjoy about Complete Me? What was challenging? How did working together on Sorting Suite compare to your work for GameTime? for Weathrly? How does this project serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
+Understanding data structures to manipulate data and utilizing it for an auto-completion feature is one of the hardest and trickiest concept yet.
 
 ## B: Group Work & Projects
 
-_Reflect on your group work and projects throughout the inning. Did they help you with your areas of emphasis (from above)? What was the most challenging? What patterns do you plan to continue for the next inning? What do you plan to change?_
-
 ### GameTime
-* **Partner:** _Partner's Name_
-* **Game:** _Name of game you built_
-* **Functional Expectations:** _0 - 4_
-* **User Interface:** _0 - 4_
-* **Testing/Code Sanitation:** _0 - 4_
-* **JS Style:** _0 - 4_
-* **Workflow:** _0 - 4_
+* **Partner:** Michael Gatewood
+* **Game:** Tron Legacy
+* **Functional Expectations:** N/A
+* **User Interface:** N/A
+* **Testing/Code Sanitation:** N/A
+* **JS Style:** N/A
+* **Workflow:** N/A
 
-_What did you enjoy about GameTime? What was challenging? What skills did you learn that serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
+Getting used to HTML Canvas was challenging at first, combining design and trigonometry was all new to me and my partner. But we had a good communication and pushed through all the challenges thrown our way.
 
 ### Weathrly
-* **Partner:** _Partner's Name_
-* **Spec Adherence:** _0 - 4_
-* **User Interface:** _0 - 4_
-* **HTML Style:** _0 - 4_
-* **CSS/Sass Style:** _0 - 4_
-* **JS/React Style:** _0 - 4_
-* **Testing:** _0 - 4_
-* **Workflow:** _0 - 4_
-* **Code Sanitation:** _0 - 4_
+* **Partner:** Aldo Mercado
+* **Spec Adherence:** N/A
+* **User Interface:** N/A
+* **HTML Style:** N/A
+* **CSS/Sass Style:** N/A
+* **JS/React Style:** N/A
+* **Testing:** N/A
+* **Workflow:** N/A
+* **Code Sanitation:** N/A
 
-_What did you enjoy about Weathrly? What was challenging? What skills did you learn that serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
+After 2 previous projects which were abstract, it was refreshing to get back into more interactive sides of coding again. Building an app that has a real use- utlizing API from an actual weather forecast website with methods we never knew we could do before. My partner and I work great together as a team, with good and laid-back communication.
 
 ## C: Professional Skills
 
 * **PD Sessions:**
-  * _List here_
+  * Agile Practices & Leadership
+  * Feedback II
+  * Feedback III
+  * Storytelling II
+  * Outreach & Networking
 
-_What did you learn during the PD sessions that was surprising? What skills did you hone? Do you feel better prepared for your future professional life as a developer?_
+The biggest challenge when giving feedback is not coming off too strong without any constructive criticism. To overcome, practicing speaking mindful honesty will be the most helpful, eventually improving communication that leads to positive outcomes. Reaching out to the community inside and outside of Turing will be beneficial to broaden my networking and getting inpirations from other people. It is important to know my goals and how to share that story to inspire other people, too.
+
 
 * **Gear Up Sessions:**
-  * _List here_
+ * Gear Up 1: Empathy & Privilege
+ * Gear Up 2: Parable of the Polygon/Automation/Group Think
+ * Gear Up 3: Case Study with Mod 4
 
-_What did you learn during the Gear Up sessions that was surprising? Do you find it important to have conversations like the ones in the Gear Up Sessions? Do you feel like you have the tools to keep having these conversations in the future? in your workplace? with your teammates?_
+Everything worthwhile in life comes with a price, nothing is uplifting all of the time. When engaging in a new project, new relationship, new hobby, new job.. the question is not about whether of not we have a passion for it, it’s about whether or not we’re passionate enough to tolerate the struggles and make a sacrifice once things become challenging.
+
+Diversity is the key to expanding ideas beyond our backgrounds and familiarities, it is the key ingredients to innovation. If team members all looks alike, thinks alike and share similar backgrounds and interests, the team risks the chance for growth and to expand their visions, only limited by their chosen bubble. It will also create and add injuries to sterotypes in our society. Demonstrating that diversity might not always lead to satisfaction, our society is not about individual group of people, but the more biased our society becomes the more segregrated it becomes too. 
+
 
 ## Community Participation
 
-_Reflect on your community participation this inning. How did you opt-in to the community here at Turing? in Denver? Did you pair with students in other modules? Was the experience enjoyable? Illuminating?_
+A few backenders have asked me for some help on CSS and JS, I got to pair with a few Front End students. Recently decided to join Pahlka and looking into coding for social causes.
 
 ## Final Assessment
 
-_What skills from this inning do you plan to review/strengthen over intermission weeek? What are you looking forward to about next inning? What are you going to do over intermission week to recharge your batteries and reconnect with your longterm goals?_
+More practices on array prototype methods so I would be more confident with larger object manipulation down the road. I'm looking forward to some down time so that I can also solidify what I have learned so far.
 
 # Outcome:
 _Leave blank for instructors_
