@@ -57,39 +57,36 @@ Description: Build an application in which a user can input and bookmark a webpa
 
 https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/linked-list/brandonc-brandonf.md
 
-(front-end-submissions-public/1804/mod-1/linked-list/brandonc-brandonf.md)
+https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/linked-list/brandonc-brandonf.md
 
 (feedback to me)
 
-### IdeaBox
 
-(Description: Build an application for recording and archiving ideas. The user should input and store an idea and description and be able to search through, edit, delete and change the quality of each idea. This project focused on providing a fluid and responsive client-side interface by ensuring that the ideas persist on page load.)
+Description: Build an application for recording and archiving ideas. The user should input and store an idea and description and be able to search through, edit, delete and change the quality of each idea. This project focused on providing a fluid and responsive client-side interface by ensuring that the ideas persist on page load.
 
-#### (Project Name)
+#### IdeaBox
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/idea-box/brandonc-tomk.md]()
+* [http://frontend.turing.io/projects/ideabox.html]()
 
-(description)
+Description: Build an application for recording and archiving ideas. The user should input and store an idea and description and be able to search through, edit, delete and change the quality of each idea. This project focused on providing a fluid and responsive client-side interface by ensuring that the ideas persist on page load.
 
-(evaluation comments)
+https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/idea-box/brandonc-tomk.md
 
 (evaluation scores)
 
 (feedback to me)
 
-### Projects
 
-(Intro)
 
-#### (Project Name)
+#### 2doBox-Pivot
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [https://github.com/benjaminpaige/2DoBox-Pivot]()
+* [http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html]()
 
-(description)
+Description: Inherit another groups IdeaBox, refactor CSS/jQuery and pivot the application from a list of ideas to a task list manager.
 
-(evaluation comments)
+https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/to-do-box/benjamin-brandonc.md
 
 (evaluation scores)
 
