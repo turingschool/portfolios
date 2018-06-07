@@ -94,17 +94,29 @@ Feedback to me:  Thank you for all your hard work and communication. You definit
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### Mental Health 101
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week1_mental_health_101.md)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This was a very appropriate session to learn more about stress. Turing is stressful for everyone in their own way and in my case that certainly applied. During the middle of Mod 1 I had some unexpected stress occur and it helped to remember some of the technqiues from this session.  Moving forward I need to continue to be both aware and consistent in taking down time to meditate and exercise. 
+
+
+#### Code Debugging the Gender Gap
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/Mod1_Week3_Code_debugging_compact_version.md)
+
+I believe this was an important session and enjoyed discussing and listening to different perspectives from my classmates and mod 3 students. The video we watched increased my awareness of the gender gap amongst programmers and the tech/science community at large. I think it will be important to always try to be empathetic to others that come from different backgrounds, genders and ethnicities than my own while also being mindfull of always respecting their abilities and contributions as professionals.
+
+#### Mental Health Apps
+
+This was a great session for me as a had a passion project a few years ago to create a mental health related app to guide people with finding their purpose.  It a very open and honest session, particulary with the leadership from the Mod 4 students talking about a difficult but important subject.  It was very exciting to dig into what apps were out there and then come up with improvement/alternatives that could be built with software skills acquired from Turing! 
+
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+A big part of why I came to Turing was to interact with the community.  As a Mod 1 student I got to know many of my classmates very well in a short time and really enjoyed getting to know some of the students from the upper mods and backend program as well.  Additionally, my interaction with the instructors from my class as well as the other mods was engaging and meaningful.  While not participating in formal community roles, I believe consistently trying to connect with and engage with fellow community members in a positive way and emphasize really listening is what I have mostly contributed thus far and plan to continue doing so.
 
 ------------------
 
