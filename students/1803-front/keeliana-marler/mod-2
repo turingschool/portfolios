@@ -1,0 +1,155 @@
+## Portfolio Template
+
+# Keeliana Marler - M2 Portfolio
+
+## Areas of Emphasis
+
+_What was your learning focus this inning? What technical and communication skills did you want to grow? 
+Do you feel like you've achieved those goals?_
+
+My goals this mod were to understand object oriented programming, react principles, testing react, array prototypes and 
+iterables, and also just to gain a deeper understanding of how the internet in general works. I feel like I accomplished all
+these goals, with just a bit of fuzziness around testing react. I feel that putting in more reps with testing react will solve 
+that problem.
+
+## Self-Evaluation
+_How do you feel you did in these areas this inning?_
+
+* **A: Individual Work & Projects**: 3
+* **B: Group Work & Projects**: 3.5
+* **C: Professional Skills**: 3
+* **D: Community Participation**: 4
+* **E: Final Assessment**: 
+
+-----------------------
+
+## A: Individual Work & Projects
+
+_Reflect on your individual work and projects throughout the inning. Did they help you with your areas of emphasis 
+(from above)? What was the most challenging? What patterns do you plan to continue for the next inning? What do you plan 
+to change?_
+
+I felt that all of the projects contributed to some part of my learning goals. I especially appreciate the group projects 
+just because it is so crucial to be able to work with people when working in the software engineering industry. I plan to 
+continue collaborating with people, learn by doing(using repl and similar programs).
+
+### Study Habits
+
+_What did you notice changed in your study habits from the previous inning to this one? What stayed the same? Do your study 
+habits serve you well?_
+
+I noticed that my study habits changed from mostly reading lessons in mod 1 to practicing repls in mod 2. I also felt that
+there was a lot more teamwork/group work going on in our mod this time around, and I'm very thankful to be part of such a 
+great mod. I think that for the content we were trying to learn, my study strategy was very effective.
+
+
+### Sorting Suite
+* **Outcome:** Pass
+
+_What did you enjoy about Sorting Suite? What was challenging? How did working together on Sorting Suite compare to your 
+work for GameTime? for Weathrly? How does this project serve your Areas of Emphasis (from above)? How does it serve your 
+overall goals at Turing and beyond?_
+
+I thought that Sorting suite was great for grasping recursion and some more advanced computer science concepts, as well as 
+learning to research more effeciently. I thought that fully grasping was challenging, but became much easier as I completed
+each algorithm.
+
+### Complete Me
+* **Fundamental JS and Style:** _0 - 4_
+* **Testing:** _0 - 4_
+* **Encapsulation/Breaking Logic into Components:** _0 - 4_
+* **Functional Expectations:** _0 - 4_
+* **Code Sanitation:** _0 - 4_
+
+_What did you enjoy about Complete Me? What was challenging? How did working together on Sorting Suite compare to your work for GameTime? for Weathrly? How does this project serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
+
+Complete-me was very helpful for me to understand general computer science concepts, learning about tries, and learning to 
+be more independent(depending on my own research skills to solve gaps in knowledge instead of depending on a partner).
+
+## B: Group Work & Projects
+
+_Reflect on your group work and projects throughout the inning. Did they help you with your areas of emphasis (from above)? What was the most challenging? What patterns do you plan to continue for the next inning? What do you plan to change?_
+
+### GameTime
+* **Partner:** Spenser
+* **Game:** Snake
+* **Functional Expectations:** 3
+* **User Interface:** 3
+* **Testing/Code Sanitation:** 2
+* **JS Style:** 2.5
+* **Workflow:** 3
+
+_What did you enjoy about GameTime? What was challenging? What skills did you learn that serve your Areas of Emphasis (from 
+above)? How does it serve your overall goals at Turing and beyond?_
+
+I think that Game-time really helped me get a grasp on classes and inheritance, which came in very handily on later projects.
+I did find the canvas component of the project to be rather irrelevant, but I think that learning to learn new and confusing 
+things is a skill in itself.
+
+### Weathrly
+* **Partner:** _Partner's Name_
+* **Spec Adherence:** _0 - 4_
+* **User Interface:** _0 - 4_
+* **HTML Style:** _0 - 4_
+* **CSS/Sass Style:** _0 - 4_
+* **JS/React Style:** _0 - 4_
+* **Testing:** _0 - 4_
+* **Workflow:** _0 - 4_
+* **Code Sanitation:** _0 - 4_
+
+_What did you enjoy about Weathrly? What was challenging? What skills did you learn that serve your Areas of Emphasis 
+(from above)? How does it serve your overall goals at Turing and beyond?_
+
+I thought that weatherly really encompassed what this entire mod was about. It really helped me to understand a lot of the 
+programs that we use on a daily basis(such as npm) with more depth. It was also very effective at teaching me react and 
+testing react. This project was also extremely useful to me in the context of perseverance. We ran into quite a few 
+roadblocks, but I felt that we just continued on and kept working at it. I would say that for me, Weathertly was the most 
+challenging just due to the all-encompassing nature of it. I feel that react is such a crucial part of becoming a developer,
+so I think I will carry what I learned from weatherly far into the future.
+
+## C: Professional Skills
+
+* **PD Sessions:**
+ Agile practices and leadership
+ Feedback 2
+ Storytelling 2
+ Outreach and networking
+
+_What did you learn during the PD sessions that was surprising? What skills did you hone? Do you feel better prepared for your future professional life as a developer?_
+
+I found the PD session about agile practices the most useful. I think that building software in the style taught is an
+extremely useful and beneficial skill to have
+
+* **Gear Up Sessions:**
+  * _List here_
+
+_What did you learn during the Gear Up sessions that was surprising? Do you find it important to have conversations like 
+the ones in the Gear Up Sessions? Do you feel like you have the tools to keep having these conversations in the future? 
+in your workplace? with your teammates?_
+
+I think the gear up sessions are extremely useful in that they really help to broaden my view. I think the empathy and 
+privelige gear up was the most interesting and surprising. I feel that having dynamic conversations and being vulnerable with
+classmates is definitley useful in building positive relationships with my classmates.
+
+## Community Participation
+
+_Reflect on your community participation this inning. How did you opt-in to the community here at Turing? in Denver? Did 
+you pair with students in other modules? Was the experience enjoyable? Illuminating?_
+
+I paired with many students from mod 1, both after school and at skylab. I also paired many times with mod 3 students to 
+receive help on my projects. I attended the lightning talk event at the beginning of the inning, and have gone to all of the 
+events offered by turing except the spouse dinner event. I also participated in Turing's code challenges and enjoyed being 
+able to pair with students I probably would've never even met if I hadn't participated.
+
+## Final Assessment
+
+_What skills from this inning do you plan to review/strengthen over intermission weeek? What are you looking forward to 
+about next inning? What are you going to do over intermission week to recharge your batteries and reconnect with your 
+longterm goals?_
+
+There are several things I am planning to do over break as far as learning. I plan to build as many of my old projects as 
+possible in react. I also plan to add testing suites to these projects to strength and sharpen that skill. I also plan to 
+a tutorial on redux and try to work ahead a little into mod 3. 
+
+# Outcome:
+_Leave blank for instructors_
