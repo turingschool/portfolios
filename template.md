@@ -59,7 +59,7 @@ https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mo
 
 https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/linked-list/brandonc-brandonf.md
 
-(feedback to me)
+Feedback to me:  I appreciated your company and your insight in Javascript. I feel that in this school it would be important for any student to dive right in the code. Planning is good to a degree, but maybe one feature at a time. Overall it was a pleasure getting to know you a bit better.
 
 
 Description: Build an application for recording and archiving ideas. The user should input and store an idea and description and be able to search through, edit, delete and change the quality of each idea. This project focused on providing a fluid and responsive client-side interface by ensuring that the ideas persist on page load.
@@ -75,7 +75,7 @@ https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mo
 
 (evaluation scores)
 
-(feedback to me)
+Feedback to me: I really appreciate you reminding me that it's okay to take a break. Walking through every detail was very helpful, and I am glad you took that time with me. Solid choices on the soft border edges! Also appreciate the stairs :) The reps you were taking with CSS training really showed, I think the best way to take your skills further in CSS and JavaScript is to get more reps in every day. 
 
 
 
@@ -90,7 +90,7 @@ https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mo
 
 (evaluation scores)
 
-(feedback to me)
+Feedback to me:  Thank you for all your hard work and communication. You definitely helped me to see the code in smaller pieces and you were always available and excited to get this project further. You were always willing to be flexible with scheduling, but I wish we could have gotten together once or twice during the three day weekend to get things rolling sooner. I know that you had a lot of personal and health issues this mod and I hope that you have gotten to a better place now. You really are very understanding and always willing to make accommodations for any issues that came up and were an amazing partner to work with, and overall I think we produced a great final result.
 
 ## D: Professional Skills
 (Intro)
