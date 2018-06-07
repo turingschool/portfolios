@@ -40,7 +40,7 @@ This project was not graded, but assigned to get us more comfortable with naviga
 
 In this project we were charged with the task of implementing a binary search tree that would leverage a complex data set of  words by traversing the Trie element letter by letter.
 
-[Evaluation Scores & Comments](http://frontend.turing.io/projects/complete-me.html)
+[Evaluation Scores & Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-2/completeMe/leelee.md)
 
 
 ## C: Group Work & Projects
