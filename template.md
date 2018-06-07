@@ -57,13 +57,13 @@ Description: Build an application in which a user can input and bookmark a webpa
 
 https://github.com/turingschool/front-end-submissions-public/blob/master/1804/mod-1/linked-list/brandonc-brandonf.md
 
-(evaluation scores)
+(front-end-submissions-public/1804/mod-1/linked-list/brandonc-brandonf.md)
 
 (feedback to me)
 
 ### IdeaBox
 
-(Intro)
+(Description: Build an application for recording and archiving ideas. The user should input and store an idea and description and be able to search through, edit, delete and change the quality of each idea. This project focused on providing a fluid and responsive client-side interface by ensuring that the ideas persist on page load.)
 
 #### (Project Name)
 
