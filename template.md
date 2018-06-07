@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# (Kurt Miller) - (M1) Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This module, I set out to learn as much about 
 
 ## Rubric Scores
 
