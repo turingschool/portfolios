@@ -40,7 +40,7 @@ Contributing to an open source is like swimming in the vast ocean of code critte
 
 ## Websockets Tutorial
 [It's alive !](https://github.com/chunktooth/chat-socket.io)
-Learning about real-time application and Websockets. Additional exercises I added include announcing when a user connects/disconnets, user's nickname and broadcasting message only to recipients. The advantage of this kind of technology is that clients would not need making request to the server for a response.
+Learning about real-time application and Websockets. Additional exercises I added include announcing when a user connects/disconnets, user's nickname and broadcasting message only to recipients. The advantage of this kind of technology is that clients and server can have an open communication.
 ![MSGs](https://i.imgur.com/3ok2RRe.png)
 ![CHATROOM](https://i.imgur.com/wYsXBni.png)
 
@@ -127,3 +127,7 @@ Backend lessons did prepare me to take up Rails as the final challenge at Turing
 
 ## Takeaway lessons for the next job
 Struggle and achievement often go hand-in-hand. It is important to struggle so that once the goal is achieved, I will come to realize how much I've learned. Time management during at Turing was really intense to meet both the specs and deadlines week after week. Looking back, it has proven that I have the skills and what it takes to accomplish task under high pressure. These are valuable skills to have anywhere and especially when I'm employed. It is also very important to celebrate achievement, so that I gather the strength & recognize it in others, never lose the excitement and always continue to improve myself.
+
+
+## 30-Day Action Plan
+https://gist.github.com/chunktooth/857b514a0f47556b9e819fd2f75159c9
