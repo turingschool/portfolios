@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+To learn coding. I have been asked this question several times and people seem to be expecting a more specific answer. The straight and simple is that I came to this school to learn a skillset that would allow me to make a lot of money. I think once I learn more about coding I will develop more preferences. 
 
 ## Rubric Scores
 
@@ -10,7 +10,7 @@
 * **B: Individual Work & Projects**: X
 * **C: Group Work & Projects**: X
 * **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **E: Community Participation**`: X
 
 -----------------------
 
