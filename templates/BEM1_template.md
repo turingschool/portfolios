@@ -3,7 +3,8 @@
 ## Areas of Emphasis
 
 What did you set out to accomplish this module? Were you successful?
-
+In terms of course content, I was not quite sure what to expect. I knew that whatever it was,
+it would be a lot of new information/concepts and that I would be hard pressed 
 
 What did you struggle most with this module? What did you learn from that struggle?
 
