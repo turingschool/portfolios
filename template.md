@@ -21,20 +21,6 @@ I believe I passed.
 
 ## B: Individual Work & Projects
 
-(Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-
 ### Student: Tim
 ### Evaluator: Louisa
 ### Notes/What To Work On:
