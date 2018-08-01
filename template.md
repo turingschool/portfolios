@@ -72,21 +72,6 @@ I believe I passed.
 
 ### Projects
 
-(Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
-
 #### Idea Box
 * [https://github.com/aweissman11/linked-list-with-tim.git]()
 * [http://frontend.turing.io/projects/ideabox.html]()
@@ -154,6 +139,10 @@ I believe I passed.
 ### Student: Sabrin and Tim
 ### Evaluator: David Whitaker
 ### Notes/What To Work On:
+### Idea Box
+
+[https://github.com/Salamandastron1/Idea-Box.git]()
+[http://frontend.turing.io/projects/ideabox.html]()
 
 #### General
 * Check out the style guides!!!!!
@@ -267,9 +256,12 @@ I believe I passed.
 * Advanced Beginner Can articulate what is going on in the overall codebase and uses the correct terminology some of the time.
 * Proficient Can articulate what is going on in the codebase, line by line, using the correct terminology most of the time. Developer can speak to and answer questions that utilize technical vocabulary.
 
+### 2Do Box
 ### Students: Tim & Tanj
-
 ### Evaluator: Holt
+
+[https://github.com/TMcMeans/2DoBox-Pivot.git]()
+[http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html]()
 
 ### Notes/What To Work On:
 - Great naming conventions🎉
@@ -369,7 +361,18 @@ _ Fully functional💪
 
 
 ---------------------------
-## D: Community Participation
+## Professional Skills
+
+### Gear Up
+
+#### Mental Health
+
+#### Bridging the Gender Gap
+#### Agism in the dev community
+
+(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+
+## E: Community Participation
 
 ### Playing a Part
 
