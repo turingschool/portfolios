@@ -141,8 +141,8 @@ I believe I passed.
 ### Notes/What To Work On:
 ### Idea Box
 
-[https://github.com/Salamandastron1/Idea-Box.git]()
-[http://frontend.turing.io/projects/ideabox.html]()
+* [https://github.com/Salamandastron1/Idea-Box.git]()
+* [http://frontend.turing.io/projects/ideabox.html]()
 
 #### General
 * Check out the style guides!!!!!
@@ -260,8 +260,8 @@ I believe I passed.
 ### Students: Tim & Tanj
 ### Evaluator: Holt
 
-[https://github.com/TMcMeans/2DoBox-Pivot.git]()
-[http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html]()
+* [https://github.com/TMcMeans/2DoBox-Pivot.git]()
+* [http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html]()
 
 ### Notes/What To Work On:
 - Great naming conventions🎉
