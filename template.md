@@ -57,9 +57,8 @@ I believe I passed.
 * [https://github.com/aweissman11/linked-list-with-tim.git]()
 * [http://frontend.turing.io/projects/ideabox.html]()
 
-Notes/What To Work On:
-More detail commited messages
-break out into more branches
+* Notes/What To Work On:
+**More detail commited messages break out into more branches
 nice organization of UI
 keep working on responsiveness (experiment with bigger screens)
 adding aria roles/labels
