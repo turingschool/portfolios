@@ -54,8 +54,8 @@ I believe I passed.
 (feedback to me)
 
 #### Idea Box
-* [https://github.com/aweissman11/linked-list-with-tim.git]
-* [http://frontend.turing.io/projects/ideabox.html]
+* [https://github.com/aweissman11/linked-list-with-tim.git]()
+* [http://frontend.turing.io/projects/ideabox.html]()
 
 Notes/What To Work On:
 More detail commited messages
