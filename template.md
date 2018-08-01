@@ -366,17 +366,17 @@ _ Fully functional💪
 ### Gear Up
 
 #### Mental Health
-
+The main takeaway for me was the pomodoro method. This technique has helped me complete more work in an efficient amount of time. I am a serial procrastinor and I desperately needed something like this. 
 #### Bridging the Gender Gap
-#### Agism in the dev community
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This was not a necessarily an eye opener for me. Based on the treatment of women and other a-typical genders in other fields this is par for the course. There was some tech specific info that I found interesting, notably the insane gender gap percentage. 
+#### Imposters
+The workshop presented categorization types that would benefit in identifying what kind of imposter we were. I found this helpful because I know more specifically what I can work on. It was also nice to have other people whom I could turn to for help when dealing with this problem.
 
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I regularly help clean up any messes that I see. I am active participant in our slack when questions are being asked. I am polite and welcoming with people I meet in the halls. Jokes. Jokes for everyone. 
 
 ------------------
 
