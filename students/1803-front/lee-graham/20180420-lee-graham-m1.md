@@ -3,7 +3,7 @@
 ## Areas of Emphasis
 
 
-REPITITION! REPITITION! REPITITION! I was determined not to reference in old projectf for the production of new projects.  In doing so, I discovered the multitude of ways in which a problem could be solved.  Coding in multiple languages, and allowing those languages to interact is like a dance to me, and Icluding some projects that were not assigned to me.
+REPITITION! REPITITION! REPITITION! I was determined not to reference code from past projects for the production of new projects.  In doing so, I discovered the multitude of ways in which a problem could be solved.  Coding in multiple languages, and allowing those languages to interact is like a dance to me, and Icluding some projects that were not assigned to me.
 
 ## Rubric Scores
 
