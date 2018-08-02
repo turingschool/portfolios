@@ -1,118 +1,41 @@
-# Andrew Tobin - M1 Portfolio
+# First Last - M1 Portfolio
 
-## Ruby
+## Areas of Emphasis
 
- Do become proficient and confident with OPP and Ruby.
+What did you set out to accomplish this module? Were you successful?
+Do become proficient and confident with OPP and Ruby. Yes.
 
-## Rubric Scores
+What did you struggle most with this module? What did you learn from that struggle?
+Ruby, Teamwork, Enumerables, Repos.
 
-* **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 4
-* **D: Professional Skills**: 4
-* **E: Community Participation**: 5
+## Projects
 
------------------------
+What were your favorite projects this module? Least favorite? Why?
+Connect Four was amazing. Black Thursday was very time intesive.
 
-## A: End of Module Assessment
-
-Passed
+What did you learn from your independent projects?
+Project design setup is extremely important.
 
 
-## B: Individual Work & Projects
+What did you learn from your paired projects?
+Workflow. Git branches. Learned to trust others.
 
+## Community
 
-#### Credit Check
-
-* https://github.com/andrewetobin/credit_check
-
-
-Luhn Algorithm
-
-
-Functionality: 4
-Mechanics: 3
-Design: 3
-Testing: 3
-Version Control: 3
-
-#### Sorting Cards
-
-* https://github.com/andrewetobin/sorting_cards]()
-* [Original Assignment]()
-
-Card guessing, record guesses, and sorting cards
-
-Functionality - 3
-Mechanics - 3
-Design - 3
-Testing - 3
-Version Control - 3
-
-#### Connect Four
-
-* https://github.com/andrewetobin/connect_four()
-* [Original Assignment]()
-
-The classic board game.
-
-Functionality: 3
-Mechanics: 3
-Design: 3
-Testing: 2
-Version Control: 3
-
-## C: Group Work & Projects
-
-### Projects
-
-(Intro)
-
-#### Knight Rider
-
-* https://github.com/andrewetobin/night_writer()
-
-
-Translate english to braille and vice versa
-
-
-Functionality: 4
-Mechanics: 3
-Design: 3
-Testing: 2
-Version Control: 3
-
-I appreciate more than anything the time and patience that Andrew displayed when explaining something that was new to me or when he was reviewing concepts that I still needed help with. He was an amazing partner to work with and kept us at a pace that was above our deadline, giving us even more free time to work on what we needed. Like I told Andrew in person, he treated me like a golf course and left me in better shape then the way he found me. What I appreciated the most was the way how he explained github to me and walked me through making a github map in my notebook. I honestly couldn't have been happier with Andrew as a partner, I have learned so much from this first paired project. My coaching feedback is that Andrew you are amazing, but if I had to come up with any constructive feedback it would be to set focus for creating runner methods right from the beginning rather than spending more time that is needed at the end cleaning everything up.
-
-
-#### Black Thursday
-
-* https://github.com/andrewetobin/black_thursday
-
-
-create a database with sales analytics
-
-
-Functionality: 3
-Mechanics: 3
-Design: 3
-Testing: 3
-Version Control: 3
-
-## D: Community Participation
-
-### Playing a Part
-
+How did you contribute to the Turing community this module?
 Made a point to reach out to students who felt overwhelmed and share my experience to encourage and help. Hosted a potluck at my house for our cohort. Participate, get to know everyone, help, smile, listen, etc.
 
-------------------
+What would you like to do to contribute next module?
+Learn material and help others.
 
-## Final Review
+## Self-Assessment Scores
 
-### Notes
+Fill in how you would grade yourself from 1-4 in the following categories this module.
 
-( Leave blanks for reviewers )
-
-### Outcome
-
-( Leave blanks for reviewers )
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   4   |
+| **Group Projects**           |   4   |
+| **Professional Development** |   4   |
+| **Community**                |   4   |
+| **Pentathlon**               |   4   |
