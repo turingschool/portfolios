@@ -147,6 +147,7 @@ n/a
 
 We were challenged to recreat this comp, but given artistic license with images and color pallet.
 
+Feedback:
 Horrible contrast between the main icons and their background colors.  Great responsive, but missed the last section on the mobile version.  When the phone switches to the mobile version, the photo that is rendered at the bottom would be better styled at the top of the layout.  Background shadows on the words looks cloudy and messy.  Not Accessible.
 
 n/a
@@ -159,6 +160,7 @@ n/a
 
 We were challenged to recreat this comp, but given artistic license with images and color pallet.
 
+Feedback:
 Horrible colors.  Give it a max width for larger screen sizes.  Center cards, while keeping them left justified. Poor Accessibility.
 
 n/a
@@ -170,6 +172,7 @@ n/a
 
 We were challenged to recreat this comp, but given artistic license with images and color pallet.
 
+Feedback:
 Make the Tablet into Header/Paragraph groups, and then take the flex off.  Fix the OPEN button group in the mobile option. Better Accessibility, but should use aria-labelledby or aria-describedby to employ longer alt and aria-label attributes.
 ?
 
@@ -181,8 +184,7 @@ Make the Tablet into Header/Paragraph groups, and then take the flex off.  Fix t
 
 Create a webpage that allows a user to guess a number between 1 and 100.  Allow the user to enter their own min and max numbers. 
 
-Evaluation Scores & Comments:
-(https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-1/number-guesser/lee-grahan.md)
+[Evaluation Scores & Comments](https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-1/number-guesser/lee-grahan.md)
 
 
 #### Foto Finder
@@ -210,8 +212,7 @@ Create a working relationship and plan of attack with another person in an effor
 
 Create a webpage that allows a user to enter a title and a url that will be added to a card which is appended to the side of the same page, allowing the user to create a visual page of scrollable bookmarks that can be cued visually once read, or deleted. Storage was not used in this project.
 
-Evaluation Comments and Scores:
-(https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-1/linked-list/lee-brianw.md)
+[Evaluation Comments and Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-1/linked-list/lee-brianw.md)
 
 Feedback from my partner, Brian Weikel :
   "I enjoyed working with my pairing person on the Linked List project.  My partner was more advanced with his knowledge of JavaScript than me, so I was able to learn from him.  He was able to explain concepts to me that we utilized so that it could better understand their purpose. When we encountered differences in working styles, we were able to work through them and press forward with the project.  We used the driver/navigator approach for much of the project and found it worked well for us.   It would have been more beneficial for me to have my partner navigate and me drive during times when I was uncertain of the correct coding approach so that I could absorb the information during keystrokes."
@@ -224,8 +225,7 @@ Feedback from my partner, Brian Weikel :
 
 Create a webpage that allows a user to enter a title and an idea that will be added to a card which is appended to the bottom of the same page, allowing the user to create a visual page of scrollable ideas that can be cued visually once the quality level was changed, or the idea was deleted. There is also the opportunity to edit the title and idea texts. This information would be sent to local storage in real time and persist on the page upon reload.
 
-Evaluation Comments and Scores:
-(https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-1/idea-box/lee-brian.md)
+[Evaluation Comments and Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-1/idea-box/lee-brian.md)
 
 Feedback from my partner, Brian Tiedt:
   "I really enjoyed working on this project with you. The lines of communication were always open. I appreciate all the hard work you put in to our most recent project. Your jQuery knowledge was paramount to making this project constantly move forward and progress to the finish line. You have a good concept of what we are learning and I think you are making great strides toward your goal of completing Turing and on to a career in development. Continue to listen and have patience with your fellow humans and I have no doubt success will follow.
@@ -240,8 +240,7 @@ Feedback from my partner, Brian Tiedt:
 
 Adopt the pre-existing code of an IdeaBox project, a webpage that allows a user to enter a title and an idea that will be added to a card which is appended to the bottom of the same page, allowing the user to create a visual page of scrollable ideas that can be cued visually once the quality level was changed, or the idea was deleted. There is also the opportunity to edit the title and idea texts. Convert the project into one that logs the title and errand that one has 2do.  Quality is changed to level of importance, among other changes to the original comp. This information would be sent to local storage in real time and persist on the page upon reload.
 
-Evaluation Comments and Scores:
-(https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-1/2dobox/lee-marika.md)
+[Evaluation Comments and Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-1/2dobox/lee-marika.md)
 
 Feedback from my partner, Marika Ross:
   "I LOVED working with you!  Your calm, but focused, energy was very helpful to me throughout the project as I navigated my own personal existential crisis.  You are great at  explaining your thought process as you create new code and that is so helpful to me as a beginner.  I think our only difficulty stemmed from me being an early bird and you being a night owl so we wanted to work at different times, but I think we both worked to accommodate one another's needs. Thank you for helping me with keyboard shortcuts and reminding me of them when I tried to use a slower method.  And thank you for inviting me to the Lady Coders event.  And thank you for being such a wonderful, compassionate human."
