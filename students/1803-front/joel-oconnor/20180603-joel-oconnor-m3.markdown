@@ -50,7 +50,7 @@
 
 -----------------------
 ## D: Professional Skills
-  * [Turing Profile](https://www.turing.io/alumni)
+  * [My Turing Profile](https://www.turing.io/alumni/joel-oconnor)
 ### Gear Up
   * [Microaggressions](https://github.com/turingschool/gear-up/blob/master/Mod3_Week1_Microaggressions_update.md)
   I think that this session was very helpful and brought up the importance of being aware of your impact on those around you. Microaggressions are something that truly can have a negative impact on a person and sometimes you might not even know you are doing it.
