@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Justin Highland - M2 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+ I set out to accomplish doing the best job I could, learn about React, JavaScript on a deeper level and think more critically which I'm still working on. 
 
 ## Rubric Scores
 
@@ -16,17 +16,16 @@
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+Borderline pass/fail. 
 
 
 ## B: Individual Work & Projects
 
 (Intro)
 
-#### (Project Name)
+#### Complete-Me
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/JHighland/complete-me)
 
 (description)
 
@@ -40,12 +39,12 @@
 
 (Intro)
 
-#### (Project Name)
+#### Weatherly, Game Time
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/JHighland/weatherly, https://github.com/JHighland/game-time)
 * [Original Assignment]()
 
-(description)
+A weather app built using React.js, a game built using OOP JavaScript. 
 
 (evaluation comments)
 
@@ -57,7 +56,7 @@
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+Attended Turing demo nights, cleaning, attended meetups and advocating Turing.
 
 ------------------
 
