@@ -28,6 +28,7 @@ Completed three group projects.  The first in Sintra and the other two in Ruby o
 ### Little Shop
 
 Built in Sinatra. 
+
 Partners: Mike and Miriam 
 
 * GitHub - https://github.com/mikecm1141/little-shop-redux
@@ -38,6 +39,7 @@ Partners: Mike and Miriam
 ### Job Tracker
 
 Built in Ruby on Rails.
+
 Partner: Autumn 
 
 * GitHub - https://github.com/NickLindeberg/job-tracker
@@ -46,7 +48,9 @@ Partner: Autumn
 
 ### Bike Share
 
-Built in Ruby on Rails. Deployed to Heroku.    
+Built in Ruby on Rails. Deployed to Heroku.  
+
+Partners: Becca, Jesse and Pat
 
 * GitHub - https://github.com/BeccaHyland/bike_share
 * Heroku - https://desolate-shore-75261.herokuapp.com/
