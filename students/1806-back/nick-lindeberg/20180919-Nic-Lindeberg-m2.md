@@ -62,9 +62,10 @@ https://medium.com/@lindebergnick/turn-ruby-into-a-battle-machine-b80cf1ef8dae
 
 ## Community Participation
 
-### Playing a Part
-
 #podcast posse producer/editor
+
+https://itunes.apple.com/us/podcast/turing-school-podcast/id1121073494?mt=2
+
 
 # Final Review
 
