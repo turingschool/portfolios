@@ -38,7 +38,7 @@ This project was not evaluated; however, I did display it at the Turing Code Fai
 
 #### ActiveRecord Obstacle Course
 
-* [GitHub URL] https://github.com/KathleenYruegas/activerecord-obstacle-course
+* [GitHub URL](https://github.com/KathleenYruegas/activerecord-obstacle-course)
 
 This obstacle course was a long set of exercises used to practice activerecord over the course of the 6 week mod. Solutions were given in Ruby or SQL and then I had to turn the query into activerecord.
 
