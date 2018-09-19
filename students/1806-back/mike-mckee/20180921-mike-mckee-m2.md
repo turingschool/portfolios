@@ -59,8 +59,6 @@ working with a different CSS framework (I used Materialize).
 
 ### Projects
 
-(Intro)
-
 #### Little Shop
 
 * [GitHub URL](https://github.com/mikecm1141/little-shop-redux)
