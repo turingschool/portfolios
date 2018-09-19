@@ -20,6 +20,8 @@ My blog post is about the 4 principles of object oriented programming. It includ
 ## ActiveRecord Obstacle Course
 Link:
 https://github.com/Autumn-Martin/activerecord-obstacle-course.git
+PR Link:
+https://github.com/turingschool-projects/activerecord-obstacle-course/pull/7
 
 Was this helpful for practicing ActiveRecord?
 Definitely, but I think I would've gotten more out of it faster if we went over each one as a class, then practiced them individually.
