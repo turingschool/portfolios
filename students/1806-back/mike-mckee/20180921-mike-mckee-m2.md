@@ -32,6 +32,7 @@ more readable.
 
 Link: 
 https://github.com/turingschool-projects/activerecord-obstacle-course/pull/5
+
 Was this helpful for practicing ActiveRecord?
 
 It was extremely helpful. I found it a nice thing to work on a little bit week
