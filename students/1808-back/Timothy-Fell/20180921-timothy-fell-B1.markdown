@@ -1,4 +1,4 @@
-# First Last - M1 Portfolio
+# Timothy Fell - M1 Portfolio
 
 ## Areas of Emphasis
 
