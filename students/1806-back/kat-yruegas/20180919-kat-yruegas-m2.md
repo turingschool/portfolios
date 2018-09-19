@@ -6,11 +6,11 @@ In this module, my goal was to learn as much as possible, but also to learn deep
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 4
 
 -----------------------
 
@@ -124,16 +124,36 @@ Meets Expectations: Good use of branches, pull requests, and a project-managemen
 
 #### Bike Share
 
-* [GitHub URL](https://github.com/KathleenYruegas/bike_share)
+* [GitHub URL](https://github.com/mmbensalah/bike_share)
 * [Original Assignment](http://backend.turing.io/module2/projects/bike-share-redux)
 
 This project was a start-from-scratch Rails project, completed with two other people. The app had two main sides to it. The first was the Bike Share part, that gave information about all the bike trips, stations, and weather conditions as well as analytic data for each. The second part was a Bike Shop which set up a small ecommerce shop with bike accessories, a cart, and checkout functions. This project included authentication and authorization, namespacing, intermediate activerecord queries, sessions, forms, flashes, and front-end styling. 
 
 My group utilized waffle.io to keep track of all user stories and features required. We worked together on building the activerecord queries and building the analytic/dashboard pages. We communicated in person and via Slack. Every PR had a code review by at least one other person on the team to ensure good functionality of code and that all members on the team were aware of the code being pushed. 
 
-(evaluation comments)
+###### Evaluation Comments
+Overall, evaluation went well. We didn't make database calls from our controllers and we utilized sessions and POROs. We could polish up our styling and user experience a bit. Our test coverage was at 98.88% which is pretty good. One user story was misread so the functionality was built out a little differently than expected, but overall, all features are there and intact.
 
-(evaluation scores)
+###### Evaluation Scores
+
+1. Feature Completeness
+Below Expectations: There are one or two features missing or incorrectly implemented and/or project is not fully deployed
+1. Views
+Meets Expectations: Views make use of layout(s), partials and helpers
+1. Controllers
+Exceeds Expectations: Controllers show significant effort towards refactoring and pushing logic down the stack
+1. Models
+Exceeds Expectations: Models show excellent organization, refactoring, and appropriate use of Rails features
+1. ActiveRecord
+Meets Expectations: ActiveRecord is utilized wherever it can be. There is no Ruby where there should be ActiveRecord
+1. Testing
+Exceeds Expectations: Project has a running test suite that exercises the application at multiple levels and utilizes mocking & stubbing
+1. Usability
+Meets Expectations: Project is highly usable, but needs more polish before it'd be customer-ready
+1. Workflow
+Meets Expectations: Good use of branches, pull requests, peer and instructor code review, rebasing, and a project-management tool.
+1. Documentation
+Meets Expectations: A custom README is present and gives users an guide to the what and how your application
 
 ## D: Community Participation
 
