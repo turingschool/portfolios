@@ -70,7 +70,4 @@ https://medium.com/@lindebergnick/turn-ruby-into-a-battle-machine-b80cf1ef8dae
 
 ## Notes
 
-( Leave blanks for reviewers )
-Outcome
 
-( Leave blanks for reviewers )
