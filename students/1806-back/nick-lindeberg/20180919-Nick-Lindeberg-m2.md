@@ -4,19 +4,37 @@
 
 -Ruby on Rails, Sinatra, Rspec, ActiveRecord, SQL
 
+What did you set out to accomplish this module? Were you successful? At the beginning of the module, I was struggling with HTML and CSS.  Luckily through my projects I was able to successfully style using HTML, CSS and Bootstrap.  I feel proud of the way our final project looked.  
+
+What did you struggle most with this module? What did you learn from that struggle?  I struggled with errors when switching to rails.  I understand how to correct most errors but it will take more time to learn more of the process
+
 ### Rubric Scores
 
-* A: End-of-Module Assessment: ?
-* B: Individual Work & Projects: 2
-* C: Group Work & Projects: 2
-* D: Professional Skills: 2
-* E: Community Participation: 3
+Fill in how you would grade yourself from 1-4 in the following categories this module.
 
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   1   |
+| **Group Projects**           |   2   |
+| **Professional Development** |   3   |
+| **Community**                |   3   |
+| **Final Written**            |   1   |
+| **Final Timed**              |   2   |
+
+
+# Projects 
+
+What were your favorite projects this module? Least favorite? Why?  My favorite project to work on was Bike Share.  I feel like I really started to understand Rails in this project along with HTML and CSS.  
 
 ## Individual Work & Projects
 
+What did you learn from your independent projects?  I learned that I enjoy projects with more structure.  My HTML skills were lacking at the beginning of this project.  It definitely helped me learn the basics.  
+
 #### Active Record Obstacle Course
 https://github.com/NickLindeberg/activerecord-obstacle-course
+
+Was this helpful for practicing ActiveRecord?  Yes, I definitely learned a lot about ActiveRecord.  I can sometimes confuse SQL with ActiveRecord, so I will continue practicing.  
+
 #### Rails Mini Project
 https://github.com/NickLindeberg/gif_generator
 
@@ -25,6 +43,8 @@ Design, Heroku Implamentation, Rspec Testing and a better understanding of HTML/
 
 
 ## Group Work & Projects
+
+What did you learn from your paired projects?  I learned how to used managements tools such as GitHub and Waffle.io to keep productivity up.  I learned more git skills and continue to learn more skills as I work on more projects.  
 
 Completed three group projects.  The first in Sintra and the other two in Ruby on Rails
 
@@ -64,6 +84,8 @@ Partners: Becca, Jesse and Pat
 
 ## Blog Post
 https://medium.com/@lindebergnick/turn-ruby-into-a-battle-machine-b80cf1ef8dae
+
+This blog discusses my process in creating an RPG using ruby.  I talk about how I created a battle system within Ruby that people can use in their projects.  I also talk about how I'm going to refactor my code in the future.  
 
 ## Community Participation
 
