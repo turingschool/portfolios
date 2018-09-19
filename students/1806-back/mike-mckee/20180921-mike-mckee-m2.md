@@ -29,8 +29,9 @@ of white space, indentation, and some of the tools Ruby gives us to make code
 more readable. 
 
 ## ActiveRecord Obstacle Course
-Link: https://github.com/mikecm1141/activerecord-obstacle-course
 
+Link: 
+https://github.com/turingschool-projects/activerecord-obstacle-course/pull/5
 Was this helpful for practicing ActiveRecord?
 
 It was extremely helpful. I found it a nice thing to work on a little bit week
