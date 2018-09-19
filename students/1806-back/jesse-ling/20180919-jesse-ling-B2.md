@@ -13,19 +13,9 @@ I struggled a lot this mod. In fact, I haven't struggled that much in a very lon
 ![sen-al-franken](https://media1.giphy.com/media/3o7TKnKXMdf5qNtVLi/giphy.gif)
 
 
-## Rubric Scores
-
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
-
------------------------
-
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+(Passed)
 
 
 ## B: Individual Work & Projects
