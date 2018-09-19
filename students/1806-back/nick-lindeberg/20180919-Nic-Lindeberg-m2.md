@@ -51,7 +51,9 @@ Partner: Autumn
 
 ### Bike Share
 
-Built in Ruby on Rails. Deployed to Heroku.  
+Built in Ruby on Rails.
+
+Deployed to Heroku.  
 
 Partners: Becca, Jesse and Pat
 
