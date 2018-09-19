@@ -23,6 +23,10 @@ I wanted to learn how to apply the content presented in Mod 1 and use that to bu
 
 ## B: Individual Work & Projects
 
+### Blog
+
+* [Medium URL](https://medium.com/@jesse.ryan.ling/why-test-driven-development-9f4094e30665)
+
 ### Project
 
 #### Idea Box
