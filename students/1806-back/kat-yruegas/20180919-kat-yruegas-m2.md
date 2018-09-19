@@ -11,7 +11,7 @@ What did you struggle most with this module? What did you learn from that strugg
 I struggled mostly with the work load. There were a lot of projects/homework/classwork going on at the same time and ensuring I was dividing my time equally was a challenge. I also felt like I struggled on ActiveRecord and SQL. Perhaps doing more study sessions as a group would have been helpful with this. What order to put AR queries in, when to group and what to group on, how to get specific data out, all of this I definitely struggled with.
 
 
-## Rubric Scores (1-4)
+## A: Rubric Scores (1-4)
 
 | Category                     | Score |
 | -----------------------------| ----- |
@@ -23,10 +23,6 @@ I struggled mostly with the work load. There were a lot of projects/homework/cla
 | **Final Timed**              |   4   |
 
 -----------------------
-
-## A: End of Module Assessment
-
-I passed my end of module assessment. 
 
 
 ## B: Individual Work & Projects
