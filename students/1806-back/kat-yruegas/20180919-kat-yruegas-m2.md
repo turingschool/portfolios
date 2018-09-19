@@ -74,16 +74,42 @@ Meets Expectations: Project is usable, but needs more polish or navigation befor
 1. Workflow
 Meets Expectations: Good use of branches, pull requests, and a project-management tool.
 
-#### (Project Name)
+#### (Job Tracker)
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/KathleenYruegas/job-tracker)
+* [Original Assignment](https://github.com/turingschool-projects/job-tracker)
 
-(description)
+This was our first Rails project. I worked with one other person on this and had to utilize strong communication skills in person and via Slack. We utilized Waffle.io for project management and started with organizing all our user stories so we both had a clear idea of what needed to be done. 
 
-(evaluation comments)
+This project was to set up a simple Job Tracker as if I was serching for a job, keeping jobs connected to their respective companies, keeping notes on any contacts made within that job, and doing an analytics page that calculated how many jobs I had at a given company or in a certain location or by the level of interest. We utilized multiple controllers in this app, along with increasing the complexity of the activerecord relations between all of the items. There were multiple one to many and many to many relationships in this project. We also utilized more intermediate activerecord queries in order to calculate the analytics for the dashboard page. We used query params to help filter jobs and display content specific to that query.
 
-(evaluation scores)
+(Evaluation Comments)
+Our evaluation for this project was very positive. All features were complete and functional. Some items to work on included using pure activerecord to query data instead of mixing in Ruby code as well.
+
+(Evaluation Scores)
+1. Feature Completeness
+Exceeds Expectations: All features are correctly implemented along with two extensions Meets Expectations: All features defined in the assignment are correctly implemented Below Expectations: There are one or two features missing or incorrectly implemented
+
+1. Views
+Exceeds Expectations: Views show logical refactoring into layout(s), partials and helpers, with no logic present Meets Expectations: Views make use of layout(s) Below Expectations: Views show weak understanding of erb and 'HTML'. Logic is pervasive in views
+
+1. Controller
+Exceeds Expectations: Controller show significant effort to push logic down the stack, utilizing SRP & DRY Meets Expectations: Controller is generally well organized with three or fewer methods needing refactoring Below Expectations: There are four or more controller methods that should have been refactored
+
+1. Models
+Exceeds Expectations: Models show excellent organization, refactoring, and appropriate use of ActiveRecord features Meets Expectations: Models show an effort to push logic down the stack, but need more internal refactoring Below Expectations: Models are somewhat messy
+
+1. ActiveRecord
+Exceeds Expectations: Best choice ActiveRecord methods are used to solve each problem Meets Expectations: ActiveRecord is utilized wherever it can be. There is no Ruby where there should be ActiveRecord Below Expectations: Ruby is used to programmatically solve problems where ActiveRecord could be used
+
+1. Testing
+Exceeds Expectations: Project has a running test suite that covers all functionality, exercises the application at multiple levels, and covers edge cases Meets Expectations: Project has a running test suite that tests all functionality, at multiple levels Below Expectations: Project has sporadic use of tests
+
+1. Usability
+Exceeds Expectations: Project is highly usable and ready to deploy to customers Meets Expectations: Project is usable, but needs more polish or navigation before it'd be customer-ready Below Expectations: Project needs more attention to the User Experience, but works
+
+1. Workflow
+Exceeds Expectations: Excellent use of branches, pull requests, code review and a project management tool. Meets Expectations: Good use of branches, pull requests, and a project-management tool. Below Expectations: Sporadic use of branches, pull requests, and/or project-management tool.
 
 #### (Project Name)
 
