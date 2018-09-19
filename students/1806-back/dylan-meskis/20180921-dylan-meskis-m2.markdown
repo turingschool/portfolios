@@ -52,6 +52,12 @@ As part of our professional development we were tasked with writing a technical
 blog post. This is my first ever blog post, so I wrote a simple tutorial to help
 new developers set up their first rails project.
 
+#### (ActiveRecord Obstacle Course)
+* [GitHub Url](https://github.com/dmeskis/activerecord-obstacle-course)
+
+Promotion to mod 3 requires completion of a ActiveRecord obstacle course, which
+features many queries in Ruby that needed to be translated into ActiveRecord.
+
 ## C: Group Work & Projects
 
 ### Projects
@@ -128,9 +134,7 @@ define our goals for the day, and then get to work. We tended to work more
 independently in the past, but we were available to each other if either of us
 had any questions.
 
-(evaluation comments)
-
-(evaluation scores)
+Evaluation link: https://github.com/turingschool/ruby-submissions/blob/master/1806-b/2module/job_tracker/dylan_kat.md
 
 #### (Bike Share)
 
@@ -145,9 +149,60 @@ and preloaded as much work as possible accordingly. This project tested everythi
 we learned this module, Rails routing, namespacing, authentication, authorization,
 intermediate ActiveRecord queries, sessions, cookies, etc.
 
-(evaluation comments)
+# Bike Share Evaluation
+---
+Evaluator: Dione
 
-(evaluation scores)
+Repo URL: https://github.com/mmbensalah/bike_share
+
+Heroku URL: https://boiling-eyrie-75770.herokuapp.com/
+
+Notes:
+
+- 98.88%
+- waffle with over 200 cards
+- Used PR template
+- 40% together 60% apart (used waffle cards)
+
+---
+## Evaluation Process
+
+### 1. Feature Completeness
+
+* Below Expectations: There are one or two features missing or incorrectly implemented and/or project is not fully deployed
+
+### 2. Views
+
+* Meets Expectations: Views make use of layout(s), partials and helpers
+
+### 3. Controllers
+
+* Exceeds Expectations: Controllers show significant effort towards refactoring and pushing logic down the stack
+
+### 4. Models
+
+* Exceeds Expectations: Models show excellent organization, refactoring, and appropriate use of Rails features
+
+### 5. ActiveRecord
+
+* Meets Expectations: ActiveRecord is utilized wherever it can be. There is no Ruby where there should be ActiveRecord
+
+### 6. Testing
+
+* Exceeds Expectations: Project has a running test suite that exercises the application at multiple levels and utilizes mocking & stubbing
+
+### 7. Usability
+
+* Meets Expectations: Project is highly usable, but needs more polish before it'd be customer-ready
+
+### 8. Workflow
+
+* Meets Expectations: Good use of branches, pull requests, peer and instructor code review, rebasing, and a project-management tool.
+
+### 9. Documentation
+
+* Meets Expectations: A custom README is present and gives users an guide to the what and how your application
+
 
 ## D: Community Participation
 
@@ -155,7 +210,7 @@ intermediate ActiveRecord queries, sessions, cookies, etc.
 
 The Turing community was great this module. While I was definitely absorbed in
 my own learning, I still made it a point to show up to code fairs and other
-extracurriculars whenever possible. It's always a fun time chilling out and
+extracurriculars whenever possible. It's always a fun time relaxing and
 exploring other students creations. I supported the community this module by
 trying to help out the mod 1 back end students as much as possible. I gave a
 lightning talk on tips that I thought would help them with their final project,
