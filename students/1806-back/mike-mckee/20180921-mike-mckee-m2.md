@@ -51,6 +51,10 @@ the better a show would be to binge. It was made with a mobile first mindset, so
 comfortably rate their favorite shows (or not so favorite!) from the comfort of their own couch or
 favorite chair.
 
+I learned a lot about working on a small-ish size project, coming up with an algorithm for
+the BingeScore calculation, working with a basic API call to get data about TV shows, and
+working with a different CSS framework (I used Materialize).
+
 ## C: Group Work & Projects
 
 ### Projects
@@ -69,7 +73,8 @@ items, see lists of merchants, and check out invoices and their line items. Ther
 also some light data manipulation and analysis through dashboards.
 
 Our main feedback for this project was using Ruby where ActiveRecord would have been
-the better solution.
+the better solution. Looking back now I could easily do many of the things we struggled
+with back then with a great solution today.
 
 #### Job Tracker
 
@@ -82,7 +87,7 @@ jobs that a user may have some interest in, jobs that have been applied to, and 
 that have been offered.
 
 Our main feedback during this evaluation was that some controller logic could have
-been better, some testing issues (only around 99% coverage) and a few Git issues.
+been better, some testing issues and a few Git issues.
 
 #### Bike Share
 
