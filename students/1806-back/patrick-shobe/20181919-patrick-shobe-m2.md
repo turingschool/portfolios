@@ -7,6 +7,10 @@ I had tried to build a web app in the past and found it to be very frustrating
 due to now understanding the underlying pieces. After this mod I can look
 back and understand exactly why I was having the issues I was having.
 
+### What did you struggle most with this module? What did you learn from that struggle?
+
+I struggled with active record, already knowing SQL made it feel convoleted.
+
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 4
@@ -81,7 +85,24 @@ and competed in the Turing Code Fair.
 
 ## E: End of Term Work
 [Active Record Obstacle Course](https://github.com/patrickshobe/activerecord-obstacle-course)
+I feel like this was very useful.
 [Blog Post](https://medium.com/@patrick_4766/how-to-rice-macos-38c8e659e8d4)
+
+## Projects
+
+What were your favorite projects this module? Least favorite? Why?
+Rails mini was my favorite, I got to work along and build whatever I wanted.
+
+What did you learn from your independent projects?
+I learned that building out a game is way more complex than I had originally thought.
+A lot of effort has to go into the game logic.
+
+What did you learn from your paired projects?
+
+That I need to be better at taking my team mates perspectives into account and
+that while I may understand something and be ready to move on they may not.
+
+
 ## Final Review
 
 ### Notes
