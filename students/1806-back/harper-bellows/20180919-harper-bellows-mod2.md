@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# (Harper Bellows) - (M2) Portfolio
 
 ## Areas of Emphasis
 
@@ -7,11 +7,11 @@ To learn as much as I could!
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: x
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 4
 
 -----------------------
 
@@ -72,7 +72,7 @@ I passed.
 
 (evaluation comments)
 
-(evaluation scores)
+(https://github.com/turingschool/ruby-submissions/blob/master/1806-b/2module/little_shop/harper_jesse_kat.md)
 
 #### (Job Tracker)
 
@@ -83,7 +83,7 @@ I passed.
 
 (evaluation comments)
 
-(evaluation scores)
+(https://github.com/turingschool/ruby-submissions/blob/master/1806-b/2module/job_tracker/kelly_harper.md)
 
 #### (Bike Share)
 
@@ -94,7 +94,7 @@ I passed.
 
 (evaluation comments)
 
-(evaluation scores)
+(https://github.com/turingschool/ruby-submissions/blob/master/1806-b/2module/bike_share/andrew_mike_abdulla_harper.md)
 
 ## D: Community Participation
 
