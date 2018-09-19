@@ -1,93 +1,44 @@
-# (Andrew Tobin) - (M2) Portfolio
-
-###Blog post
-https://medium.com/@andrewetobin/from-test-to-webpage-in-rails-dcf2439585ad
-###ActiveRecord Obstacle Course
-https://github.com/andrewetobin/activerecord-obstacle-course
+# M2 Portfolio
 
 ## Areas of Emphasis
 
-Ruby on Rails, RSpec, ActiveRecord
+What did you set out to accomplish this module? Were you successful?
 
-## Rubric Scores
+Ruby on Rails, RSpec, ActiveRecord, Yes.
 
-* **A: End-of-Module Assessment**: Meets Expectations
-* **B: Individual Work & Projects**: Meets Expectations
-* **C: Group Work & Projects**: Meets Expectations
-* **D: Professional Skills**: Meets Expectations
-* **E: Community Participation**: Exceeds Expectations
+What did you struggle most with this module? What did you learn from that struggle?
+Volume of work. 10-12 hours each day. Juggling different concepts in the air. Putting the puzzle pieces together.
 
------------------------
+## Blog
 
-## A: End of Module Assessment
+Link: https://medium.com/@andrewetobin/from-test-to-webpage-in-rails-dcf2439585ad
 
-Passed
+Summary (1-3 sentences): Sharing my joy for testing and how it creates a road map for developing a page. Start from nothing and render data to a page.
 
+## ActiveRecord Obstacle Course
+Link: https://github.com/andrewetobin/activerecord-obstacle-course
 
-## B: Individual Work & Projects
+Was this helpful for practicing ActiveRecord?
 
-#### (Rails Mini Project)
-
-* [Github link](https://github.com/andrewetobin/idea-box)
-* [Original Assignment](http://backend.turing.io/module2/projects/mini-project)
-
-(This project uses Ruby, rails, and ActiveRecord to build a site that stores ideas for an individual. Includes CRUD functionality.)
-
-This project was a solo project. I learned to work through challenges independently as well as reach out for ideas on occasion. Main challenge was implementing admin authorization on first exposure. Utulized several resources, but was able to get functioning by deadline. I enjoyed the styling aspects of the project. I also really enjoyed the concept of the project. I often have ideas, or thoughts on how to plan or improve an idea. On several occasions I wished I had an app where I could add notes to an idea. Add things to look into, problems to look out for, resources available, etc.
-
-## C: Group Work & Projects
-
-### Projects
-
-(Intro)
-
-#### (Little Shop)
-
-* [Github link](https://github.com/Autumn-Martin/little-shop-redux)
-* [Original Assignment](https://github.com/turingschool-projects/little-shop-redux)
-
-Use Ruby, Sinatra, and ActiveRecord to build a site that shows items by categories and analyzes those items..
-
-evaluation comments: one spot with ruby code in models that could be drastically improved.
-
-Meets Expectations in all categories
+Yes, it was extremely helpful. Learned many on my own and met with my mentor over course of mod to help with questions I had.
 
 
-#### (Job Tracker)
+## Projects
 
-* [Github link](https://github.com/andrewetobin/job-tracker)
-* [Original Assignment](https://github.com/turingschool-projects/job-tracker)
+What were your favorite projects this module? Least favorite? Why?
+  I really enjoyed Bike Share. I felt like it helped to bring all of the puzzle pieces together. Its size demands that everyone learn parts of the entire project. Tons of CRUD, testing, and routes. Brought everything we learned together in a large project. I actually ride a Denver Bcyle(a similar Bikeshare program here in Denver) to school everyday. I have often wondered who rides the bikes, how often they get used, the hottest locations, events, etc. The dashboard analytics were fun to look over. I used to live in the bay area, and I kept thinking about what Denver's stats would like. Fun project to see first hand how great data is produced.
+  LittleShop was my least favorite. I think it was due to getting the project done while being exposed to a bunch of brand new material for the first time.  Learning Sinatra, styling, routes, a new testing program. Despite being the project I liked the best. It was helpful in learning how to produce a website and begin to understand all the different parts needed.
 
-Add additional functionality for a personal job tracking app. Project is designed to track job opportunities an individual may find interesting.
+What did you learn from your independent projects?
+  I learned to work through challenges independently as well as reach out for ideas on occasion. Main challenge was implementing admin authorization on first exposure. Utulized several resources, but was able to get functioning by deadline. I enjoyed the styling aspects of the project. I also really enjoyed the concept of the project. I often have ideas, or thoughts on how to plan or improve an idea. On several occasions I wished I had an app where I could add notes to an idea. Add things to look into, problems to look out for, resources available, etc.
+What did you learn from your paired projects?
+  Workflow, more familiar with github. Very much enjoyed working with all of my project partners. Especially enjoyed Waffle. those really help to keep everyone dialed in with where the project is at. What has been completed? Who is working on what right now? What needs to be done next? Waffle is an excellent workflow management tool.
 
-evaluation comments:
-Challenges - ActiveRecord and Styling. Routes and what params are available depending on where you are at.
-On Jobs controller, maybe a few too many instance variables @headers.
-Make sure you have model tests for all methods.
-UI - the dashboard is pretty hard to read.
-Missing links for jobs index sorted by location/interest
-Meets Expectations in all categories
 
-#### (Bike Share)
+## Community
 
-* [Github link](https://github.com/mikecm1141/bike-share)
-* [Original Assignment](http://backend.turing.io/module2/projects/bike-share-redux)
+How did you contribute to the Turing community this module?
 
-This application uses Ruby on Rails and ActiveRecord to analyze data from a Bay Area bike share program. Data explored includes general stats along with usage stats. The usage stats will be particularly helpful in creating relationships with local business for mutual benefit. As well as showing financial impact for immediate communities near a proposed new bike docking station. Data also includes weather information for all days.
-
-Also included is a bike shop where visitors are able to peruse bike accessories. Visitors are able to create an account in order to login and checkout their cart.
-
-(99.25% Test Coverage,
-Over 100 waffle cards,
-Everyone really enjoyed working together (great team work),
-Used PR template)
-
-(Meets Expectations: Features completeness, ActiveRecord, Usability, Workflow, Documentation)
-(Exceeds Expectations: Views, Controllers, Models, Testing)
-
-## D: Community Participation
-
-### Playing a Part
 
 Checked into mod 1 classroom several times through the inning to check on the repeaters, meet new students, and answer questions.
 
@@ -99,14 +50,28 @@ Hosted an evening backyard campfire smores social. Had several students from BE 
 
 Helped organize an ActiveRecord work session for the mod.
 
-------------------
 
-## Final Review
+What would you like to do to contribute next module?
 
-### Notes
+Continue to support our community as best I can. The community here is vital to student success. The stress levels are extremely high and we need to support each other to keep an environment conducive to learning.
 
-( Leave blanks for reviewers )
+### Member of a Posse
 
-### Outcome
+What did you do with your posse over this module?
 
-( Leave blanks for reviewers )
+What is your favorite thing about the posse experience?
+
+How has your posse expereince helped you grow as a professional?
+
+## Self-Assessment Scores
+
+Fill in how you would grade yourself from 1-4 in the following categories this module.
+
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   2    |
+| **Group Projects**           |   3    |
+| **Professional Development** |   3    |
+| **Community**                |   4    |
+| **Final Written**            |   4    |
+| **Final Timed**              |   2    |
