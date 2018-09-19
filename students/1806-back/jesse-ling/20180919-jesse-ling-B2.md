@@ -40,6 +40,8 @@ Idea box was a challenge for me. I was a bit foggy on some of the topics initial
 
 #### (Little Shop)
 
+Little Shop is a sales analytics application built in Sinatra, Ruby, and ActiveRecord. The application utilized database models, RESTful routing, and a rich set of analytic algorithms to provide aggregate data to the user. 
+
 * [GitHub URL](https://github.com/JLing88/little-shop-redux)
 * [Original Assignment](https://github.com/turingschool-projects/little-shop-redux)
 
@@ -48,6 +50,8 @@ Idea box was a challenge for me. I was a bit foggy on some of the topics initial
 
 #### (Job Tracker)
 
+Job Tracker is an application which allows users to track their job search. It was built using Ruby on Rails and ActiveRecord. Users are able to enter jobs, companies, contacts within the companies and categories. They can sort/filter the data as well as add comments about the jobs.
+
 * [GitHub URL](https://github.com/JLing88/job-tracker)
 * [Original Assignment](https://github.com/turingschool-projects/job-tracker)
 
@@ -55,6 +59,9 @@ Idea box was a challenge for me. I was a bit foggy on some of the topics initial
 
 #### (Bike Share)
 
+Bike Share is an multifaceted application. It allows users to visualize complex data analysis based on real bike sharing data. Additionally, it provides an online e-commerce platform where users can purchase bicycle accessories. The project is built in Ruby on Rails and ActiveRecord. 
+
+* [Heroku URL](https://desolate-shore-75261.herokuapp.com)
 * [GitHub URL](https://github.com/BeccaHyland/bike_share)
 * [Original Assignment](http://backend.turing.io/module2/projects/bike-share-redux)
 
