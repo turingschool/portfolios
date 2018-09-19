@@ -136,9 +136,9 @@ Overall, evaluation went well. We didn't make database calls from our controller
 
 ###### Evaluation Scores
 
-1. Feature Completeness
+1. Feature Completeness 
 Below Expectations: There are one or two features missing or incorrectly implemented and/or project is not fully deployed
-1. Views
+1. Views 
 Meets Expectations: Views make use of layout(s), partials and helpers
 1. Controllers
 Exceeds Expectations: Controllers show significant effort towards refactoring and pushing logic down the stack
@@ -148,7 +148,7 @@ Exceeds Expectations: Models show excellent organization, refactoring, and appro
 Meets Expectations: ActiveRecord is utilized wherever it can be. There is no Ruby where there should be ActiveRecord
 1. Testing
 Exceeds Expectations: Project has a running test suite that exercises the application at multiple levels and utilizes mocking & stubbing
-1. Usability
+1. Usability 
 Meets Expectations: Project is highly usable, but needs more polish before it'd be customer-ready
 1. Workflow
 Meets Expectations: Good use of branches, pull requests, peer and instructor code review, rebasing, and a project-management tool.
