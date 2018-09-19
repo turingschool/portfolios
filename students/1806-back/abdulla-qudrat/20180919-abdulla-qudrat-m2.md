@@ -62,6 +62,18 @@ It familiarized me with concepts like databases, ORM, MVC, and routes. Also help
 understanding workflow with other partners by using Waffle.io as a project
 management tool.
 
+Evaluation:
+
+Meets expectations for everything but AR implementation.
+
+needs improvement:
+
+  views called model class methods
+
+  most AR was good but had a few places where Ruby had to crunch some data
+
+  most AR was good but had a few places where Ruby had to crunch some data
+
 #### (Job Tracker)
 * [GitHub URL](https://github.com/andrewetobin/job-tracker)
 * [Original Assignment](https://github.com/turingschool-projects/job-tracker)
@@ -71,6 +83,20 @@ A personal job tracking app
 This project was the intro project to Rails. It familiarized me with building a
 web app in rails. We built nested routes to implement CRUD for resources that we're
 dependent on each other.
+
+Evaluation:
+
+Meets expectations for everything
+
+needs improvement:
+
+  controller, maybe a few too many instance variables
+
+  model tests for all methods
+
+  UI - the dashboard is pretty hard to read.
+
+  Missing links for jobs index sorted by location/interest
 
 #### (Bike Share)
 * [GitHub URL](https://github.com/mikecm1141/bike-share)
@@ -82,6 +108,15 @@ bike accessories via an online store.
 BikeShare is the project that implemented everything that we learned in mod 2.
 I aimed to practice on implementing a cart, namespacing for authorization, sand
 ActiveRecord queries.
+
+Evaluation:
+
+Exceeds or meets expectations for everything
+
+needs improvement:
+
+N/A
+
 
 ## D: Community Participation
 I didn't participate in the community as I intended to, but I did appreciate the
