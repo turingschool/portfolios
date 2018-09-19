@@ -1,0 +1,79 @@
+# (Justin Stewart) - (M2) Portfolio
+
+## Areas of Emphasis
+
+I wanted to solidify my learning and understanding of javascript using ES6 and develop a foundational understanding of react
+and the difference between basic concepts such as state/stateless and props vs state.
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 4
+* **E: Community Participation**: 3.5
+
+-----------------------
+
+## A: End of Module Assessment
+
+PASS - with work still needed in array prototypes iterators over the break.
+
+
+## B: Individual Work & Projects
+
+Projects that I worked on with some collaboration with others, these projects showcase my understanding of the skills needed
+to continue learning in my journey as a software developer.
+
+#### GameTime
+
+* [GitHub URL](https://github.com/Jstewart3313/game-time)
+* [Original Assignment](http://frontend.turing.io/projects/game-time.html)
+
+My personal version of Frogger. This project was the first with multiple files which was challenging. Other challenges arose through
+this project that I was able to pull together and produce a playable game.
+
+#### Complete-Me
+
+* [GitHub URL](https://github.com/Jstewart3313/complete-me)
+* [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
+
+This project was by far one of the hardest of the module. This project showcases the knowledge, implementation and understanding of 
+a prefix-trie. Building this project in phases was one of the most helpful actions I did take, with challenges popping up throughout 
+the project that i was able to trouble shoot with the help of others, and breaking this VERY complicated concept down into one problem
+at a time.
+
+## C: Group Work & Projects
+
+### Projects
+
+This project demonstrates no only my ability to work together as an effective team member. Planning, meeting deadlines and co-working
+has been a huge emphasis since being at turing and this is something I feel like I have excelled in, and with this project in specific I
+think you can truly tell.
+
+#### Weathrly
+
+* [GitHub URL](https://github.com/kayyali18/weatherly-AK-JS)
+* [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
+
+A weather app that a pulls current data using an API that allows you to search for a current, hourly and 10 day for any valid location 
+within the United States.
+
+## D: Community Participation
+
+### Playing a Part
+
+Being at the wrap ups and attending social events. I think there is this urge to push anything not coding to the side, but I
+think playing a part in this community is prioritizing these exact things.
+
+------------------
+
+## Final Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
