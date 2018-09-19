@@ -10,7 +10,7 @@ I wanted to learn how to apply the content presented in Mod 1 and use that to bu
 
 I struggled a lot this mod. In fact, I haven't struggled that much in a very long time. I just wasn't understanding things and before I had a chance to synthesize the information, I was bombarded with more content. I learned that despite what I think I'm capable of, I can do this. I'm good enough, I'm smart enough, and gosh darn it, people like me. 
 
-![alt-text](https://media0.giphy.com/media/l0MYEIZcGv7KiECt2/giphy.gif)
+![sen-al-franken](https://media1.giphy.com/media/3o7TKnKXMdf5qNtVLi/giphy.gif)
 
 
 ## Rubric Scores
