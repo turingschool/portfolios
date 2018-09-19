@@ -2,15 +2,25 @@
 
 ## Areas of Emphasis
 
-In this module, my goal was to learn as much as possible, but also to learn deeply and with a thorough understanding of the content. I wanted to gain a solid foundation of building web apps in Rails, how to utilize activerecord and SQL to do database queries, and how to create user experiences that are intuitive. I also wanted to gain more insight in working with teams and more pairs, utilizing strong teamwork and learning how to use github more efficiently.
+What did you set out to accomplish this module? Were you successful?
 
-## Rubric Scores
+In this module, my goal was to learn as much as possible, but also to learn deeply and with a thorough understanding of the content. I wanted to gain a solid foundation of building web apps in Rails, how to utilize activerecord and SQL to do database queries, and how to create user experiences that are intuitive. I also wanted to gain more insight in working with teams and more pairs, utilizing strong teamwork and learning how to use github more efficiently. I do believe I was successful. I was open to all feedback and tried to learn every ounce of information that I could!
 
-* **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 4
-* **D: Professional Skills**: 4
-* **E: Community Participation**: 4
+What did you struggle most with this module? What did you learn from that struggle?
+
+I struggled mostly with the work load. There were a lot of projects/homework/classwork going on at the same time and ensuring I was dividing my time equally was a challenge. I also felt like I struggled on ActiveRecord and SQL. Perhaps doing more study sessions as a group would have been helpful with this. What order to put AR queries in, when to group and what to group on, how to get specific data out, all of this I definitely struggled with.
+
+
+## Rubric Scores (1-4)
+
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   4   |
+| **Group Projects**           |   4   |
+| **Professional Development** |   4   |
+| **Community**                |   4   |
+| **Final Written**            |   4   |
+| **Final Timed**              |   4   |
 
 -----------------------
 
@@ -40,7 +50,7 @@ This project was not evaluated; however, I did display it at the Turing Code Fai
 
 * [GitHub URL](https://github.com/KathleenYruegas/activerecord-obstacle-course)
 
-This obstacle course was a long set of exercises used to practice activerecord over the course of the 6 week mod. Solutions were given in Ruby or SQL and then I had to turn the query into activerecord.
+This obstacle course was a long set of exercises used to practice activerecord over the course of the 6 week mod. Solutions were given in Ruby or SQL and then I had to turn the query into activerecord. I do feel like this was helpful in order to learning more activerecord and getting more comfortable, but I think doing more examples in class as a big discussion would have been helpful.
 
 
 #### Blog Post - Routes in Rails
@@ -162,6 +172,8 @@ Meets Expectations: A custom README is present and gives users an guide to the w
 I made sure to stop into the Mod 1 classroom every now and then to see if anyone had questions or anything they were stuck on. I also tried to answer questions as often as possible in our 1806-1808 pairing channel if a Mod 1 student had questions about Ruby code or their project. I was active in our own 1806 slack channel as well offering help to people asking questions and asking a lot of questions myself because I knew I wouldn't be the only ones with those questions. I spent a lot of time physically at Turing as well to ensure I was there if any of my classmates had questions or needed any help.
 
 I entered the Code Fair as well, both for my own learning as a developer, but also to help build the Turing community and excitement about what we're doing here. The more we're all involved at Turing, the more other students will be involved and that's how we can encourage and motivate each other.
+
+Next module, I would like to be even more involved with the Turing community. I would like to help both incoming mod 1 and mod 2 students and offer pairing time with them for exercises if they need it. 
 
 ------------------
 
