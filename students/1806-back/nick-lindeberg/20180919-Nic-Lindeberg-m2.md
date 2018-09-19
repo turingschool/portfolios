@@ -1,13 +1,7 @@
-* 
-* ActiveRecord Obstacle Course (link to your finished repo) https://github.com/NickLindeberg/activerecord-obstacle-course
-* If you're in a posse - please include (in the Being a Community Member section):
-    * a blurb about what you did with your posse over the module.  I am the producer and editor of the #podcast posse.  
-    * your favorite thing about the posse experience. It was great meeting a bunch of new people, particularly in other programs. 
 * Non evaluated project: Rails Mini Project
 * Include what you learned/took away from the project.
 * Evaluated projects: Little Shop, Job Tracker, Bike Share
 * Assessments: Final
-
 
 ## Nick Lindeberg - BEM2 - Portfolio
 
@@ -19,22 +13,27 @@ https://medium.com/@lindebergnick/turn-ruby-into-a-battle-machine-b80cf1ef8dae
 -Ruby on Rails, Sinatra, Rspec, ActiveRecord, SQL
 Rubric Scores
 
-* A: End-of-Module Assessment: 
-* B: Individual Work & Projects: 
-* C: Group Work & Projects: 
-* D: Professional Skills: 
-* E: Community Participation: 
-A: End of Module Assessment
+* A: End-of-Module Assessment: ?
+* B: Individual Work & Projects: 2
+* C: Group Work & Projects: 2
+* D: Professional Skills: 2
+* E: Community Participation: 3
 
 
-B: Individual Work & Projects
+## Individual Work & Projects
 
 #### Active Record Obstacle Course
+https://github.com/NickLindeberg/activerecord-obstacle-course
+#### Rails Mini Project
+https://github.com/NickLindeberg/gif_generator
 
 
+## Group Work & Projects
 
-(evaluation comments)
-(evaluation scores)
+Completed three group projects.  The first in Sintra and the other two in Ruby on Rails
+
+### Little Shop
+
 C: Group Work & Projects
 
 Projects
@@ -70,9 +69,9 @@ Little Shop
 
 
 
-D: Community Participation
+## Community Participation
 
-Playing a Part
+### Playing a Part
 
 #podcast posse producer/editor
 Final Review
