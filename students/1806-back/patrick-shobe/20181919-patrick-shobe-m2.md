@@ -79,6 +79,9 @@ and competed in the Turing Code Fair.
 
 ------------------
 
+## E: End of Term Work
+[Active Record Obstacle Course](https://github.com/patrickshobe/activerecord-obstacle-course)
+[Blog Post](https://medium.com/@patrick_4766/how-to-rice-macos-38c8e659e8d4)
 ## Final Review
 
 ### Notes
