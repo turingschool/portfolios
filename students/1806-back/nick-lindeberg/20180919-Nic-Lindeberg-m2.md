@@ -20,6 +20,9 @@ https://github.com/NickLindeberg/activerecord-obstacle-course
 #### Rails Mini Project
 https://github.com/NickLindeberg/gif_generator
 
+##### Skills Learned:
+Design, Heroku Implamentation, Rspec Testing and a better understanding of HTML/CSS with relation to Bootstrap GEM.  
+
 
 ## Group Work & Projects
 
