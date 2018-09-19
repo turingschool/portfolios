@@ -6,6 +6,11 @@
 
 I wanted to learn how to apply the content presented in Mod 1 and use that to build an actual website that users can visit. I wanted to learn basic Rails and ActiveRecord fundamentals as well as revisit SQL. 
 
+(What did you struggle most with this module? What did you learn from that struggle?)
+
+I struggled a lot this mod. In fact, I haven't struggled that much in a very long time. I just wasn't understanding things and before I had a chance to synthesize the information, I was bombarded with more content. I learned that despite what I think I'm capable of, I can do this. I'm good enough, I'm smart enough, and gosh darn it, people like me. 
+
+
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: X
@@ -73,6 +78,19 @@ Idea box was a challenge for me. I was a bit foggy on some of the topics initial
 ### Playing a Part
 
 I made an effort to make myself available to not only our cohort, but also Mod 1 students, when any questions arose that I felt comfortable with. I also paired with several mod 1 students to work through some things they were struggling with. I helped to refine my own knowledge of the topics and often learned new things when doing it. 
+
+## Self-Assessment Scores
+
+Fill in how you would grade yourself from 1-4 in the following categories this module.
+
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   3   |
+| **Group Projects**           |   4   |
+| **Professional Development** |   3   |
+| **Community**                |   4   |
+| **Final Written**            |   3   |
+| **Final Timed**              |   3   |
 
 ------------------
 
