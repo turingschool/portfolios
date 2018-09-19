@@ -2,15 +2,20 @@
 
 ## Areas of Emphasis
 
-After repeating mod 1, my goal for mod 2 was to get through on the first try. I wanted to really absorb the material and learn how to make applications. I was also really excited to get into how to manipulate databases.
+* What did you set out to accomplish this module? Were you successful?
+    * After repeating mod 1, my goal for mod 2 was to get through on the first try. I wanted to really absorb the material and learn how to make applications. I was also really excited to get into how to manipulate databases.
+
+* What did you struggle most with this module? What did you learn from that struggle?
+    * I think I struggled with the amount of work in the mod. There were many times that I felt overwhelmed and like I was not going to be able to finish everything. In the end I was able to do everything but it was very overwhelming.
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 3
-* **E: Community Participation**: 2
+**Individual Projects**         3
+**Group Projects**              3
+**Professional Development**    4
+**Community**                   4
+**Final Written**               3
+**Final Timed**                 4
 
 -----------------------
 
@@ -61,6 +66,17 @@ Little Shop was our intro project to Mod2, which was built on Sinatra with Ruby 
 * Evaluator Comments:
   * views called model class methods
   * most AR was good but had a few places where Ruby had to crunch some data
+
+## Projects
+
+* What were your favorite projects this module? Least favorite? Why?
+  * My favorite project was the rails mini project. It was really fun to put something together that I had actually been thinking about for a while. My least favorite was little shop. I felt like I didn't understand anything at that time.
+
+* What did you learn from your independent projects?
+  * I learned that I can put together an app, which is pretty cool. I also learned that I am not great at html or css.
+
+* What did you learn from your paired projects?
+  * I learned that somehow working with 4 people can be more difficult than working with 3 people. It changes the dynamic and there were definitely rough points. But I learned a lot from everyone in my group and I'm glad to have had the experience.
 
 #### Job Tracker
 
@@ -133,15 +149,34 @@ This project was submitted as the Module 2 final for the Backend Program at the 
 
 ### Playing a Part
 
-I did not participate much in the community this mod.
+* How did you contribute to the Turing community this module?
+  * I went to the Joan Clarke Society posse meetings and also tried to contribute to the overall wellbeing of my mod.
+
+* What would you like to do to contribute next module?
+  * Next mod, I would like to continue going to the JCS meetings.
+
+### Member of a Posse
+
+* What did you do with your posse over this module?
+  * We talked about how to help other women in the tech community and how we can empower ourselves.
+
+* What is your favorite thing about the posse experience?
+  * I loved seeing so many women working together and talking about their experiences. It really seems like we all have eachother's backs.
+
+* How has your posse expereince helped you grow as a professional?
+  * I am more aware of what I will be facing when I get a job in the tech industry. I also know that I can depend on my cohort and peers to help me network. 
 
 ## E: Blog post link:
 
 https://medium.com/@tara.craig7/how-to-change-your-terminal-prompt-42824cd0db8e
 
+  * My blog is about how to change your terminal prompt. I go into how to change your terminal overall (colors, opacity, fonts, etc.) and then delve into the escape prompts, font color changes for the escape prompts, and how to add an emoji.
+
 ## F: Active Record Obstacle Course link:
 
 https://github.com/TCraig7/activerecord-obstacle-course
+
+  * Somewhat helpful. I needed a lot of help from my mentor to get through it. I wish there were something I could do on line that would give me more immediate feedback.
 
 ------------------
 
