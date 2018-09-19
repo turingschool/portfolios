@@ -3,7 +3,8 @@
 ### Areas of Emphasis
 
 -Ruby on Rails, Sinatra, Rspec, ActiveRecord, SQL
-Rubric Scores
+
+### Rubric Scores
 
 * A: End-of-Module Assessment: ?
 * B: Individual Work & Projects: 2
@@ -31,9 +32,23 @@ Built in Sinatra.
 * GitHub - https://github.com/mikecm1141/little-shop-redux
 * Spec - https://github.com/turingschool-projects/little-shop-redux
 
+### Job Tracker
+
+Built in Ruby on Rails  
+
+* GitHub - https://github.com/mikecm1141/little-shop-redux
+* Spec - https://github.com/turingschool-projects/little-shop-redux
+* https://github.com/turingschool/ruby-submissions/blob/master/1806-b/2module/job_tracker/nick_autumn.md
+
+### Little Shop
+
+Built in Sinatra.  
+
+* GitHub - https://github.com/mikecm1141/little-shop-redux
+* Spec - https://github.com/turingschool-projects/little-shop-redux
+
 ## Blog Post
 https://medium.com/@lindebergnick/turn-ruby-into-a-battle-machine-b80cf1ef8dae
-
 
 ## Community Participation
 
