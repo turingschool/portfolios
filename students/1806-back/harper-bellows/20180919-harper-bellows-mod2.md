@@ -35,6 +35,28 @@ I passed.
 
 (evaluation scores)
 
+#### (Blog Post)
+
+* [GitHub URL](https://medium.com/@harper.bellows/setting-up-the-vscode-text-editor-243f801448fc)
+* [Original Assignment]()
+
+(Quick down and dirty for setting up VSCode)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### (Active Record Obstacle Course)
+
+* [GitHub URL](https://github.com/hbellows/activerecord-obstacle-course)
+* [Original Assignment]()
+
+(ActiveRecord Obstacle Course)
+
+(evaluation comments)
+
+(evaluation scores)
+
 ## C: Group Work & Projects
 
 ### Projects
@@ -44,7 +66,7 @@ I passed.
 #### (Little Shop Redux)
 
 * [GitHub URL](https://github.com/JLing88/little-shop-redux)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool-projects/little-shop-redux)
 
 (Use Ruby, Sinatra, and ActiveRecord to build a site that shows items by categories and analyzes those items.)
 
@@ -55,7 +77,7 @@ I passed.
 #### (Job Tracker)
 
 * [GitHub URL](https://github.com/KellyMarcilliat/job-tracker)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool-projects/job-tracker)
 
 (You will be working with the existing code in this repository to modify a personal job tracking app. Imagine that your close friend has learned just enough Rails to be dangerous, and has started to create an app to track job opportunities they find interesting. They are planning to maintain this site themselves (i.e. they will be adding all companies and jobs, and don’t anticipate companies or other users posting/reviewing jobs).)
 
