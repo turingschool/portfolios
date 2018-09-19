@@ -1,8 +1,8 @@
-# Mike McKee - M2 Portfolio
+# M2 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+What did you set out to accomplish this module? Were you successful?
 
 The goal I had going into this module was to learn the principles of MVC
 design. I also wanted to begin strengthening my knowledge of ActiveRecord and
@@ -10,116 +10,100 @@ ORMs in general. Rails, of course, was also something I was interested in learni
 to a great extent. I also wanted to further improve my knowledge of Ruby
 and my thought process when tackling logical problems.
 
-## Blog Post
 
-[Writing Pretty Code--Ruby Style](https://medium.com/@mikecm/writing-pretty-code-ruby-style-edf740a7cb81)
+What did you struggle most with this module? What did you learn from that struggle?
+
+I struggled the most with ActiveRecord and piecing it together, and struggled a bit
+knowing where to throw what app logic where. I definitely improved greatly around week
+5 like predicted. I learned the most that some of these concepts are confusing and 
+difficult for a while before they finally fall into place.
+
+## Blog
+
+Link: https://medium.com/@mikecm/writing-pretty-code-ruby-style-edf740a7cb81
+
+Summary (1-3 sentences):
+
+In this post, I went over the basics of code formatting. I talked about proper use
+of white space, indentation, and some of the tools Ruby gives us to make code
+more readable. 
 
 ## ActiveRecord Obstacle Course
+Link: https://github.com/mikecm1141/activerecord-obstacle-course
 
-[ActiveRecord - Mike McKee's Repo](https://github.com/mikecm1141/activerecord-obstacle-course)
+Was this helpful for practicing ActiveRecord?
 
-## Rubric Scores
-
-* **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 3
-* **E: Community Participation**: 4
-
------------------------
-
-## A: End of Module Assessment
-
-Passed
-
-## B: Individual Work & Projects
-
-Over the course of this module, I worked on a project called BingeHelper. I wanted
-to build a minimalistic, mobile-first application that could be useful to others,
-and to start working with some light API work to help seed databases.
-
-#### BingeHelper
-
-* [GitHub URL](https://github.com/mikecm1141/bingehelper)
-
-BingeHelper is an application to help users find TV shows that are worth binge watching.
-The idea behind this application is that users can log in and submit two types of 
-ratings for shows. One is a regular, plain old 1-10 rating and the other is how many
-episodes they watch on average per session. I used these pieces of data, along with
-how long each episode is, to determine something called a BingeScore. The higher a BingeScore,
-the better a show would be to binge. It was made with a mobile first mindset, so that people could
-comfortably rate their favorite shows (or not so favorite!) from the comfort of their own couch or
-favorite chair.
-
-I learned a lot about working on a small-ish size project, coming up with an algorithm for
-the BingeScore calculation, working with a basic API call to get data about TV shows, and
-working with a different CSS framework (I used Materialize).
-
-## C: Group Work & Projects
-
-### Projects
-
-#### Little Shop
-
-* [GitHub URL](https://github.com/mikecm1141/little-shop-redux)
-* [Original Assignment](https://github.com/turingschool-projects/little-shop-redux)
-
-Little Shop was an application that further expanded upon our Black Thursday
-project in Module 1. In this application, we used Sinatra to build out a web 
-application that was seeded with sales data from Etsy. A visitor could view all
-items, see lists of merchants, and check out invoices and their line items. There was
-also some light data manipulation and analysis through dashboards.
-
-Our main feedback for this project was using Ruby where ActiveRecord would have been
-the better solution. Looking back now I could easily do many of the things we struggled
-with back then with a great solution today.
-
-#### Job Tracker
-
-* [GitHub URL](https://github.com/TCraig7/job-tracker)
-* [Original Assignment](https://github.com/turingschool-projects/job-tracker)
-
-Job Tracker was our frst project made in Rails. It takes a user that can add companies,
-categories, and jobs, and some information that relates to them to help keep track of
-jobs that a user may have some interest in, jobs that have been applied to, and jobs
-that have been offered.
-
-Our main feedback during this evaluation was that some controller logic could have
-been better, some testing issues and a few Git issues.
-
-#### Bike Share
-
-* [GitHub URL](https://github.com/mikecm1141/bike-share)
-
-Bike Share was an interesting and challenging project. This application uses bike share
-data from the Bay Area (provied by Kaggle) to do some analytics and business logic
-on that data. We also incorporated a basic e-commerce engine to sell bike accessories, with
-full cart functionality and the ability for admins to see orders by users.
-
-The main feedback I took away from Bike Share was working on some polish details for
-the interface, and working on being more specific and instructional in our Readme. There
-were some opportunities for refactor in the models as well with our ActiveRecord calls. This
-project had a high level of team work and I really enjoyed working with my group on
-such a large project.
+It was extremely helpful. I found it a nice thing to work on a little bit week
+by week. I will be referencing this for a long time to come.
 
 
-## D: Community Participation
+## Projects
 
-### Playing a Part
+What were your favorite projects this module? Least favorite? Why?
 
-I love to help my peers! I find the most satisfaction from working on bugs and
-other hurdles with others. I try to spend as much time as possible in Slack and
-to try and be available during normal hours (and not so normal!). I would love to
-be more active with cohorts below us in the future.
+My favorite project this module was my Rails mini. It was fun to design an application
+from the ground up of my own choosing. I enjoyed the challenges it created and felt
+I learned a lot of non-coding skills from that project, like planning and writing user
+stories from scratch.
 
-------------------
+My least favorite project was the Sinatra app Little Shop. I've had a bit of Rails
+experience before this (just playing around with it in module 1) and knew that a lot
+of the headache and frustration from Sinatra's bare bones features would be gone once
+we got to Rails.
 
-## Final Review
+What did you learn from your independent projects?
 
-### Notes
+I learned most how to write out user stories and draw database tables before even
+beginning the coding process. I think one of the other biggest things I learned is 
+just how valuable user stories are when planning a project. They really helped me
+think about what tables my database would need and what columns those tables would need
+to complete functionality. I found this process important as adding fields later on
+can cause some issues and some extra time spent squashing bugs and refactoring tests.
 
-( Leave blanks for reviewers )
+What did you learn from your paired projects?
 
-### Outcome
+I think the biggest thing I learned in my paired projects this module was learning
+to use project management tools well. I enjoyed using Waffle and the functionality it
+gave us by integrating with our repo on GitHub. It helped keep us on track and gave
+us sort of a guideline towards something that felt impossibly large to get done in less than 
+a week.
 
-( Leave blanks for reviewers )
+
+## Community 
+
+How did you contribute to the Turing community this module?
+
+I love to help and pair with people. This skill has developed greatly over the last
+few weeks, even more so than in module 1. I think I learned the most helping others
+debug their code and work through they logical thought process. I am always available
+on Slack and loved to help people that way too, as working remotely presents its own
+challenges.
+
+
+What would you like to do to contribute next module?
+
+I would like to spend more time when I can when the modules below, especially on subjects
+that I haven't touched on in a while. I feel this will help me in the long run retaining
+information and the ways things are done when just working with just Ruby.
+
+### Member of a Posse
+
+What did you do with your posse over this module?
+
+What is your favorite thing about the posse experience?
+
+How has your posse expereince helped you grow as a professional?
+
+## Self-Assessment Scores
+
+Fill in how you would grade yourself from 1-4 in the following categories this module.
+
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   3   |
+| **Group Projects**           |   3   |
+| **Professional Development** |   3   |
+| **Community**                |   4   |
+| **Final Written**            |   3   |
+| **Final Timed**              |   3   |
+
