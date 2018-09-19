@@ -1,0 +1,40 @@
+# First Last - M1 Portfolio
+
+## Areas of Emphasis
+
+What did you set out to accomplish this module? Were you successful?
+This module I set out to learn if I was capable of understanding the basics of coding. I believe I was successful in figuring out how to do very basic things using terminal and atom.
+
+What did you struggle most with this module? What did you learn from that struggle?
+I struggled most with grasping some of the more complex concepts that I was not familiar with.  I learned that I understand things better when I have to talk through how things work and that the more I practice their use, the more understanding I gain from it.
+
+## Projects
+
+What were your favorite projects this module? Least favorite? Why?
+My favorite project was the Enigma decoding program because I really liked the concept of it.  I also liked Black Thursday because of the real world applications.  My least favorite was probably Battleship because I felt the most lost while working on it.
+
+What did you learn from your independent projects?
+During my independent projects I learned how much I really understood concepts because I had no one to depend on but myself to get me through them.
+
+What did you learn from your paired projects?
+In my paired projects I learned that everyone has different strengths and that even though coding is new to me, I do understand things and am able to explain my reasoning behind it.
+
+## Community
+
+How did you contribute to the Turing community this module?
+This module I contributed to the Turing community by bringing in board games for the SAB social day.  I also tried to help classmates whenever they has questions if I could.  
+
+What would you like to do to contribute next module?
+I think next module I'd like to help with more events and maybe join the SAB.
+
+## Self-Assessment Scores
+
+Fill in how you would grade yourself from 1-4 in the following categories this module.
+
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   3   |
+| **Group Projects**           |   3   |
+| **Professional Development** |   3   |
+| **Community**                |   2   |
+| **Pentathlon**               |   X   |
