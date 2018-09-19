@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-My goal in Mod 2 was to become more confident and comfortable working with Javascript. I was glad to hear the mod was going to focus heavily on Javascript fundamentals, and looking back I feel confident that I was able to make solid progress in my Javascript skills. Another goal I had was to bring more complete and solid projects into my evals. I wanted to be sure I could explain and talk through my code with confidence and in detail. Finally I wanted to understand and see just how testing gets implemented as it was only breifly covered in Mod 1.
+My goal in Mod 2 was to become more confident and comfortable working with Javascript. I was glad to hear the mod was going to focus heavily on Javascript fundamentals, and looking back I feel confident that I was able to make solid progress in my Javascript skills. Another goal I had was to bring more complete and solid projects into my evals. I wanted to be sure I could explain and talk through my code with confidence and in detail. Also, I wanted to understand and see just how testing gets implemented as it was only breifly covered in Mod 1. Finally, I think a lot about what it means to be a successful student at Turing, the positive habits that support my growth, and what it will take to reach my goals. Mod 1 was about discovering these things for myself, on my terms. I think Mod 2 was about perfecting that process and solidifying these ideas and habits for myself.
 
 ## Rubric Scores
 
