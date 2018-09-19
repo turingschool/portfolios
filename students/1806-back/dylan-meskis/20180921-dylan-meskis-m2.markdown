@@ -217,6 +217,98 @@ lightning talk on tips that I thought would help them with their final project,
 and talked a few students through problems they were running into.
 ------------------
 
+# M2 Portfolio
+
+## Areas of Emphasis
+
+What did you set out to accomplish this module? Were you successful?
+
+  I wanted to learn how to utilize a web framework to build a working application.
+  It was very important to me to understand how the whole process works, from
+  a browser request, to the response returning a web page. It was also important
+  to me to learn how to use a database and query it effectively. I feel I have
+  learned quite a lot, from barely knowing what SQL and even what a web framework
+  was, to being able to use these tools proficiently.
+
+
+What did you struggle most with this module? What did you learn from that struggle?
+
+  ActiveRecord and SQL was a struggle for me. It just did not click for me immediately,
+  and I had trouble visualizing how these tables were being joined together.
+  Repetition is what eventually got it to click, as well as additional help
+  from my instructors. I learned that perseverance is key to learning.
+
+## Blog
+
+Link: https://medium.com/@dylanmeskis/setting-up-your-first-rails-project-809fecd4d167
+
+Summary (1-3 sentences):
+
+  As part of our professional development we were tasked with writing a technical
+  blog post. This is my first ever blog post, so I wrote a simple tutorial to help
+  new developers set up their first rails project.
+
+## ActiveRecord Obstacle Course
+Link: https://github.com/dmeskis/activerecord-obstacle-course
+
+Was this helpful for practicing ActiveRecord? Yes
+
+
+## Projects
+
+What were your favorite projects this module? Least favorite? Why?
+
+  BikeShare and Rails Mini were my favorite projects. Bike Share was cool because
+  it essentially allowed us to put together all the pieces we learned this module
+  into a large scale working app. Rails Mini was exciting because for the first
+  time at Turing we got to create something from scratch with no guidelines.
+
+What did you learn from your independent projects?
+
+  How to take an app idea and design the architecture for an app based on it.
+
+What did you learn from your paired projects?
+
+  How to collaborate effectively as a team and utilize project management tools.
+
+## Community
+
+How did you contribute to the Turing community this module?
+
+  The Turing community was great this module. While I was definitely absorbed in
+  my own learning, I still made it a point to show up to code fairs and other
+  extracurriculars whenever possible. It's always a fun time relaxing and
+  exploring other students creations. I supported the community this module by
+  trying to help out the mod 1 back end students as much as possible. I gave a
+  lightning talk on tips that I thought would help them with their final project,
+  and talked a few students through problems they were running into.
+
+What would you like to do to contribute next module?
+
+  I would like to make myself even more available to lower mod students and
+  join a posse.
+
+### Member of a Posse
+
+What did you do with your posse over this module?
+
+What is your favorite thing about the posse experience?
+
+How has your posse expereince helped you grow as a professional?
+
+## Self-Assessment Scores
+
+Fill in how you would grade yourself from 1-4 in the following categories this module.
+
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   3   |
+| **Group Projects**           |   3   |
+| **Professional Development** |   3   |
+| **Community**                |   2   |
+| **Final Written**            |   3   |
+| **Final Timed**              |   4   |
+
 ## Final Review
 
 ### Notes
