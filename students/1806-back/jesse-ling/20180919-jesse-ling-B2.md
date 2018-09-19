@@ -2,11 +2,7 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
-
 I wanted to learn how to apply the content presented in Mod 1 and use that to build an actual website that users can visit. I wanted to learn basic Rails and ActiveRecord fundamentals as well as revisit SQL. 
-
-(What did you struggle most with this module? What did you learn from that struggle?)
 
 I struggled a lot this mod. In fact, I haven't struggled that much in a very long time. I just wasn't understanding things and before I had a chance to synthesize the information, I was bombarded with more content. I learned that despite what I think I'm capable of, I can do this. I'm good enough, I'm smart enough, and gosh darn it, people like me. 
 
@@ -15,7 +11,7 @@ I struggled a lot this mod. In fact, I haven't struggled that much in a very lon
 
 ## A: End of Module Assessment
 
-(Passed)
+Passed
 
 
 ## B: Individual Work & Projects
@@ -35,7 +31,7 @@ Idea box was a challenge for me. I was a bit foggy on some of the topics initial
 
 ### ActiveRecord Obstacle Course
 
-* [Github URL]()
+* [Github URL](https://github.com/turingschool-projects/activerecord-obstacle-course/pull/11)
 
 
 ## C: Group Work & Projects
