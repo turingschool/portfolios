@@ -1,0 +1,40 @@
+Meg Stang - M1 Portfolio
+
+## Areas of Emphasis
+
+What did you set out to accomplish this module? Were you successful?
+  - I wanted to learn a lot, and feel comfortable with challenges. I wanted to be able to trust myself in knowing that I have the skills to work on a certain project or problem. I also wanted to pass the module on my first try, and complete all of my projects. I feel that I was successful in these goals.
+
+What did you struggle most with this module? What did you learn from that struggle?
+  - In general, I've always struggled with text comprehension, and I remember an independent challenge (boats and docks.. something like that) where I was stuck just comprehending what exactly I had to do. In situations like these, when I'm having trouble understanding a piece of text, I know that I benefit from hearing someone else say it, or bouncing ideas off of someone else.
+
+## Projects
+
+What were your favorite projects this module? Least favorite? Why?
+- I really loved battleship! It was fun to have something in the terminal to play with and see an outcome from. I also really enjoyed Enigma since it was a puzzle in itself, on top of the actual coding aspect of it. I'll say Black Thursday was my least favorite but I found it interesting to learn about csv, and gain a better understanding of that material.
+
+What did you learn from your independent projects?
+- I learned that I'm capable of doing projects on my own. I was worried about that coming in... if I'd always need someone to help me or not. However, I ended up enjoying independent challenges.
+
+What did you learn from your paired projects?
+- I learned that I can learn a lot from other people just by working with them. Before enigma, I was uncertain about my feelings towards hashes, and on day 1 of the project, my partner convinced me to use a hash for the characters. Although I was nervous, my partner helped push me out of my comfort zone and taught me something new.
+
+## Community
+
+How did you contribute to the Turing community this module?
+- I feel like I was able to help a few people that were having difficulty in our cohort. I also made many-a-coffee-brews in the morning ;)
+
+What would you like to do to contribute next module?
+- I would like to be a mentor to someone in Mod 1. I realized that I enjoy working with people on understanding the material.. I think I've been missing teaching a lot, and I'd like to help others in that way next mod. Also... I want to start a running posse during lunch!
+
+## Self-Assessment Scores
+
+Fill in how you would grade yourself from 1-4 in the following categories this module.
+
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   3   |
+| **Group Projects**           |   3   |
+| **Professional Development** |   3   |
+| **Community**                |   3   |
+| **Pentathlon**               |   3   |
