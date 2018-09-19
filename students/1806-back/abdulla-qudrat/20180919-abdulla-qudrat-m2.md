@@ -1,13 +1,17 @@
 # Abdulla Qudrat - M2 Portfolio
 
 ## Areas of Emphasis
-I aimed to learn how to build a fully functioning website app on my own. I wanted to be comfortable working with databases. I also wanted to have a solid understanding of how the internet works and how I can navigate building an app with that knowledge.  
+I aimed to learn how to build a fully functioning website app on my own. I wanted to be comfortable working with databases. I also wanted to have a solid understanding of how the internet works and how I can navigate building an app with that knowledge. I feel like I generally accomplished what I set out to accomplish. The area I struggled with is more complex database queries, but I understand that I will get better at that with more practice and time.
 
 ## Blog Post
 https://medium.com/@aqudrat630/ruby-enumerables-explained-fb94d536db8a
 
+The blog I wrote was inspired by my lightning talk on Ruby enums. I wanted to explain the basic structure in a way that people may understand batter.
+
 ## ActiveRecord Obstacle Course
 https://github.com/abdullaqudrat/activerecord-obstacle-course
+
+The AR obstacle course was helpful in making me practice different AR methods. Debugging in pry was misleading since it returns an object, not necessarily information I was intending.  
 
 ## Posse Experience
 N/A
@@ -23,8 +27,21 @@ N/A
 ## A: End of Module Assessment
 I'm feeling confident that I met expectations with the end of module assessment.
 
-## B: Individual Work & Projects
+## B: Projects
+What were your favorite projects this module? Least favorite? Why?
 
+Most: BikeShare and Rails mini because I enjoyed building something when I have a sufficient amount of knowledge.
+Least: LittleShop and JobShare because I didn't enjoy struggling without feeling like I have a comfortable amount of knowledge.
+
+What did you learn from your independent projects?
+
+That I dont prioritize my own projects over other tasks, but still felt more confident in my knowledge of the material.
+
+What did you learn from your paired projects?
+
+Agile workflow with project management tools
+
+### Individual Work & Projects
 In mod 2, we we're given 1 week to independently build a web app of our choice, with the instructor's approval. I aimed to implement the fundamentals we we're taught
 
 * Database build and relationships
@@ -47,7 +64,6 @@ users favorites and upvoting. Also wanted to display metrics for the dashboard,
 such as "Most commonly occurring songs on favorited playlists".
 
 ## C: Group Work & Projects
-
 Each of these projects were assigned with different partners and timeframes for
 completion.  
 
@@ -117,12 +133,24 @@ needs improvement:
 
 N/A
 
-
 ## D: Community Participation
 I didn't participate in the community as I intended to, but I did appreciate the
 gear up conversations, especially the ones on stress in the tech industry and
 privileges. I would like to join a posse next mod and also participate in community
 events like the Coding Fair.
+
+## Self-Assessment Scores
+Fill in how you would grade yourself from 1-4 in the following categories this module.
+
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   3   |
+| **Group Projects**           |   3   |
+| **Professional Development** |   3   |
+| **Community**                |   2   |
+| **Final Written**            |   3   |
+| **Final Timed**              |   3   |
+
  ------------------
  ## Final Review
  ### Notes
