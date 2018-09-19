@@ -66,7 +66,7 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Individual Projects**      |   3   |
 | **Group Projects**           |   3   |
 | **Professional Development** |   4   |
-| **Community**                |   2   |
+| **Community**                |   4   |
 | **Final Written**            |   3   |
 | **Final Timed**              |   3   |
 
