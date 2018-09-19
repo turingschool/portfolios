@@ -100,7 +100,9 @@ I passed.
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+(I really, really love this cohort.  I feel like the they lift me up everyday, and so I work hard to do the same for them.  Everyone (everyone!) is so helpful, and ready to help me when I needed.  And in return, everyone is very open to being helped, so when I have the opportunity to help others, they are always ready to work with me.  The Turing community, in general, is also really great.  I've had several positive cross-program interactions, with Front End students patiently helping me to understand that a div tag is actually not the same a p tag!  Upper mod students have also been enormously helpful, and I try to pay their kindness forward to lower mods when I can.  
+
+The Joan Clarke Society has also been a great personal and professional resource for me.  And I LOVE that so many alums come to the meeting each week.  They're helping me understand my place in the larger tech community, and how to be a positive agent of change.)
 
 ------------------
 
