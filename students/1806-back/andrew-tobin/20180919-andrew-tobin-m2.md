@@ -77,9 +77,13 @@ This application uses Ruby on Rails and ActiveRecord to analyze data from a Bay 
 
 Also included is a bike shop where visitors are able to peruse bike accessories. Visitors are able to create an account in order to login and checkout their cart.
 
-(evaluation comments)
+(99.25% Test Coverage,
+Over 100 waffle cards,
+Everyone really enjoyed working together (great team work),
+Used PR template)
 
-(evaluation scores)
+(Meets Expectations: Features completeness, ActiveRecord, Usability, Workflow, Documentation)
+(Exceeds Expectations: Views, Controllers, Models, Testing)
 
 ## D: Community Participation
 
