@@ -79,7 +79,8 @@ Make working weather app in React with appropriate unit testing, to create and u
 
 ### Playing a Part
 
-I paired with Mod1 students like it was my job this mod, running impromptu classes on DOM manipulation, running a Mythical Creatures review session with Chris, making myself available to help often, and generally finding every morning and lunch take consumed by a booked pairing. Additionally, I have taken on hosting the Turing podcast, for which I recorded my second episode today. I have additionally been asked to take on duties as the SAB rep for 1806 next inning, which I have accepted.
+I paired with Mod1 students like it was my job, running impromptu classes on DOM manipulation, running a Mythical Creatures review session with Chris, making myself available to help often, and generally finding every morning and lunch time consumed by a booked pairing. Additionally, I have taken on hosting the Turing podcast, for which I recorded my second episode today. I have additionally been asked to take on duties as the SAB rep for 1806 next inning, which I have accepted.
+
 ------------------
 
 ## Final Review
