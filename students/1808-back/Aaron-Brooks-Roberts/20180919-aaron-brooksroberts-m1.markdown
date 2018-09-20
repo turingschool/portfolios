@@ -62,6 +62,4 @@ Fill in how you would grade yourself from 1-4 in the following categories this m
 | **Group Projects**           |   2   |
 | **Professional Development** |   3   |
 | **Community**                |   3   |
-| **Pentathlon**               |   3   |
- --------------------------------------
- 
+| **Pentathlon**               |   3   | 
