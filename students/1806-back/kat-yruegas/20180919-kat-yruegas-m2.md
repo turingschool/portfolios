@@ -44,7 +44,7 @@ This project was not evaluated; however, I did display it at the Turing Code Fai
 
 #### ActiveRecord Obstacle Course
 
-* [GitHub URL](https://github.com/KathleenYruegas/activerecord-obstacle-course)
+* [GitHub URL](https://github.com/turingschool-projects/activerecord-obstacle-course/pull/4)
 
 This obstacle course was a long set of exercises used to practice activerecord over the course of the 6 week mod. Solutions were given in Ruby or SQL and then I had to turn the query into activerecord. I do feel like this was helpful in order to learning more activerecord and getting more comfortable, but I think doing more examples in class as a big discussion would have been helpful.
 
