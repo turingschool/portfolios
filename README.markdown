@@ -64,9 +64,9 @@ You may optionally elect to include a status of "pass", "fail", "pending" for ea
   * a blurb about what you did with your posse over the module
   * your favorite thing about the posse experience
   * how has your posse experience helped you grow as a professional?
-* Non evaluated projects: Rails Mini Project, Mix Master
+* Non evaluated project: Rails Mini Project
   * Include what you learned/took away from the project.
-* Evaluated projects: Little Shop, Bike Share
+* Evaluated projects: Little Shop, Job Tracker, Bike Share
 * Assessments: Final
 
 ### Module 2 (Front-end)

@@ -4,7 +4,6 @@
 
 What did you set out to accomplish this module? Were you successful?
 
-
 What did you struggle most with this module? What did you learn from that struggle?
 
 ## Projects

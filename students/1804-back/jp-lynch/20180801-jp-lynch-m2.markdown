@@ -1,0 +1,54 @@
+# JP Lynch - M2 Portfolio
+
+## Areas of Emphasis
+
+#### What did you set out to accomplish this module? Were you successful?  
+In this module, I set out to successfully complete all the work and to pass into mod 3.  The goal that this would achieve is for me to learn about the basics of rails and web app development, and utilizing databases to power the information in those apps.  I believe I was successful, as I have learned all these topics and can create a rails app from scratch that utilizes relational databases and standard CRUD functionality.  
+#### What did you struggle most with this module? What did you learn from that struggle?  
+I struggled the most with understanding ActiveRecord and SQL during this module.  It became more clear as I practiced with the ActiveReocrd Obstacle Course, but I was still a bit fuzzy on things like group.  I believe that it just takes practice, and the Obstacle Course definitely provided that mandatory training that was needed to help us learn this material.
+
+
+## Blog
+
+Topic: How to utilize factorybot and faker in your projects in order to save time spent on producing tests.
+
+<https://medium.com/@JPLynch35/crank-out-tests-with-factory-bot-and-faker-e83a31a7693c>  
+
+
+## ActiveRecord Obstacle Course
+
+<https://github.com/JPLynch35/storedom-5>
+
+#### Was this helpful for practicing ActiveRecord?  
+The Obstacle Course was extremely helpful in providing practice for ActiveRecord.  Throughout the module, we had a ton of work to constantly complete.  Giving us this task as an assignment required for passing Mod2, forced us to carve out time to complete it.  It was made in such a way as to force us to struggle through it, but in such a way that you learn tons about ActiveRecord and to ingrain the methods into your memory.
+
+## Projects
+
+#### What were your favorite projects this module? Least favorite? Why?  
+My favorite project this module was by far the Rails Mini.  I enjoyed it for mainly two reasons.  First, being not graded, it took that mindset out of the equation that we just have to complete the project to some standard in order to get a good grade.  We could focus more on the app and its functions, strive and fail.  The entire time I worked on this project, I never once felt like I was just typing to finish it, but rather I was coding to learn from it.  In addition, the fact that it was not a group project meant that you did not have to coordinate all week to produce it, as such it could be solely yours.  
+My least favorite project was Little Shop.  It was interesting to learn Sinatra, but I knew I just wanted to start learning Rails already and to get to it.  
+
+#### What did you learn from your independent projects?  
+From the independent project, I learned how to style an entire website.  Since it was solely me, I was able to plan out how all the pages would look and tried to keep that theme common throughout.  
+
+#### What did you learn from your paired projects?
+From the paired projects, I learned more about Git workflow and generally how to slice a large project into smaller stand alone pieces.  Both became extremely important during Bikeshare, as it was so large that you had to break it down and to work intertwined with what your other teammates were working on.  Merge conflicts became a common theme, and something that we had to learn how to work through.  
+
+## Community
+
+#### How did you contribute to the Turing community this module?  
+I was an SAB rep this module.  I would co-lead the Friday retros with Keegan in order to bring our class together and talk about what went well and what didn't during the week in order to give module feedback and to create the best possible learning experience for the students that will come after us.  
+
+#### What would you like to do to contribute next module?
+Next module I plan to still be an SAB rep.  As Keegan will have completed 2 modules as SAB rep, we will be picking another rep.  I hope to work with this person to continue giving module feedback to create the best learning experience for Turing.  In addition, I would like to get into a posse next mod if I find the time.  
+
+## Self-Assessment Scores
+
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   3   |
+| **Group Projects**           |   3   |
+| **Professional Development** |   3   |
+| **Community**                |   2   |
+| **Final Written**            |   3   |
+| **Final Timed**              |   4   |

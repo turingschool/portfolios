@@ -53,17 +53,7 @@
 
 (feedback to me)
 
-## D: Professional Skills
-(Intro)
-
-### Gear Up
-#### (Session Name)
-
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-## E: Community Participation
+## D: Community Participation
 
 ### Playing a Part
 
