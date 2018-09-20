@@ -21,8 +21,7 @@
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
-
+Passed
 
 ## B: Individual Work & Projects
 
