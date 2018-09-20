@@ -11,16 +11,16 @@ Include your final outcome (pass/fail) and a reflection based on answering the f
 pass
 
 * What was your biggest technical challenge?
-Quantified Self Go - Creating web server without a true framework in a lower level, non object-oriented language. 
+Fetch, serializer, testing 
 
 * What did you like the most about the challenge?
-This was an anjoyable challenge that forced me to think about what is really happening in a back-end web app, in ways that Rails allows you to take for granted.
+It was challenging.
 
 * How did you solve that challenge? What was your approach?
-A combination of tutorials, docs, googling, and trying concepts from Ruby and other languages to see what works.
+Scheduled time to do it and did it.
 
 * What did you learn?
-The process was a great learning experience, but using a tool like Rails allows you to focus on business logic.
+How to be productive on a timed single day project from home.
 
 ## Technical Communication Assessment
 
@@ -70,13 +70,13 @@ Include a reflection answering the following questions:
 Trying to figure out how to use a vanilla js library in React
 
 * How did you solve that challenge? What was your approach?
-We didn't solve it. We Googled, we npm installed the most similar React library, created new components, got things from the index.html through the window. 
+We didn't solve it. We Googled, we npm installed the most similar React library, created new components, got things from the index.html through the window, tried typing 'this' in various locations. 
 
 * What did you like the most about the challenge?
 Learning to be productive on day one in an existing code base in a framework I didn't know.
 
 * What are three technical concepts you learned during this project?
-SQL except statements, Using a CSS library from a CDN in React, Lots of things that don't work in React
+SQL EXCEPT statements, Using a CSS library from a CDN in React, Lots of things that don't work in React
 
 ## Open Source Project
 
