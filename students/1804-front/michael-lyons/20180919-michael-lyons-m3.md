@@ -81,6 +81,13 @@ During this module, I tried to continue integrating myself into the Turing Commu
 
 ## Final Review
 
+- **A: End-of-Module Assessment**: 3.5
+- **B: Individual Work & Projects**: 3.5
+- **C: Group Work & Projects**: 3.5
+- **D: Professional Skills**: 3.5
+- **E: Community Participation**: 4
+
 ### Notes
 
 ### Outcome
+ PASS
