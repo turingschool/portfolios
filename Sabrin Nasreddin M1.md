@@ -7,7 +7,7 @@ I set out to pass mod 1,  grow, learn/improve as much as I can and feel comforta
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: Monday -2.8 Tuesday -2.8 Wednesday quizlet 4
+* **A: End-of-Module Assessment**: Monday -3 Tuesday -3 Wednesday quizlet 4
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 2
