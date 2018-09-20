@@ -10,13 +10,13 @@ What did you struggle most with this module? What did you learn from that strugg
 
 ## Blog
 
-[Link to Blog Post] (https://medium.com/@rebecca.e.hyland/overriding-bootstrap-default-styling-in-ruby-on-rails-fabffd1c04e2)
+[Link to Blog Post](https://medium.com/@rebecca.e.hyland/overriding-bootstrap-default-styling-in-ruby-on-rails-fabffd1c04e2)
 
 Summary (1-3 sentences):
-*When using Bootstrap, you don't have to sacrifice styling. Make sure you are correctly installing Bootstrap and naming your stylesheets, and you'll see those colors show up on your Rails app. Code snippets from my Rails app included!
+* When using Bootstrap, you don't have to sacrifice styling. Make sure you are correctly installing Bootstrap and naming your stylesheets, and you'll see those colors show up on your Rails app. Code snippets from my Rails app included!
 
 ## ActiveRecord Obstacle Course
-[Link to Pull Request] (https://github.com/turingschool-projects/activerecord-obstacle-course/pull/21)
+[Link to Pull Request](https://github.com/turingschool-projects/activerecord-obstacle-course/pull/21)
 
 Was this helpful for practicing ActiveRecord?
 * Yes, and it helped to complete them with a mentor or classmate. This program will continue to be a helpful study resource.
