@@ -1,0 +1,121 @@
+# Tory Dannenberg - M2 Portfolio
+
+## Areas of Emphasis
+
+_What was your learning focus this inning? What technical and communication skills did you want to grow? Do you feel like you've achieved those goals?_
+
+My focus this inning was to solidify my knowledge of javascript so that I would be able to dive into other libraries/frameworks when you got to them, namely React. Problem-solving was also a strong emphasis this inning and definitely something I wanted to focus on improving. On the communication side I wanted to approve my ability to give verbal feedback. 
+I believe that I have largely achieved those goals. I am now pretty comfortable with javascript, OOP, nested array prototypes and was able to gain a good understanding of React in a short amount of time. I am looking forward to practicing IdeaBox and other projects over the long break so that I can hit the ground running next mod. My problem solving skills and communication skills have improved, although there is still lots of room for growth in those areas. 
+
+## Self-Evaluation
+_How do you feel you did in these areas this inning?_
+
+* **A: Individual Work & Projects**: _3+_
+* **B: Group Work & Projects**: _4_
+* **C: Professional Skills**: _3_
+* **D: Community Participation**: _4_
+* **E: Final Assessment**: _3_
+
+-----------------------
+
+## A: Individual Work & Projects
+
+_Reflect on your individual work and projects throughout the inning. Did they help you with your areas of emphasis (from above)? What was the most challenging? What patterns do you plan to continue for the next inning? What do you plan to change?_
+
+The two individual projects this mod were very different and challenging in that there was no UI whatsoever for either project. They were definitely an adjustment, but I enjoyed the mental challenge that these projects brought. It was good problem solving practice, which I definitely need to get more of going forward, but definitely improved throughout this mod largely thanks to these two projects. I plan on changing the pace at which I do projects such as sorting suite in the future and front-loading them a lot more. 
+
+### Study Habits
+
+_What did you notice changed in your study habits from the previous inning to this one? What stayed the same? Do your study habits serve you well?_
+
+This mod I was definitely better about forcing myself to take poms, setting struggle limits, and reaching out to my peers when I needed help, which definitely served me well. I was pretty good about attending Iron FEs which also was a huge help. I did not do as good of a job pre-reading and re-reading the lessons as I did in mod 1, and plan on focusing on that again in mod3. For the most part my study habits serve me well but there is plenty of room for improvement!
+
+
+### Sorting Suite
+* **Outcome:** _Pass/Fail_
+
+_What did you enjoy about Sorting Suite? What was challenging? How did working together on Sorting Suite compare to your work for GameTime? for Weathrly? How does this project serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
+
+Sorting-suite was definitely a new and different challenge from all the other Turing projects but in the end it was an enjoyable project. Using recursion and building algorithms was definitely exciting, especially when you finally get them working! It was an individual project so it was definitely way different working together with people on sorting-suite compared to GameTime and Weatherly. There was no ping-pong or driver-navigator work, any group work was mostly just white-boarding and talking through the code. I am looking forward to practicing these again over break in case they ever come up on an interview.
+
+
+### Complete Me
+* **Fundamental JS and Style:** _3_
+* **Testing:** _2.5_
+* **Encapsulation/Breaking Logic into Components:** _3_
+* **Functional Expectations:** _4_
+* **Code Sanitation:** _2.5_
+
+_What did you enjoy about Complete Me? What was challenging? How did working together on Sorting Suite compare to your work for GameTime? for Weathrly? How does this project serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
+
+I really enjoyed conceptualizing and white-boarding Complete me and trying to visualize moving from node to node. It was also the first time I had ever used while loops, so it was gratifying to finally figure those out. Similar to sorting-suite, group work for Complete Me was mostly just white-boarding and talking through the concepts. This project definitely helped with my problem solving skills, which was an emphasis. I am looking forward to practicing these again over break in case they ever come up on an interview.
+
+## B: Group Work & Projects
+
+_Reflect on your group work and projects throughout the inning. Did they help you with your areas of emphasis (from above)? What was the most challenging? What patterns do you plan to continue for the next inning? What do you plan to change?_
+
+### GameTime
+* **Partner:** _Megan Kaiser_
+* **Game:** _Snake_
+* **Functional Expectations:** _4.5_
+* **User Interface:** _0 - 4_
+* **Testing/Code Sanitation:** _0 - 4_
+* **JS Style:** _0 - 4_
+* **Workflow:** _0 - 4_
+
+_What did you enjoy about GameTime? What was challenging? What skills did you learn that serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
+
+GameTime was fun because we got to build snake! Anyone who ever had one of the original Nokia cell phones loved that game. It also helped me understand OOP and having completely separate classes who are completely unaware of each other, but can still collide. I also had a partner who I was not very familiar with, which helped me challenge my communication skills. I also had a chance to enter it into the Code Fair which was a fun experience and will serve me in the long run. 
+
+### Weathrly
+* **Partner:** _Jesse McFadden_
+* **Spec Adherence:** _2_
+* **User Interface:** _3_
+* **HTML Style:** _3_
+* **CSS/Sass Style:** _3_
+* **JS/React Style:** _3_
+* **Testing:** _3_
+* **Workflow:** _3_
+* **Code Sanitation:** _0 - 4_
+
+_What did you enjoy about Weathrly? What was challenging? What skills did you learn that serve your Areas of Emphasis (from above)? How does it serve your overall goals at Turing and beyond?_
+
+Weatherly was our first React project which made it very enjoyable. I am extremely proud of what I was able to build with only a few react lessons, and look forward to continue to learn more and more about React. This was one of my goals of the Mod so it felt good to finally get into it and start figuring it out. I cannot wait to work on it more over the break and then in mod 3. 
+
+## C: Professional Skills
+
+* **PD Sessions:**
+  * Agile Practices
+  * Feedback II, III
+  * Storytelling II
+  * Outreach and Networking
+
+_What did you learn during the PD sessions that was surprising? What skills did you hone? Do you feel better prepared for your future professional life as a developer?_
+
+I learned a lot more about myself and how to talk about my past, good ways of trying to network and reach out to new people, and some leadership skills. I honed my feedback skills, but still have a lot of room to improve. I feel better prepared for my future as a professional developer and look forward to working on networking a lot more going forward. 
+
+* **Gear Up Sessions:**
+*Empathy
+*Getting better at difficult things
+*Success through failure
+
+_What did you learn during the Gear Up sessions that was surprising? Do you find it important to have conversations like the ones in the Gear Up Sessions? Do you feel like you have the tools to keep having these conversations in the future? in your workplace? with your teammates?_
+
+I learned a lot during the gear ups during this mod, especially the empathy one. It was surprising to learn so much about a few classmates backgrounds and definitely brought us a lot closer. I was nervous at first but feel like it was tremendously important conversation and look forward to continuing them in the future. 
+
+
+## Community Participation
+
+_Reflect on your community participation this inning. How did you opt-in to the community here at Turing? in Denver? Did you pair with students in other modules? Was the experience enjoyable? Illuminating?_
+
+I feel like I contributed a lot to the overall community. I was one of the SAB reps for our cohort and helped to plan the students vs staff basketball game (and then helped deliver a big WIN for the students). I paired numerous times with mod1 to help them with their projects, organized tutor sessions by mod2ers to help mod1 with mythical creatures, and organized a meet up happy hour at the beginning of the inning to help the mod1ers feel more comfortable. I love the community at Turing and couldn’t be happier with my experiences with them so far. 
+
+## Final Assessment
+
+_What skills from this inning do you plan to review/strengthen over intermission week? What are you looking forward to about next inning? What are you going to do over intermission week to recharge your batteries and reconnect with your longterm goals?_
+ 
+React and testing will definitely be my main focus heading into the break. I definitely struggled with testing this mod and am looking forward to some free time to get a lot better at writing tests. I am also planning on building idea box and (hopefully) one other mod 1 project in React. I have heard that mod 3 is the most challenging at Turing so I am most looking forward to taking that challenge head on and really pushing myself. I am hoping to do some camping and kayaking with some of my classmates over break to help recharge and reconnect. 
+
+
+# Outcome:
+_Leave blank for instructors_

@@ -1,0 +1,74 @@
+# Paul Kim - M2 - 20180801 -- Portfolio
+
+
+
+###### Areas of Emphasis
+
+	- Set out to learn base level React, 
+    - Be highly proficient in array/object prototypes
+	- Be more social and open  
+
+### Rubric Scores
+- End-of-Module Assessment: 3.665
+- Individual Work & Projects: 3.667
+- Group Work & Projects: 3.6659
+- Professional Skills: 3.1665
+- Community Participation: 3.5665
+- End of Module Assessment
+	- I passed 
+
+### Individual Work & Projects
+	- COMPLETE ME
+		- Description: 
+			- Autocomplete features are a very common convention for text inputs on search fields. For this project I developed a low level version of an auto complete system in JavaScript. 
+		- Evaluation Comments: 
+			- Good articulation and problem-solving process, though latches onto code a little too quickly. 
+			- (Whiteboarding shouldn't include any code, be more high-level with it.) 
+			- I'd like to see you move away from the keyboard a bit more after you start coding, and get back to talking through things/whiteboarding rather than continuing to write out code.
+		- Evaluation Score: 
+			- 3 - 3.5
+		- Github URL: 
+			- https://github.com/sojurner/Complete-me
+
+### Group Work & Projects
+#### Game-Time
+
+		- Description: 
+			- Autocomplete features are a very common convention for text inputs on search fields. For this project I developed a low level version of an auto complete system in JavaScript. 
+		- Evaluation Comments: 
+			- Variable/method naming needs a little work. 
+			- Some properties like keyPressed and stopped vs paused vs isGameOver 
+        	- Adds a little confusion to understanding the code from an outsider's perspective.
+        	- Some room for refactoring and moving methods/properties onto other classesdemonstration of OOP is mostly there, but could use a little clarification.
+		- Evaluation Score: 
+			- 3 - 3.5
+		- Github URL: 
+			- https://github.com/sojurner/game-time-1
+
+#### Weatherly
+
+		- Description: 
+			- Built a weather application with ReactJS while implementing asynchronous javascript, and managing UI.  
+		- Evaluation Comments: 
+			- Update Card tests to use .text()
+			- Remove querySelector method calls
+			- Use a CurrentWeather component
+		- Evaluation Score: 
+			- None
+		- Github URL: 
+			- https://github.com/Haub/weatherly
+
+
+
+## Community Participation
+	
+    - I went out of my way to be more open and social in Mod 2.
+    - Attended group study sessions and helped anyone who came to me with a question
+	- I am now a new SAB representative starting Mod 3
+
+## Final Review
+
+### Notes
+
+
+### Outcome

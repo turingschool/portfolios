@@ -4,7 +4,6 @@
 
 What did you set out to accomplish this module? Were you successful?
 
-
 What did you struggle most with this module? What did you learn from that struggle?
 
 ## Projects
@@ -16,8 +15,6 @@ What did you learn from your independent projects?
 What did you learn from your paired projects?
 
 ## Community
-
-What was your favorite Gear Up? Least favorite? Why?
 
 How did you contribute to the Turing community this module?
 

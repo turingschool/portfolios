@@ -1,0 +1,144 @@
+# Kevin Krom - M2 Portfolio
+
+## Areas of Emphasis
+
+Ultimately, I wanted to become more comfortable with array prototype methods and continue building on my abilities with javascript and better understand React works and learn to love it. Part of being a software developer is learning new frameworks and being adaptable. I wanted to improve upon my process and have intent behind my actions. There is still a lot of opportunity to grow but it's nice to see where I was at the end of mod1 compared to now. 
+
+Outside of the technical skills, I wanted to get better at providing actionable feedback. Coding happens in groups and you're always going to be working with a diverse group of people who you might or might not agree with. Really wanted to improve this element of my skillset during Mod2. 
+
+
+## Self-Evaluation
+
+I learned so much this mod and at times it felt overwhelming and it's super easy to get down on yourself or make comparisons to others in the mod, but it was great. Looking back from mid-mod to final assessment, I'm pretty proud of where I'm at at but am fully aware of where I need to be in order to be a contributing developer on a team somewhere. 
+
+Despite all the fires going on around me regarding my own learning, I still made it a point to work with Mod1 students on their projects and paired most afternoons. That was nice because it provided a much needed break and reinforced to some of the fundamental concepts. It was also a nice opportunity to be like, "despite complete-me kicking me in the teeth, it turns out, I am learning things and can help others learn". That's a pretty cool realization and if for nothing else, I'm thankful for that. 
+
+Do I need to improve, 100% but I'm ready and committed to do what's necessary in order to be successful in this program. 
+
+One last note, I have a real serious case of imposter syndrome. There isn't much in this world (besides skiing and maybe eating pizza) that I consider myself inherently good at. This program is me pushing myself in an area that I'm aware is a weakness and turning it into a strength  
+
+* **A: Individual Work & Projects**: 3
+* **B: Group Work & Projects**: 3.25
+* **C: Professional Skills**: 3.5
+* **D: Community Participation**: 3.5
+* **E: Final Assessment**: 2.5
+
+-----------------------
+
+## A: Individual Work & Projects
+
+Individual projects were a challenge and in part, it was because they seemed to be centered around sorting algo's and binary trees. Those happen to be some weaknesses of mine. I'm not sure if this wasn't the right course of action but I made it a point to work with those who understood the subject matter far better than me and continue to drill in on what was going on. I also learned in this mod, if you're struggling and unclear, ask for clarification, if you're still unclear, struggle a little more, ask for clarification. Make sure you understand before moving on.
+
+The individual projects were a humbling experience without a doubt but it helped me when it came for asking for help. Ask with specific questions and don’t stop till you figure it out! 
+
+
+### Study Habits
+
+Studying is something I know how to allocate time towards. This mod, I did a much better job of allocating poms. Going a step further, I set goals of what I would accomplish during each work period. That was really helpful and felt a bit like Agile. I would set goals and whatever I didn't accomplish, I would add that to the list of what I wanted to get done to the next sprint! I also have been incredibly focused on fully understanding a problem before I jump in and start coding away. I've been writing down what I want to get out of each period and that's been helpful to track what areas I still need to improve. 
+
+Overall, I know I need to work harder than most people and I'm not afraid to put that time in. I plan on setting up a tutor beyond working with classmates because I grasp concepts a bit slower then the pace at Turing would like. 
+
+
+### Sorting Suite
+* **Outcome:** Pass
+
+SortingSuite:
+To be completely honest, sortingSuite was a massive challenge. It felt a lot like JS was asking us to do things that felt so incredibly wrong (ex. Calling a separate function TWO TIMES, inside of another function, and then invoking the parent function inside of itself with params. It was cool to get everything finished off and realize how far I’ve come regarding the fundamentals of sorting suite. Destructuring made a lot more sense and just understanding how loops interact with each other was nice. Testing sorting sweet was actually fun which was a nice change of pace. It was really interesting to see how long it took individual sorting algo’s to sort various sized arrays. I can’t say I ever thought I’d see a day where I was looking forward to testing but that was a fun element of sorting suite. 
+
+### Complete Me
+* **Fundamental JS and Style:** _2.5
+* **Testing:** 2.5
+* **Encapsulation/Breaking Logic into Components:** 3
+* **Functional Expectations:** 4
+* **Code Sanitation:** 3
+
+I enjoyed finally (later than most) understanding how everything broke down into nodes. I also have spent a lot of time prior to Turing being blissfully ignorant as to what a node really is and complete-me, answered that question. It was also cool to see OOP in action. One of my goals over break is to implement complete-me into weatherly. 
+
+If we're being honest, this project almost broke me. I struggled so hard and didn't really feel like I was ever going to understand things. As much as the eval was a painful and sweaty experience, working with Brittany was awesome. She held me accountable and it was probably the best and most actionable feedback I've received in Turing and for that, I'm grateful. It was cool because during said sweaty experience, things really started to click. Better late than never, eh? 
+
+This project will help me to take the necessary time to understand what the project is asking of me. I jumped in without ever getting a high-level understanding of the problem. Moving forward, if I'm unclear, I'm going to make sure I work to get on the same page. I also think this will be an awesome reference story during interviews to speak to what a binary tree is relative to linked-list and why they're important. 
+
+## B: Group Work & Projects
+
+Absolutely. It was actually an interesting Mod for group work. I was on both sides of the spectrum when it came to ability in the group projects. In gameTime, I was holding on and just trying to keep up. I didn't voice my lack of clarity on certain things which was a big problem. I tend to think that most other people have the right answers which isn't ideal. I need to work on speaking out when things don't seem to make sense. Worst case scenario, we both have a better understanding of the code because it forces the other party to explain their thought process. 
+
+On Weatherly, it was the most fun I've had at turing thus far. React was something that seemed to come more naturally to me than my partner and I made the mistake of putting my head down and continuing to work when it was clear that he wasn't feeling stable on what was going on. It turned out to be a good experience because I was able to work on providing feedback that wasn't sunshine and rainbows. It turned out to be an awesome discussion where we both felt better after and started working together much better. 
+
+Speaking to the technical goals, learning react was awesome and I'm super excited to continue progressing in that language wherever I end up! 
+
+
+### GameTime
+* **Partner:** Gavin Love
+* **Game:** Centipede
+* **Functional Expectations:** 3
+* **User Interface:** 3
+* **Testing/Code Sanitation:** 2
+* **JS Style:** 2
+* **Workflow:** Pass
+
+It was cool to actually build a game that people could play and enjoy. It was a good experience because I learned that everything is an array and if it wasn't, it should be. It was also a good refresher on loops. I got my first experience with array prototypes. We had a nasty function that contained 4 nested array prototype methods. 
+
+Overall, it was a good experience for how to handle partners who move at a faster pace than you. You need to have a solid conversation at the beginning of how to have the difficult conversations. It's not always going to be sunshine and rainbows. Be prepared for those conversations. 
+
+### Weathrly
+* **Partner:** Joel
+* **Spec Adherence:** 3
+* **User Interface:** 3
+* **HTML Style:** 3.5
+* **CSS/Sass Style:** 3.5
+* **JS/React Style:** 2.5
+* **Testing:** 2.5
+* **Workflow:** 3.5
+
+
+Weatherly was the most fun I've had at Turing hands down. Favorite part was interacting with the fetch call. It felt like I was building something real. That was the most helpful and exciting part of the project. One morning, I woke up and instead of checking my phone for the weather, I pulled up weatherly. It felt super cool to build something with real world versatility. I like that feeling and it reminded me that I could be a developer despite all my negative thoughts. 
+
+The biggest challenge I had was testing localStorage. We got ripped by Jhun which was completely justified but it was nice because I paired with him again on another challenging test and I actually came to the answer before him! I know that testing is gonna be brutal moving forward so moving into the break, I'm going to getting a tutor to help with some of the core concepts of React. Oddly enough, I'm excited about that. 
+
+How this helps with overall goals, gotta learn React and I'm so excited that I'm getting to learn it now!
+
+## C: Professional Skills
+
+* **PD Sessions:**
+  * 
+
+  ## Agile & Waterfalls: 
+  It was cool to take the experience I've had with Agile and understand why it was created along with how it works with software development. I'm a firm believer in following that type of process when building a large scale application and it is something I'd like to implement moving forward in Turing. Set daily goals and stick to them. 
+
+## Feedback II:
+A lot of what I took away from this PD was how to have empathy for the other party but also make sure you're providing feedback that they could use. It was awesome to actually go through this PD and use the lessons learned to make a paired project work. You don't have to build up difficult conversations in your head because chances are, you can make things better by having those conversations.
+
+## Johari Window: 
+This was a good experience but it was made difficult by the fact that I only had 1 person who could give me feedback. Everybody else has left the program... It made collecting the data for myself more difficult. I spoke with Allison after and got Andrew James to provide some feedback for me to help me get a better picture of areas that I could improve. It'll be interesting to keep that going and build a better window. 
+
+## Outreach and networking:
+This was a GREAT session because I've spent the last 4 years doing cold outreach. I actually was reaching out to some recruiter friends and had a solid 100% response rate (they were warm touches). The only feedback I would have is it seemed like the initial email was a bit long. The purpose of the initial email is to set up a time to meet. I've also found that using 'I' in emails will reduce your response rate. 
+
+## Story telling
+Coming from sales, I'm all for practicing your delivery and getting reps in when you're having important conversations. I am struggling with my transition from, 
+'oh, I was in sales and I wasn't challenged so I decided to take something that I'm bad at and turn it into a strength'. I want to work on going to network events and getting live reps in because I've always struggled to be authentic when it comes to practice reps. It worked that way in sales as well. Some people love doing mock sales pitches but that wasn't me. I just gotta get out there and fail a few times. 
+
+
+* **Gear Up Sessions:**
+  * Empathy, learning difficult things, AI Karumba
+
+  It's important to recognize how much privilege I have as a straight white male. The Empathy gear up was a good reminder as to how many people see things differently. What I took away from it was how important it is for me to help those who might not feel as comfortable speaking out in group settings. I absolutely feel like I'm prepared to have these conversations in the future. Having worked at Stack, they encouraged you to have these talks and it turns out, they're super helpful!. 
+
+  I've mentioned it before, having the conversation in this mod that wasn't pretty was a huge learning opportunity. Turns out, if you can tie your issue back to the overall goal of the project, it's easy to gain consensus. 
+
+## Community Participation
+
+I made it a point to no matter how stressful things got with my own work to pair as much as I could without setting myself too far back. It was a great reminder that I am learning things and helping others feels super good. It was also good to help others out who were running into issues that I dealt with during Mod1 and moving into mod2. Super illuminating and it reinforced the skills I learned in mod1. 
+
+
+## Final Assessment
+
+Oh, I'm 100% committed to getting a tutor and becoming super solid on react, working with massive array prototypes. I'm going to create a plan of a day or two off in nature. then, hit the ground running. Working 8-10 hours a day on the areas I need to sure up. 
+
+Recharge: go camping and see my parents in Seattle. Hike with my dog Finn. Go out to a nice dinner and eat as much food as I can. 
+
+Long-term goals: Get a tutor. I can't survive this without more help than some others in this mod and I'm aware of that. I just need to do it. 
+
+
+# Outcome:
+_Leave blank for instructors_
