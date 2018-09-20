@@ -30,7 +30,13 @@ PASS
 
 Recreate the original class Tron arcase game with Canvas. 
 
-Thumbs up!
+Comments:
+
+Really LOVE the controllers for the user underneath the main screen. Creative yet functional and easy to understand.
+Be sure to test your screens against standard laptop sizes. When I play this game on my laptop I have to zoom out to 80% to see everything on the page.
+
+## Functional Expectations
+* 4 - Application is fully playable and exceeds the expectations set by instructors
 
 #### COMPLETE-ME
 
