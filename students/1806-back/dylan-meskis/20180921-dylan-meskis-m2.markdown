@@ -54,7 +54,7 @@ new developers set up their first rails project.
 
 #### (ActiveRecord Obstacle Course)
 * [GitHub Url](https://github.com/dmeskis/activerecord-obstacle-course)
-
+* [Pull Request Url](https://github.com/turingschool-projects/activerecord-obstacle-course/pull/1)
 Promotion to mod 3 requires completion of a ActiveRecord obstacle course, which
 features many queries in Ruby that needed to be translated into ActiveRecord.
 
