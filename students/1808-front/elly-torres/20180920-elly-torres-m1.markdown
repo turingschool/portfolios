@@ -7,9 +7,9 @@ I set out to gain the basic foundations of front-end development and start my sh
 ## Rubric Scores
 Out of 4 statrs:
 
-* **A: End-of-Module Assessment**: pending
-* **B: Individual Work & Projects**: 3
-* **C: Group Work & Projects**: 3.5
+* **A: End-of-Module Assessment**: 3.5
+* **B: Individual Work & Projects**: 4
+* **C: Group Work & Projects**: 3.8
 * **D: Professional Skills**: 3.5
 * **E: Community Participation**: 3
 
@@ -17,7 +17,7 @@ Out of 4 statrs:
 
 ## A: End of Module Assessment
 
-pending
+Pass
 
 
 ## B: Individual Work & Projects
@@ -57,10 +57,6 @@ Evaluation comments: Minor margin issues and responsiveness.
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-3.html)
 
 Recreate static comp with little creative license on layout.
-
-(evaluation comments)
-
-(evaluation scores)
 
 
 ## C: Group Work & Projects
