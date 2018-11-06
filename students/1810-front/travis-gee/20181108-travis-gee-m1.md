@@ -47,7 +47,7 @@ My goals for the module were to be compentent and confident enough to able to ex
 
 #### Foto Finder
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/geet084/foto-finder)
 * [Original Assignment](http://frontend.turing.io/projects/foto-finder-final.html)
 
 (description)
