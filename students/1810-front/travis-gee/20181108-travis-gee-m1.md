@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Travis Gee - M1 Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+My goals for the module were to be compentent and confident enough to able to explain concepts to others as a way of confirming my understanding of the topics covered.
 
 ## Rubric Scores
 
