@@ -96,35 +96,21 @@ My goals for the module were to be compentent and confident enough to able to ex
 * Might find ways to organize functions by error handling, etc instead of alphabetically
 
 ##### Evaluation scores
+* [Number Guesser Evaluations Github](https://github.com/geet084/front-end-submissions-public/blob/master/1810/mod-1/number-guesser/jeo-travis.md)
 
-###### Functional Expectations
-
-* Proficient: Application meets some of the phase two extensions and demonstrates good execution and control of the UI. 
-
-
-###### COMP RECREATION / DESIGN
-
+ Functional Expectations
+* Proficient
+ COMP RECREATION / DESIGN
 * Proficient  
-
-
-###### HTML
-
+ HTML
 * Proficient  
-
-
-###### CSS
-
+ CSS
 * Proficient  
-
-
-###### JS/jQuery
-
+ JS/jQuery
 * Advanced Beginner  
-
-
-###### Surprise and Delight (reminder: have fun!)
-
+ Surprise and Delight (reminder: have fun!)
 * Sparkles  
+
 
 
 #### IdeaBox
