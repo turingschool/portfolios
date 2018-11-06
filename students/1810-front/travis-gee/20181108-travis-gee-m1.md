@@ -23,10 +23,10 @@ My goals for the module were to be compentent and confident enough to able to ex
 
 (Intro)
 
-#### (Project Name)
+#### Static Comp 1
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/geet084/tg-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
 (description)
 
@@ -34,16 +34,52 @@ My goals for the module were to be compentent and confident enough to able to ex
 
 (evaluation scores)
 
+#### Static Comp 2
+
+* [GitHub URL](https://github.com/geet084/tg-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### Foto Finder
+
+* [GitHub URL]()
+* [Original Assignment](http://frontend.turing.io/projects/foto-finder-final.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+
 ## C: Group Work & Projects
 
 ### Projects
 
 (Intro)
 
-#### (Project Name)
+#### Number Guesser
 
 * [GitHub URL]()
-* [Original Assignment]()
+* [Original Assignment Week 1](http://frontend.turing.io/projects/number-guesser-doubles-wk1.html)
+* [Original Assignment Week 2](http://frontend.turing.io/projects/number-guesser-doubles-wk2.html)
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### IdeaBox
+
+* [GitHub URL](https://github.com/ericweissman/idea-box)
+* [Original Assignment Week 1](http://frontend.turing.io/projects/ideabox-triples.html)
+
 
 (description)
 
