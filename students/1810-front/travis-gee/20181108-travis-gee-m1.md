@@ -101,20 +101,15 @@ My goals for the module were to be compentent and confident enough to able to ex
 * Functional Expectations
   * Proficient
 * COMP RECREATION / DESIGN
-
- Proficient  
+  * Proficient  
 * HTML
-
- Proficient  
+  * Proficient  
 * CSS
-
- Proficient  
+  * Proficient  
 * JS/jQuery
-
- Advanced Beginner  
+  * Advanced Beginner  
 * Surprise and Delight (reminder: have fun!)
-
- Sparkles  
+  * Sparkles  
 
 
 
@@ -143,26 +138,18 @@ My goals for the module were to be compentent and confident enough to able to ex
   the text when we display it.
   
 ##### Evaluation scores
+* [Idea Box Evaluations Github](https://github.com/geet084/front-end-submissions-public/blob/master/1810/mod-1/idea-box/travis-eric.md)
 
-###### Functional Expectations
-
-*  Proficient - Applications adds 'Filtering by Importance' and 'Recent Ideas' as outlined in the spec
-
-###### Comp Recreation
-
-*  Proficient - Application implements all major comp details accurately and correctly on desktop and mobile (colors, fonts, icons,spacing, alignment,  etc.) with smooth transitions between screen sizes. Additional elements added generally match the visuals established in the comps, but may be slightly awkward
-
-###### HTML - Style and Implementation
-
-*  Advanced Beginner - Application adds to the above by using appropriate semantic elements and using `data-*` attributes for all data related things
-
-###### CSS - Style and Implementation
-
-*  Proficient - Applications adds to the above by removing repetitive rules and blocks of code according to the DRY principle
-
-###### JAVASCRIPT - Style and Implementation
-
-*  Proficient - Application adds readability by incorporating both DRY and SRP practices and students can speak to implementation decisions and:
+* Functional Expectations
+  *  Proficient - Applications adds 'Filtering by Importance' and 'Recent Ideas' as outlined in the spec
+* Comp Recreation
+  *  Proficient - Application implements all major comp details accurately and correctly on desktop and mobile (colors, fonts, icons,spacing, alignment,  etc.) with smooth transitions between screen sizes. Additional elements added generally match the visuals established in the comps, but may be slightly awkward
+* HTML - Style and Implementation
+  *  Advanced Beginner - Application adds to the above by using appropriate semantic elements and using `data-*` attributes for all data related things
+* CSS - Style and Implementation
+  *  Proficient - Applications adds to the above by removing repetitive rules and blocks of code according to the DRY principle
+* JAVASCRIPT - Style and Implementation
+  *  Proficient - Application adds readability by incorporating both DRY and SRP practices and students can speak to implementation decisions and:
 
 
 
