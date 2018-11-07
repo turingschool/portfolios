@@ -1,0 +1,70 @@
+# M2 Portfolio
+
+## Areas of Emphasis
+
+What did you set out to accomplish this module? Were you successful?
+- As a repeater, I wanted to take the time to really understand the lectures and to be able to follow along with the code examples.  I feel like I have been successful this time around (since I was a repeater).  
+
+What did you struggle most with this module? What did you learn from that struggle?
+- I still struggle with ActiveRecord.  I'm getting better and am learning new ways to use it.  
+
+## Blog
+
+Link:  https://medium.com/@lindebergnick/feature-testing-in-rails-with-rspec-and-capybara-8cb8ee38cb6a
+
+My blog is about testing in RSpec and capybara.  It shows how to set up a basic test as well as some tips to make your testing more legible and useful.   
+
+## ActiveRecord Obstacle Course
+Link: https://github.com/NickLindeberg/activerecord-obstacle-course-1
+
+Was this helpful for practicing ActiveRecord? Yes, absolutely.  My plan is to do it over again over the break.  I wish there was a way to practice it online like the sql course.
+
+## Projects
+
+What were your favorite projects this module? Least favorite? Why?
+
+- Favorite was little shop.  I enjoyed working with my group partners and I feel like I learned a good deal more about testing.   
+
+- Least favorite was solo little shop.  I had a hard time focusing on the project when we had some many other things due around the same time.  
+
+What did you learn from your independent projects?
+
+- Time management is really important.  Getting more done up front was really helpful for me, especially in LaughTracks.  
+
+What did you learn from your paired/group projects?
+
+- I learned you can test features using shoulda-matchers.  I don't recommend it but you can do it.  I got more comfortable with testing as well.  
+
+
+## Community
+
+How did you contribute to the Turing community this module?  I did my best to help my cohort with project questions, especially early on.  
+
+What would you like to do to contribute next module?  I would like to help the future mod 2 students work on their projects.  
+
+### Member of a Posse
+
+What did you do with your posse over this module?  Not much going on in the podcast posse this inning.  
+
+What is your favorite thing about the posse experience? I've met several folks in other mods and the front end program.  It's been great to get to know people.  
+
+How has your posse experience helped you grow as a professional? I've learned to network with people.  
+
+## Self-Assessment Scores
+
+Fill in how **you** would grade yourself from 1-4 in the following categories this module.
+
+1. Below Standard
+2. Approaching Standard
+3. Meets Standard
+4. Above Standard
+
+
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   3   |
+| **Group Projects**           |   3   |
+| **Professional Development** |   3   |
+| **Community**                |   4   |
+| **Final Paired**             |   4   |
+| **Final Verbal**             |   4   |
