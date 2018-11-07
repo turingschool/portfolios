@@ -6,7 +6,7 @@ In this module, I hoped to gain proficiency in HTML, CSS, and JavaScript for web
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
+* **A: End-of-Module Assessment**: N/A
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 4
 * **D: Professional Skills**: 3
@@ -16,7 +16,7 @@ In this module, I hoped to gain proficiency in HTML, CSS, and JavaScript for web
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+Passed
 
 
 ## B: Individual Work & Projects
