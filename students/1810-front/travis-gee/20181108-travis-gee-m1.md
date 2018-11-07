@@ -27,40 +27,31 @@ Passed
 * [GitHub URL](https://github.com/geet084/tg-comp-challenge-1)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+We were tasked with re-creating a website based on a provided composition
 
 #### Static Comp 2
 
 * [GitHub URL](https://github.com/geet084/tg-comp-challenge-2)
 * [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
 
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+We were tasked with re-creating a website based on a provided composition
 
 #### Foto Finder
 
 * [GitHub URL](https://github.com/geet084/foto-finder)
 * [Original Assignment](http://frontend.turing.io/projects/foto-finder-final.html)
 
-(description)
+For this project I created an app that allows the user to add photos to the page with titles and captions. This project implemented local storage so that all of the photo cards persisted on the page after reloading. Once they upload them the user can then favorite them, edit the existing captions or delete them from the page.
 
-(evaluation comments)
+(evaluation comments) tbd
 
-(evaluation scores)
+(evaluation scores) tbd
 
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
 
 #### Number Guesser
 
@@ -156,7 +147,7 @@ For this project we created an app that allowed you to add all of your ideas via
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I did not participate as much in the overall community as much as I probably should have. I have gone to Brothers a few times, and a couple of the larger Turing events as well. Overall I think most of my contribution was more local to the cohort where I have been able to help others with their projects and learning.
 
 ------------------
 
