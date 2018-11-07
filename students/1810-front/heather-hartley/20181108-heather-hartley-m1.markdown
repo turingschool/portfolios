@@ -103,7 +103,7 @@ TBD
 - For your time, try rounding the numbers using Math.round or Math.floor
 
 #### Evaluation Scores
-- Function Expectations: *proficient*: application meets some of the phase two extensions and demonstrates good execution and control of the UI
+- Function Expectations: *proficient*:
 - Comp Recreation / Design: *advanced beginner*
 - HTML: *novice*
 - CSS: *advanced beginner*
@@ -113,6 +113,7 @@ TBD
 
 * [GitHub URL](https://github.com/hlhartley/ideabox-triples)
 * [Original Assignment](http://frontend.turing.io/projects/ideabox-triples.html)
+* [Evaluation](https://github.com/turingschool/front-end-submissions-public/blob/master/1810/mod-1/idea-box/matthew-heather-david.md)
 
 #### Description
 - *Overall: users can type text into a title and body input box and save their ideas into a unique card*
@@ -129,10 +130,17 @@ TBD
 - Various search and filter features
 
 #### Evaluation Comments
-TBD 
+- Watch stylistic consistency within the codebase -- alternate between `rem` and `em` for font-size and using `0` vs `0px`
+- HTML is generally well named and well structured, a couple of places that a more modular approach could be used to make classes more reusable
+- JS has some areas that could use refactor
+- `showMoreLessCards()` function uses an approach to hide/show cards beyond 10 that is very hacky and won't hold up to user testing (adds or removes a fixed height on the parent card container with no overflow) -- not a true solution for this functionality
 
 #### Evaluation Scores
-TBD
+- Function Expectations: *advanced beginner/proficient*
+- Comp Recreation / Design: *proficient*
+- HTML: *advanced beginner/proficient*
+- CSS: *proficient*
+- JS/jQuery: *advanced beginner*
 
 ## D: Community Participation
 
