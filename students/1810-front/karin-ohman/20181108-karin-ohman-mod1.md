@@ -52,9 +52,9 @@ Evaluation Scores - N/A
 
 This was our final project for Module 1 and our first independent project using JavaScript. The goasl of this project were to incorporate all of our knowledge gained of the module into a final product.
 
-Evaluation Comments - ADD
+Evaluation Comments - TO BE ADDED
 
-Evaluation Scores - ADD
+Evaluation Scores - TO BE ADDED
 
 ## C: Group Work & Projects
 
@@ -109,7 +109,6 @@ This project was a 3-person group project to develop a website for creating and 
 * Nice work creating functions that you can reuse
 * Cheers on jumping into using arrow functions and exploring some es6
 * Some really creative ways of reducing code, like using a forEach on the inputs and adding similar event listeners
-
 
 * Functional Expectations: Exceptional
 * Comp Recreation: Exceptional
