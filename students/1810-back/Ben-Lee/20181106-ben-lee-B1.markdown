@@ -1,0 +1,55 @@
+# Ben Lee - M1 Portfolio
+
+## Areas of Emphasis
+
+What did you set out to accomplish this module? Were you successful?
+
+I set out to develop my professional skills and skills in writing Ruby. At the beginning of the mod, I could often get Ruby code to solve problems. But I didn't have the depth of understanding of Ruby / programming that I have now, I've gotten a lot better at choosing appropriate enumerables. I also had little to no practice with TDD, version control, or at timed independent and paired assessments. I struggled a bit during challenges to be sure to do what was being asked, not more less, and believed I improved at this by the end of the mod.
+I also didn't have any experience coding in pairs or groups. I was glad to get this experience.
+
+What did you struggle most with this module? What did you learn from that struggle?
+
+I struggled with OOP, knowing it's appropriate and helpful to extract something into a class, knowing how much is too much. I've had a similar struggle with version control as well as with tests. I've learned that the way you are able to know what's appropriate is through experience, and through consulting the opinions of those with more experience.
+I also struggled with group dynamics. I learned how to not take things personally and how to temper self-assuredness with diplomacy, friendliness, and humility.
+
+
+
+## Projects
+
+What were your favorite projects this module? Least favorite? Why?
+
+I enjoyed battleship. My partner and I had similar ideas and attitudes toward workflow and were able to accomplish a lot without much friction. My least favorite project was Black Thursday. It stopped being fun after I realized the data was broken and that project was less about doing something that might actually be hypothetically useful, but instead just getting the spec harness to pass.
+
+What did you learn from your independent projects?
+
+Project         Learned about
+Sorting Cards   sorting algorithms. A little bit about O(n) complexity
+Date Night      binary trees. With the approach I took I learned a lot about procs and blocks
+Complete me     non-binary trees.
+Enigma          basic computational encryption, decryption, and cracking.
+
+What did you learn from your paired projects?
+
+In Battleship, I learned about Object oriented programming and coordinate math. I wish I had investigated more about concurrency in Ruby instead of plowing forward with the clunky solution of stacking a game on top of a server, but I did learn how clunky this solution was.
+
+## Community
+
+How did you contribute to the Turing community this module?
+
+I enjoyed being a resource for other students when I was able to be, and take part in nerdy discussions. I brought an enthusiasm for coding. I got to to learn about my cohort-mates (they're great!).
+
+What would you like to do to contribute next module?
+
+As a mod 2 student, I'll be able to help mod 1 students.
+If I have time, I might do something with elixir club, which seems to have gone dormant.
+
+## Self-Assessment Scores
+
+Fill in how you would grade yourself from 1-4 in the following categories this module.
+
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   3   |
+| **Group Projects**           |   3   |
+| **Professional Development** |   3   |
+| **Community**                |   3   |
