@@ -1,10 +1,10 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Tim Garrity - M3 Portfolio
 
 ## Areas of Emphasis
 
 This module I set out to find a passion in programming. Coming into the program I knew explicitly that I wanted to do this in order to be financially successful and free of those nagging worries. 
 
-I am grateful to say that I have found a passion in solving complex logical and mathematical problems. When I encounter these within a project I have fun. The work is stimulating for my mind and lets me focus on more constructive problems instead of my mind wondering.
+I am grateful to say that I have found a passion in solving complex logical and mathematical problems. When I encounter these within a project I have fun. The work is stimulating and lets me focus on more constructive problems instead of my mind wondering.
 
 ## Rubric Scores
 
@@ -40,12 +40,14 @@ PASSED
 
 ### Projects
 
-SW-api Box was my first true introduction to the concept of altering state to reflect updated values on the page. My partner Ben and I struggled with the 'favoriting concept' initially but were able to eventually glean the value of simplicity in code and data storage. React-router, at the time, was essentially magic for both of us but nonetheless started us down the path to utilize this critical piece of technology.
 
-#### (Project Name)
+
+#### SW-api Box
 
 * [GitHub URL](https://github.com/Salamandastron1/swapi-box.git)
 * [Original Assignment](http://frontend.turing.io/projects/swapi-box.html)
+
+SW-api Box was my first true introduction to the concept of altering state to reflect updated values on the page. My partner Ben and I struggled with the 'favoriting concept' initially but were able to eventually glean the value of simplicity in code and data storage. React-router, at the time, was essentially magic for both of us but nonetheless started us down the path to utilize this critical piece of technology.
 
 #### Evaluator: Will
 #### Students: Tim Garrity & Ben Hayek
@@ -95,6 +97,44 @@ The output from ESLint shows…
 #### Workflow
 
 - 4 - Developer(s) make many small, atomic commits that clearly document the evolution of the application and do not contain irrelevant changesets that aren't reflected by the commit message. Commit messages are concise and consistent in syntax and tense. Developer(s) are using a rebase workflow, effectively use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing directly to master. There are no instances where the developer(s) have committed source code that should be .gitignored. There are no instances of "dead" or commented-out code and debugger statements like console.log.
+
+#### Movie Tracker
+
+* [GitHub URL](https://github.com/Salamandastron1/Movie_Tracker.git)
+* [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
+
+Movie tracker was challenging in the way that there was little time to implement entirely new systems. Redux and redux-thunks were at their core simple but it took a little in order to implement them in the way that was effective. I would say our greatest challenge though was keeping up to date on what the code was doing instead of opting to divide and conquer.
+
+### Rubric 
+
+#### Specification Adherence
+
+* 3 - The application completes all iterations above without error. Evaluator has minimal
+  recommendations for design changes.
+  
+  [10 Essential Usability Guidelines.](https://speckyboy.com/10-essential-web-application-usability-guidelines/)
+
+#### Project Professionalism
+
+* 4 - All requirements from 3 met, codebase has zero linter errors/warnings and
+  readme contains screenshots of application. Project team uses a rebase
+  workflow, taking advantage of github issues to track work. Project shows a
+  complete mastery of React architecture.
+
+#### Testing
+
+* 3.5 - All Redux functionality is tested (actions, reducers, mapStateToProps, mapDispatchToProps), all
+  components are unit tested, and a valid attempt was made to test any async
+  functionality.
+
+#### Redux Architecture
+
+
+* 3 - Appropriate components are wrapped in connected Redux container components. The Redux store contains all necessary application data. All state changes are handled through Redux actions and reducers.
+
+#### Routing
+
+* 3 - Application uses React Router to display appropriate components based on URL.
 
 
 ## D: Professional Skills
