@@ -6,22 +6,21 @@ My goals for the module were to be compentent and confident enough to able to ex
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Community Participation**: X
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 2
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+Passed
 
 
 ## B: Individual Work & Projects
 
-(Intro)
 
 #### Static Comp 1
 
@@ -69,7 +68,7 @@ My goals for the module were to be compentent and confident enough to able to ex
 * [Original Assignment Week 1](http://frontend.turing.io/projects/number-guesser-doubles-wk1.html)
 * [Original Assignment Week 2](http://frontend.turing.io/projects/number-guesser-doubles-wk2.html)
 
-(description)
+For this project we created a number guessing game where the user is challanged to correctly guess a randomly generated number. The user can add their own range and then the application will generate a random number between those minimum and maximum inputs. If the user guesses correctly, the game will tell them 'BOOM!' and then the minimum range decreases by 10 and the maximum range increases by 10.
 
 ##### Evaluation comments
 
@@ -119,7 +118,7 @@ My goals for the module were to be compentent and confident enough to able to ex
 * [Original Assignment](http://frontend.turing.io/projects/ideabox-triples.html)
 
 
-(description)
+For this project we created an app that allowed you to add all of your ideas via cards to the page. This project implemented local storage so that all of your ideas persisted on the page after reloading. You can delete your ideas, search through them, edit them, and upvote or downvote the quality of each idea.
 
 ##### Evaluation comments
 
