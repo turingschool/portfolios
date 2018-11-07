@@ -16,7 +16,10 @@ I definitely struggled most with the group dynamic during Black Thursday. I lear
 
 What were your favorite projects this module? Least favorite? Why?
 Favorite: Enigma
+I enjoyed this one a lot because I thought it was fun and interesting overall. While it was actually terrifying to start, once I wrapped my head around what exactly it was, and what I needed to accomplish, I realized I had the tools to slowly be able to build it, starting with the tiniest piece. That was really exciting. I didn't get stuck on every single step which was nice to experience. I felt like I had a decent rhythm for figuring out problems and testing and taking breaks and asking for help. It was still hard and intense, but it was enjoyable as well.
+
 Least Favorite: Black Thursday
+This one was just all around difficult for me. The group dynamics to begin with just set a really weird tone for the project. It was just all really stressful. I was also sick during this time and that didn't help. I will say that I really learned how to break something into tiny steps in order to slowly build something; because that's what I had to do with standard deviation; another note is that I probably won't ever forget how to do standard deviation again.
 
 What did you learn from your independent projects?
 I learned a lot of cool methods from the first one. I also learned how helpful it is to pair with people and ask a lot of questions, and also answer a lot of questions because once you can explain something, it really solidifies your understanding.
