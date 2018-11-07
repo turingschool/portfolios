@@ -22,9 +22,17 @@ Definitely.
 Projects
 What were your favorite projects this module? Least favorite? Why?
 
+Favorite Project: Book Club, the tables and relationships were easy enough to learn but complicated enough that Amy and I had to do a lot of thinking and planning to get things right.
+
+Least Favorite Project: Little Shop, working with four people for the first time was tough, especially since I was gone for 4 of the days during the project. The schema was pretty messy too, making querying for information an exercise in patience and perseverance.
+
 What did you learn from your independent projects?
 
+How to write Active record and SQl queries, where to start a project (Schema and a completable chunk using TDD), and where to work on my project (some at school, some at home and some elsewhere, preferably with windows).
+
 What did you learn from your paired/group projects?
+
+How and when to break up the work to maximize time and team member's strengths and cover their learning goals.
 
 Community
 How did you contribute to the Turing community this module?
