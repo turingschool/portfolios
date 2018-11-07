@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-My goals for the module were to be compentent and confident enough to able to explain concepts to others as a way of confirming my understanding of the topics covered.
+I did not have active goals for this mod coming in, however looking back I would say that I focused on being compentent and confident enough to able to explain concepts to others as a way of confirming my understanding of the topics covered. 
 
 ## Rubric Scores
 
