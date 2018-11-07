@@ -1,0 +1,121 @@
+# (Laura) - M3 Portfolio
+
+## Areas of Emphasis
+
+* React.js
+* React testing
+* Redux
+* Router 
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 
+* **B: Individual Work & Projects**: 
+* **C: Group Work & Projects**: 
+* **D: Professional Skills**: 
+* **E: Community Participation**: 
+
+-----------------------
+
+## A: End of Module Assessment
+
+Passed
+
+
+## B: Individual Work & Projects
+
+
+#### (SwapiBox)
+
+* https://github.com/30ozSteak/SWAPI-Box
+* Paired project with Nick Dambrosio
+
+Create a Star Wars application using the Star Wars API to display planets, vehicles, and people. 
+
+Scores: 
+
+Specification Adherence
+4 - The application completes all 6 iterations above and implements the extension.
+Code Quality
+3 - Developer appears comfortable in React. There are minor opportunities to refactor.
+CSS/Design
+4 - Developer has made a targeted effort to make the app appealing and user friendly. Evaluator has minimal recommendations for design changes. Follows 10 Essential Usability Guidelines.
+React Router
+4: Application is a single page and uses the React Router to display appropriate components based on URL.
+Testing
+3 - Almost all components are tested to a level that indicates developer has an understanding of testing
+Wireframes
+Pass - Developer team laid out their thinking using wireframes before building their project
+PropType Implementation
+Fail - There are components missing proptype validation.
+README Updates
+Pass - The README.md file has been updated with a description of the project, the team, and how to get it up and running
+Code Sanitation
+The output from ESLint shows…
+
+1 - More than ten complaints
+Workflow
+3 - Developer(s) make many small, atomic commits that document the evolution of the application but sometimes contain irrelevant changesets and inconsistent commit messages. Developer(s) use git branches and pull requests when applicable to incorporate changes into the application, and are not pushing fresh changes directly to master. Pull requests may contain little or no code review. There may be slight instances where the developer(s) have committed source code that should be .gitignored. There may be some instances of "dead" or commented-out code and debugger statements like console.log that need to be cleaned up.
+
+
+#### MovieTracker
+
+* https://github.com/aweissman11/frontend-movie-tracker
+* Group Project with Aaron Weissman and Kevin Simpson
+
+Movie tracker is a web application designed to allow the user to create a collection of their favorite films. Users can search films by title, browse them via a combination of genre, rating, year of release, and sort them via a series of parameters. Movie data is populated via The Movie Database API. Account handling is done via a local backend built in Express.
+
+Scores: 
+
+Specification Adherence
+4 - All requirements from 3 are met. The application completes all iterations above and implements one or more of the extensions. And the evaluator has no recommendations for design changes.
+Project Professionalism
+3 - PropType functionality is complete, the codebase has less than 5 linter errors, README has been updated with all group members. Project utilized wireframes from the outset. All git commits are atomic, made first to branches, and use descriptive and consise commit messages. Project demonstrates a fundamental understanding of React architecture.
+Testing
+4 - All requirements from 3 met, all async functionality is tested, tests are passing and run efficiently (using mount only when appropriate).
+Redux Architecture
+3 - Appropriate components are wrapped in connected Redux container components. The Redux store contains all necessary application data. All state changes are handled through Redux actions and reducers.
+Routing
+3 - Application uses React Router to display appropriate components based on URL.
+
+#### Commuter 
+
+* https://github.com/lkshamus/commuter
+* Solo Project 
+
+Commuter is a web application designed to prepare mass transit commuters for the weather that lies ahead. Users can search any route internationally, choosing their means of travel (transit, car, bicycle, or walking directions) and see the weather at their desired origin and destination. The routes are provided by Google Static Maps and Google Directions APIs and the weather is provided by Open Weather API.
+
+Scores:
+
+
+Specification Adherence
+3 - The application uses the above technologies to a professional level. The evaluator has minimal recommendations for refactoring or design changes.
+10 Essential Usability Guidelines.
+
+Project Professionalism
+3 - PropType functionality is complete, the codebase has less than 5 linter errors, README has been updated with all group members. Project utilized wireframes from the outset. All git commits are atomic, made first to branches, and use descriptive and consise commit messages. Project demonstrates a fundamental understanding of React architecture.
+Testing
+3 - All Redux functionality is tested (actions, reducers, mapStateToProps, mapDispatchToProps), all components are unit tested, and a valid attempt was made to test any async functionality.
+Redux Architecture
+3 - Appropriate components are wrapped in connected Redux container components. The Redux store contains all necessary application data. All state changes are handled through Redux actions and reducers.
+Routing
+4 - All requirements from 3 met, and always chooses the correct component for rendering, as well as the correct Route API. Application should account for undefined routes.
+
+
+## D: Community Participation
+
+### Playing a Part
+
+I've played a part in the community by pairing with anyone who needs help and overall supporting every student in my cohort. 
+
+------------------
+
+## Final Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )
