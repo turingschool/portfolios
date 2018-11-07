@@ -13,8 +13,10 @@ What did you struggle most with this module? What did you learn from that strugg
 ## Blog
 
 Link:
+https://medium.com/@ktr16/ruby-notes-a-tool-for-group-projects-in-rails-34f262659491
 
 Summary (1-3 sentences):
+Using comment tags (TODO, FIXME, OPTIMIZE, & custom) for effective teamwork, communication, collaboration. Also covers how to retrieve the notes from the terminal with rake notes.
 
 ## ActiveRecord Obstacle Course
 Link:
@@ -54,7 +56,6 @@ What would you like to do to contribute next module?
 - More time with cohort
 
 ### Member of a Posse
-
 *N/A*
 What did you do with your posse over this module?
 What is your favorite thing about the posse experience?
