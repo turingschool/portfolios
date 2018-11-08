@@ -93,6 +93,9 @@ A sleek weather app that incorporates the weather underground API. May deprecate
 - [https://gentle-savannah-39287.herokuapp.com/]
 - [ React, Ruby on Rails, OAuth, Jest , Enzyme, React Router ]
 
+![wc mockup](https://user-images.githubusercontent.com/34214595/45470057-58e77880-b6e9-11e8-9499-e26652aa2570.png)
+![wc mockup2](https://user-images.githubusercontent.com/34214595/45470060-5a18a580-b6e9-11e8-8f9f-c788f6f95451.png)
+
 # Description
 
 World Citizen is the gamification of giving back. Any time a user logs a purchase at a socially conscious company, they're rewarded with points, levels, and achievements. User can earn stickers, camera filters, discounts, and can compete with other nearby users (citizen's) to help make the world a better place!
