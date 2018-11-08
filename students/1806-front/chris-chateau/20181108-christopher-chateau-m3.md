@@ -25,7 +25,7 @@ I enjoyed mod 3 very much. It built on common themes throughout, which left me w
  
  #### Marvelous
  
-* [GitHub URL](https://github.com/christopherchateau/complete-me)
+* [GitHub URL](https://github.com/christopherchateau/marvelous)
 * [Original Assignment](http://frontend.turing.io/projects/binary-challenge.html)
 * [Evaluation Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-3/binary-challenge/chris/scores.md)
   
