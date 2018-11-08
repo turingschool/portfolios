@@ -11,7 +11,7 @@
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3
 * **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 4
+* **D: Professional Skills**: 3
 * **E: Community Participation**: 3
 
 -----------------------
@@ -40,7 +40,7 @@ This assignment required me to create an app that allows users to compare Colora
 * [GitHub URL](https://github.com/alexanderela/disc-golf-guru)
 * [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
 
-This project required me to rebuild a provided static comp using React. The primary goal of this (ungraded) assignment was to provide me with a structured, initial opportunity to become acquainted with React.
+This self directed project required me to build a user-friendly app using React.js, React Router, and Redux, based around an assigned API and target audience.
 
 ##### Evaluator: None
 ##### Evaluation: Comments
@@ -80,7 +80,7 @@ The group projects in this module consisted of two assignments completed by grou
 * [GitHub URL](https://github.com/alexanderela/swapibox)
 * [Original Assignment](http://frontend.turing.io/projects/swapi-box.html)
 
-Create a playable game using HTML based on the classic arcade game, "Snake".
+This project required me and my partner to build a Star Wars fan site using the Star Wars API, where users could select different categories of trivia to be displayed.
 
 ##### Students: Alexander Ela and Dina Caraballo
 ##### Evaluator: Christie Lynam
@@ -131,7 +131,7 @@ Create a playable game using HTML based on the classic arcade game, "Snake".
 * [GitHub URL](https://github.com/alexanderela/movie-tracker)
 * [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
 
-This assignment required me and my partner to construct a weather application using React and drawing realtime weather data from the Weather Underground API.
+This assignment required me and my partners to construct a site to track and view information about movies currently playing, using data from The Movie Database API.
 
 ##### Students: Alexander Ela, Alex Bruce, and Drake Bott
 ##### Evaluator: Will Mitchell
