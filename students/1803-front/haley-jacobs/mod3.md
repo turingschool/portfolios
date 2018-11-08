@@ -53,3 +53,7 @@ This app populates a list of recent movies, allowing users to sign up, sign in, 
 ## D: Community Participation
 
 Cleaning room
+
+## Outcome
+
+PASS with Concerns
