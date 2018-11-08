@@ -26,8 +26,8 @@ The individual projects in this module consisted of two assignments, which consi
 
 #### 1. HeadCount
 
-* [GitHub URL](https://github.com/alexanderela/complete-me)
-* [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
+* [GitHub URL](https://github.com/alexanderela/headcount2.0)
+* [Original Assignment](https://github.com/turingschool-examples/headcount2.0)
 
 This assignment required me to develop and implement a system of logic based around complex data structures to devise an autocomplete feature for an application.
 
@@ -37,8 +37,8 @@ This assignment required me to develop and implement a system of logic based aro
 
 #### 2. Disc Golf Guru (Self-directed final project)
 
-* [GitHub URL](https://github.com/alexanderela/ae-react-static-comp)
-* [Original Assignment](https://github.com/turingschool-examples/react-starter-kit/tree/react-static-comp)
+* [GitHub URL](https://github.com/alexanderela/disc-golf-guru)
+* [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
 
 This project required me to rebuild a provided static comp using React. The primary goal of this (ungraded) assignment was to provide me with a structured, initial opportunity to become acquainted with React.
 
@@ -56,8 +56,8 @@ The group projects in this module consisted of two assignments completed by grou
 
 #### 1. SWAPI Box
 
-* [GitHub URL](https://github.com/alexanderela/game-time)
-* [Original Assignment](http://frontend.turing.io/projects/game-time.html)
+* [GitHub URL](https://github.com/alexanderela/swapibox)
+* [Original Assignment](http://frontend.turing.io/projects/swapi-box.html)
 
 Create a playable game using HTML based on the classic arcade game, "Snake".
 
@@ -97,8 +97,8 @@ Create a playable game using HTML based on the classic arcade game, "Snake".
 
 #### 2. Movie Tracker
 
-* [GitHub URL](https://github.com/flevenson/Weathrly/tree/master/weathrly-app)
-* [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
+* [GitHub URL](https://github.com/alexanderela/movie-tracker)
+* [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
 
 This assignment required me and my partner to construct a weather application using React and drawing realtime weather data from the Weather Underground API.
 
