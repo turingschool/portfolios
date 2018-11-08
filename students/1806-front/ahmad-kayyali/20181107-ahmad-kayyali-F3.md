@@ -107,5 +107,4 @@ I was troubled with personal issues this mod and was unable to play much of a pa
 
 ### Outcome
 
-( Leave blanks for reviewers )
-
+Pass with concerns around communication and working on a team
