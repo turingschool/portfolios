@@ -2,9 +2,9 @@
 
 ## Areas of Emphasis
 
-1. To become more comfortable with not understanding programming concepts at first and to better prevent myself from sinking into panic or despair as a result of comparing myself to other classmates.
+1. To become more comfortable with debugging and consulting documentation to solve programming challenges. 
 
-2. To develop more fluency with array prototype methods and with being more decisive with working in Javascript in general.
+2. To develop more fluency with React.js, unitt testing, and fetch calls..
 
 ## Rubric Scores
 
@@ -17,8 +17,8 @@
 -----------------------
 
 ## A: End of Module Assessment
-I received generally positive feedback on the majority of my end of module assessment.
-I did struggle a little bit with refactoring the array prototype problem I was given, although I did manage to get the desired result.  I suspect that much of my struggle was due to nerves, as I strongly believe that I put a significant and sustained amount of effort in practicing array prototype methods daily, both in pairs and on my own.
+I received generally positive feedback on the majority of my final project assessment.
+My instructor seemed certain of my capability to progress to the next module when I asked her if I would be advancing.
 
 ## B: Individual Work & Projects
 
@@ -73,7 +73,7 @@ My evaluator's comments were mostly positive, with her saying that my README fil
 
 ### Projects
 
-The group projects in this module consisted of two assignments completed by groups of two, including myself and another classmate. These assignments consisted of building the following interfaces, each increasing in complexity:
+The group projects in this module consisted of two assignments completed by groups of two and three, including myself and another classmate(s). These assignments consisted of building the following interfaces, each increasing in complexity:
 
 #### 1. SWAPI Box
 
@@ -169,8 +169,7 @@ This assignment required me and my partners to construct a site to track and vie
 ## D: Community Participation
 
 ### Playing a Part
-
-I did my best to maintain a positive attitude and growth mindset among my classmates even when many people were stressed and cranky such as during the Complete Me project.  I encouraged people who expressed self-doubt to me and offered to help them when I thought I could be of assistance. Most importantly, I made it a top priority to treat everyone with respect and kindness and to ask questions in class that were relevant and that would help clarify fundamental concepts for myself and others.
+My primary means of community participation was to be friendly and supportive to classmates during this especially grueling module. I tried my best to take note of classmates' achievements and to praise them for it, either in person or by writing them a message on the weekly class gratitude board, the latter of which I did most weeks..
 
 ## Final Review
 
