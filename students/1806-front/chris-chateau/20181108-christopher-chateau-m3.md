@@ -2,19 +2,24 @@
 
  ## Areas of Emphasis
  
+ - Refine my React skills while learning to incorporate React Router and Redux. 
+ - Improve git workflow. 
 
  ## Rubric Scores
  
-* **A: End-of-Module Assessment**: 3.5
+* **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 3.5
 * **C: Group Work & Projects**: 3.5
-* **D: Professional Skills**: 3.5
+* **D: Professional Skills**: 3
 * **E: Community Participation**: 3
 
  -----------------------
  
  ## A: End of Module Assessment
- Although Mod 2 was extremely challenging, I leave as a significantly stronger and more well-rounded developer. I loved the game-time project and its hands-on/visual nature. I enjoyed all of the positive feedback I received from friends and family. My partner Jessica and I were very proud to win first place in our student code fair. With that said, the Complete-Me project was very difficult for me. Working only in the terminal manipulating data was a new experience and something I'm still getting comfortable doing. Mod 2 pushed me, and I feel accomplished to be graduating to Mod 3.
+ 
+-Pass
+
+I enjoyed mod 3 very much. It built on common themes throughout, which left me with a great sense of progression. All four projects, including Headcount, are featured in my Alumni Portfolio.
  
  ## B: Individual Work & Projects
  
@@ -22,36 +27,43 @@
  
  * [GitHub URL](https://github.com/christopherchateau/complete-me)
 * [Original Assignment](http://frontend.turing.io/projects/binary-challenge.html)
- I received 
+  * [Evaluation Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-3/binary-challenge/chris/scores.md)
   
+  I really enjoyed building my own site from scratch. It was my first experience being forced to make all project decisions without the help of collaborators and/or a specified project template. 
+
  #### Headcount
  
- * [GitHub URL](https://github.com/christopherchateau/headcount2.0)
- * [GitHub Pages Link](https://christopherchateau.github.io/headcount2.0/)
+* [GitHub URL](https://github.com/christopherchateau/headcount2.0)
+* [GitHub Pages Link](https://christopherchateau.github.io/headcount2.0/)
 * [Original Assignment](https://github.com/turingschool-examples/headcount2.0)
-  Although Headcount was not a graded project this module, I approached it as if it were. 
- 
+  
+  I approached Headcount as if it were a graded project. It was valuable practice that paid off throughout the mod. The site is hosted on Github pages.
+  
  ## C: Group Projects
  
  ### Projects
  
  #### SWAPI-Box
  
- * [GitHub URL](https://github.com/christopherchateau/SWAPI-Box)
+* [GitHub URL](https://github.com/christopherchateau/SWAPI-Box)
 * [Original Assignment](http://frontend.turing.io/projects/swapi-box.html)
+* [Evaluation Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-3/swapi/chris-drake/scores.md)
 
- Space
+ SWAPI-Box greatly enhanced my understanding of apiCalls and working with promises. I enjoyed working with Drake and was proud of our final product.
  
  #### Move-Tracker
  
- * [GitHub URL](https://github.com/christopherchateau/movie-tracker)
+* [GitHub URL](https://github.com/christopherchateau/movie-tracker)
 * [Original Assignment](https://github.com/turingschool-examples/movie-tracker)
+* [Evaluation Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-3/movie-tracker/chris-tobin-haley/scores.md)
+
+This was my first time working in a group of three which lead us to utilize more of a 'divide and conquer' approach compared to previous projects. It was cool the way we were able to bring our various pieces of the puzzle together.
 
  ## D: Community Participation
  
  ### Playing a Part
  
- I collaborated with and assisted a number of my cohortmates this module. I also led a JavaScript Fundamental review for the mod 2 students.
+ I collaborated with and assisted a number of my cohort-mates this module. I also co-led an array prototype review for the mod 2 students.
  
  ------------------
  
