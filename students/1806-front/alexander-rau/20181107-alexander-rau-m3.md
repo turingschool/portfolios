@@ -86,6 +86,10 @@ Playing a Part
 
 During this Mod, I got even more into helping out in the Turing community.  I attended the Demo Comp at the beginning of the Mod, again, and I also participated in the Demo Night beforehand.  I helped with recording and production of another episode of the Turing podcast, and I am actively restarting the Pahlka Civic Tech Posse on campus.  I have events and group happenings already planned for the next inning, and I am starting a discussion among interested people to really build this posse into something that will continue after I leave here.  In addition to this, I have begun speaking with Turing alumni and starting to branch out with networking.  I hope to be able to get a job in the Civic Tech sphere.  I also am in talks with working on a side project with a member of the Backend program who just graduated.  We plan on building this out so we both can have something else impressive to put on our portfolios.  I also paired with members of my Mod, and the Mod 2 below me for help with their and my projects.
 
-Final Review
-Notes
-Outcome
+## Final Review
+
+## Notes
+
+## Outcome
+
+PASS
