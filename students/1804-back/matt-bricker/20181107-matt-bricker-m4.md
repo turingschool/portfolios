@@ -1,0 +1,14 @@
+#### What was your biggest achievement of the module?
+I started seeing glimpses of my place in this world of software development in mod3, but now I see a much clearer picture of my identity as a developer.
+#### What provided you with the most struggle? What did you learn from that struggle?
+There were many struggles, but the thing that encompasses all, or wraps around them was finding my identity in this new career. I struggled with negative narratives from the moment I arrived at Turing. Narratives that blocked me from embracing my life in software and inhibited my learning. All of the pieces have started to come together; professional story, technical skills, personal branding. I've learned that it is ok to be in a state of learning. Being successful in my previous career, and having found that success through years of hard work and dedication starting from a pretty young age clouded my ability to see that starting new at something at this age and stumbling through the beginning stages is normal. I struggled with not being immediately good at programming, and this quickly turned into doubt. I now feel liberated in the process of learning and that I can figure something out, instead of going immediately to a dark place of doubt and fear.
+#### What have you done this inning that sets you apart from your peers?
+Like I said above - I can see my identity as a developer. I can tie my previous experiences into an actual narrative that feels natural and organic. This sets me apart not because others do not have this - it sets me apart because it is unique to me. This has given me confidence and I am excited to see where it takes me in my career.
+#### How did your Mod 4 experience with this part of the stack (e.g. front-end technologies for BE students/back-end technologies for FE students) impact what you wanted to be doing after Turing? How did it reframe what you learned in previous modules?
+I can see myself fitting into more roles as a developer.
+#### What is the most important skill or lesson that you will take from Turing into your next job?
+I have the power to change. Hard work, perseverance and commitment will manifest itself into whatever you put your mind to.
+#### What was your biggest takeaway from Gear Ups while at Turing? How has that impacted you and how will it impact you and your co-workers when you are on the job?
+Concepts at Gear Ups basically can be wrapped in "don't be a shitty person". I aligned with all of them already, but the thing impacted me is to take action. Instead of distancing myself from someone who is projecting negative energy into the workplace, into the industry, I can make my voice heard, and I should make my voice heard. This is how we make changes that positively impact humans from all walks of life in our industry, and how the industry itself influences society as whole.
+####
+[Post Grad Plan](https://gist.github.com/brickstar/3fdcedefc84e7ac743492bc3fc2d81dd)
