@@ -154,22 +154,13 @@ Movie tracker was challenging in the way that there was little time to implement
 
 * 3 - Application uses React Router to display appropriate components based on URL.
 
-
-## D: Professional Skills
-(Intro)
-
-### Gear Up
-#### (Session Name)
-
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
 ## E: Community Participation
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I participated in a the Success @ Turing Session to give incoming students a little perspective. This ended up being a lot of fun and I wanted to give them a solid foundation for expectations in what they needed to succeed.
+
+I also clean my dishes. Take that society.
 
 ------------------
 
