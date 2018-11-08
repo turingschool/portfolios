@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-This module I set out to find a passion in programming. Coming into the program I knew explicitly that I wanted to do this in order to be financially successful and free of those nagging worries. 
+This module I set out to find a passion in programming. Coming into the program I knew explicitly that I wanted to do this in order to be financially successful yet struggled to find lasting motivation. 
 
 I am grateful to say that I have found a passion in solving complex logical and mathematical problems. When I encounter these within a project I have fun. The work is stimulating and lets me focus on more constructive problems instead of my mind wondering.
 
@@ -23,24 +23,42 @@ PASSED
 
 ## B: Individual Work & Projects
 
-(Intro)
+#### Binary Challenge
 
-#### (Project Name)
+* [GitHub URL](https://github.com/Salamandastron1/hubble-bubble.git)
+* [Original Assignment](http://frontend.turing.io/projects/binary-challenge.html)
 
-* [GitHub URL]()
-* [Original Assignment]()
+Doing this project in a week was rough but I am proud of the final product. It also serves as a nice check in to see where my strengths are and areas that I can improve. Most proud of of the logic for generating different questions and how the UI looks (staaaaaaarrrs). Challenges included testing thunks within in thunks as well as working with an api that offers little in the way of organization.
 
-(description)
+### Binary Challenge Rubric
 
-(evaluation comments)
+#### Specification Adherence
 
-(evaluation scores)
+* 4 - All requirements from 3 are met. The application completes all iterations above and implements one or more of the extensions. And the evaluator has no recommendations for design changes.
+
+[10 Essential Usability Guidelines.](https://speckyboy.com/10-essential-web-application-usability-guidelines/)
+
+#### Project Professionalism
+
+* 3 - PropType functionality is complete, the codebase has less than 5 linter errors, README has been updated with all group members. Project utilized wireframes from the outset. All git commits are atomic, made first to branches, and use descriptive and consise commit messages. Project demonstrates a fundamental understanding of React architecture.
+
+#### Testing
+
+* 4 - All requirements from 3 met, all async functionality is tested, tests are passing and run efficiently (using mount only when appropriate).
+
+#### Redux Architecture
+
+* 4 - All requirements from 3 met, and no duplication of data exists in the store. Data in the store remains flat (not nested).
+
+#### Routing
+
+* 4 - All requirements from 3 met, and always chooses the correct component for rendering, as well as the correct Route API. Application should account for undefined routes.
+
+
 
 ## C: Group Work & Projects
 
 ### Projects
-
-
 
 #### SW-api Box
 
