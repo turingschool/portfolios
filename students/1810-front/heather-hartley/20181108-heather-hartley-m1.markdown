@@ -25,7 +25,35 @@
 
 ## B: Individual Work & Projects
 
-1. Foto Finder: final project assessment
+1. Static Comp 1
+2. Static Comp 2
+3. Foto Finder: final project assessment
+
+### Static Comp 1:
+
+* [GitHub URL](https://github.com/hlhartley/hh-comp-challenge-1)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-1.html)
+
+#### Description
+- *Overall: a website with individual cards and a unique layout structure*
+- Making a responsive site following the "original comp img" design
+- Choosing appropriate copy, image, icons, and color palette for layout
+- Using tools such as flex-box and CSS styling for layout design
+- Site must work across Firefox, Safari, and Chrome
+- Must use normalize instead of reset file in CSS
+
+### Static Comp 2:
+
+* [GitHub URL](https://github.com/hlhartley/hh-comp-challenge-2)
+* [Original Assignment](http://frontend.turing.io/projects/m1-static-comp-2.html)
+
+#### Description
+- *Overall: a complex website with multiple sections, CSS styles, and SVG images*
+- Duplicating the layout of the original static comp, while upholding original layout properties
+- Carefully selecting copy, images, icons, and color palette of one's choosing, without distorting original static comp layout
+- Using consistent semantic tags in HTML
+- Applying DRY principles in HTML and CSS
+- Choosing thoughtful and appropriate choices in regards to typography, colors, spacing, and overal design/positioning of elements
 
 ### Foto Finder:
 
