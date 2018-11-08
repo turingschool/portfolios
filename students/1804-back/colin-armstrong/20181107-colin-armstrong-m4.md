@@ -109,5 +109,7 @@ What three skills (professional and/or technical) are you going to take forward 
 ## Professional Development
 
 * Link to 30-day post-grad job search action plan using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md)
+
+	* [Thirty Day Plan](https://gist.github.com/colinwarmstrong/4014e4180a3cbcb1a9fd4663f1f62da2)
 * Prepare a summarized version of your professional story to share during the portfolio review. This is a 1-2 minute sharing highlighting who you are, why you are in software, and what's next in your career.
 * Prepare and share your Turing story during week six.
