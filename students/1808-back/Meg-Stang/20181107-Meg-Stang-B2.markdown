@@ -1,0 +1,62 @@
+Meg Stang - M2 Portfolio
+
+## Areas of Emphasis
+
+What did you set out to accomplish this module? Were you successful?
+  - I wanted to gain similar confidence to that I had in module 1. I also just wanted pass and know that I understood the material. I believe I am passing through,  but I do hope to build up my confidence in the material a bit more over break.
+
+What did you struggle most with this module? What did you learn from that struggle?
+  - Similar to my struggle in last mod, the words are hard for me. I can do something just fine on the computer, but when someone asks me to recite an acronym, or explain the DNS, I understand it, but my words don't come out right. This was a struggle for me again this mod. I think that I should look into using more flashcards, or be adamant that I have a rubber duck to sound things off of.
+
+## Blog
+  Link: https://medium.com/@mstang15/name-space-cbf198e6f3ec
+
+  Summary (1-3 sentences): I did my blogpost on namespacing, and how to set up your routes, controllers and views.
+
+## ActiveRecord Obstacle Course
+  Link: https://github.com/mstang15/activerecord-obstacle-course
+
+  Was this helpful for practicing ActiveRecord? Yes, it was definitely helpful. It was tough, but I appreciated being able to practice using this. Thank you for providing this resource.
+
+## Projects
+
+What were your favorite projects this module? Least favorite? Why?
+- I enjoyed both group projects, but Book Club sticks out to me because it was the first time this module that I had an "AHA!" moment. By the end of Book Club I understood MVC so much better, and I appreciated being with a partner that talked through things with me. This helped me a lot in the future lessons of the mod.
+
+What did you learn from your independent projects?
+- I like doing projects on my own. The difference between last mod and this mod is that I was confident that I could solve most any problem I ran into last module, whereas now, I needed to ask for help. I learned how to do that this mod, and I'm glad that I've learned that skill.
+
+What did you learn from your paired projects?
+- I learned that being a part of a team is tough... people have different ideas of how to approach something. Little Shop on a team of four was difficult to manage what everyone was doing, even with strict use of waffle.io. I had good groups for my projects, so I can't complain much. I did learn that some things take a longer time because many times you spend helping others on your team, and other times, you might have to spend an hour on merge conflicts! But I learned a lot from other people during our paired projects. Everyone always had something useful to relay and teach.
+
+## Community
+
+How did you contribute to the Turing community this module?
+- I was able to help out some Mod 1 students with their projects, and exercises. I also helped start the running posse, and was a member of that this mod.
+
+What would you like to do to contribute next module?
+- I never got to be an official mentor with someone in mod 1, so maybe I can start pairing regularly with someone. I would like that... and I think it would help me get my ruby skills up again ;).  
+
+## Member of a Posse
+
+What did you do with your posse over this module?
+- Run every monday and thursday during lunches
+
+What is your favorite thing about the posse experience?
+- I get to meet other people, and do something I love doing.
+
+How has your posse experience helped you grow as a professional?
+- It's great to be able to blow off some steam by running, and be composed during the day. It's great to talk to others outside of the class, and get some fresh air so that I can be a better person in the class ;)
+
+## Self-Assessment Scores
+
+Fill in how you would grade yourself from 1-4 in the following categories this module.
+
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   3   |
+| **Group Projects**           |   3   |
+| **Professional Development** |   3   |
+| **Community**                |   3   |
+| **Final Paired**             |       |
+| **Final Verbal**             |       |
