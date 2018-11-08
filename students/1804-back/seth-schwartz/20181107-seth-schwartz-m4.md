@@ -14,5 +14,8 @@ impact what you wanted to be doing after Turing? How did it reframe what you lea
 * What is the most important skill or lesson that you will take from Turing into your next job?
     - Work hard, be passionate and enthusiastic, take breaks when you need to, teamwork makes the dream work, ask good questions, seek help when stuck, listen to others, always be learning, try new things, go outside of your comfort zone.
 
+* What was your biggest takeaway from Gear Ups while at Turing? How has that impacted you and how will it impact you and your co-workers when you are on the job?
+    - Everyone has a different experience in life and in the workplace.  Listen, be respectful, empathetic and help/advocate whenever you can.
+
 * 30 Day Action Plan:
     [30 Day Action Plan Gist](https://gist.github.com/SSchwartz214/f88c707da22cc216548ee747f54badf3)
