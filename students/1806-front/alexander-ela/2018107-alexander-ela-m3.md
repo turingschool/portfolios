@@ -29,7 +29,7 @@ The individual projects in this module consisted of two assignments, which consi
 * [GitHub URL](https://github.com/alexanderela/headcount2.0)
 * [Original Assignment](https://github.com/turingschool-examples/headcount2.0)
 
-This assignment required me to develop and implement a system of logic based around complex data structures to devise an autocomplete feature for an application.
+This assignment required me to create an app that allows users to compare Colorado school district data.
 
 ##### Evaluator: None
 ##### Evaluation: None
@@ -44,7 +44,8 @@ This project required me to rebuild a provided static comp using React. The prim
 
 ##### Evaluator: None
 ##### Evaluation: Comments
-My evaluator's comments were mostly positive, with him recommending that I complete a decent amount of refactoring of my code to make it more efficient.
+My evaluator's comments were mostly positive, with her saying that my README file was the best she had seen for this project.  She did recommend that I implement GitHub issues and Waffle.io to better demonstrate my organizational skills.  
+
 ##### Evaluation Scores: None
 
 
@@ -67,32 +68,27 @@ Create a playable game using HTML based on the classic arcade game, "Snake".
 ###### Comments:
 
 
-###### Functional Expectations
+##### Specification Adherence
 
-* 3 - Application is fully playable without crashes or bugs
+* 3 - The application uses the above technologies to a professional level. The evaluator has minimal recommendations for refactoring or design changes.
 
-### User Interface
+[10 Essential Usability Guidelines.](https://speckyboy.com/10-essential-web-application-usability-guidelines/)
 
-* 3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+##### Project Professionalism
 
-###### Testing
+* 3 - PropType functionality is complete, the codebase has less than 5 linter errors, README has been updated with all group members. Project utilized wireframes from the outset. All git commits are atomic, made first to branches, and use descriptive and consise commit messages. Project demonstrates a fundamental understanding of React architecture.
 
-* 3 - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing. ESLint shows < 5 complaints.
+##### Testing
 
-* Solid refactoring to include the Snake class & test it over the weekend but with tests like [this](https://github.com/alexanderela/game-time/blob/master/test/snake-test.js#L55-L59) make sure you are asserting a particular length first, then calling `growSnake`, then asserting the new length. Tough for me to tell by this test alone if the snake always has a length of 9 or if it's actually growing. What's it's original length?
+* 3 - All Redux functionality is tested (actions, reducers, mapStateToProps, mapDispatchToProps), all components are unit tested, and a valid attempt was made to test any async functionality.
 
-###### JavaScript Style & OOP
+##### Redux Architecture
 
-* 3 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing. Application is organized into classes (and correctly uses inheritance) with some misplaced logic and no major bugs. Business-logic code is mostly separated from view-related code. Developer can speak to choices made in the code and knows what each line of code is doing.
+* 4 - All requirements from 3 met, and no duplication of data exists in the store. Data in the store remains flat (not nested).
 
+##### Routing
 
-###### Workflow
-
-* 3 - The developer/team makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base. The team conducts a DTR (define the relationship) and utilizes a planning tool and pairing practices. Both members contribute meaningfully to the application.
-
-* Really nice commit messages - consistent and readable. A+!
-
-* Try to never commit commented out code, like [here](https://github.com/alexanderela/game-time/commit/02ca49aad42c06ae1117475dac551c3cdf14538e). If you were to pull request this, it would make it really hard for the other developer to read the diff and understand exactly what's happening.
+* 4 - All requirements from 3 met, and always chooses the correct component for rendering, as well as the correct Route API. Application should account for undefined routes.
 
 
 #### 2. Movie Tracker
@@ -105,15 +101,34 @@ This assignment required me and my partner to construct a weather application us
 ##### Students: Alexander Ela, Alex Bruce, and Drake Bott
 ##### Evaluator: Will Mitchell
 ##### Evaluation: 
+##### Specification Adherence
 
-###### Project Organization
-* Group related component, test, and CSS files in related folders.
-* Focus on requirements for minimum viable product FIRST before working on features such as degree unit toggle.
+* 4 - All requirements from 3 are met. The application completes all iterations above and implements one or 
+  more of the extensions. And the evaluator has no recommendations for design changes.
+  
+  [10 Essential Usability Guidelines.](https://speckyboy.com/10-essential-web-application-usability-guidelines/)
 
+##### Project Professionalism
 
-###### Testing
-* Use .simulate() Enzyme method to test Search component.
+* 3 - PropType functionality is complete, the codebase has less than 5 linter
+  errors, README has been updated with all group members. Project utilized
+  wireframes from the outset. All git commits are atomic, made first to
+  branches, and use descriptive and consise commit messages. Project
+  demonstrates a fundamental understanding of React architecture.
 
+##### Testing
+
+* 2 - Nearly all unit tests for Redux and React are in place. No attempt to test
+  async functionality was made.
+
+##### Redux Architecture
+
+* 4 - All requirements from 3 met, and no duplication of data exists in the
+  store. Data in the store remains flat (not nested).
+
+##### Routing
+
+* 3 - Application uses React Router to display appropriate components based on URL.
 
 
 ## D: Community Participation
