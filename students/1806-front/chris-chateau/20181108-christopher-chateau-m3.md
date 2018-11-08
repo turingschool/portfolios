@@ -25,9 +25,9 @@ I enjoyed mod 3 very much. It built on common themes throughout, which left me w
  
  #### Marvelous
  
- * [GitHub URL](https://github.com/christopherchateau/complete-me)
+* [GitHub URL](https://github.com/christopherchateau/complete-me)
 * [Original Assignment](http://frontend.turing.io/projects/binary-challenge.html)
-  * [Evaluation Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-3/binary-challenge/chris/scores.md)
+* [Evaluation Scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-3/binary-challenge/chris/scores.md)
   
   I really enjoyed building my own site from scratch. It was my first experience being forced to make all project decisions without the help of collaborators and/or a specified project template. 
 
