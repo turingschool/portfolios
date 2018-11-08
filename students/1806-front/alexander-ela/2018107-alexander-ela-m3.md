@@ -1,4 +1,4 @@
-# Alexander Ela - M2 Portfolio
+# Alexander Ela - M3 Portfolio
 
 ## Areas of Emphasis
 
@@ -24,18 +24,18 @@ I did struggle a little bit with refactoring the array prototype problem I was g
 
 The individual projects in this module consisted of two assignments, which consisted of building the following interfaces, each increasing in complexity:
 
-#### 1. Complete Me
+#### 1. HeadCount
 
 * [GitHub URL](https://github.com/alexanderela/complete-me)
 * [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
 
 This assignment required me to develop and implement a system of logic based around complex data structures to devise an autocomplete feature for an application.
 
-##### Evaluator: Nathaniel Foster
-##### Evaluation: Comments
-My evaluator's comments were mostly positive, with him recommending that I complete a decent amount of refactoring of my code to make it more efficient.
+##### Evaluator: None
+##### Evaluation: None
+##### Evaluation Scores: None
 
-#### 2. React Static Comp
+#### 2. Disc Golf Guru (Self-directed final project)
 
 * [GitHub URL](https://github.com/alexanderela/ae-react-static-comp)
 * [Original Assignment](https://github.com/turingschool-examples/react-starter-kit/tree/react-static-comp)
@@ -43,7 +43,8 @@ My evaluator's comments were mostly positive, with him recommending that I compl
 This project required me to rebuild a provided static comp using React. The primary goal of this (ungraded) assignment was to provide me with a structured, initial opportunity to become acquainted with React.
 
 ##### Evaluator: None
-##### Evaluation: None
+##### Evaluation: Comments
+My evaluator's comments were mostly positive, with him recommending that I complete a decent amount of refactoring of my code to make it more efficient.
 ##### Evaluation Scores: None
 
 
@@ -53,19 +54,18 @@ This project required me to rebuild a provided static comp using React. The prim
 
 The group projects in this module consisted of two assignments completed by groups of two, including myself and another classmate. These assignments consisted of building the following interfaces, each increasing in complexity:
 
-#### 1. Game Time
+#### 1. SWAPI Box
 
 * [GitHub URL](https://github.com/alexanderela/game-time)
 * [Original Assignment](http://frontend.turing.io/projects/game-time.html)
 
 Create a playable game using HTML based on the classic arcade game, "Snake".
 
-##### Students: Alexander Ela and Mark Pearyer
-##### Evaluator: Brittany Storoz
+##### Students: Alexander Ela and Dina Caraballo
+##### Evaluator: Christie Lynam
 ##### Evaluation: 
 ###### Comments:
-* Cute snake :) Though it needs its own class
-* Some refactoring opportunities for methods and properties for particular objects, but decent demonstration that OOP skills are in place
+
 
 ###### Functional Expectations
 
@@ -95,15 +95,15 @@ Create a playable game using HTML based on the classic arcade game, "Snake".
 * Try to never commit commented out code, like [here](https://github.com/alexanderela/game-time/commit/02ca49aad42c06ae1117475dac551c3cdf14538e). If you were to pull request this, it would make it really hard for the other developer to read the diff and understand exactly what's happening.
 
 
-#### Weathrly
+#### 2. Movie Tracker
 
 * [GitHub URL](https://github.com/flevenson/Weathrly/tree/master/weathrly-app)
 * [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
 
 This assignment required me and my partner to construct a weather application using React and drawing realtime weather data from the Weather Underground API.
 
-##### Students: Alexander Ela and Freddie Levenson
-##### Evaluator: Nathaniel Foster
+##### Students: Alexander Ela, Alex Bruce, and Drake Bott
+##### Evaluator: Will Mitchell
 ##### Evaluation: 
 
 ###### Project Organization
