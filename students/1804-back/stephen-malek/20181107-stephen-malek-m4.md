@@ -18,3 +18,7 @@ I know that I am not always going to know everything about every technology or f
 
 * What was your biggest takeaway from Gear Ups while at Turing? How has that impacted you and how will it impact you and your co-workers when you are on the job?  
 The biggest thing I took away from the Gear Ups at Turing is to never assume something about someones experience. Everyone comes from a different background, culture, and no one was brought up exactly the same way. When you assume things about someone of a certain race, sex, gender, etc. it brings people further apart. You should listen to people when they share their struggles and support them because you can't possibly know what someone else has been through since every persons experience is unique.
+
+
+### 30 Day Plan  
+https://gist.github.com/sdmalek44/6ad4edf4a6e67951961d449cacaba859
