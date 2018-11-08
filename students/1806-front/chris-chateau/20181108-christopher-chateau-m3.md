@@ -17,7 +17,7 @@
  
  ## A: End of Module Assessment
  
--Pass
+Pass
 
 I enjoyed mod 3 very much. It built on common themes throughout, which left me with a great sense of progression. All four projects, including Headcount, are featured in my Alumni Portfolio.
  
@@ -63,7 +63,7 @@ This was my first time working in a group of three which lead us to utilize more
  
  ### Playing a Part
  
- I collaborated with and assisted a number of my cohort-mates this module. I also co-led an array prototype review for the mod 2 students.
+I collaborated with and assisted a number of my cohort-mates this module. I also co-led an array prototype review for the mod 2 students.
  
  ------------------
  
