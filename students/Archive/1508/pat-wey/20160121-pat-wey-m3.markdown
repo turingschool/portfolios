@@ -1,0 +1,119 @@
+# Pat Wey - M3 Portfolio
+
+## Individual
+
+### Areas of Emphasis
+
+My mission as a Turing student this module was to treat programming as my practice - to take my eyes off of achievement, and instead look towards perfecting my daily activity. Although I can't say that my practice was consistent or always good, I think I took steps down this path over the course of the module.
+
+### Work
+
+#### The Pivot
+
+[Github](https://github.com/sekharp/the_pivot)
+
+[Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
+
+Evaluation:
+
+* Completion: 3
+* Organization: 4
+* User Experience: 3
+* Test-Driven Development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* Code Quality: 3: Project demonstrates some gaps in code quality and/or application of MVC principles.
+
+#### Apicurious
+
+[Github](https://github.com/patwey/apicurious)
+
+[Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
+
+Evaluation:
+
+* Completion: 4: Developer delivered all planned features plus 2 extensions.
+* Organization: 4: Developer used a project management tool and updated their progress in real-time.
+* Test-Driven Development: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external services.
+* Code Quality: 4: Project demonstrates exceptionally well factored code.
+* User Experience: 3: The application covers many interactions of the target application, but has a few holes in lesser-used functionality
+
+#### Rales Engine
+
+[Github](https://github.com/patwey/rails_engine)
+
+[Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
+
+Evaluation:
+
+* instructor: Tess
+* notes: Loved the restful API design, would benefit from serializers
+* completion: 3
+* test-driven-development: 4
+* code-quality: 3
+* api-design: 3
+* queries: 3
+
+#### Self-Directed Project: Corkboard
+
+[Github](https://github.com/patwey/corkboard)
+
+[Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
+
+Evaluation:
+
+* repo: https://github/patwey/corkboard
+* instructor: Tess
+* notes: Great polished app.
+* completion: 4
+* organization: 4
+* test-driven-development: 3
+* code-quality: 3.5
+* user-experience: 4
+* performance: 4
+
+## Community
+
+### Giving Feedback
+
+Feedback for my peers:
+
+* "It was great to work with Sekhar on the Pivot. He kept things light and fun, and his work was strong. His skill as a developer combined with his interpersonal skills to make him a great person to pair with. I was especially impressed with his initiative to build out our test suite.  I look forward to working with him again in the future."
+
+* "Matt was a pleasure to work with on the Pivot.  He's calm, skilled and focused, and I appreciated his willingness to take on some of our most frustrating issues without flinching (I see you sticky footer). He is a very thoughtful developer, and has a knack for considering the implications of big picture decisions. I relied on him heavily when my work required restructuring or reworking our app. I hope we get to work together again in the future."
+
+### Being a Community Member
+
+Feedback from my peers:
+
+* "Pat is a pleasure to work with. He’s calm and confident and that helps a lot when you’re wrestling with an overwhelming/tedious project like the Pivot. He’s always trying to improve his programming skills and it shows in his work. He’s easy to pair with because he communicates explicitly and is open to ideas and opinions. I look forward to working with Pat again in module 4."
+
+#### Playing a Part
+
+I helped to keep the space clean outside of my assigned duties.
+
+### Notes
+
+## A: End-of-Module Assessment
+
+* 3: Student achieved a "3" or better on each category of the assessment
+
+## B: Individual Work & Projects
+
+* 4: Student demonstrates excellent growth by not only achieving satisfactory
+evaluations for each project but also pushing their learning beyond expectations.
+
+## C: Group Work & Projects
+
+* 3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.
+
+## D: Community Participation
+
+* 3: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.
+
+## E: Peer & Instructor Feedback
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
+
+### Result - Promoted

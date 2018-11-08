@@ -1,0 +1,188 @@
+# Jai Misra - M3 Portfolio
+
+## Individual
+
+### Your Mission
+
+Out of Turing there are two great lessons I will take away. The first comes from
+sticking with this, even though it was incredibly difficult and stressful.
+There were many times I wanted to quit, but I didn't quit, and unlike other
+times in my life when I have confronted failure, I did not give in to it.
+
+### Attendance
+
+It was hard to make it in to Turing on time; not just in this Module but in all
+of them. Harder still, was dealing with Steve's passive aggressive comments
+every time I came late. But, it worked. I'm not sure if he noticed but I started
+coming in much earlier/on time as the Module progressed, and his shaming was an
+integral part of that.
+
+### Work
+
+I feel neutral about my performance in Module 4. I succeeded at a project,
+did very well on another, half-failed one, fully failed another, and passed the
+final assessment with straight threes. Consistency was not one of my virtues,
+and I felt overwhelmed and pushed to change my work habits.  
+
+### Projects
+
+As I mentioned earlier, I had mixed success in my projects. GameTime was definitely
+the best project in terms of my engagement, organization, and performance. Sebastian,
+my partner, is an amazing person and a talented developer. The experience of working
+on the project with him was invaluable to my learning JavaScript.
+
+#### (Project Name)
+
+IdeaBox 2.0
+
+* [GitHub URL](http://github.com/mrjaimisra/the_pivot)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.markdown)
+
+Groups inherited a code base for an online store, and need modify the code for a new purpose. In our case, we inherited a meals-on-wheels style restaurant, which we need to transform into a website selling photography.
+
+Completion:
+Organization:
+Test-Driven Development:
+Code Quality:
+User Experience:
+
+Completion:
+Organization:
+Test-Driven Development:
+Code Quality:
+User Experience:
+
+#### (Project Name)
+
+GameTime
+
+* [GitHub URL](https://github.com/sabondano/2048)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+
+Instructor: Tess
+
+Live: sabondano.github.io/2048
+
+Functional Expectations: 3
+TDD: 4
+Breaking Logic into Components: 4
+Fundamental JS & JS Style: 3
+Code Sanitation (JSHint): 4
+
+## Team
+
+Jai Misra & Sebastian Abondano
+
+#### (Project Name)
+
+Scale Up
+
+* [GitHub](https://github.com/mrjaimisra/keevah)
+* [Original Assignment](https://github.com/turingschool)
+
+Instructor: Horace
+
+Repo: https://github.com/mrjaimisra/keevah
+
+Good improvements over baseline -- got app into runnable state
+Overall resp time still in the 400 - 500 ms range
+Load script is covering all the pages we need
+Seeing some mix of caching and a little bit of query tinkering; still left a few "problem" actions with large remaining optimizations that could be done
+
+Production Deployment and Performance Monitoring: 2
+Load Testing / User Scripting: 3
+Database Load: 3
+Performance Optimization Techniques: 2
+Additional Features: 3
+
+#### (Project Name)
+
+RealTime
+
+* [GitHub](https://github.com/mrjaimisra/shiny-silver-poll)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
+
+Code Style (JavaScript and/or Ruby): Developer writes effective code, but does not breakout logical components
+Client-Side Application: Your application has a significant amount of duplication and one or major bugs.
+Test-Driven Development: The code demonstrates high test coverage (>80%), but does not adequately balance feature and unit tests
+Encapsulation / Breaking Logic into Components: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+Concept: Does the application deliver on the concept?: Below expectations, this is at-best a prototype
+Does it have a highly usable interface?: The application shows effort in the interface, but the result is not effective
+Features: Some features were sacrificed to meet the deadline
+
+Code Style (JavaScript and/or Ruby): 2
+Client-Side Application: 2
+Test-Driven Development: 2
+Encapsulation / Breaking Logic into Components: 2
+Concept: Does the application deliver on the concept?: 2
+Does it have a highly usable interface?: 2
+Features: 2
+
+#### (Project Name)
+
+Final Assessment
+
+* [GitHub](http://github.com/mrjaimisra/final-assessment)
+* [Original Assignment](https://gist.github.com/stevekinney/7423bf8d4a4a8622b386)
+
+Satisfactory Progress: 3: Developer completes iterations 1 through 6 with few bugs or missing functionality
+Ruby Syntax & Style: 3: Developer is able to write idiomatic and effective Ruby. Application makes good use of Object-Oriented modeling with few gaps in class identification and component extraction.
+Rails Style & API: 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data.
+Javascript Syntax & Style: 3: Developer writes solid Javascript code using common patterns and idioms. Code is organized appropriately within
+Testing: 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+​User Interface: 3: The application has many strong pages/interactions, but a few holes in lesser-used functionality
+​Delivery Deadlines: 3: The project was completed by 11pm of the day it was assigned.
+
+Satisfactory Progress: 3
+Ruby Syntax & Style: 3
+Rails Style & API: 3
+Javascript Syntax & Style: 3
+Testing: 3
+​User Interface: 3
+​Delivery Deadlines: 3
+
+## Community
+
+I tried to pair with Module 1 students who were struggling, since I empathize with
+and identify with that group. and I continued to participate in
+debugging and
+
+### Giving Feedback
+
+Sebastian, my only project partner during Module 4, is incredibly dedicated and humble,
+which feed into his hardworking attitude and positive outlook. He is organized and he
+has done absolutely everything that was required of him during the entire time at
+Turing. I learned a lot from him and I hope to be in touch in the future, as he will
+undoubtedly carry his passion and propensity for success into whatever he does.
+
+### Being a Community Member
+
+Turing has been filled with high highs and low lows, and I have suffered and elated
+each step of the way. Even though I haven't always been the most positive about my own
+work at Turing, and I am often a critical voice in any community to which I belong,
+I try to imbue my personal interactions with positivity and uplift people with
+jokes, words of encouragement, friendly conversation, and goofy antics. I think
+that is the best impact I can have in a community.
+
+### Playing a Part
+
+I want to stay in touch with the Turing community. I don't agree with the way Turing
+does everything (*too much stress*), but I really enjoy working with beginners,
+especially people who are freaking out and struggling. I like pairing because it gives
+me a chance to be positive with people while we are working on solving a problem.
+
+## Review
+
+### Notes
+
+- Low scores on individual projects
+
+### Outcome
+
+- End-of-Module Assessment: 3
+- Individual Work & Projects: 2
+- Group Work & Projects: 3
+- Community Participation: 3
+- Peer & Instructor Feedback: 3
+
+PENDING

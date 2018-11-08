@@ -1,0 +1,285 @@
+# Nicholas Martinez - M4 Portfolio
+
+## Areas of Emphasis
+
+Throughout the course of Module 4 I wanted to focus more on the operations of companies and the IT field. I spent more time working and learning about development operations, message queues, application deployment and micro services. Spending more time on how applications speak to each other and are used to build out larger applications and services is very interesting. It is simply another layer in the cake of what makes web applications usable and useful.
+
+## Rubric Scores
+
+*   **A: End-of-Module Assessment**: 3
+*   **B: Individual Work & Projects**: 3
+*   **C: Group Work & Projects**: 4
+*   **D: Professional Skills**: 3
+*   **E: Feedback & Community Participation**: 3
+
+-----------------------
+
+## A: End of Module Assessment
+
+Reviewer: Jeff
+
+[Repo](https://github.com/NZenitram/mod4-final)
+
+Notes:
+
+* Login/Logout works ok
+* Validation implementation was working but stopped
+* Editing is ok with a funny repeat-of-the-form bug
+* Hot link/Top link is on hotreads not on URLockbox, but logic is ok
+* Searching is ok
+* 13 tests all pass
+* Testing has multiple types but overall could be stronger
+* Overall there are some potholes but it's an ok result
+
+## Rubric
+
+Subjective evaluation will be made on your work/process according to the following criteria:
+
+### 1. Satisfactory Progress
+
+* 3: Developer completes sections 1 through 5 minor bugs and no missing functionality.
+
+### 2. Ruby & Rails Style & API
+
+* 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### 3. Javascript Syntax & Style
+
+* 3: Developer writes solid Javascript code using common patterns and idioms. Code is organized appropriately within objects and functions. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### 4. Testing
+
+* 3: Developer writes tests that are effective validation of functionality, but don't drive the design. Developer uses integration tests, controller tests, and model tests where appropriate.
+
+### 5. User Interface
+
+* 3: The application has many strong pages/interactions, but a few holes in lesser-used functionality
+
+### 6. Documentation
+
+* 3: Project features excellent documentation showing how to develop the application
+
+### 7. Workflow
+
+* 4: The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+## B: Individual Work
+
+### Open Source Contribution
+
+*   [Link to PR](https://github.com/OperationCode/operationcode/pull/651)
+
+I contributed to OperationCode project by fixing an email validation issue on their sign up page. There were two issue with the sign up page. One, the addresses were not being validated properly with their RegEx and two, the error messages that were appearing on the page were riddled with typos and mistakes.
+
+### Blog Posts
+
+[Setting up your Identity and Access Management for AWS](https://medium.com/@nZenitram/setting-up-your-identity-and-access-management-for-aws-6245e4ccf6c1#.8ktd9wl4u)
+
+[Spinning up an EC2 instance.](https://medium.com/@nZenitram/spinning-up-an-ec2-instance-ef7e81044dc4#.ukixc7s87)
+
+[OSS](https://medium.com/@nZenitram/my-open-source-contribution-3a8551bfc598#.clj68h85p)
+
+## C: Group Work & Projects
+
+### Projects
+
+#### Quantified Self
+
+*   [GitHub URL](https://github.com/NZenitram/quantified-self)
+*   [Original Assignment](http://backend.turing.io/module4/projects/quantified-self)
+
+We built a calorie tracker in JavaScript. This was our first JavaScript project in the BackEnd program.
+
+Assessed By: Mike
+
+[Repo](https://github.com/NZenitram/quantified-self)
+
+Notes:
+
+42 tests, mostly feature.
+Fully functional app, no bugs.
+I like how meals are combined.
+Rubric
+
+You will be subjectively graded by an instructor on the following criteria:
+
+1. Functional Expectations
+
+3: Application has all functionality, but some bugs or strange behavior where features intersect
+
+2. Testing
+
+3: All functionality is covered by tests. Appropriate mix of unit and integration tests.
+
+3. HTML/CSS/UI
+
+3: Application is not confusing to use. HTML Classes and IDs are kebab case.
+
+4. JS syntax and Style
+
+3: Uses classes as modules. DRY code where appropriate. Attention payed to indentation and naming.
+
+5. Git Workflow
+
+3: Team is using the proper branch types, and has a pull request for each feature
+
+6. Project Management
+
+4: Team is using a project management tool and updating their progress daily. It's hard to misinterpret user stories
+
+(feedback to me)
+
+#### Ripped (Sprint One)
+
+We built a web application for the Turing School that allows students to complete exercises in the form of test suites in separate languages.
+
+[Repo](https://github.com/NZenitram/ripped)
+
+Reviewer: Mike
+
+1. Project Management
+
+4: Team is using a project management tool and updating their progress daily.
+
+2. Completion & Pace
+
+4: Team completed all stories scheduled for this checkpoint by the product owner and laid out future stories.
+
+3. Implementation Quality
+
+3.5: Project demonstrates solid code quality and MVC principles.
+
+4. Application of Techniques
+
+3: Project has implemented one major technique from the previous two weeks of academic classes.
+
+#### Ripped (Sprint Two)
+
+Members: Anna, Noah, Erin, Nick
+
+Reviewer: Mike
+
+Notes:
+
+All stories complete.
+Documentation is clean and complete.
+Some opportunities to refactor in controllers.
+1. Project Management
+
+4: Team is using a project management tool and updating their progress daily.
+2. Completion & Pace
+
+3: Team completed all stories scheduled for this checkpoint by the product owner.
+3. Implementation Quality
+
+3: Project demonstrates solid code quality and MVC principles.
+4. Application of Techniques
+
+4: Project has implemented two or more major techniques from the previous two weeks of academic classes.
+5. Documentation
+
+4: Project features excellent documentation showing how to develop the application including a screencast or tutorial
+
+## D: Professional Skills
+
+### Gear Up
+#### Tragedy of the Commons
+
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/tragedy_of_the_commons.markdown)
+
+The tragedy of the commons gear-up included discussion about the impacts of sub-conscience selection bias. When people in groups make decisions about the make of that group based on an inherent bias, group make ups tend to become skewed (according to the reading and the website we played with.)
+
+#### Automation
+
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
+
+We were led to believe that automation is going to take everyone's jobs. I simply disagree with that. There will be significant pain in the transition for some industries, but overall, automation increases employment. The proof is in the history of the last century. We employ more people today than the entire population of the country at the turn of the 20th century. The fear of automation simply plays into the political ideology of those that believe it is the end of the world.
+
+#### Universal Basic Income
+
+*   [GitHub URL](https://github.com/turingschool/gear-up/blob/master/universal_basic_income.markdown)
+
+This gear-up was poorly prepared. The instructor that led our session premised the debate with "Last gear up we discussed why automation is taking all of our jobs and here is a possible solution". Again, the debate circled around how many people agree with the premise and not a debate of the premise itself. It appeared to be a way for people to further confirm their own biases rather than discuss the nature of what a UBI would actually look like.
+
+### Professional Development Workshops
+#### Mod 4 Strengths Finder
+
+#### Flower Exercise Follow Up, Job Interview Imposter Syndrome
+
+*   [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/module_four/flower_exercise_follow_up.md)
+
+I realized that the stress about the job hunt I am feeling is no uncommon and something everyone can work on. As we near the end of our time at Turing, the stress is building and being able to discuss strategies in dealing with that stress is helpful.
+
+#### Interview Prep With Ingrid
+
+*   [Workshop URL](https://github.com/turingschool/gear-up/blob/master/automation.markdown)
+
+The interview with Ingrid informational. This session was really interesting because she discussed her experiences in the real world and had plenty of insights to share with all of us. Her opinions on how interviews are conducted was good to hear, but there seems to be so much variance in the way these are conducted that everyone's mileage varies. However, any and all information in the process is appreciated.
+
+#### Cold Outreach Repo
+
+[Link to CO emails](https://github.com/NZenitram/coldoutreach)
+
+## E: Feedback and Community Participation
+
+### Pairing Sessions
+
+  2/11/2017 & 2/7/2017
+    Paired with Eric Wahlgren-Sauro
+      * Studied how to break down the JSON response of an API call after the mid-mod assessment.
+
+      * Worked through setting up AWS S3 bucket for their Cloney Island Dropbox clone.
+
+  2/6/2017 -
+    Paired with Brett Rivers
+      * We worked through modifying the way User data was stored in their Database and passed to the controller for their Air BnB clone.
+
+
+### Giving Feedback
+
+Joey Stansfield -
+
+- What can I say Joey, you just get it. Your ability to work your way through a challenging group environment and build out software is remarkable. Working with you was a pleasure. I appreciate your willingness to let me branch out on the project and focus on Dev Ops. I wish I had more time to work more closely with you on the code base because it would have provided me the opportunity to learn something from the top student in our class. Thank you for all of your hard work and diligent work ethic. Working with you again was a pleasure.
+
+Anna Dolan -
+
+- It was a pleasure working with you on Code of Arms and Joust (sick names by the way). The chemistry of our team was great even through some of the most stressful work in our seven months. The only critical feedback I can give you is, in the words of Erin, "Everything is going to be ok." It will. Your dedication to projects even through the stress is admirable and I wish I could match your desire to be successful.
+
+Erin Pintozzi -
+
+- It was great working with you this module. Your ability to organize your thoughts, schedule tasks and assist in delegating responsibility is invaluable to any team. You remained calm and collected throughout the stress of the module and that helped keep everyone's emotions in check. Working with you on any team would be a pleasure.
+
+Noah Berman -
+
+- Working and arguing with you throughout Turing has been a blast. Somehow we manage to agree on everything and disagree on everything at the same time. Critically speaking, I believe you need to work on how you describe what it is you are working on to team members, particularly if they are getting frustrated over it. Your problem solving ability and knowledge about an abundance of all things internet is a great resource and invaluable to to any team.
+
+### Being a Community Member
+
+Noah Berman -
+
+- Nick and I have had an ongoing political, er, debate throughout our time here at Turing. The skills he brings to bear in that conversation show themselves in his programming work: his tenacity, his willingness to go from zero to 400% in terms of solving problems, his knowledge about what we're working on. Was great to finally get to work with Nick on a project - we've been discussing DevOps stuff for a while now but this was our first time collaborating on a project. He's a major asset to any team and I look forward to both our continued debate and seeing where his skillz take him.
+
+Erin Pintozzi -
+
+- I really enjoyed working with Nick on the capstone project. I tend to be pretty conservative and pick options that feel a little clearer or more comfortable. Nick is fearless. The webhook he implemented is so cool and something I probably wouldn't have had to courage to tackle myself. I have literally never hear him utter the words "I can't" and that is why he is going to be such a strong asset to whichever team he joins after Turing.
+
+Anna Dolan -
+
+This module's capstone project was my first time working with Nick at Turing. It was a great experience! Nick added a lot of energy and motivation to our group, and was excited to work on new things. He brought a lot of ideas and was always encouraging and great to work with. I can't wait to see what he does in the future, whether it be in a DevOps role or in another capacity.
+
+Joey Stansfield -
+
+- Nick, great work on Quantified Self. It's been great working with you these last two modules. It's clear that you've improved your git game quite a bit since Stuff Box. I'm excited to see how far down the dev-ops rabbit whole you go.
+
+
+## Final Review
+
+### Notes
+
+Good work this module, and your portfolio shows the work of someone who's diligently doing all of the things. Also really 
+liked the cause you chose for your OSS contribution. 
+
+
+### Outcome
+
+Recommended for Graduation

@@ -1,0 +1,115 @@
+# Ken Lee - M1 Portfolio
+
+## Areas of Emphasis
+
+I plan to work on my ruby knowledge and improve what I learned from last mod. Also, to try to cope with stress better.
+
+## Self-Assessment Scores
+
+| Section | Category | Score |
+| ----- | ----- | ----- |
+| A | **End-of-Module Assessment** | 3 |
+| B | **Individual Projects** | 3 |
+| C | **Group Projects** | 3 |
+| D | **Professional Development** | 3 |
+| E | **Community** | 3 |
+
+#### Notes
+
+*   Feel like this mod was the mod I learned! I learned I can code and to believe in myself. To let the "bad" go and get going again. To focus on the good. Something that I normally don't do. Because of that view I had a lot of fun this time. That was a big part of me breaking through and learning.
+
+------------------------------------------------
+
+## A: End of Module Assessment
+
+| Category | Result (pass, fail, pending) |
+| ----- | --- |
+| Pairing Assessment | Pass|
+| Independent Timed Assessment | Pending |
+| Diagnostic | Pass |
+
+## B: Individual Projects
+
+| CATEGORY | Credit Check | Flashcards | HTTP |
+| ----- | ----- | ----- | ----- |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/credit_check) | [link](http://backend.turing.io/module1/projects/flashcards) | [link](http://backend.turing.io/module1/projects/http_yeah_you_know_me) |
+| **Github** | [link](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/1module/credit_check/ken-lee/credit_check.md) | [link](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/1module/flashcards/ken_lee/rubric.md) | [link](https://github.com/turingschool/ruby-submissions/blob/master/1701-b/1module/http/ken-lee/rubric.md) |
+| **Functional Expectations** | 3 | 3 | n/a |
+| **Test-Driven Development** | n/a | 3 | n/a |
+| **Encapsulation/Breaking Logic into Components** | 2.5 | 3 | n/a |
+| **Fundamental Ruby & Style** | 3 | 3 | n/a |
+| **Loop or Recursion** | n/a | 3 | n/a |
+| **Enumerable & Collections | n/a | 3 | n/a |
+
+#### Notes
+
+Gist Beth wanted me to reflect on what I did good and how I could do better: https://gist.github.com/wewert/ea5dfeabebb56da75a463364ba0f71af
+
+## C: Group Projects
+
+| CATEGORY | Night Writer | Black Thursday |
+| ----- | ----- | ----- | ----- |
+| **Project Spec** | [link](http://backend.turing.io/module1/projects/night_writer) | [link](http://backend.turing.io/module1/projects/black_thursday) |
+| **Github** | [link](https://github.com/frustratedswede/night_writer) | [link](https://github.com/glassjoseph/black_thursday) |
+| **Functional Expectations** | 3 | 4 |
+| **Test-Driven Development** | 2 | 3 |
+| **Encapsulation/Breaking Logic into Components** | 2.5 | 3 |
+| **Fundamental Ruby & Style** | 2.5 | 3 |
+| **Enumerable & Collections** | n/a | 4 |
+| **Code Sanitation** | n/a | 4 |
+
+## D: Professional Development
+
+### Define-the-Relationship (DTR)
+
+[Link](https://docs.google.com/document/d/1TegCyBVJS6habxZszZmQidNj2A4DHYUIP3pTO4sNFIM/edit#heading=h.l3ct5pv2ggfg)
+
+### Pair Feedback
+From Andrew:
+Ken, it was truly a pleasure. I couldn’t have asked for a better first pairing experience. Room was left for improvement, such as being more specific in the initial planning stage so that we didn’t run into trouble coming together at the end, but I think we both learned from that which is a definite plus. Your demeanor was always positive and made for productive remote sessions and problem solving. Things always go smoother when you can get along. Just remember that if you get stuck, there’s no option that isn’t worth trying. Generally, you were great and I think we could destroy some projects if we get a second chance at it. Keep it up man!
+
+For Ken: Night Writer Project (Andrew Mossefin): Hey Andrew, it was great working with you on the Night Writer project. You showed me how bad ass you were at ripping through codes. I like our interaction when figuring out problems. That we played on each others strengths and knowledge to get things done. Your calm and letting me know to take breaks helped me stay focused on the task at hand. To make things more smoother next time I would get more comfortable with using Git, TTD, and workflow tools(spectacle, vs code, etc). Like we discussed we both need to work better at planning out projects, to which we both will start bullet pointing our projects into task. Your enthusiasm and willingness to work like a rabid dog is inspiring.
+
+From Joseph: Black Thursday (Joseph Glass): Hey Joseph, your skill and understanding of everything we've learned so far is mind blowing. You ability to work as a pair is exactly what I needed to learn what a perfect pairing is. Thank you for that. I felt we made a great team where our strengths and weaknesses balanced each other out.
+
+For Ken: Ken, I’m amazed by your commitment to code every day against all challenges. When we paired, I felt I could focus on just one just one tiny aspect of the problem, fully confident that you would catch mistakes, add insights, and improve our code when we switched tasks. You helped me develop a more consistent, readable style, and taught me to use advanced methods like .reduce. The only areas for improvement I notice, you’re already working on. You’re drilling on classes and method interactions, you’re practicing Vim and your typing to avoid errors and speed your coding. I know that as you fix those “attention drains”, you’re going to become an unstoppable programmer. Thanks for everything!
+
+### Job Prep
+
+*   LinkedIn profile:
+[Link](https://www.linkedin.com/in/ken-lee-882bb23/)
+
+## E: Community
+
+### Gear Up
+
+#### Session 1 Growth Mindset
+Growth mindset is still something I keep in my present mind from last mod. I still have to stop myself when stuck and feeling low and tell myself how does this feeling help me and what can I do at this moment. I admit I still go down the fixed mindset road. It's a hard thing to get out of and I don't think I will ever completely change something that has been engrained in my since my presences here on Earth. I do commiserate with fellow students still to let out steam but I have to admit I don't know real use that does to help me. All I know is, growth mind set tells me that I need to keep moving forward. I know I'm learning I know way more than I did last mod. The fixed mind set in me worries about things I can't control like Turing decision. If
+Turing deems me unfit to move on. That keeps going through my head because that is reality. How does growth mindset reconcile that?
+
+#### Session 2 How to deal with difficult things better
+I like learning how to view learning difficult things. For instance, to not look at the whole thing of learning how to code as a one giant thing but to break it down into just a few things that I can master. I already do that on a day to day basis but I've never connected the dots with my learning the codes. I only looked at learning the codes as a big chuck and wind up choking on it. If I cut it up in to smaller pieces that I can master and then move on to the next couple, and the next couple. In a while I'll know a bunch. I've been doing this with learning Vim, so I have experience doing this. I just need to use this to learn coding. I do still need to do more research on techniques on how to accomplish this kind learning so I can be more
+efficient. Less time trying to learn and more quality time learning.
+
+#### Session 3 Stress Management
+I found myself having a hard time coming up with what I do to relieve stress. And I found that more peoples ideas were boring. I'm sure it helps them out but I wanted to relieve stress in a different way. What ever that is. I tend to go to a very dark places when dealing with high stress. I've always been this way. I did not have good role models growing up on how to deal with stress. My mom had bi-polar disorder and she handled stress by freaking out and destroying everything in her path which included her children. Especially her children. So, my way of dealing with stress is to internalize it and keep it in. I know that is not good but I don't know how else to deal with it. Stress gets to me and I become over whelmed and I shut down.
+I want to be able to handle it better but I don't know how. It would have been nice to hear some techniques on how to deal with stress other then have people write down that go to the gym, go hiking, read a book, listen to music...
+
+#### Session 4 Personal Stories and Connections
+The session was just like the last mod and I reflected on the differences of my prospective. I've thought a lot about how the issues I have are still blocks for me. Less now though. I think I'm trying to change for the better. I know more about where my weaknesses are and though not perfect...I am aware. That is a huge steps for me. To not just survive but think about how and why I do what I do. When I came to Turing because I wanted to know I can make my life better. That I can do this programming stuff. That I know I can be like everyone else. I've notice I do better when I do the growth mindset. I hope to get better at all this. I know I can and I will.
+
+#### Session 5 Code: Debugging the Gender Gap
+This movie was something I'm very familiar with because I've worked in the industry for years and I've seen and heard all. Some of the people I've worked with even believe they are socially conscious and think they are doing the right thing. But the reality is that they were adding the the same culture that is all wrong. I hope to help change this when I get in to the actual coding and looked at at the same level. Exactly what I mean with the last sentence.
+
+### Community Participation
+I have participated in the Turing Diversity group and tried to help with how we can help a more diverse peoples become interested and join Turing. I have also submitted to Jorge my outline of how to get grants for school. I have also helped out fellow students in class with questions.
+
+-------------------------------------------------------------
+
+## Final Review
+
+*   Much stronger inning this time; upward trajectory
+*   Continue to support those around you; take advantage of your skills
+
+### Outcome
+PROMOTED

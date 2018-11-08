@@ -1,0 +1,88 @@
+# \<Ash> - M3 Portfolio
+
+## Areas of Emphasis
+
+> Learn how to build and maintain sustainable applications that are production ready.
+
+## Self-Assessment
+
+| Section | Category | Score |
+| --- | ----- | --- |
+| A | **End-of-Module Assessment** | passing |
+| B | **Individual Work & Projects** | passing |
+| C | **Group Projects** | passing |
+| D | **Professional Development** | passing |
+| E | **Feedback & Community Participation** | passing |
+
+>* Group project for brownfield app was difficult, but worthwhile learning experience.
+>* \<Notes>
+
+-----------------------
+
+## A: Individual Work & Projects
+
+> **[APIcurious](http://backend.turing.io/module3/projects/apicurious) (Optional)**
+>* \<Description>
+>* \<Takeaways, your experience>
+
+> **[Self Directed](http://backend.turing.io/module3/projects/self_directed_project)**
+>* Created an application for users from the US that wanted to travel internationally to see an initial assessment of travel requirements/warnings, news, and eventually flight prices and weather forecasts for estimated dates of travel.
+>* Given the project due date, I wasn't able to achieve the full scope of all functionalities I wanted, but I have potential app to use for mod 4 to refactor and improve upon.
+
+## B: Group Work & Projects
+
+> **[Rales Engine](http://backend.turing.io/module3/projects/rails_engine)**
+>* The goal of RailsEngine is to use Rails and ActiveRecord to build a JSON API which uses the SalesEngine data schema. This is a pair project.
+
+>* Interesting project, my partner and I had a difficult time during the first couple days of the project, but we ultimately were able to achieve the full requirements by the last working day prior to the project due date.
+
+> **[The Pivot](http://backend.turing.io/module3/projects/the_pivot)**
+>* The goal of the Pivot project is to be able to take all the skills you have learned thus far, and apply to them a multi-tenant application. This is a team project consisting of 3-4 team members.
+
+>* The code base wasn't too challenging to work with but did have some issues that provided a challenging experience.
+
+| CATEGORY | Rales Engine | Self Directed | The Pivot |
+| --- | --- | --- | --- |
+| **Github Repo** | [Rales Repo](https://) | [Cloney 1 Repo](https://) | [Cloney 2 Repo](https://) |
+| **Heroku** | [Rales](https://) | [Self Directed](https://) | [The Pivot](https://) |
+| **Functional/Client Expectations** | X | X | X |
+| **TDD** | X | X | X |
+| **Code Organization/Quality** | X | X | X |
+| **API Design** | X | N/A | N/A |
+| **Queries** | X | N/A | N/A |
+
+> Rales Engine evaluation comments:
+\<Instructor Comments Here>
+
+> Cloney Island Sprint 1 evaluation comments:
+\<Instructor Comments Here>
+
+> Cloney Island Sprint 2 evaluation comments:
+\<Instructor Comments Here>
+
+## C. **Gear Ups**
+
+> [Link To Gear Up]()
+\ My preparation for each gear up is to come in objectively and evaluate the concepts covered. It does get challenging sometimes to formulate feedback given the short timeframe and important social topics covered.
+
+## D: Community Participation
+
+#### **Community Contribution Option**
+>* \<Link &/or blurb about the option you chose (blog post, lead a spike or posse, lightning talk, open source contribution or pair > 3 times)>
+
+#### **Posse**
+  >* Posse hosted a guest speaker who provided some insight into the software industry and answered some questions from us students. I found this very valuable.
+  >* Ability to craft sessions how we want as a posse.
+  >* Guess speakers and mentors coming by are helpful.
+
+#### **Playing a Part**
+
+> Advised mod 2 BE student on project.  
+
+------------------
+
+## Final Review
+
+> #### Notes ( Leave blank for reviewers )
+
+> #### Outcome ( Leave blank for reviewers )

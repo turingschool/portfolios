@@ -1,0 +1,214 @@
+# Graham Nessler - M3 Portfolio
+
+## Areas of Emphasis
+
+This module, I feel that I really started to come into my own as a developer. This was in many ways the odd duck of the three modules thus far, due to the different project structure, the long break in the middle, and the different geography. Nonetheless, I feel that I really benefitted from the independence, and I look forward to the final round. 
+
+Major accomplishments this module: 
+
+* Learned 2 new frameworks (Redux and Ember) 
+* First successful pull request accepted for an open source project! (Webdriver.io docs)
+* Completed first client project (with Ryan) 
+* Led 2 Friday Spikes 
+* Built some network contacts and started the job search
+
+## Rubric Scores
+
+Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
+
+* **A: End-of-Module Assessment**: 3.3 (average score)  
+* **B: Individual Work & Projects**: 3.5 (good, solid work, though the fact that the personal project was effectively paired for me makes me less able to judge this than my peers for this module)
+* **C: Group Work & Projects**: 3.5 (I feel that I was a good, strong teammate this module, and working with Ryan on the last project was a special treat)
+* **D: Professional Development**: 3.5 (made some good inroads into the professional world and had my first real job interview in tech 
+* **E: Feedback & Community Participation**: 3 (Lack of easy pairing opps for the mod below us means that I can't boast the community record that I did in Mod 2, but I did lead Friday Spikes on 2 occasions )
+
+-----------------------
+
+## A: End of Module Assessment
+
+Evaluator: Nate 
+
+Specification Adherence
+3 - The application includes all of the major functionality. There are no features missing from above that make the application feel incomplete or hard to use.
+
+Determining the right tools for the job
+3 - Developer selected appropriate libraries and frameworks to build the app but did not utilize them as efficiently as possible; demonstrated gaps in knowledge of how the tools should be used.
+
+Following Documentation
+4 - Developer was able to get the back-end running and successfully sent and received data from the server using the correct endpoints listed in the documentation. Did not need instructor guidance on how to work with the endpoints.
+
+## B: Individual Work & Projects
+
+#### Personal Project (Individual Aspect)
+
+* [GitHub URL](https://github.com/gness1804/fare-harbor-toolkit)
+* [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
+
+My personal project was a bit of a different animal. Along with Ryan, I chose to do a client project with FareHarbor, a travel services company
+Our job was to create several booking tools, such as buttons and toolbars, for client sites to use, as well as a "tool creator", which was effectively a config object that allows FareHarbor developers to highly customize these tools (for instance, they might change the color of a tool to match a client's company color scheme). We ended up created a sophisticated config system that allows for the creation of many tools, and the FareHarbor people only have to change properties in the main config object itself. We also created three tools between us: a search input bar, a footer, and a bottom modal button. Due to concerns about backward compatability, we completed the entire project in vanilla JavaScript, which was a very useful exercise.  
+
+My individual portion of the project was the search input bar and footer. The main things I learned were more about object-oriented programming, since most of the structure was essentially passing data between objects; more Selenium testing; immediately-invoked function expressions; how to make API calls using vanilla JS; how to use regexes to capture data; and last but certainly not least, how to write strong documentation. (We each wrote extensive documentation on our own features and a joint intro section.) I also learned a lot about how "real-world" business logic influences programming. For instance, the need to use lightframes as opposed to external links in my tools, which was borne of the fact that lightframes generate higher user conversions, made me write my code quite differently than if I had been able to use external links. I gained an appreciation for seemingly small issues like that and also gained more understanding of what it's like to produce a product for a company. Oh, and I also learned a lot about data validation near the end of the project as I sought to guard against bad data--I can write error messages much more comfortably now!  
+
+(evaluation comments)
+TBD
+
+(evaluation scores)
+TBD 
+
+## C: Group Work & Projects
+
+### Projects
+
+#### Weather Forecast (with Nick, Lacey, and Ryan)
+
+* [GitHub URL](https://github.com/lrknaff/weather-tracker)
+* [Original Assignment](http://frontend.turing.io/projects/weather-forecast.html)
+
+This was our first group-of-four project and our kickoff project for this mod. Our task was to build a weather tracking app using a real API along with Redux, a tool we had newly learned. Our group worked very well together, though we struggled not only with the learning curve of Redux but also with the difficulties of the API. The large group format could be a challenge at times in terms of communication, but we did a good job of delegating responsibilities and solving tough problems together. Our biggest bump in the road was a big merge conflict that could possibly have been averted with better communication, but we all learned from it. I'd easily work with all of them again, though the sad thing is I probably won't be able to.  
+
+Instructor Evaluation Points: Weather Forecast
+
+Instructor: Brittany
+
+Comments:
+
+Specification Adherence
+
+4 - The application meets all of the requirements listed above and implements one or more of the extensions.
+Redux Architecture
+
+3 - At least one component is not connected with Redux appropriately. Application state is mutated by more than just Redux. The Redux store is missing application data that it should be handling.
+Routing
+
+4 - Application is a single page and uses the React Router to display appropriate components based on URL.
+JavaScript Style
+
+3 - Application is thoughtfully put together with some duplication and no major bugs. Group can speak to choices made in the code and knows what every line of code is doing.
+Testing
+
+3 - Project has a running test suite that tests multiple levels but fails to cover some features.
+Workflow
+
+3 - The group makes a series of small, atomic commits that document the evolution of their application and it is clear who was responsible for what features.
+Troubleshooting
+
+4 - Most to all questions were posed to instructors with expected information
+
+#### Feedback to Me: 
+
+Feedback from Lacey (Mod 3)
+
+It was great to be able to work with Graham again and see how far he's progressed since Mod1. As always, he was a pleasure to work with. He communicated his ideas effectively, had an unparalled workflow, and has a sincere desire to work on his weaknesses. In this particular project he chose to put a little more focus on Sass and HTML. I think Graham has a slight tendency to overcomplicate things, but I think that's something that will be improved over time as Graham continues on with development.
+
+Feedback from Nick
+
+I had a great experience working with Graham. He has a great attitude while working through difficult problems
+and takes care of business. We worked on Weather-Tracker in along with Ryan and Lacey, which required us to implement several new technologies (React Router and Redux) and grow our front-end knowledge immensely. Graham took on many different parts of the project and always came up with solutions. He seems like he's becoming an adept developers. We both paired together on the styling, which was not a strength for either one of us, and while we managed to do a good job with most of the CSS/SASS, we did run into a couple walls. My feedback for Graham would be to keep practicing more styling and maybe work a bit more on talking through his process. Before the project, he mentioned that he had received feedback in the past about taking over too much of the project, but I never found this to be an issue. Graham is clearly kicking ass, and it was awesome to work with him. 
+
+Feedback from Ryan
+
+This was my first project with Graham, one with which I was certainly anticipating, as I have noticed how hard he works. I greatly enjoyed my time with him. He was always willing to work through problems and contributed in a major way. At the beginning of the project, as we were doing a DTR, he shared that he wanted to get better at styling/CSS. He and Nick did a great job tackling it, and we ended up with a great looking app. I would say his biggest opportunity to grow and improve would be communication. Like me, he likes to plow ahead, and is great at tackling tasks. By taking a step back, slowing down, and enjoying the process of working with others, I believe the group projects would be even better. I would be excited to work with him again.
+
+#### Ember Remember (with Kinan) 
+
+* [Github URL](https://github.com/kswhyte/remEMBER)
+
+This was a different type of project. Instead of the usual process of getting specs, working on them over a week or so, and submitting a final deliverable, we instead were tasked with working on a small part of a bigger project via Github issues that would be closed via pull requests. 
+This project taught me a great deal about Git workflow and pull request etiquette, which I know will come in handy after Turing. The most frustrating part was Ember. While I certainly saw its advantages as giving the developer a great deal "out of the box" and being scalable for large applications, the loss of control was a difficult adjustment, on top of the learning curve of the framework more generally. I did feel that I started to get the hang of Ember toward the end, though. 
+
+Feedback from Kinan (Mod 3)
+
+Graham and I worked on our very first project together, so it was a long time coming to work again. We definitely felt new again, since we were building a reminder list with a new framework, Ember. We had a hard time learning the ins and outs of the framework, but overall, working together was easygoing. We were able to stay on the same page relatively, and divide and conquer well. I found our collaboration meaningful and successful. If Graham could work on anything, it would be to communicate better while getting stuck. We both may struggle with this, actually. I feel we could just at least work on conjuring up some words into what might be going on and where to go. I will be happy to work with Graham in the future.
+
+## D: Professional Development
+
+###Gear Ups: 
+
+####Microaggressions 
+
+This Gear Up focused on a term that's come into vogue in the past few decades that refers to "small" acts of intolerance, bigotry, or oversight. I came into this session with mixed feelings because of my background in academia, where (at least in the humanities) identity politics is close to a religion. Nonetheless, the session impelled me to reflect on unpleasant incidents that I've both encountered and heard about from others. The session reminded me that not all acts of "microaggression" are of the old-school racism variety, and that I need to be aware of how I can unintentionally come across to others, esp members of historically disdvantaged groups. 
+
+####Journey Mapping
+
+This was, in my opinion (and I suspect others'), the least valuable of the three Gear Ups this mod. The focus was (I think) supposed to be on how we can empathize with the users of our technologies and understand better the difficulties of others' experiences, but the session was poorly executed with unclear expectations and instructions. Our interview group ended up not organizing ourselves correctly and mostly just talking about public transportation in Denver. This was a bit ironic because a core theme of the session was the difficulties that people in the real world face with opaque and unnecessarily cumbersome processes and systems. If a version of this Gear Up is done in the future, then hopefully the instructions will be clearer.
+
+####Grit
+
+In this first Gear Up of the New Year, we talked about grit, defined by Angela Duckworth as a combination of passion and perseverance. Though this session had its values, it was hard to not think of it as a "mini-resilience" Gear Up. Nate led the session, and while he did a fine job, I wish he'd not participated in the discussion portion. I was in a group with him and Maia, and I would have been a lot more comfortable just talking with my peer; Nate's presence introduced a different dynamic to the group. The session did, however, lead me to reflect more on what I've really enjoyed and gotten out of Turing during my time here.
+
+##Flower Exercise: 
+[Flower Exercise Gist](https://gist.github.com/gness1804/d34fc0376fb9f5d42e136a6588f99ca0)
+
+##Personal Project Pitch
+
+I propose to create two main booking components: a search bar, centered on the page above the fold with destination and date inputs, and a floating bottom modal footer. The search bar would be modeled on the search bar on the [Trafalgar Tours website](https://www.trafalgar.com/usa?), and the footer would be modeled on the [Princess Cruises website](http://www.princess.com/).
+
+*Core Tools To Use:*
+
+JavaScript/ES6, SASS/CSS, HTML5, FareHarbor API, others as needed.
+
+*Technical Approach:*
+
+I plan to create these components within a larger "template" website, and the components will then be exportable to other sites via script tags. I plan on using Webpack to modularize my components so that the various parts of my site can easily be exported to other sites.
+
+*UI/UX Philosophy:*
+
+I plan on following the "keep it simple, stupid" philosophy: less is often more, and busier pages seem to often lead to lower conversion rates (that is the case for me, at least). That said, I do plan to add complexity where appropriate and appealing, such as making parts of the bottom modal footer expand when the user clicks on them and making the search bar perform multiple tasks such as producing an interactive calendar and linking to the main booking engine.  
+
+I generally adhere to Steve Krug's [Don't Make Me Think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) philosophy; I strive to make web interactions as intuitive as possible for the user. Accordingly, the search bar should not leave the user wondering what the fields are for or where they go once they click on the calendar field, and the bottom footer should be self-explanatory and user-friendly. 
+
+I will provide a color scheme congruent with the template website, but this can easily be changed. 
+
+*Final Deliverable:* 
+
+Script tags for the two components, with appropriate documentation. This is subject to change according to the needs of FareHarbor. 
+
+[The documentation for our completed FareHarbor Toolkit](https://rcwestlake.gitbooks.io/fareharbor-toolkit/content/)
+
+## Other Professional Development: 
+
+I started the process of applying for jobs and had my first real tech job interview. I've also been to several networking events and met some potentially important connections.
+
+## E: Feedback and Community Participation
+
+### Giving Feedback
+
+##Feedback for Lacey
+
+This was my second opportunity to work with Lacey. Her insights into React and Redux consistently enhanced our project, and she saved the day on more than one occasion when Nick and I had dug ourselves into a styling hole. Like me, she has a quiet style, and I think we both could benefit from speaking up more at times. Nonetheless, Lacey is an excellent teammate, and I hope that we work together again in the future.  
+
+##Feedback for Nick
+
+Nick and I were partners, along with Ryan and Lacey, for the second weather project and our first project for Mod 3. We took on the styling, since we both felt that we were fairly weak in this area. I feel that our final product was solid, though we did have to ask Lacey to bail us out a couple times. Nick has a great disposition and is always willing to take on tough tasks. The only issue that arose is that at times, we could have communicated a bit better, both with each other and with other members of the team. Overall, though, it was great to work with Nick, and I hope we get to have a paired project together.  
+
+##Feedback for Ryan (Weather Tracker) 
+
+This was my long-awaited first opportunity to work with Ryan on a project, and I very much enjoyed it. Ryan is a real "go getter" and has a great work ethic. He took on a leadership role in our project and always was eager to tackle the most difficult problems. My one constructive criticism applies equally to myself--improving communication at times. We collectively had a very difficult merge conflict that could have been avoided or reduced had we all been more "on the same page" about what we were editing. On the whole, though, it was a real pleasure working with Ryan, and I very much hope to do so again. 
+
+##Feedback for Kinan
+
+This was our second project together. Way back at the beginning of mod 1, we did number guesser together, and it was nice to see how far both of us had come since then. Kinan and I struggled a lot with Ember Remember, but we pulled through. I think that we established a good workflow and helped each other through difficult challenges. In terms of improvement, I think sometimes Kinan could communicate better when we hit a wall. Nonetheless, it's fitting that I had him as my partner for this Git-heavy project since he taught me a lot about Git back when I was first learning about it. I'd definitely work with him again. 
+
+##Feedback for Ryan (FareHarbor project)
+
+Though Ryan and I had already worked together on a project this module, we found ourselves effectively paired up on the FareHarbor personal project, and this deserves a second note. Ryan was a great partner for this project. He was always prepared and contributed a lot of really good insights throughout. He's got a great attitude and I know that he's going places. Kudos to a great partner! 
+
+### Being a Community Member
+
+### Playing a Part
+
+I feel that I was fairly active in the Turing community this module. As noted above, I led two Friday Spikes, one on Canvas and one on whiteboarding. [Blog posts on the Friday Spikes.](https://gness1804.github.io/blog-in-react/). I also participated in a hackathon, helped out classmates, and made my first successful pull request for an open soure project (OK, I guess that thing was outside of Turing). My only regret, though this was largely due to geography, is that I didn't pair with any of the students below me this mod. I really enjoyed that from last mod. Maybe with all of us together next mod, I will be able to do this again. 
+
+### Gear Up
+
+See above. 
+
+------------------
+
+## Final Review
+
+### Notes
+Ramp back up the pairing/community outreach for mod 4
+
+### Outcome
+Pass

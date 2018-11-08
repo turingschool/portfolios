@@ -1,0 +1,52 @@
+Turing Post Graduation Plan: https://gist.github.com/Tyjoo26/e8679eff546ddf9c3989e08a46b4a946
+
+
+Turing Portfolio Defense Slides:
+https://docs.google.com/presentation/d/1HVyOHxm_USESTZcHrqxVRIQ5prAtTGbWS28d3IkAEQk/edit?usp=sharing
+
+Turing Portfolio Defense Content:
+Growing up, I’ve always loved technology and its ability to change society for the better. I attended college with a degree in what I thought I wanted to do, but rarely do 18 year olds know what they want to do for the rest of their lives.
+
+After graduating college with a degree in legal studies, I wasn’t entirely sold on law school, and decided to take a job in corporate marketing for a SEC compliance firm in Denver, Colorado.
+
+Since then, I’ve started a business, developed the ability to sell,  and learned how to build a customer success process for new client implementation but I never felt like I had the technical skills to create. I’ve identified that software is the fulcrum businesses use to move the world. And so, 10 months ago, I made the decision to attend Turing with no prior background in coding or software development.
+
+Coming around the final lap of Turing, I’ve reflected on the amount of information I’ve consumed since then.  I’ve struggled with Ruby in Module 1, built functional web applications in Mod 2, and learned how to refine and built more complex web applications that consume APIs.
+Now that I’m in the waning days of Module 4, it’s  time to reflect on what I’ve learned in those five weeks.
+
+I’m most proud of being comfortable with JavaScript. I had some really great mentors this module who were able to help me understand how to use JavaScript.
+
+I was not as comfortable when I first started and had a hard time wrapping my head around the fact that JS has less conventions than Ruby. But accepting what your not comfortable and working through your problems until you’re comfortable is part of being a software developer. I learned that it’s easier for me to understand JS when I put in the MVC design pattern and trying to place all my code within classes if possible. An example of some JS code in the MVC design pattern will be on the next couple of slides I learned a lot through the Quantified Self project and that was  great confidence booster in Node, Express, JQuery and JS.
+
+In particular, Node.js is something of interest to me and I’m considering Node.js jobs as a potential start to my career pathway
+
+As I finalize my capstone project, I’m having trouble with learning the React framework.  It’s something I decided to learn as the final hurdle to leap over.  I’m still learning React and understanding how data is passed down and actions is passed up. At a high level, it makes sense, but rarely does implementation work out easily, especially for a new language. I’m learning that I need to stay consistent with how I approach new languages or frameworks. And that means reaching out to mentors and asking for help.
+
+I know now that it can take me awhile to pick up new languages or frameworks and as such, I will have to work harder than others that pick it up quickly.  I just have to keep practicing and keep doing the things that have led me to this point, which I’ve mentioned above.
+
+This module, I’ve made a focus to give back to the Turing community. I wouldn’t be where I am if it wasn’t for the great cohort colleagues and my mentor. A lot of my acceleration through the learning curve of JS was through my cohort members and a significant part of my overall development is to my mentor who I am very blessed to have.
+
+As such, I’ve decided that it was important for me to give back to people in Mod 1, where I recall some (not so great) memories of struggling through. I’ve dedicated at least 1 mentor session a week to people in Mod 1 and I believe that sets me apart. In the whirlwind of graduation, mod4 deliverables, applying jobs, technical take home challenges, and interviews, I’ve made it a goal to mentor and I’ve done so every week.
+
+Now that I’m finished with Mod 4, my job hunting outlook has changed somewhat. Before Mod 4, I wanted to stay primarily in Ruby on Rails with a focus on back end development, but JavaScript has really opened up my eyes as to what else is possible with a new language.
+
+It’s changed my job hunting outlook in that I’m open to positions in Node.js. To be frank, I’m torn between the both of them. Ruby on Rails is what we’ve spent the most amount of time in and I feel comfortable with it. However, the opportunities in JavaScript seem more plentiful.
+
+At the end of the day, it will come down to the best opportunity between the two of them.
+
+
+I’ve really appreciate the opportunity learn JavaScript in the back end programming. Much of what we do in Ruby or in Rails is abstracted away from us, and JavaScript (in my humble opinion) is a bit of a lower level language than Ruby in that some concepts are not abstracted away.
+
+An easy example would be loops or enumerables in Ruby. In Ruby, it’s very easy to build loops or to iterate over collections since many of them are pre-built.
+In JavaScript, we’re not as lucky so we have to be creative in determining how to build a certain iterator such as max or min (in Ruby).
+
+This is beneficial because it forces you to think and solve a certain situational iterator with logic and pseudo-coding.
+
+I value Turing because it has definitely made me more self aware and cognizant of some of the social differences people experience in society.
+
+It created an environment to have these discussions, which I’m not sure people are having enough of out in the world.
+
+I’ve learned how to be more empathetic and to recognize where people come from.
+All of this would not be possible if Turing didn’t have a diverse student body and faculty.
+
+To conclude, I want to thank everybody who played a part in my development and I look forward to keeping in touch as I move on with my life.

@@ -1,0 +1,234 @@
+# Keji Amos - M2 Portfolio
+
+## Areas of Emphasis
+
+Increase my ability/comfortability to use use arrays and objects
+
+## Rubric Scores
+
+*   **A: End-of-Module Assessment**: Pass
+*   **B: Individual Work & Projects**: Pass
+*   **C: Group Work & Projects**: Pass
+*   **D: Professional Skills**: Pass
+*   **E: Feedback & Community Participation**: Pass
+
+-----------------------
+
+## A: End of Module Assessment
+
+(Notes & scores from your assessment rubric)
+
+
+## B: Individual Work & Projects
+
+While we had individual projects it was good practice in collaboration. I felt like
+I was able to learn more and also confirm the things I knew.
+
+#### Complete Me
+
+*   [GitHub URL](https://github.com/kamos1/complete-me)
+*   [Original Assignment](http://frontend.turing.io/projects/complete-me.html)
+
+Description: Build a low level version of an auto complete system in javascript.
+
+Evaluation Comments:
+
+Evaluation Scores:
+### Fundamental JavaScript & Style
+
+3: Application shows strong effort towards organization, content, and refactoring
+
+### Test-Driven Development
+
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+### Encapsulation / Breaking Logic into Components
+
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+### Functional Expectations
+
+3: Application meets all requirements as laid out per the specification.
+
+### Code Sanitation
+
+The output from ESLint shows…
+
+4 - Zero complaints
+
+#### Sorting-Suite
+
+*   [GitHub URL](https://github.com/kamos1/sorting-suite)
+*   [Original Assignment](http://frontend.turing.io/projects/sorting-suite.html)
+
+Description: Build three fundamental sorting algorithms.
+
+Evaluation Comments:
+
+Evaluation Scores:
+# Instructor Evaluation Points: Sorting Sweet
+# Instructor: Nathaniel
+# Comments:
+
+## Evaluation Rubric
+
+### 1. Fundamental JavaScript & Style
+
+* 3: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### 2. Test-Driven Development
+
+* 2.5: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+### 3. Encapsulation / Breaking Logic into Components
+
+* 3.5: Application effectively breaks logical components apart but breaks the principle of SRP
+
+### 4. Functional Expectations
+
+* 2.5: Application runs, but does not work properly, or does not meet specifications.
+
+### 5. Code Sanitation
+
+The output from ESLint shows…
+
+* 4 - Zero complaints
+
+
+## C: Group Work & Projects
+
+### Projects
+
+(Intro)
+
+#### Game Time
+
+*   [GitHub URL](https://github.com/kellymiller6/game-time)
+*   [Original Assignment](http://frontend.turing.io/projects/game-time.html)
+
+Description: For this project we created the game Frogger. The user is supposed to make it from the bottom
+to the top without colliding with the blocks. As the user wins, the speed of the blocks increases.
+
+Evaluation Comments:
+- from a high level the objects where structured well.
+- I liked the helper functions
+- Tests could be more verbose
+- UI is a little sparce
+  - Would like more lanes?
+
+Evaluation Scores:
+### Functional Expectations
+
+- 3: Application is fully playable without crashes or bugs
+
+### User Interface
+
+3 - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+### Testing
+
+2.5 - Project has sporadic use of tests at multiple levels. The application contains numerous holes in testing and/or many features are untested.
+
+### JavaScript Style
+
+3.5 - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### Workflow
+
+4 - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+### Code Sanitation
+
+The output from JSHint shows…
+
+4 - Zero complaints
+
+
+(feedback to me)
+
+#### Weatherly
+
+*   [GitHub URL](https://github.com/hilvitzs/weatherly)
+*   [Original Assignment](http://frontend.turing.io/projects/weathrly.html)
+
+Description: Weatherly is an application that displays weather information using the weather underground api and is built in React.
+
+Evaluation Comments:
+
+
+Evaluation Scores:
+
+## Specification Adherence
+
+3 - The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+
+## User Interface
+
+3.5 - The application has many strong pages/interactions, but a few holes in lesser-used functionality. The application less than 3 aXe-core violations
+
+## HTML Style
+
+3: Developer solves structural problems with a balance between conciseness and clarity. Developer can speak to choices made in the code and knows what every line of code and every tag and selector is doing.
+
+## CSS/Sass Style
+
+3.5: Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of CSS/Sass is doing.
+
+## JavaScript / React Style
+
+3- Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing. Application has at least 6 components built out.
+
+## Testing
+// Weathrly -- make sure TenDay, Hourly, and Input are rendering
+// TenDay -- Pass in data, make sure ten DayItems are rendering
+// Hourly -- Pass in data, make sure there are seven .hourlyForecast cards rendered
+// Current -- Pass in data, make sure correct hi and low values are rendered
+
+2 - Project has sporadic use of tests and multiple levels. The application contains numerous holes in testing and/or many features are untested.
+
+1 - There is little or no evidence of testing in this application.
+
+## Workflow
+
+3 - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+
+## Code Sanitation
+
+The output from a code sanitizer (either JSHint or ESLint) shows…
+
+3 - Five or fewer complaints
+
+(feedback to me)
+
+## E: Feedback and Community Participation
+
+### Giving Feedback
+
+##### Feedback from a classmate:
+The interactions we've had have been great. They're really beneficial and improve my ability to get things done. I've appreciated your willingness to answer and try to answer a lot of questions I've had. You also help me stay on top of my game.
+
+### Being a Community Member
+
+While we didn't directly pair on any project this inning, I found you to be a great resource when I was stuck on anything. I really appreciate your approach to helping your peers in that you don't simply give the answer if you had already arrived at your own answer. You're very good at guiding someone towards their own answers, and thus they can learn from it, instead of just getting the answer and not understanding why. Keep it up my man.
+
+### Playing a Part
+
+##### Ways you supported the larger Turing community:
+I'm a co-lead for Phalka Posse, a member of SAB and attend IronFE
+
+
+------------------
+
+## Final Review
+
+### Notes
+
+PASS (pending weatherly tests)
+
+### Outcome
+
+A: End-of-Module Assessment: Pass
+B: Individual Work & Projects: 3
+C: Group Work & Projects: 3.5
+D: Professional Skills: 3
+E: Feedback & Community Participation: 4

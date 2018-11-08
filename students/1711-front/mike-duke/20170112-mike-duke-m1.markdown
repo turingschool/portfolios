@@ -1,0 +1,372 @@
+# Mike Duke - M1 Portfolio
+
+## Areas of Emphasis
+
+This module, my major focus became JavaScript and JS. I believe that I understand the concepts we were presented to a satisfactory degree, but implementing the code to make those concepts work in practicality was a huge challenge for me. However, with some extra work done over the holiday break, I’ve been able to elevate my code well above where I was before the break. 
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 2
+* **B: Individual Work & Projects**: 2
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 2
+
+-----------------------
+
+## A: End of Module Assessment
+
+I believe that I have done very well on the pentathlon, with the exception of my static-comp-3.
+
+
+## B: Individual Work & Projects
+
+I struggled a lot on my individual projects from the very beginning. At first, I was afraid that I would not complete NumberGuesser. Then I started to fall behind on the static-comps in favor of group projects and other, more JS and jQuery based projects. 
+
+#### Number Guesser
+
+* [GitHub URL](https://github.com/aithon2501/NumberGuesser)
+* [Original Assignment](http://frontend.turing.io/projects/number-guesser.html)
+
+Build a game where the user guesses a number between 1 and 100
+
+__Student: Mike Duke
+Evaluator: Pamela Lovett__
+
+Notes/What To Work On:
+DESIGN
+  • Update to let user know range
+  • Catch edge cases beyond setting the input type to number - add input validation
+
+HTML
+  • Watch indentation/spacing
+  • Good use of semantic HTML - keep moving forward with ARIA
+
+CSS
+  • Use Idiomatic CSS for organization
+
+JS
+  • Functionality split up well
+  • Good job speaking to your code
+
+Functional Expectations
+  • Advanced Beginner: Application meets all of the expectations of phase two.
+
+COMP RECREATION / DESIGN
+  • Advanced Beginner
+
+HTML
+  • Advanced Beginner
+
+CSS
+  • Advanced Beginner
+
+JS/jQuery
+  • Advanced Beginner
+
+## C: Group Work & Projects
+
+### Projects
+
+I believe I did well in group projects, sometimes to the detriment of my individual projects. I very much prefer--in most cases--working together with a partner on code than to work individually. I enjoy the collaborative nature of hooking the laptop up to the large TVs and looking at the code together, especially in terms of refactoring code like we did in 2DoBox. There were projects where I felt like my knowledge was not as extensive as my partner's, but in those cases I did what I could to make sure that I was learning everything I could from the experience. 
+
+#### Linked List
+
+* [GitHub URL](https://github.com/aithon2501/linked-list)
+* [Original Assignment](http://frontend.turing.io/projects/linked-list.html)
+
+Build a small application with two input fields and a button to adding a bookmark to the page.
+
+__Student: Jared and Mike
+Evaluator: David__
+
+Notes/What To Work On:
+_comp_
+* Nice work!
+* Read and delete buttons could be a bit bigger
+_html_
+* Use form element for accessibility reasons
+* Use labels for all inputs
+_css_
+* Consider adding comments for different sections of your css
+* Use convention for organization within blocks - ie. idiomatic or alphabetized
+* Get rid of all of the empty lines at the bottom of the file!
+_js_
+* Use action like words for function names - ie. countRead instead of readCount
+* Consider using template literals for appending html to page
+_git/github_
+* Would like to see more verbose commit messages in the future and similar numbers of commits from each collaborator
+
+__Functional Expectations__
+Proficient: Application meets all of the functional expectations in Phase Three.
+
+_COMP RECREATION / DESIGN_
+Proficient
+_HTML_
+Advanced Beginner
+Proficient
+_CSS_
+Advanced Beginner
+Proficient
+_JS/jQuery_
+Proficient
+_GIT & GITHUB_
+Advanced Beginner
+Proficient
+_Pairing/Collaboration_
+Proficient
+Surprise and Delight (optional category, but reminder: have fun!)
+Sparkles
+
+From Jared Eklin: “I enjoyed working on this project with you.  We worked well as a team and I thought we were excellent at managing our schedules and communicating about them. I thought your ability to catch syntax errors (definitely not my strength….  Missing periods on class names rings a bell….) and other mistakes was a huge plus and kept us from wasting critical time.  We could have done a better job of cleaning up a few of the small details in our final project,  but overall, I am very happy with what we accomplished with our project.”
+
+
+
+#### IdeaBox
+
+* [GitHub URL](https://github.com/aithon2501/ideabox)
+* [Original Assignment](http://frontend.turing.io/projects/ideabox.html)
+
+Create a small application that will take a user's idea and catalog it to the browser's local storage. 
+
+__Student: Mike D and Jon
+Evaluator: Pamela Lovett__
+
+__Notes/What To Work On:__
+
+_DESIGN/COMP_
+Nice work getting through most of the project. Cards can be generated with empty fields for title/body.
+Stays true to the spirit of the comp - looks pretty good!
+
+_HTML_
+Good job using labels - next time use aria-label attribute on inputs instead of label elements (since you are not using a visible label)
+Correct your path in line 26 so that jquery loads as backup, if needed
+Nice work using alts on your dynamically generated cards. Most of the application does well when run through VoiceOver. Be sure to run your app through a screen reader every time!
+
+_CSS_
+Declarations, at a minimum, should be organized alphabetically within selectors. Next time, try using Idiomatic CSS for organizing declarations
+Note that setting the font-size in px (line 4) runs into accessibility issues - as it will override any browser settings set by the user. Setting this to a percentage avoids this. 62.5% would be the equivalent of 10px. See this article for a more detailed explanation
+Remove any empty selectors
+Nice work grouping elements with the same declarations
+
+_JS_
+Good job speaking to most of your code
+Be sure to use var before initializing your variable i in the loop on line 7
+Use named function for event listener on line 16 as opposed to using anonymous function
+Nice use of the data attribute for storing your ids in line 67
+Unnecessary use of pulling text from DOM in lines 73, 77, 86, and 89 for changeQualityUp/Down. Check the property from the parsedIdea that you pull for your expression (shown below). No need for else if as there are only two options (an else for the second condition would work fine). Update text on DOM outside of conditional before sending to local storage to reduce redundant lines.
+  if (parsedIdea.quality === 'swill') {
+    ...
+  }
+persistTitleEdit & persistBodyEdit could be re-factored into one function
+
+_GIT/GITHUB_
+Made it so that reviews were required in settings for GitHub!!
+Yay for comments in PR!!!
+Good number of commits
+Capitalize first letter in commits - be more descriptive in some
+
+__Functional Expectations__
+_Proficient_ 
+The application consists of one page with all of the major functionality being provided by jQuery. No approach was taken that is counter to the spirit of the project and its learning goals.
+
+_HTML_
+Accessibility
+_Proficient_ 
+Employs detailed accessibility practices throughout markup, especially in forms and can speak to decisions made in accessibility choices as it relates to specific accessibility concerns.
+Exceptional Can run markup through a variety of online accessibility tools and score well for content, color, screen readers, etc.
+
+Style
+_Proficient_ 
+Crafts lean, efficient markup that is easy to read and follow across naming conventions, structure, and solid formatting that follows industry best practices.
+
+_CSS_
+Structure of Code
+_Advanced Beginner_ 
+Can cleanly and logically organize CSS rules according to similar categories (i.e. typography, layout, components), and then logically organize the remaining CSS rules based on flow of the markup. Organizes properties within rules alphabetically.
+
+Implementation
+_Proficient_ 
+Develops layouts that work cross-browser, are responsive, and can logically defend the choices made in implementation approach for layout.
+
+JAVASCRIPT
+Data Types
+_Proficient_ 
+Can identify and track data types through any variety of functions, understanding their affect and result on each line of code. Knows which scenarios are better suited for objects vs. arrays and employs them accordingly.
+
+Conditional Logic
+_Proficient_
+Can use an if/esle statement to effectively handle multiple paths through the code. Writes if/else statements that only have one level of logic (no nesting). Can use logical operators instead of if/else statements where applicable.
+
+Functions & Scope
+_Proficient_
+Functions have single responsibility. The entirety of the function is easy to read what functionality it contains. Function is generally shorter than 8 lines. Uses functions to eliminate repeated code. Comfortable refactoring any piece of code and extracting it to a function.
+
+Arrays
+_Advanced Beginner_ 
+Can modify arrays by adding or removing specific elements - uses array methods such as push or shift. Can use a for loop to iterate through array.
+
+_Proficient_ 
+Does not use for loops for arrays - uses array prototypes, such as forEach, to iterate through or manipulate arrays. Can use array to store more complicated data structures such as objects or nested arrays. Is comfortable/efficient with reading array prototype documentation and can efficiently test/apply array prototype methods they have not worked with before.
+
+Objects & Prototypes
+_Advanced Beginner_ 
+Can use object constructor functions and is comfortable with extracting values of properties on different object instances.
+
+_Proficient_ 
+Can use object prototypes. Can articulate the definition and the “why” of an object prototype - the best use cases for prototypes.
+
+DOM Manipulation
+_Proficient_ 
+Able to extract information, modify attributes, or append/prepend data in the DOM easily regardless of whether they are employing vanilla JavaScript or jQuery. Understands how to harness event bubbling.
+
+Style
+_Proficient_ 
+Code is logically organized, such that reader can easily follow the progression of the app because variable and function names are descriptive and follow a single responsibility approach. There are no major bugs and minimal duplication.
+
+_GIT & GITHUB_
+Git
+_Proficient_ 
+Commits changes frequently with detailed commit messages. Uses feature branches to keep master branch free of incomplete features or bugs.
+
+_GitHub_
+Proficient Is comfortable with resolving merge conflicts. Asks for review/merge of their pull requests from teammates. Is comfortable editing code based on review feedback from a pull request and resubmitting the branch code.
+
+_DESIGN_
+Comp Recreation
+_Proficient_ 
+Developer captures the spirit and design intent of the comp. Some small details need polish to achieve a pixel-perfect match to the comp, but developer is clearly mindful of details and has made a conscious and careful effort to match the comp. Any design decisions left open to interpretation are handled thoughtfully and are well executed, but are more noticeable and/or unintuitive than they would be if the designer had provided the solution, or may not be totally seamless during screen-size transitions.
+
+_Exceptional_ 
+Developer skillfully captures the spirit and design intent of all comp details. Execution is pixel-perfect and any design decisions left open to interpretation are solved intentionally, are as seamless as if the designer had provided the solution, are handled gracefully, and enhance the overall design.
+
+PAIRING
+Collaboration
+_Proficient_ 
+Can diplomatically handle issues that arise between the pair through respectful, focused, targeted feedback and implement changes to positively adapt the working relationship and keep the project on track. Can effectively implement tactics to support their partner’s learning and project goals, while also honoring their own personal learning and project goals, should the two be different or at different levels due to skill delta.
+
+From Jon Sweet:
+“Mike,
+It was a pleasure working on this project with you. I feel that we crafted a solid DTR and set an actionable game plan that we both stuck to very well. I appreciate your attention to detail and willingness to explore ideas as we both ventured in to new territory with local storage and looping through elements with jQuery. I understand the pain and hesitation of scrapping  and rewriting code but going through that process, painful as it may be, will likely serve to further cement the concepts we are exploring and expand your already great understanding. I feel like we were in lock step at every milestone of this project and I am proud of the final product we’ve created together.
+Cheers,
+Jon”
+
+
+#### 2DoBox
+
+* [GitHub URL](https://github.com/aithon2501/2DoBox-Pivot)
+* [Original Assignment](http://frontend.turing.io/projects/2DoBox-Pivot-Mod1.html)
+
+Re-factor the IdeaBox code of another group for functionality and pivot the project into a task list generator called 2DoBox.
+
+__Students: Steven Lawson and Mike Duke
+Evaluator: Louisa__
+
+__Notes/What To Work On:__
+no show completed task
+no show only 10 tasks
+no filter by importance
+UI could use polish
+CSS could use a little refactoring/clean up
+JS refactoring is well done!
+
+__Functional Expectations__
+
+HTML
+_Accessibility_
+Advanced Beginner
+
+_Style_
+Advanced Beginner
+
+CSS
+_Structure of Code_
+Advanced Beginner
+
+_Implementation_
+Advanced Beginner
+
+JAVASCRIPT
+_Data Types_
+Proficient
+
+_Conditional Logic_
+Proficient
+
+_Functions & Scope_
+Proficient
+
+_Arrays_
+Proficient
+
+_Objects & Prototypes_
+Proficient
+
+_DOM Manipulation_
+Proficient
+
+_Style_
+Proficient
+
+GIT & GITHUB
+_Git_
+Proficient
+
+_Github_
+Proficient
+
+DESIGN
+_Design Concepts_
+Proficient
+
+PAIRING
+_Collaboration_
+Proficient
+
+From Steven Lawson:
+"Really enjoyed working with you, and it was so great that we could both meet during break. Feel like we learned a lot in the JS trenches together. As far as helpful feedback goes, I’d say just making that git/github flow your bible, as you addressed in your lightnin’ talk. Cheers!"
+
+## D: Professional Skills
+
+### Gear Up
+#### Stress Management 101
+
+* [GitHub URL](https://github.com/turingschool/gear-up)
+
+I found both of the Health and Wellness gear-ups to be interesting, though maybe not exactly helpful. I've been in a similar presentation to this one about stress--including the worksheets--so there wasn't a lot of new information here for me. In all, I think her insights on connecting to nature as part of a stress relieving exercise is not something that I had previously thought about, but I will try in the future.
+
+### Gear Up
+#### Self-Care 101
+
+* [GitHub URL](https://github.com/turingschool/gear-up)
+
+This Health and Wellness gear up was heavier on the practical details than the last, which was good, but I feel like the talk itself may not have been well-timed. I distinctly remember a few of my cohorts actively coding while the talk was in progress, which, while funny in an ironic way, was distracting and disrespectful. And, while all of the information in the presentation is relevant to me and where I am right now, I feel like it might have made more impact if it was more interactive in some way. 
+
+### Gear Up
+#### Mod4 Gear Up Sessions
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/m4_sessions/1711-inning/Group_8.md)
+
+This was, by far, our best gear up of the inning. The discussion was insightful and very helpful--more so than any other discussion I've had on the subject of Fixed vs Growth mindset. Hearing experiences and stories from all over the mods and both front end and back end was helpful in reinforcing that we are all in the same boat. 
+
+## E: Community Participation
+
+### Playing a Part
+
+I feel like all of Mod1 Front End have become very close and very supportive of each other. I'm sure that everyone knows by now that I am an unashamed introvert, and it takes a lot to get me to come out of my shell. Not only do I feel like I've made a roomful of friends over the last 6 weeks, I have no doubt in my mind that I could go to any of them for help and they would jump to my aid at a moment's notice. At the same time, I feel like they've brought out the same traits in me, and I have done my best to help as many people in my cohort as I can, whenever I can. I was also happy to lead a study session on the quizlettes on Saturday, the 6th, with several other people from the cohort in attendance. 
+
+I've been a regular participant in the Impostor Lunches, and I would like to look at doing more with it in future innings--maybe present articles on the topic, bring in an Impostor "mentor" to speak to the group, etc. 
+
+I haven't taken the opportunity to do much in the overall Turing community just yet, but I have signed up to go on the middle school visit with Ellen Mary and several other students that will take place over the coming break. I'm a little scared that I won't know enough to be helpful to the kids, but I'm trusting that Ellen Mary would not have let me sign up if she thought that was a possibility.  
+
+------------------
+
+## Final Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+PENDING

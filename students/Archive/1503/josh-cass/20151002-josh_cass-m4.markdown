@@ -1,0 +1,184 @@
+# Josh Cass - M4 Portfolio
+
+## Individual
+
+### Areas of Emphasis
+
+This module I wanted to continue to expand my Javascript knowledge and learn some React. I was also looking forward to the Scale Up project, I wanted to take that project on as best I could and really understand the concepts around getting an app to function and perform well with a large set of records in the database. I feel like the IdeaBox 2.0 and GameTime really helped me get more comfortable in Javascript and the concepts around OO Javascript. I also learned a good deal of React and I'm comfortable working with it, although I still would like to delve more into Flux. I was also successful with my implementation of the Scale Up and I felt like I understood the concepts around it well.
+
+### End of Module Assessment
+
+*[GitHub URL](github.com/joshcass/goober)
+*[Original Assignment](https://github.com/turingschool/challenges/blob/master/goober.markdown)
+
+I completed the 24 hour code challenge on time, it was assessed by Mike with the following results:
+
+##### Comments:
+- Clean front page
+- ETA extension
+- Estimated Cost
+- live updating
+- 45 tests, 104 assertions 95 percent coverage
+- used a state machine to model trip SUPER COOL.
+
+##### Scores:
+- Satisfactory Progress  4
+- Ruby Syntax & Style  4 
+- Rails Style & API  4
+- Testing  3
+- User Interface  4
+- Javascript (if applicable)  3
+
+### Attendance
+
+I missed the first day of the module because I was traveling for a wedding. I also missed a couple of days to attend Rocky Mountain Ruby.
+
+### Work
+
+I completed the following individual projects this module:
+
+#### The Scale Up
+
+* [GitHub URL](https://github.com/joshcass/scale_up)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/the_scale_up.markdown)
+
+In this week long project I re factored and optimized a previous student group's Pivot project to function with about 2.8 million records in the database. I was able to achieve average response times under 100ms and throughput over 600rpm. My project was reviewed by Andrew with the following results:
+
+##### Comments:
+No evaluation comments were given.
+
+##### Scores:
+- Production Deployment & Performance Monitoring 4
+- Load Testing / User Scripting 3
+- Database Load 4
+- Optimization Techniques 4
+- Features - Pagination yes
+
+#### Idea Box 2.0
+
+* [GitHub URL](https://github.com/joshcass/idea_box_2)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
+
+This was a reiteration of Idea Box using Javascript/AJAX to make requests to the Rails back-end and update the DOM. It was peer reviewed by Brett:
+
+##### Comments:
+- Really awesome use of blur event to cover your ass.
+- Good restful practices by updating the quality with the same action as the
+other attributes
+- A state machine may have been overkill for a project of this scope
+
+##### Scores:
+- Features - 4
+- User Interface - 4
+- Testing - 3
+- Rails Style - 4
+- Ruby Style - 4
+- JS Style - 4
+
+#### Final Assessment Practice
+
+* [GitHub URL](https://github.com/joshcass/reading_list)
+* [Original Assignment](https://gist.github.com/worace/0fa8052bfcf983e8722d)
+
+This was a practice run for the final assessment, built in 7 hours. I chose to use React to build the front end and because of that I didn't have time for testing but it was a great challenge and learning experience.
+
+##### Comments:
+- your thing looks good
+- nice job with the react
+
+##### Scores:
+- Progress - 4
+- Ruby Style - 3
+- Rails Style - 3
+- JS - 4
+- Testing - 1
+- UI - 4
+
+## Team
+
+### Projects
+
+I was part of the following team projects:
+
+
+#### Game Time
+
+* [GitHub URL](https://github.com/NYDrewReynolds/snake)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+
+Drew Reynolds and I built the classic game Snake with Javascript and HTML5 Canvas to run purely in the browser. Our project was reviewed by Horace with these results:
+
+##### Comments:
+- Solid snake app with some cool features
+- Good application of OO JS style
+- Testing needs some work - really a symbiotic problem between code and test;
+too many things relying on DOM/canvas
+- Might be interesting to experiment with a totally separate renderer
+function or object which slurped those things out of the other objects
+
+##### Scores:
+- Functional Expectations: 4
+- TDD: 2
+- Breaking Logic into Components: 3
+- Fundamental JS & JS Style: 3
+- Code Sanitation (JSHint): 4
+
+#### Clojure Den
+
+* [GitHub URL](https://github.com/brettgrigsby/Clojure-Flack)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/flack.markdown)
+
+Sally, Brett and I worked together to build a Websocket based chat app in Clojure and ClojureScript and used Reagent to build React components. This was a really fun project and we were pretty successful despite it being our first time building anything with Clojure. It was assessed by Horace with the following results:
+
+Great job working through a fairly complicated project in a
+new language and environment. Appreciate your hard work
+experimenting with a lot of technical unknowns.
+
+Use of clojurescript and websocket connections is pretty idiomatic,
+and you did a good job of working with reagent to construct the frontend.
+
+- Features - 2
+- Interface - 3
+- Project Management - 3
+- Code quality - 3
+- Style / Use of ecosystem and libraries - 4
+- Language experimentation / technical learning - 4
+- Deployment - 4 - got it on heroku
+- TDD - 2
+
+## Community
+
+### Giving Feedback
+
+I enjoyed module 4, I think it was pretty cool to learn more Javascript and React as well as learn some more in-depth Rails. I feel like this module did a good job of getting us to hone our skills as well as learn new things.
+
+Our cohort is pretty great, and everyone is super helpful to each other. It's been an awesome experience going through Turing with them and I'm excited to see what everyone goes on to do with their lives.
+
+### Playing a Part
+
+I led a student session during this module which was nerve wracking but turned out pretty well. I've also been available and helped several students from other cohorts throughout the module.
+
+## Review
+
+### Notes
+
+* Got a lot out of time at Turing. Came in with the goal of learning as much as possible. You get out of things what you put in.
+* Mod 1 & 2 was pushing and learning all the time. Mod 3 was more about practicing things and drilling them down. Didnt feel like there was as much of a push in mod 3. 4 was near the same - but was perceived as a good thing so some focus could be on jobs and life after Turing. 
+* RMR - awesome to be there and meet some people and support some others. A little dissapointed with the networking.
+* Clojure project was cool. Was good to try to figure things out in something new. Awesome to see this project on par with the others. Great to see what was happened with minimal guidence. 
+* Group work - Put a lot of effort into being engaged in a way that was beneficial to group members. You were the oasis in the desert not the steamroller comming to mow everything down. 
+* Wondering if we did enough to push you academically and socially? 
+* Did everything we asked you to do and everything we didnt ask you to do. You excelled at it all. 
+* We would love for you to be a part of the solution for the top 10% of students and pushing them further. Help us create a culture where our highest performing student are grinding just as hard as the rest. 
+* Never slacked off. 
+
+### Outcome
+
+* Assessment: 4
+* Individual: 4
+* Group: 4
+* Community: 4
+* Feedback: 4
+
+
+( Leave blanks for reviewers )

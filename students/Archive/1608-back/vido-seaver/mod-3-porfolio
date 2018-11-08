@@ -1,0 +1,332 @@
+# Vido Seaver - M3 Portfolio
+
+## Areas of Emphasis
+
+This module was defiantly more challenging than I expected. I was feeling pretty
+good about my rails / active record. Skills coming into it and was hoping to
+experiment more with things outside of the curriculum. Unforunately my assessment
+of where I was was incorrect and I struggled with what I felt to be the basics
+of the module leaving very little time to explore.
+
+## Rubric Scores
+
+Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Development**: 3
+* **E: Feedback & Community Participation**: 3
+
+-----------------------
+
+## A: End of Module Assessment
+
+Student: Vido
+
+Assessor: Josh
+
+Notes:
+
+* Process looks really good.
+* Refactoring the SearchController was in progress.
+* Good technique of using objects in the view.
+* Class name that breaks Ruby conventions: `Best_Buy_Store` should be `BestBuyStore`.
+* Clean views.
+* For the API
+  * No need to use strong params when doing a find. Strong params are for creating and updating.
+  * API doesn't appear to work outside of the Rails environment (i.e. Postman)
+* Some of the best tests I've seen on the assessment
+  * Really solid feature test. Nice use of VCR.
+  * Great request specs.
+* Finish refactor to get the 3 for Ruby Style
+
+
+## Evaluation Criteria
+
+Subjective evaluation will be made on your work/process according to the following criteria:
+
+### 1. Ruby Style
+
+* **2.5: Developer writes effective code, but does not breakout logical components**
+
+### 2. Rails Syntax & API
+
+* **3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.**
+
+### 3. Testing
+
+* **4: Developer excels at taking small steps and using the tests for both design and verification. All new lines of code are tested.**
+
+### 4. Progression/Completion
+
+* **3: Developer is able to implement solutions at the speed of a junior developer.**
+
+### 5. Workflow
+
+* **4: Developer commits every 15 minutes**
+
+## B: Individual Work & Projects
+
+(Intro)
+
+## C: Group Work & Projects
+
+### Cloney Island
+
+**Client Expectations**
+
+*   Team completed all the user stories and requirements set by the client.
+    *   4: Better than expected
+    *   **3: As expected**
+    *   2: Below expectations
+    *   1: Well below expectations
+
+**User Experience**
+
+*   Project exhibits a production-ready user experience.
+    *   4: Better than expected
+    *   **3: As expected**
+    *   2: Below expectations
+    *   1: Well below expectations
+
+**Organization**
+
+*   Team used a project management tool to keep their project organized.
+    *   **4: Better than expected**
+    *   3: As expected
+    *   2: Below expectations
+    *   1: Well below expectations
+
+### Technical Evaluation
+
+**Git Workflow**
+
+*   Team always used pull requests and commented on pull requests prior to introducing code into the master branch.
+    *   **4: Better than expected**
+    *   3: As expected
+    *   2: Below expectations
+    *   1: Well below expectations
+
+**Test Quality**
+
+*   Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?
+    *   **4: Better than expected**
+    *   3: As expected
+    *   2: Below expectations
+    *   1: Well below expectations
+
+**Code Quality**
+
+*   Project demonstrates well-factored code and a solid grasp of MVC principles.
+    *   4: Better than expected
+    *   **3: As expected**
+    *   2: Below expectations
+    *   1: Well below expectations
+
+**Bonus**
+
+We want to recognize and reward risk-taking and exploration. Sometimes other areas might suffer if the risk doesn't pan out. Earn a bonus point to offset a score above.
+
+*   Did the team push themselves by taking risks?
+    *   1: Yes
+    *   **0: No**
+
+#### Feedback Recieved
+I had the opportunity to work with Vido twice this module on Cloney Island and Rales Engine. One of the best parts about working with Vido was his willingness to talk about progress, problems, and successes. Vido helped our group make sure we stayed on track with our regular stand-ups to check progress and the "temperature" of the group. Vido values team work and pairing and works really hard to ensure positive working relationships are maintained.
+
+My first time working with Vido was on Pinspiration. He was enthusiastic and helpful when we conceptualized our project, and we got off to a quick start. He did tend to get frustrated or hung up on smaller tasks, and sometimes this led to the project moving forward more slowly than expected. However, a big positive is that Vido is very motivated to learn.
+
+Hey Vido it was great working with you on cloney-island!  You were super willing to step in and help me troubleshoot any of the problems I had.  You also helped the team get on the same page with expectations early.  If there was on piece of feedback I would give you it would be to become more comfortable working alone and in pairs.  Not sure if it is the case but you seemed a little more comfortable pairing on things and it would be nice to be as comfortable approaching it alone as on a team!
+
+
+
+#### Feedback given
+I had the pleasure of working with Erin on two projects this mod. She is self-aware, empathetic, hard working and well organized. Because of her amazing organization skills she makes for a great project manager.  I don’t really haven't any complaints working with her. If there is an area i think she could improve I would say it would probably be to be more  “in charge” as a the manager and trust in her skills and judgement
+
+Anna is a work horse. While working with her on Pinspiration I’d say she easily did as a much stuff as the rest of the group combined. Which was pretty incredible. We were getting pull requests from her from 7am until 11 pm everyday. Even when she said she wasn't going to be working she’d pull down cards and finish them. I struggled communicating with her and ultimately didn't think we really resolved the issue.  There was a lot of stress and while we passed in a working project I did not enjoy the group dynamic. As I mentioned to her halfway through the project I think they way in which she communicates could be improved by stopping and evaluating how she is coming across.
+
+I generally enjoy working with Jon. He is perhaps one of the easiest people i know to get along with. He also has great interpersonal insights. I respect and appreciate his feedback and his willingness to tackle things on his own but also ask for help when he needs it. John is also great at networking but his outside obligations meant there was a lot of time he wasn’t working on the project.  While i think networking and and such is great its also important to make sure your team feels like you are pulling your weight. I’m saying you didn’t Jon but I there where times I thought that you should be working on instead of something else.
+
+
+### (Rails Engine)
+
+**Client Expectations**
+
+*   Team completed all the user stories and requirements set by the client.
+    *   4: Better than expected
+    *   **3: As expected**
+    *   2: Below expectations
+    *   1: Well below expectations
+
+**User Experience**
+
+*   Project exhibits a production-ready user experience.
+    *   4: Better than expected
+    *   **3: As expected**
+    *   2: Below expectations
+    *   1: Well below expectations
+
+**Organization**
+
+*   Team used a project management tool to keep their project organized.
+    *   **4: Better than expected**
+    *   3: As expected
+    *   2: Below expectations
+    *   1: Well below expectations
+
+### Technical Evaluation
+
+**Git Workflow**
+
+*   Team always used pull requests and commented on pull requests prior to introducing code into the master branch.
+    *   **4: Better than expected**
+    *   3: As expected
+    *   2: Below expectations
+    *   1: Well below expectations
+
+**Test Quality**
+
+*   Project is well-tested (Above 90% and the most valuable pieces of the app are covered). If you were paying for someone to build this for you, would you be satisfied with the tests that are written?
+    *   **4: Better than expected**
+    *   3: As expected
+    *   2: Below expectations
+    *   1: Well below expectations
+
+**Code Quality**
+
+*   Project demonstrates well-factored code and a solid grasp of MVC principles.
+    *   4: Better than expected
+    *   **3: As expected**
+    *   2: Below expectations
+    *   1: Well below expectations
+
+**Bonus**
+
+We want to recognize and reward risk-taking and exploration. Sometimes other areas might suffer if the risk doesn't pan out. Earn a bonus point to offset a score above.
+
+*   Did the team push themselves by taking risks?
+    *   1: Yes
+    *   **0: No**
+
+
+Evaluator: Lauren
+
+Students: Erin and Vido
+
+Notes:
+
+- a couple queries use two calls (3.5 for queries)
+
+## Project Rubric
+
+**1. Completion**
+
+* **4: Project completes all base requirements according to the spec harness.**
+* 3: Project completes most requirements but fails 3 (5 for individual project) or fewer spec harness tests.
+* 2: Project completes most requirements but fails 7 - 5 (10 to 6 for individual project) spec harness tests.
+* 1: Project fails more than 7 (10 for individual project) spec harness tests.
+
+### Technical Quality
+
+**1. Test-Driven Development**
+
+* **4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.**
+* 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.
+* 2: Project demonstrates high test coverage (>70%) but does not adequately balance controller and unit tests.
+* 1: Project does not have 70% test coverage.
+
+**2. Code Quality**
+
+* 4: Project demonstrates exceptionally well factored code.
+* **3: Project demonstrates solid code quality and MVC principles.**
+* 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
+* 1: Project demonstrates poor factoring and/or understanding of MVC.
+
+**3. API Design**
+
+* **4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.**
+* 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* 2: Project has inconsistencies or gaps in how its JSON data is organized or formatted.
+* 1: Project's API is not fully functional or has significant confusion around request formats.
+
+**4. Queries**
+
+* **(3.5 - two multi-query calls) 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.**
+* 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
+* 2: Project has some gaps in ActiveRecord usage, including numerous business methods that rely on ruby enumerables to find the appropriate data.
+* 1: Project struggles to establish a coherent ActiveRecords schema, including missing relationships or dysfunctional queries.
+
+
+### Projects
+
+(Intro)
+
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+## D: Professional Development
+  [Flower Exercise](https://gist.github.com/vidoseaver/29cb07d64cf338f6f90e1cfe4fb9d9d6)
+
+  I've sent 5 coldish outreach emails.
+
+  I've got one mock interview scheduled.
+
+  I've got one more potentially.
+
+### Professional Development Workshops
+
+#### Cold outreach
+  I've internet dated for a long time. I understand what goes into a decent opening email. As Jesse said its balance of interest with out coming of as creepy.
+  Asking to meet at certain time has not worked great for me. Its too forward. Kind of aggressive and overly entitled
+
+#### Interview session
+This guys was awesome. I want a class taught by him every mod. I want to work for him. I felt like i learned more in his class than i did in all of the rest of the PD stuff combined.
+
+
+
+
+## E: Feedback and Community Participation
+
+### Giving Feedback
+See projects
+
+### Being a Community Member
+
+I did alot of dishes. Paired alot with Dave and was on the mod two list for pairing.
+
+Hey Vido! Just want to say thanks for the many times you offered some guiding tips on my projects for Mod 1. I think you did a great job of asking questions or pointing out little things that didn’t really finish any of the work, but allowed me to start with one foot in the right direction. I know many other Mod 1-ers benefited from you help as well. Thanks!
+### Gear Up
+
+#### Journey Mapping
+  The journey mapping was interesting because it stressed the importance of learning about your users. This has been something that has been reconfirmed over and over again but the people in the industry I talk to. A pain point for you might be something they've never considered and vice versa.
+
+#### Grit
+ Grit is an interesting topic because its so hard to define and its a catch phrase.  I'm not sure grit can be "taught". But i do think it something that is learned. I know I have it. I know most of the poeple here have it.  I think it comes from a balance of struggle and reward. Vague but its more something one feels and knows then something I can describe.
+
+#### Micro Aggressions
+  I have given micro aggressions and the culture that surrounds them - both in experiencing them and in perpertrating them an undue amount of thought. On the one hand I'm not down with injustice or oppression but on the other I think people are responsible for their own feelings. Also I've had it with this first world victimhood offense culture. I ultimately as a white male it something i need to be aware of but not get too caught up in. There are bigger issues at play.
+
+## Final Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Development**: 3
+* **E: Feedback & Community Participation**: 3

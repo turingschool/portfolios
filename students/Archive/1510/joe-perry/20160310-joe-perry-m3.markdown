@@ -1,0 +1,231 @@
+# Joe Perry - Module 3 Portfolio
+
+
+## Individual
+
+#### Your Mission
+
+Module three at Turing has brought with it an unprecedented amount of freedom. My personal objective for this module was to make use of that freedom to tackle challenging learning goals, ensuring that, even when I found myself struggling, I would be learning as much as possible while expanding both my knowledge of Rails and the repertoire of tools that I feel comfortable employing.
+
+
+#### End of Module Assessment
+
+Challenge: Create an API for the base Storedom app and consume and integrate the Best Buy API.
+
+Assessed By: Josh Mejia & Tess Griffin
+
+#### Notes:
+
+* Not removing created_at and updated_at from API responses, but everything else works for API endpoints
+* Both searches working
+* Though not searching on long-description for the searches like the spec
+* Non-restful action with the items controller. Should have a separate search controller
+* Best-Buy service would benefit from using objects rather than hashes
+* Commits should not be labeled WIP
+* Tests single search but not multi-search
+
+#### Scores:
+
+* Ruby Style and Syntax: 3: Developer solves problems with a balance between conciseness and clarity and often extracts logical components
+
+* Rails Syntax & API: 3: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack. The application displays good judgement in modeling the problem as data. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+* Testing: 3: Developer writes tests that are effective validation of functionality. Most new lines of code are tested.
+
+* Progression/Completion: 3: Developer is able to implement solutions at the speed of a junior developer.
+
+* Workflow: 4: Developer commits every 15 minutes and has at least 12 commits on the project
+
+
+## Projects
+
+A list of all module 3 project and assessment scores.
+
+
+### The Pivot
+
+Pivoting the "Rough Sketch" art sale project - repurposing to "Freelancer", an auction-based job posting site.
+
+Project Link: https://github.com/jwperry/the_pivot
+
+Production Link: https://freelancer-for-you.herokuapp.com/
+
+Teammates: Toni Rib, Dan Winter
+
+Reviewed by: Josh Mejia & Lovisa Svallingson
+
+#### Scores:
+
+##### Client Scores
+
+* Completion: 3: Team completed all the user stories and requirements set by the client.
+* Organization: 4: Team used a project management tool and updated their progress in real-time.
+* User Experience: 4: Project exhibits a production-ready and polished UX.
+* Extensions: 4: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature. Developers explored concepts and technologies outside the scope of the curriculum.
+
+##### Technical Scores
+
+* Test-Driven Development: 3: Very good feature tests and helper methods in the test_helper, needs more model unit tests
+* Code Quality: 4
+* Git Workflow: 4: From Josh Mejia
+
+#### Notes:
+
+* Client Notes:
+  * Really solid product. Added maps, optional OAuth login, Emails, and a scheduler
+
+* Technical Notes:
+  * Controllers: skinny controllers, logic is properly pushed down the stack and operations are extracted out to private methods when necessary
+  * Tests: very good tests :thumbsup: --- would need more model unit tests.
+  * Models: nice, clean models, good use of the Presenter pattern
+  * Views: presenter pattern :ok_hand:
+
+
+### Rails Engine
+
+Constructing an API and presenting data via complex ActiveRecord queries.
+
+Project Link: https://github.com/jwperry/RailsEngine
+
+Reviewed by: Tess Griffin
+
+#### Scores:
+
+* Completion: 2
+* Test-Driven Development: 4
+* Code Quality: 3
+* API Design: 3
+* Queries: 3
+
+
+### Self-Directed Project - EatUp
+
+Creating an app to scour MeetUp.com for events that offer free food.
+
+Project Link: https://github.com/jwperry/EatUp
+
+Production Link: https://eatup-turing.herokuapp.com/
+
+Reviewed by: Josh Mejia
+
+#### Scores:
+
+* Completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* Organization: 4: Developer used a project management tool and updated their progress in real-time.
+* Test-Driven Development: 3: Project shows adequate testing (90% - 95% coverage).
+* Code Quality: 3: Project demonstrates solid code quality and MVC principles.
+* User Experience: 3: Project exhibits a production-ready user experience.
+* Performance: 2: Project pages load on average under 500 milliseconds.
+
+#### Notes:
+
+* Solid project.
+* Implemented OAuth by hand!
+* Nice use of POROs and decorators/presenters.
+* A couple long methods that could be broken up a bit more.
+
+
+## Community
+
+
+#### Giving Feedback
+
+1510 - Dan Winter
+
+Over the course of the last three modules, Dan is one of the people that I most looked forward to grouping with for a project. Having finally had the opportunity to work with him on the Pivot, I can say that he exceeded my ample expectations. Dan is an excellent coder who excels at logical problem solving. What most impressed me about his approach though was his eagerness to dive into new problems. Many times that I found myself feeling overwhelmed or intimidated by a new feature or tool, Dan was ready to dive in head-first. He is truly unafraid to try new things, and his eagerness to explore pays off tremendously as he delivers truly innovative code. Dan is truly one of the most intellectually curious people I've ever met, and I am truly excited to see where his passion and drive carry him in years to come.
+
+
+1510 - Toni Rib
+
+Having had the opportunity to work with Toni on the Pivot project this module, I can safely say that I am most impressed with Toni's attitude and conduct in a team environment. Toni is a stellar developer - further confirming this came as no surprise to me. Toni's technical prowess is well-documented. However, at no point did she make me feel as though my opinion was unwanted. Toni made an exceptional effort to make sure that all decisions were group decisions, and was very careful to make sure that the project was a great learning experience for our entire group. I can safely say that I learned a lot working with her, that I had a great time working with her, and that I can only hope to have the opportunity to do so again in the future.
+
+
+1510 - Beth Secor
+
+Having had the opportunity to work alongside Beth for three modules now, I can safely say that she is one of 1510's finest. In addition to being a strong logical problem solver, she has routinely impressed me with her ability to combine her knowledge of statistics with her coding to present information in a valuable and coherent way. She even hosted a student-led session for the R programming language to help share some of that knowledge with us. Always eager to learn and take on new challenges, Beth is an essential part of 1510, and brings the full package - technical skills, passion for programming, and valuable personality - to our cohort.
+
+
+#### Receiving Feedback
+
+1510 - Dan Winter
+
+TBA
+
+
+1510 - Toni Rib
+
+JP is a valuable team member because he never turns down the opportunity to take on a new problem and always asks for help if he gets stuck. He was the leader of our Pivot project and he did a great job with checking in with the group often to see what we were working on. He is extremely good at describing where he is stuck and what he has tried, which I think is a valuable trait for a developer.
+
+
+1510 - Beth Secor
+
+JP is so awesome and calm all the time. This module I always saw him helping other people out, especially the new kids, which is amazing considering the amount of time Mod 3 takes up. He is so good at breaking down a problem, and especially good at refactoring. I am still waiting for a chance to work on a project with him!
+
+
+1510 - Brant Wellman
+
+JP is a rock. He is stable and reliable. I love going to JP for help with an issue because he will quickly pull his attention away from what he is doing and give you his full focus, and it is rare that he can not help you with the issue that you are having. JP seems to be aware of his strengths and opportunities and I often see him putting himself into situation where he must work on those opportunities. My only suggestion to JP would be to ask for help sooner - I have seen him try to work through a problem by himself far long than he should have, when he may have gotten through the issue sooner and still come out with the same learnings.
+
+
+#### Playing a Part
+
+I've participated in the larger Turing Community in the following ways:
+
+* Have participated in weekly Lunch Roulettes and have taken initiative to create Slack channels to begin dialogue.
+* Together with Greg Armstrong, Nick Weiland, and Marina Corona, spear-headed efforts to revitalize Goldberg posse activity and ensure a more welcoming posse experience for new students.
+* Have spent significant amounts of time pairing with new students. I remain interested in helping incoming module 1 students in particular as it both helps me to keep my Ruby skills sharp and helps them to develop a strong foundation.
+* Have assisted with weekly workspace cleanup with 1510 cohort.
+* Have attended weekly lightning talks and student-led sessions.
+* Contributed a lightning talk covering basic use of Devise and Omniauth, geared toward module 1 and 2 students.
+* Spear-headed efforts to pull together Turing students and recent graduates to play Heroes of the Storm together!
+
+
+#### Attendance
+
+I had no absences during module 3.
+
+
+#### Posse Ruby Challenges (4/5 Required)
+
+Repository: https://github.com/weilandia/goldberg_posse_challenges
+
+4/5 Posse Challenges Completed as required:
+
+1) PeopleDatabase
+2) CollegeScorecard
+3) CodeBreakers
+4) Enumerables
+
+
+## Review
+
+
+#### Notes:
+
+## A: End-of-Module Assessment
+
+* 3: Student achieved a "3" or better on each category of the assessment || excused from assessment
+
+## B: Individual Work & Projects
+
+* 3: Student demonstrates commitment and growth in their work through satisfactory
+evaluations of each project or a clearly upward-sloping trend.
+
+## C: Group Work & Projects
+
+* 3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.
+
+## D: Community Participation
+
+* 3+: Student participates in required activities and does at least one or two
+above-and-beyond supports of the community.
+
+## E: Peer & Instructor Feedback
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
+
+#### Outcome:
+
+Promoted

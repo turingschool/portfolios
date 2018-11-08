@@ -1,0 +1,89 @@
+# Rose Kohn - M4 Portfolio
+
+## Individual
+
+### Your Mission
+
+My goal this module was to make it out alive.  I knew that I needed to learn what was being taught in a major way, since I'm really interested in frontend, the JavaScript world.  I was really excited to dive into a language I'd only lightly touched on before, but always appreciated what it allowed me to do with my sites.  Learning a new second language has definitely been a lot easier than learning a new first language in programming.  I especially enjoyed playing more with AJAX, getting to make SkiFree and add all of the functionality we could ever have hoped for with a partner who's always a pleasure to work with (Jeff Ruane), and getting to play with React have been my favorite parts of Module 4.  I've started to switch over parts of my personal project from Module 3 to using React, which has been a challenge.
+
+###Attendance
+
+I had perfect attendance minus the Friday before the holiday break.
+
+### Work
+
+#### Idea Box 2.0
+
+* [GitHub URL](https://github.com/roseak/ideabox-js)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
+* [Heroku Deployment](http://arcane-ridge-7429.herokuapp.com/)
+
+In this project, I made IdeaBox again using jQuery, AJAX, and a Rails API. I was evaluated by Steve and received a total score of 151/150.  I was able to add on the extension of inline editing for some additional points.  Though it was stressful, getting to play some more with AJAX was a lot of fun.  I got to work on elements I'd like to eventually add to my personal project.
+
+#### ThoughtBox
+
+* [GitHub URL](https://github/roseak/thoughtbox)
+* [Original Assignment](https://github.com/bad6e/thoughtbox_final)
+
+This was a one-day mock assessment (or was it) where we had to build a CRUD app while utilizing some of the new languages we've learned, such as AJAX and JavaScript.  I was able to finish with complete functionality in the time allotted and was assessed by Lovisa and given a score of 95/100 points.
+
+#### Crowdsource
+
+* [GitHub URL](https://github.com/roseak/crowdsource)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
+* [Heroku Deployment](https://polar-beach-7874.herokuapp.com/)
+
+This was a week long project where we used Node.js and websockets to create a real-time app that allows users to create polls to get anonymous votes from whomever they share their poll link with.  The admin could choose to share the results with their poll takers or keep them to themselves.  They could also choose a specific time for the poll to end and could choose to end the poll whenever they wanted.  I was evaluated by Meeka for 155/200 points.  Learning that I had gained enough points to graduate with the first score she gave me was definitely a relief!
+
+## Team
+
+### Projects
+
+#### SkiFree (Game Time)
+
+* [GitHub URL](https://github.com/jbrr/ski-free)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
+* [GitHub Pages Deployment](https://jbrr.github.io/ski-free)
+
+In this project, I worked with Jeff Ruane to make a JavaScript implementation of the classic Microsoft game SkiFree. We were evaluated by Meeka and received a total scores of 340/300.  We implemented two extensions: scoring and increasing the level over time.  This was definitely my favorite project to work on.  Adding parts after finishing our implementation early was only fun.  Being able to add in elements I didn't even think I'd be capable of in general and doing them in minimal time (like jumping and having the yeti be more than just one sprite) was exciting.
+
+## Community
+
+### Giving Feedback
+
+Game Time was a project that appeared to be really intimidating from the outside, so I wanted someone I knew I worked well with and who knew what he was doing on my team.  Not surprisingly, working with Jeff Ruane was a pleasure as always.  The parts where I tend to get stuck are where he excels, and we work well at pushing each other forward.  There was never a moment of stress, and I don’t think we would have created such an awesome game had we not supported each other so well.  The only thing I can think of that he can maybe work on a bit more is to vocalize more of his thought process when we’re trying to work through something tricky.
+
+I love Regis's enthusiasm for programming.  I don't think anyone can match his commitment (besides maybe Holzmann) to honing his craft, trying new crazy things, and just continuing to learn.  He's always so willing to help with anyone struggling in any form.  He is the go-to person for all things Dev-Ops.  My only criticism is that sometimes it's hard to help him or understand where he's at because he manages to make things a lot more complicated for himself than he needs to (like having three objects and a joins table for Real Time).  I think the longer he's in this field, the more he'll recognize patterns and avoid some of those tangled tendencies.
+
+Seeing how far MB has come over our time at Turing is pretty awesome.  I remember how stressed out she'd get at projects if something went wrong, and how down on herself she was.  She finished this Module with the highest overall points and projects that are totally solid.  She seems far more sure of herself, and I'm constantly impressed by the amount of time and effort she puts into her work.  She's good at asking for help when she needs it after struggling with something for awhile, and she also is quick to share anything she's learned along the way that could help others.
+
+### Feedback from Peers
+
+Jeff Ruane: "Working with you was great, of course, I think we make a really good team. Especially towards the end, you just started shipping feature after feature, it was pretty incredible. It’s great how you’re always trying to do more and make your projects better, so I’d say keep that up! The one thing that I’d say to work on is keeping up with automated testing as you’re shipping new features. That said, you manually test throughout your process, and also that’s what makes us a good team, is that I’m working on that stuff while you’re working on features. Anyway, it was a great experience, as always."
+
+Regis Boudinot: "Rose is a gem. The difference between Rose in Mod1 to Mod 4 is insane. Her love for the front end is what sets her apart. She is very determined to get things done and is the bet to pair with. I cannot stress enough how much fun it was to have her as part of my Pivot team with Jeff.
+
+She does have some trouble trusting new ways to do things, but once she see’s it work, her level of trust is unbreakable."
+
+Aaron Greenspan: "When I first came to Turing, and beheld the wonderful thing that is the Kay Posse, it was Rose who first brought me into the fold.  Rose will regularly come to warmups in a ‘ugh this project’ kind of mood, and then a few days later, return saying something like ‘oh the project went well, they told us it was the best Little Shop Project they’ve ever seen, shrug.’  Despite how this may sound, Rose is incredibly modest, and sets a very high bar for me early to on to live up to the example she set in terms of her work ethic.  Some actionable anticipatory criticism: don’t stop hanging out with me just cause you’re all cool and graduated and stuff."
+
+
+
+### Playing a Part
+
+* I volunteered to be a part of the "buddy" system with a module 1 student, Sunny Khalsa, this module, who I kept in touch with throughout these few weeks.
+* I co-lead a student-lead session with Mimi Schatz on Katrina Owen's refactoring talk.
+* I met up with the ladies of Joan Clarke Society for coffee and talk on Tuesdays and gave advice on how to tackle the various modules based on my experience.
+* I met up with my posse every morning for warmup/bonding.  We met up several times outside of school to get to know each other.  I shared advice on mentors with the module 1 students.
+* I went to a Women Who Code meetup at Galvanize on SVGs that was really interesting.
+* I was interviewed for the Turing podcast by Brennan where we discussed advice for Module 1 students and the evolution of our time while at Turing up to Module 4.
+
+## Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )

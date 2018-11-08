@@ -1,0 +1,116 @@
+# Jack Yeh - M4 Portfolio
+
+## Individual
+
+### Areas of Emphasis
+
+Given that this was my second round in module 3, I've had two focuses:
+1. Exploring APIs
+2. Creating a library that will eventually become a rails-type exercism
+
+### End of Module Assessment
+
+Tinder doesn't have an official API. Several people online have reverse engineered portions of the API endpoints. The project require getting several different authentication tokens and token types: Facebook, Tinder and mobile tokens. I lost a bit of time retrieving those tokens and getting it to play nicely together.
+
+#### Tinder-carious
+
+* [GitHub URL](https://github.com/jxandery/group-tindering/tree/assessment)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.markdown)
+
+**Completion:**                 - Seems like some of the harder questions haven't fully been resolved (esp. around API login and token-based access to Tinder data)
+**Organization:**
+**Test-Driven Development:  1** - Tests as written seem good but all are failing, and it seems we have not fully resolved API-testing issues, which is probably accountable for most of the failures
+**Code Quality:             2** - Existing code is very tidy and straightforward rails style, but there just is not enough of it
+**User Experience:**            - Cool idea
+**Performance:**
+
+### Attendance
+
+Missed 8/6-7 to attend Develop Denver
+
+### Work
+
+#### Git'er Done
+
+* [GitHub URL](https://github.com/jxandery/giter-done-api)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/apicurious.markdown)
+
+**Notes:                                    Some good experiments around connecting directly to the external API with a hand-rolled client, but otherwise features were not met. Good level of testing for the API connection methods we are implementing with the custom client.
+**Server-Side Application and APIs:   3** - Project wraps/isolates external API but has some gaps or external connections in its testing
+**Test-Driven Development:            3** - The code demonstrates high test coverage (>70%), tests at feature and unit levels, but relies on external services
+**Features:                           1** - Major features are missing and/or the application is not deployed to production
+**Interface:                          1** - The application is confusing or difficult to use
+
+#### Rales Engine
+
+* [GitHub URL](https://github.com/jxandery/rails-engine)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rales_engine.markdown)
+
+**Completion:                     2**   - Project completes most requirements but fails 4 or fewer spec harness tests
+**Rails and ActiveRecord Style:   2.5** - Project has some gaps in AR usage, including numerous business methods that rely on ruby enumerables to find the appropriate data
+**Ruby Style and Code Quality:    3**   - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
+**API Design:                     3**   - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+**Test Driven Design:             3**   - Project has solid test coverage at multiple levels of the application, but skips some edge cases or complicated methods
+
+## Team
+
+### Projects
+
+#### Supper Skip
+
+* [GitHub URL](https://github.com/vanegomez/supper_skip)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/supper_skip.markdown)
+
+Jack Yeh, Vanessa Gomez, Margarett Ly
+
+**Feature Completion:       2** - Is missing some base features
+**Project Organization:     3** - Team generally makes good use of git and project workflow, but has a few "git dump" PRs or dropped tickets
+**Test-Driven Development:  1** - Disregard for testing
+**Code Quality:             2** - Application of MVC leaks in some places. Several disorganized or poorly factored methods; largely suffering from lots of design and implementation churn
+**User Experience:          2** - Some gaps in the UX
+
+## Community
+
+### Giving Feedback
+- Instruction needs to evolve with expectations.
+- Culture seems to move further and further away from the things Jeff says is important to him
+1. doing impactful things after Turing
+2. supporting engagement and learning over checking boxes
+3. it's very not beginner friendly, which will be misconstrued as not women friendly
+
+### Being a Community Member
+*Jack has a cheerful, playful and hard-working attitude. He is the best troll Turing has ever had (Sorry DJ if you are reading this). His levity helps keep stress and tension super low and is much appreciated by the rest of the cohort. Every cohort needs someone like Jack, except 1505. (Get it??! He should stay with 1503). Jack for Vice President!!*
+
+*Every time I see Jack he makes my day better. He is always willing to lend a hand and help his peers. He works diligently every day, and is always trying to learn new things.*
+
+*You consistently mentor several students in lower modules and receive high praise from all of them. Your ability to teach without giving away the answer is rare compared to other student mentors and makes pairing sessions with you that much more valuable. From our interactions, I can't think of a weakness that needs your focus.*
+
+*Jack has been a dedicated mentor over the last 10 weeks. His ability to break problems down into logical components and thoroughly explain Ruby fundamentals has been incredibly helpful. Jack is a great thinking partner and would be a tremendous asset to any team he joins.*
+
+### Playing a Part
+
+- tutored module 1 students 90 minutes on a daily basis
+- wrote a blog post on Ruby: tokenization
+- volunteered at a GDI class on HTML/CSS
+- gave an student interview for the Turing blog
+
+## Review
+
+### Notes
+
+* Self directed project didn't come together as desired
+* Some projects show strengths where this was weak (e.g. TDD) but
+don't seem to be able to hit all the facets together (TDD _and_ feature delivery)
+* Need to focus on achieving consistent results across all criteria
+* Community engagement and connection is strong; Individual Technical progress
+not keeping pace
+* Would like to see another pass at module 3 to make sure process and individual progress
+are prepared for the chaos of module 4
+
+### Outcome
+
+* __A: End-of-Module Assessment:__ 1
+* __B: Individual Work & Projects:__ 2
+* __C: Group Work and Projects:__ 3
+* __D: Community Participation:__ 3
+* __E: Peer & Instructor Feedback:__ 3

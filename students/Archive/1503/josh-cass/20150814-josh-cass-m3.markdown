@@ -1,0 +1,95 @@
+# Josh Cass - M3 Portfolio
+
+## Individual
+
+### Areas of Emphasis
+
+This module I wanted to start taking on some javascript learning as well as do something with IOT for my personal project. I think I accomplished both of those things. I used javascript in the API Curious app to automatically check for and load new tweets and also to execute infinite scroll. I've also done some of the javascript fundamentals that Steve is working on with Mozilla. I still have a lot to learn but I have a decent fundamental understanding of how it works and what it can do and I've been able to figure out how to do several different things that I've set out to accomplish with it which is more than I could say when the module started. I was also able to create a successful IOT app with Raspberry Pi's for my personal project which was a lot of fun and super challenging.
+
+### End of Module Assessment
+
+#### Sitr
+
+* [GitHub URL](https://github.com/joshcass/sitr)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.markdown)
+
+For this project I built an automated dog sitting app. It included using Raspberry Pi's to serve streaming video and a small Sinatra app running on one of them to trigger an automated dog feeder (although right not it just triggers some LED's). It can trigger the feeder on demand or on a schedule set by the user.
+
+Some sad paths not tested and Omniauth tests are missing but all core functionality is tested
+Could split out HTTP requests into service objects instead of the model, but the controllers and methods are very clean.
+
+Completion: 4
+Organization: 4
+Test-Driven Development: 3
+Code Quality: 4
+User Experience: 4
+Performance: 3
+
+### Attendance
+
+I always strive to attend classes on time and be attentive.
+I missed a 1/2 day on July 6 for a Dr. appointment.
+I missed a full day on July 24 for a wedding I had to travel to.
+I missed out on the field day portion of July 31 for a follow up Dr. appointment.
+
+### Work
+
+I completed the following individual assignments this module.
+
+#### API Curious
+
+* [GitHub URL](https://github.com/joshcass/api_curious)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/apicurious.markdown)
+
+This was a short project where I implemented a scaled-down clone of a twitter user's home page. It was evaluated by Horace with the following results:
+
+No evaluation comments were given.
+
+* Server-Side Application and APIs: 3
+* Test-Driven Development: 4 
+* Features: 4
+* Interface: 3
+
+## Team
+
+### Projects
+
+This module we only had one team project I was teamed up with Drew Reynolds, Rob Cornell, and Erik Butcher.
+
+#### Supper Skip
+
+* [GitHub URL](https://github.com/NYDrewReynolds/pivot)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/supper_skip.markdown)
+
+This was a nearly 2 week project where we were given a dinner dash code-base from a previous cohort and had to turn it into a multi-tenancy platform. It was evaluated by Jorge with the following results:
+
+No evaluation comments were given.
+
+Feature Completion - 2
+Project Organization - 4
+Test-Driven Development - 4
+Code Quality - 2.5
+User Experience - 2
+
+I really enjoyed working with you.  You are very quick with stuff and for the most part explain things really well.  I think we worked well working through and talking through problems.  It’s also awesome that you are willing to help anyone when they ask questions and you don’t get exasperated when we interrupt  you with our silly little questions.  :simple_smile:  I think you’re a badass because you use emacs and I really think you should by the domain  cassify.me before I do!
+
+## Community
+
+### Giving Feedback
+
+I'm not entirely sure what to put here. I've been giving feedback to my peers but I haven't been recording what I said to them.
+
+
+### Playing a Part
+
+I always try to make time to help people when they need it. I've paired with and helped many of the students in my cohort as well as few from other cohorts. I regularly pick up and clean up areas when I see they need it.
+
+## Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )

@@ -1,0 +1,161 @@
+# Rose Kohn - Module: 2 Portfolio
+
+## Individual
+
+### Mission Statement
+
+My goal this module was to continue the relationships with my mentors I had established during Module 1, and to be able to keep up with the class.
+
+### Attendance
+
+I attended class every day except for the two days I attended Rocky Mountain Ruby Conference.
+
+## End of Module Assessment
+
+#### Assessed By: Mike Dao
+
+Challenge: Top Plays
+
+####Notes:
+​
+* started with tests first.
+* went straight to the model to deal with the sorting
+* explored callbacks, using activerecord to do everything
+* for some weird reason migrations werent working
+​
+1. Analytic/Algorithmic Thinking - 3: Developer breaks complex problems into small, digestible steps and executes them
+​
+2. Ruby Syntax & Standard Library - 4: Developer is able to comfortably implement solutions using the best-choice tools Ruby has to offer
+​
+3. Rails Syntax & API - 3: Developer is able to utilize Rails methods and structures, but needs some direct guidance
+​
+4. Rails Style - 4: Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and push business logic down where it belongs
+​
+5. Testing - 3: Developer uses tests at multiple layers of abstraction to drive development
+​
+6. Collaboration - 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+## Work
+
+### Team Projects
+
+Below is a list of all projects and their scores for Module: 2.
+
+## Traffic Spy
+
+* [GitHub URL](https://github.com/roseak/traffic_spy)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/traffic_spy.markdown)
+
+This was a week long project where we built an app to track web traffic to our site using Ruby and Sinatra. I was the project lead.
+
+#### Assessed By: Josh Mejia
+
+Rose & Ryan & Matt & Russell:
+
+#### Scores:
+
+* Functional Expectations: 3
+* Test-Driven Development: 4
+* Encapsulation / Components: 3
+* Fundamental Ruby & Style: 3
+* Sinatra / Web and Business Logic: 3
+* View Layer: 3
+
+## Earmarked
+
+* [GitHub URL](https://github.com/TeamConchord/earmarked)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
+* [Production URL](earmarked.herokuapp.com)
+
+In this assignment, we were asked to build an ecommerce site. We decided to create a donation platform called Earmarked for Presidential candidates that allows users to donate based on the candidates' specific stances on various political issues.
+
+#### Assessed By: Tess Griffin
+
+Bret & Travis & Rose & Mimi
+
+#### Notes
+
+* Got testing with Selenium working - very cool
+* Site looks great.
+* Implemented Stripe and Twilio as extensions
+
+#### Scores
+
+* Feature Completeness: 4: All features are correctly implemented along with two extensions
+* Views: 3: Views make use of layout(s), partials and helpers, but some logic leaks through
+* Controllers: 4: Controllers show significant effort to push logic down the stack
+* Models: 3: Models show an effort to push logic down the stack, but need more internal refactoring
+* Testing: 4: Project has a running test suite that exercises the application at multiple levels
+* Usability: 4: Project is highly usable and ready to deploy to customers
+* Workflow: 4: Excellent use of branches, pull requests, and a project management tool.
+
+#### Feedback from
+
+Traffic Spy Group: Assertive in group dynamics (communication), cares about not understanding, big picture vision.
+
+“Rose did good!" - Bret Doucette
+
+"Rose is very motivated by completing concrete goals and achieving tangible goals. She also has a very strong knack for leveraging social capital to reach solutions to problems. When she puts her mind to something, she has strong logical reasoning skills that help her find solutions to a problem. Rose is sometimes distracted when trying to focus on a task, and has room for growth in practicing better habits both during classroom instruction and during work time in terms of removing things that distract her." - Travis Haby
+
+#### Playing a Part
+
+I've participated in the larger Turing Community in the following ways:
+
+* Attended Rocky Mountain Ruby Conference.
+* Attended Women Who Code Ruby Study Group at Turing.
+* Supported Lovisa during her Denver.rb class.
+* Interviewed Module 1 students for the Turing Podcast.
+* Attended the documentary movie night Lovisa put on and helped get snacks for everyone.
+* Attended warmup with my posse every morning.
+* Attended coffee meetups with the Joan Clarke Society on Tuesdays.
+
+## Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+## A: End-of-Module Assessment
+
+A Turing student is able to demonstrate proficiency at programming in accordance
+with the module's content and expectations.
+
+* 4: Student achieved two or more "4s" on the assessment
+
+## B: Individual Work & Projects
+
+A Turing student works to maximize their skill growth and demonstrates
+that skill across a variety of work.
+
+* 3: Student demonstrates commitment and growth in their work through satisfactory
+evaluations of each project or a clearly upward-sloping trend.
+
+## C: Group Work & Projects
+
+A Turing student contributes significantly to group projects, helps the team
+develop their technical skills, and delivers a high-quality product.
+
+* 3: Student fully participates in their group work to facilitate group harmony
+while achieving consistently satisfactory results.
+
+## D: Community Participation
+
+A Turing student builds up the community around them by participating and
+supporting other students, the larger Turing family, and persons outside our
+walls who want to develop their own skills.
+
+* 4: Student has a significant positive impact on the learning and spirit of the
+people around them.
+
+## E: Peer & Instructor Feedback
+
+A Turing student accelerates the growth of those around
+them by delivering specific, kind, and actionable feedback. They accelerate their
+own growth by taking in and acting on the feedback of their peers and instructors.
+
+* 3: Student consistently delivers meaningful feedback for peers and implements
+strategies to improve themselves in response to feedback.
+
+

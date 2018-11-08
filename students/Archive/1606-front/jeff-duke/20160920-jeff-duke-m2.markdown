@@ -1,0 +1,214 @@
+# Jeff Duke - M2 Portfolio
+
+## Areas of Emphasis
+
+For this module I set out to further strengthen my skills in Javascript and to learn the new tools we would be using.  I also set out to strengthen my styling skills.  I tried to take on a bigger piece of styling in my group projects to get myself more familiar with the tools and properties of SCSS and CSS.  
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 3
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 4
+* **D: Feedback & Community Participation**: 4
+
+-----------------------
+
+## A: End of Module Assessment
+
+Progression: 3
+JavascriptStyle: 3
+Workflow: 4
+Collaboration: 3
+
+Did a little over-engineering at the start, which made things a little more complicated down the road, but was able to find solutions and was confident getting functionality in place.
+
+## B: Individual Work & Projects
+
+The only individual project we were assigned this module was to re-write number-guesser in React.  This was not a scored project but was good practice in writing react components and digging into rendering components to the screen and passing props around.  
+
+
+## C: Group Work & Projects
+
+### Projects
+
+For team projects we completed:
+Shoot the Breeze as our Final project,
+A very Lonely chat-room
+A tier-one pomodoro app
+A tier-two networking app
+
+#### (Final Project: Shoot the Breeze)
+* [GitHub URL](https://github.com/Jeff-Duke/shoot-the-breeze)
+* [Original Assignment](http://frontend.turing.io/projects/shoot-the-breeze.html)
+
+For this project we made a live chat app that uses Firebase for a backend and React for the Frontend.  This was a really fun project to cement our react skills and get into testing react components with Enzyme.    
+
+(evaluation comments)
+
+Spec Adherence: 4
+Design/UI: 3
+Code Sanitation: 4
+Testing: 4
+Workflow: 4
+CSS/Sass: 4
+JS Style: 4
+Component Architecture: 4
+
+#####Feedback to me:
+I worked with Jeff on our Firebase and React based chat app.  From the start, we were organized and on the same page.  We both wanted to learn more about compartmentalizing React components and how to test them.  We made a solid plan to divide and conquer and were both very efficient.  Our communication styles worked well together.  Jeff is very sharp and eager to help the whole cohort with testing using mocks and stubs.  Jeff is a great teammate.
+
+
+#### (A very lonely chat-room)
+
+* [GitHub URL](https://github.com/Jeff-Duke/cautious-parakeet)
+* [Original Assignment](http://frontend.turing.io/projects/chatroom.html)
+* [DTR](https://docs.google.com/document/d/1fvd5UfMMTtMshSgPEWkvMUC6KWEQM9QJ8JdfNovHm-c/edit?usp=sharing)
+
+In this project we took a look at the first steps to making an app with a backend interaction.  We created a chatroom with one very lonely user.  We setup a chat bot to respond to that user as the user posted messages.  This was the start of designing apps with a mobile first approach.  We also used sketch for all of our wireframing and design.  
+
+#####Notes
+No notes, only snippets of rubric.
+
+#####Scores
+Spec Adherence: 4 - app meets all requirements.
+
+UI: 2.5 - good treatment of chat sections, buggy behavior around show older, fixed screen width is too wide for small mobile screens.
+
+HTML Style: 4 - Dev able to craft clearly organized, semantically correct HTML.
+
+CSS/Sass style: 3 - App thoughtfully put together with some duplication and no major bugs.
+
+Javascript Style: 3 - App thoughtfully put together with some duplication and no major bugs.
+
+Testing : 3 - Project has a running test suite that covers most functionality.
+
+Workflow: 4
+
+Code Sanitation: 3
+
+Design: 3 - App has a strong approach  but typography and color choices are lacking.
+
+
+#####Feedback to me:
+
+I enjoyed working with you on our Parakeet Chatroom. I’m glad we decided early on to divide the duties by our weaknesses so we each could work to improve our skills. Each night we broke up the project elements to work on and then in the morning regrouped to refactor the code. You were great at guiding me through the JS I wrote and I appreciated the periodic checking in to make sure I was understanding the code overall.
+
+Of course I wish we had time to revisit the styling since you had to do that at the very end of the project but I think you did a great job on little sleep. One comment I should have spoken up about is I wish you had vocalized your thoughts when trouble-shooting issues, it might have helped us talk out the issues we encountered (and ultimately solved!) but that is also a personal work style. Otherwise I’m really glad we were paired up to kick off Mod 2 and will be happy to work with you in the future.
+
+#### (Tier-1 Pomodoro App)
+
+* [GitHub URL](https://github.com/andy-young/clock-o-doro)
+* [Original Assignment](http://frontend.turing.io/projects/tier-one.html)
+
+We were given the choice to develop one of three apps.  We, like everyone else in our class, mysteriously, opted to develop a pomodoro app.  This proved more difficult than expected.  None of us realized how tricky it is to deal with time, especially in JavaScript.  Overall the app turned out great and I learned a ton along the way.  This is the first app I've made where we took a TDD approach.  Once we ran out of tests to write it was just a matter of wiring up a UI and we had a working app.
+
+Brenna's Notes: Really great use of modular functions and breaking out functionality into tiny components. Opportunities to refactor large files, but arguments against why they chose not to speak to design decisions.
+
+#####Notes
+Missing the visual cue for when the timer is almost up, but will refactor and finish by end of day for a 4.
+
+Strong implementation of TDD and attempts at integration testing.
+
+#####Scores
+Spec Adherence: 3
+UI: 3
+HTML: 4
+CSS/Sass: 3
+JavaScript: 4
+Testing: 4
+Workflow: 4
+Code Sanitation: 4
+Design: 3
+
+#####Feedback to me:
+
+Jeff is the paragon of cool. He's a pro. Under tight deadlines, and piles of work, he stays centered and focused. He has a perspicacious eye for detail. It's quite enviable and indeed encouraging to work with Jeff because he reveals insights and crafty ways to model a problem. Jeff's a fine teacher in this way, because while working with him you get to see into the mind of a problem solver, and thusly, shape your own style & technique. It's no surprise that Jeff is an experienced communicator.  He is the only one to actively use the DTR. I found this profoundly helpful, because it sets the stage for how the team will work moving forward.
+To wrap-up my time with Jeff, I would say that he truly cares about what's important for me. He's empathetic to the stresses of Turing and eager to help and support his colleagues in any capacity. Jeff is already a fine friend and poised to be a coveted developer.
+
+#### (Tier-2 Networking App)
+
+* [GitHub URL](https://github.com/kylem038/tier-2)
+* [Original Assignment](http://frontend.turing.io/projects/tier-two.html)
+
+For this project we made a networking app that allows the user to save someone's contact information.  Much like a contact list.  The idea was that eventually a user would be able to upload their own information to the server and then hit one button to exchange it with another user.  We brought the app to MVP status and we were really pleased with how it came out.  This was our first foray into working with a database using Firebase.  
+
+#####Notes:
+Networking app that holds contact information. User can filter by "follow up". Initially designed for mobile. Gravatar is pulled in from email you use to create account.
+
+Need to follow up on testing expectations with firebase and eslint numbers
+
+Styling Review: have image styling consistent, use field-set in form, don’t make unnecessary classes, create more room in input fields, don’t use pyramid layout, make sign-out button smaller, align user login name with the rest of the flow of the application, add static labels to field inputs instead of placeholders, specify required input fields, and size application title in relation to user login
+
+Technical Review: reduce toggle button state, in general reduce as much as you can from components state, remove super() if it’s not needed, and buttons and inputs can be made into their own components
+
+#####Scores
+Spec Adherence: 3
+Risk Taking and Creativity: 3
+Design: 3
+UI: 4
+HTML: 3
+CSS/Sass: 3
+JavaScript: 3
+Testing: 4
+Workflow: 4
+Code Sanitation: 4
+
+#####Feedback to me:
+Feedback from Kirsten:
+This was our second project working together and just like last time it was great working with you. Since this was a three person project the team dynamics changed, but everyone had constant and consistent communication. You were always thorough and descriptive with explaining your logic and problem solving to both Kyle and I. Nice job tackling concepts that we haven’t covered before like Gravatar and Md5. Also good job with being resourceful and reaching out to Bree when we were stuck with styling the header. I’m always impressed with your problem solving skills and how you approach problems. It inspires me to become better with JavaScript. The only constructive feedback I have to say is to speak up about whether you want to go in that direction someone mentions with our project. Sometimes I felt we suggested working on something that maybe you didn’t think we should at the moment. Or I was totally reading things wrong and you’re just easy-going. Once again it’s always a pleasure working with you!
+
+Feedback from Kyle:
+I truly enjoyed working with you on the Tier-2 project. I learned a ton from your approach to problem solving. Your ability to recognize that problems needs to be further broken down is something I hope to emulate as I continue to code. I often take pride in giving constructive feedback, but in this case I say keep doing what you’re doing. You’re elevating everyone in our class & I hope you continue to do so. Hope to work with you again!
+
+## D: Feedback and Community Participation
+
+### Giving Feedback
+
+#####Feedback to MaryJane on Lonely Chat Room:
+MaryJane, it was great working with you on lonely chat-room 1.0.  I thought we worked really well together and I’m happy with how our project came out.  I think we did a good job of dividing and conquering where we could and coming together to work out functionality issues where we needed to.  I probably could have done a better job of getting the styling in place a little earlier but it came out well and met the spec.  I thought you did great on building out the JavaScript and I thought it was great that you opted to take that on.  It was great to see your confidence grow throughout the project and at the end we put out a super clean code base!  I definitely look forward to working with you again on future projects!
+
+#####Feedback to Andy on Tier-1:
+Andy, it was really good working with you on our project.  Though we definitely had some challenges, I think we worked well together and I’m happy with how the project turned out overall.  Thanks for the walks and good talks!  My  only actionable feedback for you is to keep working on those fundamentals and to make sure you speak up if you feel like you’re not understanding things.  Look forward to working with you in the future!
+
+#####Feedback to Kirsten on Tier-2:
+Kirsten it was great working with you on this project.  It was super helpful to have your insights when we got stuck.  Thanks for taking on so much of the styling and helping refactor the styling that I did.  I learn a ton from you when we work together and I think we work really well together!  My only actionable feedback for you is to make sure that you speak up when you want to drive and make sure you’re getting in there to write the Javascript etc.  I apologize for not being more proactive about that.  Looking forward to working with you in Mod 3 and 4!
+
+#####Feedback to Kyle on Tier-2:
+ Kyle it was good working with you on our project.  It was interesting to work on a project with 3 people for the first time and I thought we all worked well together.  I thought it worked out well that if one of us was missing the other two were able to keep working.  Also I thought we had a good mix of pairing when needed and divide & conquer when we could as well.  Overall this was one of the best apps I’ve put out in any group.  For actionable feedback for you I’d say maybe a little less pessimism?  Sometimes even if something doesn’t seem like it’ll work out, it’s still worth doing as it leads to the right answer.  Good working with you and I look forward to working on future projects together!
+
+#####Feedback to Casey on Final Project:
+Casey, it was really good working with you on this project.  I thought we did an excellent job of dividing and conquering and as a result I feel like we both learned a ton about react and react testing.  I’ve not divided/conquered a project before the way we did but it worked out well and seemed to be really efficient.  I don’t really have any actionable feedback because I thought we worked well together, our project came together really well and we didn’t have any issues really.  Look forward to working with you on future projects!
+
+### Being a Community Member
+
+#####Feedback from Nick Chambers:
+I learned a ton from pairing with Jeff during Mod1. At times, I felt like I was practically pairing with an instructor. Jeff acted as a coding guide as I was rewriting my Ideabox project and helped push my logic and thinking in the correct directions without giving me any complete solutions. I was continually impressed with his knowledge of and approach to both Javscript and jQuery. Overall, Jeff helped make my experience during Mod1 even more rich and worthwhile. Thanks, man!
+
+#####Feedback from Gabi Procell:
+My experiences in pairing with Jeff were spectacular. He is a wonderful teacher who challenges those that he is working with to develop efficient solutions to most, if not all, of their Javascript problems. I appreciated his approach because it did not involve him stealing any learning from me. Jeff also did a wonderful job of utilizing the concepts I currently knew to help me arrive to a working conclusion. Thank you Jeff, for guiding me through my difficult JS struggles!
+
+#####Feedback from Chelsea Skovgaard:
+Jeff is generous with his time and assistance. I had several pairing sessions with him and he was always willing to answer questions about projects. He is a huge asset to the community. When doing a pairing session or asking Jeff a question, he was great at helping me come to the answer or try things on my own while still guiding or assisting in finding a method that worked. He maintains a great balance of guiding but also not giving the answer so that you learn.
+
+### Playing a Part
+
+This mod I put in a lot of extra effort to play a part in the community.  I organized a pairing system between our cohort and 1608 FE.  This was very well received and seemed to be very much appreciated.  I had a total of 9, hour-long, pairing sessions with various students.  In addition I made myself available to answer questions as needed during the week at Gusto and on the weekends at Blake.  
+
+Brett and I led 2 Student Led Sessions on JavaScript fundamentals using the CodeWars platform.  We had a lot of attendance and those that participated seemed to really enjoy it and found it valuable.
+
+In addition I tried to keep an eye out and take notice if fellow students in my cohort were struggling and to offer assistance where possible.  I took a lot of walks with folks to help them clear their heads and have good conversations about areas they might be struggling in and ways I could help or ways they could solicit help from the instructors.
+
+I've also opened several PR's against the 1606FE site to fix typos, add missing content and try to improve the resource for all when I see an issue, rather than just telling someone about it.   
+
+Outside of Turing I started blogging about my experiences here to hopefully provide insight to current and future students about the frontend program.
+
+------------------
+
+## Final Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+PASS

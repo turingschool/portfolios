@@ -1,0 +1,109 @@
+# Pat Wey - M2 Portfolio
+
+## Individual
+
+### Areas of Emphasis
+
+My mission as a Turing student is to embrace discomfort in social situations, invest my time and effort into the Turing community, welcome challenges, confidently voice my opinions, and seek constructive, actionable feedback.
+
+### End of Module Assessment
+Instructor: Andrew
+Challenge: highest scoring word
+Notes: Great assessment. Excellent ruby work. Very comfortable with rails. Good collaboration and communication. Was able to implement anything asked and was able to drive the whole development himself.
+
+1. Analytic/Algorithmic Thinking - 3
+2. Ruby Syntax & Standard Library - 4
+3. Rails Syntax & API - 3
+4. Rails Style - 4
+5. Testing - 3
+6. Collaboration - 4
+
+### Attendance
+
+I missed one Friday this module.
+
+### Work
+
+I worked on two group projects this module.  The projects helped me build a foundation in Rails and an understanding of database structure.
+
+#### Traffic Spy
+
+[Github](https://github.com/patwey/traffic-spy)
+
+[Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/traffic_spy.markdown)
+
+A project where Aaron, Tyler and I built web application that parses and stores web traffic data.
+
+Evaluation:
+
+* Notes:
+  One issue - mentioned above - Views are clean and contain no logic. Server(controller) is really clean. Great use of poros. Error page can be more specific to the issue.
+
+1. Functional Expectations: 3
+2. TestDriven Development: 3
+3. Encapsulation / Components: 4
+4. Fundamental Ruby & Style: 4
+5. Sinatra / Web and Business Logic: 3
+6. View Layer: 3
+
+#### Little Shop of Orders
+
+[Github](https://github.com/marlomajor/colorideo)
+
+[Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
+
+A project where my Jill, Marlo and I built an E-Commerce site to sell bike tours.
+
+Evaluation:
+
+1. Feature Completeness - 3
+2. Views - 4
+3. Controllers - 4
+4. Models - 4
+5. Testing - 3.5 - used methods to refactor commonly used features. However failed to test a few basic features which could have been tested
+6. Usability - 4
+7. Workflow - 3
+
+## Community
+
+### Giving Feedback
+
+* "Working with Marlo on coloRIDEo was great. I’m definitely impressed by his work ethic - he put in a lot of hours on our project!  He keeps his cool in pressure situations, and was never flustered if we were running into problems.  He is also really positive and supportive, which helped our group stay close.  Each day he would send out a summary email highlighting and praising everything we accomplished - so cool! Oh, and he also sings while he’s working, which is a nice bonus. I’m looking forward to working with him again in the future."
+
+* "I had a lot of fun working with Tyler on Traffic Spy.  He’s got a really solid foundation in Ruby, and he helped remove road blocks we ran into throughout the course of the project.  He’s a great teammate, and he kept our group work sessions fun and light.  I look forward to working with him again in the future."
+
+* "Damn, Jill really blew me away with her work on coloRIDEo. From day one, she really was the heart and soul of our app and the glue that held our team together.  Additionally, her passion for our project kept me afloat when my interest or commitment would start to waiver.    I don’t know if I can overstate what she contributed to our project - she wrote all of the content, and made all of the styling decisions on top of what she contributed to the code base. She’s a badass developer and an incredible teammate. I hope we get to work together in the future"
+
+### Being a Community Member
+
+Feedback:
+
+* "Little Shop has hands down been my favorite project to work on and a big part of that was working with Pat.  We were a very eclectic group which only elevated the experience with each member bringing in a different skill.  Pat managed to keep his cool while also making what could have been some mundane nights very silly.  I still cannot fathom how much I have learned from him in the last week and a half - Pat really brought together so many concepts that escaped me before this project.  I cannot wait to see what he does in the industry and would love to work together again."
+
+* "Well…here I go. Pat is the most effective group partner I have ever had. Ever. As in, during no point in the past 23 years of my life have I worked with someone as effective as he is. His presence is calming, serious, and fun all at the same time; working on the same project for two weeks almost requires this type of attitude and Pat exemplifies it to the max. Pat sees a problem that needs to be solved? He solves it. Immediately. No questions asked. It’s done. This type of work ethic and effort carry over not only into the technical part of programming, but into the friendships formed, in the respect earned, and in the hope for future partnerships together. Pat is someone you want to have as a best friend…he’s just always there to help and willing to be helped. I appreciate having Pat as my partner so much. I hope we can do it again. We just have to!"
+
+* "I really enjoyed having you as a partner on Traffic Spy. You have a great understanding of Ruby and Rails, and it has been awesome to see your ability grow over these past 2 modules. I really appreciated how you broke logic into manageable pieces during the design and implementation of our project. Also, your ability to refactor bloated code is the best I’ve seen. Hope we work together again on future projects!"
+
+* "Pat really crushed this project. Since it was the first week in module 2, everything was extremely unfamiliar and the error messages did not make a whole lot of sense. Pat was able to troubleshoot these errors pretty consistently and kept us on track to meet deadlines. Pat was also an excellent teammate, and an awesome communicator.  It would be awesome to have an opportunity to work with him in the future."
+
+#### Playing a Part
+
+I helped to start Elixir club, and participated in it throughout the module.
+
+## Review
+
+### Notes
+
+* Trying to embrace social discomforts. Wants to get better at voicing opinions. 
+* Has made improvements. 
+* Try to push yourself both technically and socially. If you do then it will help you grow and those arond you
+* Felt good about group work and particularly refactoring. 
+* Helped start the elixer club.
+* Find a mentor or mentors and establish a relashonship. Pair on whatever.
+* Take new student under your wing. Be a part of your Turing community.
+*
+
+
+### Outcome
+
+* Pass

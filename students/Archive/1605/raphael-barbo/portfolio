@@ -1,0 +1,215 @@
+# Raphael Barbo - (M1) Portfolio
+
+## Individual
+
+## Mission Statement
+
+My mission is to be able to bring positive changes to the community through the use of technology, and in the future empower less fortunate individuals.
+
+### Areas of Emphasis
+
+In mod 1, I have set my expectations to be able to understand the fundamental ruby syntax, solve complex problems by breaking them down into smaller pieces, build softwares with the implementation of pseudocode, TDD, code application, and refactoring throughout the process as needed in order to improve
+comprehensibility and cleanliness.
+
+### End of Module Assessment
+
+#### Rachel's Assessment
+
+
+###### Notes:
+* stared with test, able to comfortably set up interaction pattern in test
+* good understanding of file paths using require
+* check indenting of methods inside of classes
+* comfortable using pry to debug
+* make sure to check error message and line number before implementing
+* some struggles with figuring out how to grab ingredients from the collection of recipe objects
+
+###### Score:
+* Ruby Syntax & API : 2
+Developer is generally able to write Ruby, but gets stuck on or needs help with fundamental concepts.
+* Completion and Progress : 3
+Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+* Testing : 3
+Developer writes tests that are effective validation of functionality, but don't drive the design.
+* Workflow : 3
+Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts.
+* Collaboration : 3
+Developer lays out their thinking before attacking a problem and integrates feedback through the process.
+* Enumerable & Collections : 2.5
+Application demonstrates comfortable use of appropriate Enumerable methods / Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
+
+#### Mike's Assessment
+
+###### Notes:
+No score provided - Only feedback "Suggested to repeat module".
+
+### Work
+
+Throughout my time at module 1, I have been assigned a total of 4 projects. 2 individual projects (Night-Writer and Flashcards)  and 2 pairing projects (HTTP and Headcounts).
+
+## Projects
+
+### individual Projects
+
+#### Flashcards
+
+* https://github.com/rsbarbo/flashcard
+* Assessed By: Jhun de Andres
+
+The main goal of this project was to write a flashcard program that used through the command line. The project was broken up into 6 mandatory Iterations. From creating cards, allowing guesses, storing cards on the deck, to loading text file, this was indeed a very challenging first project.
+
+Notes: Glimpses of good tests - Moving in the right direction in terms of SRP
+
+Functional Expectations:  3
+Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.
+
+Test-Driven Development:  3
+Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
+
+Encapsulation / Breaking Logic into Components:  3
+Application effectively breaks logical components apart but breaks the principle of SRP.
+
+Fundamental Ruby & Style:  3
+Application shows strong effort towards organization, content, and refactoring.
+
+Enumerable & Collections:  3
+Application demonstrates comfortable use of appropriate Enumerable methods
+
+#### Night-Writer
+
+* https://github.com/rsbarbo/night_writer_draft
+* Assessed By: Mike Dao
+
+The main goal of this project was to break a program into logic components, testing components isolation, applying enumerables techniques.
+
+Notes:
+16 tests all passing
+Remember to test for edge cases, and for file stuff.
+Each file of code should have a corresponding test file every method should have its own test.
+At least one.
+
+
+Functional Expectations:  2
+Application converts to Braille and back successfully
+
+Test-Driven Development:  3
+Application uses tests to exercise core functionality but leaves many common edge cases untested.
+
+Fundamental Ruby & Style:  3
+Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+
+Breaking Logic into Components:  3
+Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+
+### Team Projects
+
+#### HTTP
+
+* https://github.com/rsbarbo/call_it_what_ya_want
+* Assessed By: Mike Dao
+
+The main goal of this project was to learn how challenging and productive it can be to work with a partner, as well as learn the basic notions of HTTP, receive and send responses, GET and POST.
+
+Notes: No grade posted - According to instructions received from Turing staff, I was supposed to finish this project on my own, and get evaluated by Mike, but grades were never received.
+
+Functional Expectations:  TBA
+
+Test-Driven Development:  TBA
+
+Encapsulation / Breaking Logic into Components:  TBA
+
+Fundamental Ruby & Style:  TBA
+
+Enumerable & Collections:  TBA
+
+Pairing Feedback:
+N/A
+
+DTR:
+https://docs.google.com/document/d/1WfvI23Y7Kdq45vZljyaUUQ0T2y0cKnYIoV_2MO8R-zw/edit#heading=h.l3ct5pv2ggfg
+
+#### Headcount
+
+* https://github.com/Laner12/headcount
+* Assessed By: Beth Sebian
+
+The main goal of this project was to learn how to use tests to drive both the design and implementation of code, decompose a large application into components such as parsers, repositories, and analysis tools, and connect related objects together through references
+Learn an agile approach to building software.
+
+Notes: Completed through I4
+All spec harness tests pass through I4
+All team-generated tests pass
+Need more unit testing and edge cases, some nice testing around edge case - want to see consistency here
+Lots of long methods (5+), if/else statements
+Nice use of enumerables, some areas could be tighter  One code sanitation failure, line >80 chars;
+excluding given spec's long method names
+
+Functional Expectations:  2
+Application has some missing functionality but no crashes
+
+Test-Driven Development:  3
+Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+
+Encapsulation / Breaking Logic into Components:  3
+Application effectively breaks logical components apart but breaks the principle of SRP
+
+Fundamental Ruby & Style:  2
+Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
+
+Enumerable & Collections:  3
+Application demonstrates comfortable use of appropriate Enumerable methods
+
+Code Sanitation:  4
+Zero complaints
+
+feedback from Pairing:
+"Rapha or Raphael as you may know him was a great partner to pair with. We certainly felt the pressure that Turing can create but Rapha always maintained his composure. He demonstrated a good workflow in addition to cohesive problem solving. I would pair with him on any project! - Lane "THE BRAVE" Winham"
+
+
+DTR:
+https://docs.google.com/document/d/1WfvI23Y7Kdq45vZljyaUUQ0T2y0cKnYIoV_2MO8R-zw/edit#
+
+
+## Community
+
+### Giving Feedback
+
+“I had the pleasure to pair with Ryan Flach during one of our in-class assignments, and I can certainly say that he is a very diligent   and quick to jump into the problem and come up with creative ways to resolve it. Definitely looking forward to some more pairings in the future. - Raphael Barbo"
+
+“Zack (Forbing) was very easy to work with during our afternoon pairing. I absolutely loved brainstorming with him, and finding different approaches to the same problem - he definitely thinks outside of the box, and we were able to progress productively and quickly during our assignment. I am definitely looking forward to more pairing sessions with him. Definitely a like-minded peer. - Rapha Barbo"
+
+"Tommasina is one of the most inspiring people at 1605, extremely sweet, hard-working, and dedicated, Tommasina is one of my biggest inspiration, and I really loved having her in our cohort, and I really really can't wait to see the amazing things she will accomplish throughout her time at turing and thereafter. I find it to important to highlight as well, Tommasina is an amazing leader, she has a warrior soul and I would love to see her leading, organizing, and getting involved in projects, posses, and even SAB. - Rapha Barbo"
+
+### Being a Community Member
+
+"Raphael is one of the hardest working people I know.  We first met a week before Turing to do pre-work together, and Raphael didn't know a lick of code.  The amount of progress he has shown since then is nothing short of impressive. I admire Raphael's dedication and persistence. I also admire his social prowess and ability to seek out help and support from others.  He brings a ton of positive energy into Turing everyday and his ubiquitous smile is contagious. - David Tinianow"
+
+"While I didn't work with Raphael on any programming this module, I was continually impressed by his approach to his work throughout the module. He showed an understanding of the bigger picture, a positive attitude even when things were tough, and an openness to new experiences and ways of thinking. He's a positive addition to the Turing community, and I'm confident he'll be successful moving forward! - Adrienne Domingus"
+
+"Raphael was a blast to work with during our Pairing Patterns lesson. We seem to have similar mindsets but different approaches. We had fun together, but we also kept each other on task. we came up with creative solutions to the robot test, and had a great time doing it. Raphael is a great coder to pair with, and I look forward to more sessions with him. - Zack Forbing"
+
+"Raphael often stays late working on projects and will periodically check in with me to make sure I'm doing well. He'll stop to work with me if he's ahead, a gesture which does not go unappreciated. His jovial attitude lightens the atmosphere of intense coding, and his warmth make him a great friend to have. I'm excited to see where his coding takes him! - Tommasina"
+
+### Playing a Part
+
+From the very beginning I have had the opportunity to be part of Turing community by being elected by Turing's staff to become a member of the Student Advisory Board representing 1605 cohort. I absolutely loved the experience I have shared with all the members of SAB, and Allison. I believe Turing truly and sincerely cares about its students and have their best interest in mind. Being part of this amazing school and community is an honor, and I am looking forward to see what the future holds for Turing alumni, current students, and prospect students.
+
+
+## Review
+
+### Rubric Scores
+
+* **A: End-of-Module Assessment**: 1
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Community Participation**: 3
+* **E: Peer & Instructor Feedback**: 3
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )

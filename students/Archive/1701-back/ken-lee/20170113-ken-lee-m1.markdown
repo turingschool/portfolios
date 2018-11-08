@@ -1,0 +1,437 @@
+# Ken Lee - M1 Portfolio
+
+## Areas of Emphasis
+
+(What did you set out to accomplish this module?): To learn as much ruby as I
+can with the time that I have. Also, to take advantage of the personal growth
+(which I didn't know we had to do until after I started) and have it guild me to
+be better rounded professionally and personally. I really want to get
+comfortable with sitting down and being able to see a problem, break it down,
+and solve it with code.
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 1
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 4
+* **E: Feedback & Community Participation**: 4
+
+-----------------------
+
+## A: End of Module Assessment
+
+(Notes & scores from your assessment rubric): Didn't get any notes or score. Was
+asked how I felt I did. I gave my honest opinion and stated "I want/need to
+repeat mod 1. I felt uneasy with where I was and that even if I would have
+passed the final assessment that day I would have wanted to repeat because
+cramming was not knowing."
+
+
+## B: Individual Work & Projects
+
+#### (Credit Check)
+
+* [GitHub
+  URL](https://github.com/wewert/credit_check.gis://github.com/wewert/credit_check.git)
+
+(description): Build a program that validates credit card numbers.
+
+(evaluation comments): N/A
+
+(evaluation scores): N/A
+
+#### (Jungle Beats)
+
+* [Github URL](https://github.com/wewert/jungle_beats_2.git)
+* [Original Assignment](https://github.com/wewert/jungle_beats_2.git)
+
+(description): Build a program that plays a sound for every linked list string using the command line and a chosen computer voice.
+
+(evaluation comments)
+Thought i1
+Strong tests for what's build. Actually Tdd'd
+Style and syntax solid
+No need for recursion with i1
+
+(evaluation scores)
+Functional Expectations: 1
+TDD: 4
+Encapsulation/Breaking Logic into Components: 3
+Fundamental Ruby & Style: 3
+Looping or Recursion: N/A
+
+#### (Enigma)
+
+* [Github URL](https://github.com/wewert/enigma.git)
+* [Original Assignment]()
+
+(description) Build a program that encrypts a message using a key and offset.
+Also, decrypt encrypted message with reverse method
+
+(evaluation comments): Only encrypt works
+Style across project pretty strong
+Some gaps in testing, in general suite is pretty strong
+Solid division of responsibilities across classes and methods
+
+(evaluation scores)
+Overall Functionality: 1
+Fundamental Ruby & Style: 3
+TDD: 3
+Breaking Logic into Components: 3
+
+#### (Mastermind)
+
+* [Github URL](https://github.com/wewert/mastermind.git)
+* [Original Assignment]()
+
+(description) Build a program for a game that makes a four color key and have a
+player guess against the color.
+
+(evaluation comments) Ilana stated the code was good and working to her
+satisfaction. Wanted to know how the I felt about the project and I told her
+that I felt good about it because I could manage the give requirements and time.
+
+(evaluation scores) N/A
+
+#### (Flashcards)
+
+* [Github URL](https://github.com/wewert/flashcards.rb.git)
+* [Original Assignment]()
+
+(description): Flashcard program that is used through the command line. A user
+will be able to see the questions, take guesses, and see a final score at the
+end of the round.uild a program that makes a terminal based flashcard game.
+
+(evaluation comments): Ilana stated I did a good job with logic and flow. She
+helped me with a few tweeks to get the game hint section working.
+
+(evaluation scores) N/A
+
+#### (Headcount)
+
+* [Github URL](https://github.com/edilenedacruz/headcount.git)
+* [Original Assignment]()
+
+(description): Project has us (pair) build software that pulls data from
+multiple places to generate new data in regards to Colorado schools.
+
+(evaluation comments): 56 tests all passing
+got through IT 4 and passing test harness
+had some good method usage with "send"
+
+(evaluation scores)
+Functional Expectations: 2
+TDD: 3
+Encapsulation/Breaking Logic into Components: 3
+Fundamental Ruby & Style: 3
+Enumerable & Collections: 4
+
+
+## C: Group Work & Projects
+
+### Projects
+
+(feedback to me)
+### Professional Development Workshops
+## D: Professional Skills
+Personal Branding I:
+
+My name is Ken Lee. I am taking on this journey to become a
+software developer. I have never been a really great student. Actually I've
+never been a good or even an average student. I've always been a below average
+student. So this challenge that I have some how been accepted to will be the
+biggest I have ever taken on. I worked in the software industry for over 10
+years now but never in the trenches. I was the operations manager, project
+manager, or office manager. I became interested in the development part after
+becoming friends with a bunch of them. The software consultancy I last worked
+for closed and I had an opportunity to take the dive. I decided I wanted to try
+to get into Turing.
+
+Working resume: [ link to resume ](https://turingschool.slack.com/files/wewert/F3QN2KQ4A/dtrheadcount.pdf)
+
+LinkedIn:
+profile:https://www.linkedin.com/in/ken-lee-882bb23?trk=hp-identity-name
+
+Feedback from Meg:
+RESUME-Check out Creddle.io if you’d like to experiment with some different
+templates
+Headline
+Remove location
+Add linkedin, github
+
+Summary
+I like your summary though I would cut out “that will help propel COMPANY NAME
+to the next level” and actually just add another sentence that expands on how
+you’ve gone from project management to operations management to software
+development.
+
+Skills
+Good placement.
+Continue to add to this area during the course of the program. Ideally you want
+12-20 items
+
+Projects
+Good placement. Just for future reference:
+Follow skills with a project section that includes 2-3 of your favorite projects
+Answer the following questions-
+What problem does it solve?
+What does it allow the user to do?
+What is the high level overview of the project?
+What stack is this app built in?
+If you worked in a group, what was your focus?
+Deploy and repository with clickable web addresses
+
+Experience
+Follow Projects with Experience
+I do think you’re going to need to reduce some bullet points if at all possible
+as adding project info will cause your resume to exceed two pages. I think
+bullet points like the final one under New Type Central could be eliminated as
+they dont tell us much.  Remember to focus on the value that you brought to the
+organization rather than the individual tasks performed
+For New Type Central, I think you could also combine CO and Content Manager
+Consultant on the same line to save a little space
+Turing can fall under experience or education but the nice thing about having it
+here is it doesn’t get buried under your professional history and it ties in
+with your self identification as a software developer. That’s also the nice
+thing about titling this category as “experience” rather than work history is
+that it doesn’t have to pertain exclusively to work
+Format should start with title followed by company
+
+Education
+Remove dates
+Hello fellow Lobo!!!!
+
+LINKEDIN
+Software Developer should be included as part of your headline (preferably the
+first part).
+Customize your URL
+https://www.linkedin.com/help/linkedin/answer/87/customizing-your-public-profile-url?lang=en
+Complete a Summary describing who you are, how you got here and, if applicable,
+your goal for the future. Tell us about yourself, your passions and your
+ambitions in a short paragraph or two (this should expand on your resume summary
+rather than duplicate it).
+You’ll want to add Projects as you complete them, after summary. If working with
+a team, one team member should create a project link to the code source, give
+overview and then link team members.
+Add Turing to Experience with open-ended date (16/06-present) and provide
+detailed descriptions via paragraph format for each previous employer as well as
+information on what you’re doing at Turing.
+If you’re going to have fake experience, at least give me a creative
+description! :)
+Also put Turing under Education (IE, put it in Education AND Experience) - in
+order to connect with other alumni/future students
+Skills-don’t forget to add your tech skills!
+
+Learning to Pair:
+
+My first pair with with Brandon. I had high hopes because he was a repeater and
+I was feeling a bit lost. We did not complete the DTR per requested by Brandon
+to finish it later. The pairing did not go as smoothly as hoped. Timing to pair with two
+people with 7 young children between us became a challenge.
+(Intro)
+
+### Gear Up
+#### (Growth Mindset)
+
+* [Workshop URL](https://github.com/turingschool/gear-up/blob/master/m1_citizenship/session_1_growth_mindset.markdown)
+* [Link to Completed Deliverables]()
+
+(takeaways from session): I never heard of Growth mindset or fixed mindset.
+After the workshop I figured out I have a fixed mindset based on my reactions to
+Turing thus far. From childhood to adulthood, I've been
+raised to have a fixed mindset. Grades, reward and punishment, deadlines, test,
+do your work or you'll get fired, etc... Growth mindset is like a secret
+  philosophy no one talks about. It's not practiced by society as a whole. At
+  least from my view. There are some things that I would like to hear about
+  growth mindset and the fray of society and how it would be addressed. How is
+  it practiced? How is it taught (verses just talking about it)? It seems
+  like it's a good idea and that's as far as it goes. That there is still this
+  wall of "be a grown up and figure it out on your own". That we must do things
+  on your own to "truly" have it count. Which seems like the
+  idea of people talking about doing good but not taking action to actually
+  achieve it. I will try to be present to the idea of growth mindset and I have
+  already been reflecting on myself because of this. I think growth mindset is
+  to stop thinking about failure as an end and to see it as a step. To learn
+  from it. To learn from negative thoughts. Know that theses thoughts will never
+  go away but how to look at those thoughts from another angle and use them to
+  drive you forward. I'm learning this because of Turing. I see that now.
+
+#### (Public Narrative)
+(takeaways from session): The session was great to get us new students going and
+understanding more of what Turing wants us to become. If the mission statement
+is true, then I believe I am set up to be exactly what Turing wants. I want to
+not just build software but to make a difference in our community/country. I've
+always been someone who is mindful of helping others. Every chance I get. After
+Turing I will have a skill that can help people better their lives. That idea is
+mind blowing to me!
+
+#### (Extrovert/Introvert)
+(takeaways from session): Well, pretty much my take away was what I thought it
+would be, I'm an extrovert. Funny to workshop with the opposites because I
+thought they seemed pretty out going for introverts. I believe that I can use
+you extroverted personality to become a lead on a project because I can get
+along with peers and clients. I see a disadvantage being that I need to let
+people talk versus taking over the conversation. I don't think I have a problem
+with listening per se but I need to actually let people talk... This workshop
+needed a bit more though. I felt that it was too short and didn't feel like the
+point of it was really hit point. I wanted more.
+
+#### (Grit)
+(takeaways from session): The session was great. Though my group and I believe
+that grit i over used and the negative side was never really resolved. We
+discussed that burn out is a problem with the idea of grit but no solutions were
+offered. We used the term letting out steam but that was too much of a
+general/non-action placeholder saying. It would have been nice to get some
+examples and then play through some solutions in small and large group. I feel
+like I have grit. I just need to learn to control my emotions...say's the guy
+who has a poetry degree.
+
+
+#### (Branding I)
+(takeaways for session): I need to work my resume over to be more software
+developer like. To consider myself a software developer now. Only thing was
+interesting was to not consider myself a software engineer. I understand why but
+all my professional friends use that title and they don't have degrees in
+Engineering.
+
+#### (Feedback)
+(takeaways for session): I learned not to dump on a pair partner. How to handle
+a bad pair professionally. It was really needed at the time I was pairing.
+
+#### (Branding II)
+(takeaways for session): Rewriting my title page was fun. The new outlook I have
+after six weeks has changed and I really wanted to focus on my passions-helping
+people.
+
+## E: Feedback and Community Participation
+
+### Giving Feedback (Feedback From Me)
+For Maria: Hey Maria, I'm so happy to be able to write you a peer review! You have been a
+great cohort partner to me and an example of what hard work and passion looks
+like. You not only take the time out of your busy day to help me but anyone in
+our cohort who needs some extra support. You are the first one to take notice
+and lend a hand. You are an example of what it means to at Turing; a person that
+is willing to help others succeed, a person who doesn't just think of
+themselves, a person who has situational awareness of how others are feeling and
+takes actions to insure we are okay personally and professionally. You have
+demonstrated your ability to take abstract class lessons and apply it into real
+working code and willing to share this information by teaching it to anyone who
+needs it. You have an excellent eye to details and patience to work a problem
+from beginning to end. You will surely become a software engineer that will be
+more then a developer but a leader.
+
+For Andy: Andy, I have enjoyed getting to know you in our cohort and seeing how
+much you are learning so far. You have always been so positive and reminding me
+that everything is okay. I appreciate all your help you have giving me working
+on drills. You were always positive and patiently leading me in the right
+direction letting me solve problems myself. Your cool head and enthusiasm at
+solving complex problems is something I want to learn from. Your approach of
+writing down on paper where the data goes has been influential to my learning
+processes and I plan to use that method more on my projects. I see you making a
+big impact on any team you wind up working for. You are the exact type of
+developer that companies I've worked for look for in a new hire. A great culture
+fit and abilities to learn complex ideas and solve them in a calm and fun
+attitude will definitely get you going places.
+
+For Johnathan: Johnathan, you have been awesome at being a fellow cohort(er) and
+I am inspired by you perception and action to make Turing a more inclusive space
+by starting the Turing minority group. I am honored and excited to see how we
+can make a difference to our community (not just Turing but our local tech
+community). I feel with we can make a positive difference! I've seen you
+studying hard early in the morning and into the late hours in the Blakement and
+I am inspired by your dedication and know you will be an influence to incoming
+cohorts with your example. I have no doubt you will become an amazing developer
+and continue your work to better people of colors lives through learning to
+code.
+
+For Edilene(G): Hey Edilene, you are such an amazing coder already! I am so
+grateful that I got to pair with you on our last project. Your example of how to
+break down the project into smaller parts has helped me to understand what needs
+to be working on. You have showed me how to better read error and use TDD to
+build out parts. You always take the opportunity to teach me at every chance and
+with this skill you will be a great addition to any company because that is a
+strong skill that helps pairs learn together and build awesome code. Your
+enthusiasm for the code and building software is inspiring and I see you using
+this to inspire and help others wanting to learn to code. Your dedication and
+hard-work shows everyday I see you and in every Screenhero pairing. Let me take
+this opportunity to thank you for you support and example!
+
+### Being a Community Member (Feedback To Me)
+
+From Maria: Ken! You have been such an awesome contribution to our cohort! Your
+dedication to learning the material and sticking with it through the rough parts
+is admirable. When the going gets tough, you stick with it, and you utilize the
+resources around you (fellow classmates, mentors, upper-mod-ers). I have really
+enjoyed working on exercises & challenges with you, especially over the holiday
+break when Blakement was rather creepy, and it is awesome to watch when you
+understand a concept and things click! While you enjoy piecing together the big
+picture in Ruby, you don't hesitate to seek out other learning avenues and
+asking yourself: What can I learn now to add to my toolbox? You are constantly
+seeking to improve yourself, and beyond that: you are always willing to help
+other students and lend an ear when someone is having a hard time. Moreover, you
+are one of the most approachable people in our cohort, and I can see that people
+feel at ease when coming to you with both personal and code-related issues.
+Being such a team-player, I foresee that you will make a great contribution to a
+dev team, and having those interpersonal soft-skills will serve you well! It's
+been awesome working with you and I am excited to see what comes next!
+
+From Andy: I am continually impressed with Kens drive to learn.  I’m sincere
+when I say that there are few in our cohort who have exhibited the grit and
+growth mindset that Ken has. On a near daily basis since the start of our
+cohort, I have watched Ken plug through almost every drill imaginable and, with
+an incredible amount of grace, admit openly that he was struggling to gain an
+understanding of the material.  I am honored that he reached out to me several
+times in the past several weeks for help.  He was a pleasure to work through
+things with and at no time exhibited self-pity, whining, or any other negative
+behavior that one general associates with someone in duress; rather, he always
+kept about him an attitude of knowledge-seeking and odd glee when faced with
+problems.  He forced me to grow my own knowledge in making, at times, haphazard
+attempts to explain things, and I’m thankful for the time I got to spend with
+working with Ken.      
+I’m always impressed with the ease with which Ken interacts with people.  He
+is seemingly continually engaged in dialogue with some member of our cohort.
+He is quick to compliment someones work and always keeps those around him in
+good cheer with jokes.  I’m happy that we were both a part of 1611.  His
+presence and our interactions single-handedly made the past 6 weeks better.
+Don’t change at all Ken.  You’re a rock star!
+
+From Johnathan: Ken, your dedication to this program is surpassed by none. We
+all come here to learn how to program but you strive to understand the material
+to the point where you feel comfortable enough to work with it in a variety of
+ways. Your approach of having a solid foundation before moving on has made me
+change my method of learning for the better. Being a great communicator is one
+of your perks, for example explaining to me why I was not being able to pull
+from Github and talking me through the steps of how to resolve the conflict is
+only one of the many instances where your skills have had a positive impact on
+me. I have faith in your ability in becoming a well rounded programmer. Thanks
+for being an awesome peer, friend and community member.
+
+
+### Playing a Part
+
+(ways you supported the larger Turing community)
+-Participated in Impostors Lunch
+-Participated in Turing Lab(Maker Posse)
+-Participated in a few Brown-Bag Lunch Roulettes
+-Participated in Guest Speaker: Krista Morgan Talk
+-Participated in Pahlka
+-Participated in Christopher Gantz Talk
+-Made sure to check in on fellow students/SAB members for our cohort and making sure they were okay and
+relayed to teaching staff of anyone that I had concerns with
+-Relayed my lighting talk deck to fellow students who requested it and passed on
+other grant information to them
+-Helped fellow students every chance I got (i.e. moral, encouragement, codes,
+typing, resume. etc...)
+
+------------------
+
+## Final Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+RETAINED

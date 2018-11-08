@@ -1,0 +1,295 @@
+# Vid0 Seaver - M2 Portfolio
+
+## Areas of Emphasis
+
+I set out to keep a float this mod. Scratch that, stay strong. First week I was 
+freaking out. It felt like first round of Mod 1. We were innundated with new information
+and I was struggling to pull it all together. We hit rush hour and it solidified.
+
+I also wanted to wanted to learn to get a better turing / life balance. The second
+round of mod 1 I had spent every weekend at turing. I am / was aware that this was 
+not sustainable so I set the goal to get a better balance in my life where I wasn't
+here seven days Week. 
+
+## Rubric Scores
+
+* **A: End-of-Module Assessment**: 3.3333333333333333
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 3
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3.5
+
+-----------------------
+
+***Blog Post***
+[People Like You](https://gist.github.com/vidoseaver/c22444f0bd8be60a97b9f29c103aad11)
+
+## A: End of Module Assessment
+
+Evaluator: Sal
+
+Student: Vido
+
+Subjective evaluation will be made on your work/process according to the following criteria:
+
+1. Conceptual Understanding
+
+ * 4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance
+
+2. Analytic/Algorithmic Thinking
+
+ * 3: Developer breaks complex problems into small, digestible steps and executes them with little assistance
+
+3. Feature Completeness
+
+ * 3.5: Developer is able to implement all functionality and all tests pass
+
+4. ActiveRecord Syntax and Style
+
+ * 3: Developer is able to establish and utilize ActiveRecord methods with minimal support and understands the relationship between models and the database
+
+5. Rails Style
+
+ * 3.5: Developer generally writes clean Rails features that make smart use of Ruby, with some struggles in pushing logic down the stack
+
+6. Testing
+
+ * 3.5: Developer uses tests at multiple layers of abstraction to drive development, but may need some assistance parsing errors or prioritizing next steps
+
+7. Collaboration
+
+ * 3.5: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
+## B: Individual Work & Projects
+
+#### Job Tracker
+
+
+* [GitHub URL](https://github.com/vidoseaver/job-tracker)
+* [Original Assignment](https://github.com/case-eee/job-tracker)
+
+I enjoyed Job tracker despite being freaked out that I was falling behind. The 
+desperate feelling of being behind motivates me and forces me to complete stuff. So
+despite the stress it was good for me. Also I appreciated the the feedback.
+
+@vidoseaver good work on this. i left ya some comments. if you have questions on anything, let me know 🌷
+
+here are your scores!
+
+Rubric
+
+1) Database, Relationships, and Migrations
+4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.
+
+2) Routes
+3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.
+
+3) Controllers
+3: Some logic may leak into the controllers that would more appropriately exist in a model/PORO. The developer may pass more instance variables than necessary to the view.
+
+4) ActiveRecord
+3: ActiveRecord methods are used appropriately in the database, but some Ruby enumerables may also be used. The developer uses ActiveRecord relationships appropriately, and does not call on other classes in their models.
+
+5) Views
+3: Limited logic that could be moved elsewhere remains in the views and/or controllers and developers are able to identify potentially opportunities to refactor.
+
+6) User Experience
+3: The application has been styled, but the user may need to use the nav-bar to enter a URL or back button to get to access some functionality.
+
+7) Testing
+3: Project has a running test suite that tests and multiple levels but fails to cover some features
+
+## Rails Mini-Project
+
+* [GitHub URL](https://github.com/vidoseaver/job-tracker)
+* [Original Assignment](https://github.com/case-eee/job-tracker)
+
+  I had this potential client project I was working on trying to line up for minishop,
+  I was trying to build the ground work for it with my mini-project and I think while
+  I learned about dealing with clients I didn't get too much out of my mini-project.
+  I feel kind of luckily that this project was ungraded in that I would have failed it
+  had it been graded I would have done a better job. That said I take full responsibility 
+  for it i being a piece of shit. I didn't prioritize it and I regret that.
+
+## C: Group Work & Projects
+
+### Projects
+
+The group projects were the real meat of our grades this module and I took both 
+of them very serouisly. 
+
+
+#### Rush-Hour
+
+* [GitHub URL](https://github.com/vidoseaver/rush-hour)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/rush_hour.md)
+
+I was very happy with the way rush hour went and turned 
+we had a great DTR, good group understanding, a solid storming session that we 
+were able to work through and I would give I was really happy coming out of it.
+It really solidified the concepts of week on that I was freaking out about not
+getting.
+
+
+## Evaluation Rubric
+
+The project will be assessed with the following rubric:
+
+#### 1. Functional Expectations
+
+* 3: Application fulfills base expectations
+
+#### 2. Test-Driven Development
+
+* 3: Application is well tested but does not balance isolation and integration/feature tests
+
+#### 3. Encapsulation / Breaking Logic into Components
+
+* 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+#### 4. Fundamental Ruby & Style
+
+* 3: Application shows strong effort towards organization, content, and refactoring
+
+#### 5. Sinatra / Web and Business Logic
+
+* 3: Application makes good use of Sinatra but has some mixing of the web and business logic.
+
+#### 6. View Layer
+
+* 4: Application expertly breaks components out to view partials and makes use of both built-in and custom-written view helpers.
+
+#### Feedback from Jon
+Vido you were a great partener to have on a project.  When I was struggling with the concepts
+you repeteadly checked in to make sure I was understanding topics and helped me feel
+much more comfortable asking for help. You also monitored group members closely and
+communicated your thoughts and feelings in an effective way which addressed problems 
+early on and kept the team on track. While you were always quick to accept other points of view 
+I think a way you could improve your team dynamic would be to express why you think your idea 
+for execution was the best way to go, have a short discussion, and strive for coming to
+a consesus more quickly.  You were a great team member to have on a project and 
+hopefully we get to work together again.
+
+#### Feedback from Ryan
+Vido taught me a lot about working in a group over the course of this project,
+which I very much appreciate. From the start, he was insistent on communicating
+regularly and plainly about our group dynamic and plan. This insistence on clear
+discussion helped us particularly in the beginning when we were struggling more
+with the subject matter. When I felt frustration about our pace, he made sure I
+expressed it instead of keeping it under the surface. Vido also had a great grasp
+of the technical parts of the project. Though we disagreed on the direction the 
+project should take at times, his commitment to clear communication and the other
+members of the group contributed heavily to our overall success. 
+
+
+#### Little Shop
+
+* [GitHub URL](https://github.com/bermannoah/check-please)
+
+This concept of restaurant automation is what orginally got me into the idea of
+attending a boot camp. I've been stewing on it for years. And was rather excited
+for it. Despite the finished product turning out pretty good it was kind of a 
+lack-luster experience for me. The group dynamic between myself and another member 
+was pretty strained the entirety of the time.
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+## D: Professional Skills
+
+
+### Gear Up
+***Gear Up: Resilience***
+
+*I had a really strong gear up group for this gear up, loaded the gear up on our
+laptops and headed outside for discussion. We discussed boot camps and resilency and how
+making it through something can either make or break your resilence. Also we discussed
+the importance of having a mentor and when resilence is formed.
+
+***Gear Up: Vote Your Conscience***
+* I wasn't thrilled about the Vote your concience gear up. With out me saying a work my group assumed I was anti voting.
+This couldn't be further from the truth. I think gear up really brought out turings Group-think bias.
+
+***Gear Up: Introversion and Extroversion on Teams***
+I enjoyed this gear up. It was good to think about. I didn't really agree with 
+position the woman took in the movie but as someone who thrives in a group enviornment
+its important for me to keep in mind thats not how all people will thrive.
+
+
+
+
+### Professional Development Workshops
+#### Finding Opportunities
+* [GitHub URL](https://github.com/turingschool/professional_skills/blob/master/finding_opportunities.md)
+We had this session so "save time" with the front-end. I it was alot of Lia talking at us.
+I think i picked up a couple things, like how to stalk people on linked in more effectivly
+but over all it was nothing I wouldn't have figured out by myself. I haven't had much interaction
+with their team other then the presentations they give. Over all I'm underwhelmed.
+
+####Cold Outreach
+* [GitHub URL](https://github.com/turingschool/lesson_plans/tree/master/ruby_02-web_applications_with_ruby)
+
+Again, a lot of Lia talking at us telling us how to write an introductory email to a stranger.
+I didn't agree with most of it however I will say I got some good feedback on the sample email 
+I wrote from Meg.
+
+## E: Feedback and Community Participation
+
+### Giving Feedback
+
+####Feedback for Jon on Rushour
+I think we all were on the same page throughought the project;
+we were able to communicate our concerns and thoughts, Jon you
+struggling with concepts and being able to admit that and ask for
+clarification take a certain bravery. You handled it exetremely well
+also I appreciate your consideration for group. Like refactoring
+there are always things we can improve. While I think you did a great
+job of asking for help from as I said in the retro it would
+have been even more beneficial for you if you'd had that game
+changing conversation with Sal earlier. That said I enjoyed our
+group dynamics and ultimately we can chalk this one up as a win.
+
+####Feedback for Ryan on Rushour
+Ryan described our group as "healthy" and I think that is
+a very accurate description. Every time I have a group that
+doesn't blow up I'm grateful but this group definately exceeded
+that. We overcame different learning styles, worked through 
+some stressful situations and I think we all walked away
+knowing more than we would otherwise had we not had the strong 
+communications skills and unified goals that we had. 
+
+When I overheard other groups communicating I was particularly
+grateful of my team. I also have to say I learned a shitload 
+of hotkeys from Ryan and that was awesome, I'd say my hotkey game
+is on a whole other level now so thanks for that. Ryan and I 
+bumped heads on a few things and but i think we handled it well
+and were able to stay cognicesant of ourselves and the way we 
+were reacting. Which ultimately lead to both our growth. 
+If there was one thing I'd say to improve on I think it would be
+trying to manage impatience a little better. But as I said to
+Jon ultimately I'd chalk this one up as a solid win.
+
+### Being a Community Member
+
+see Rush-hour
+### Playing a Part
+I made myself largely available to to mod 1 cohort thru our pairing shedule and 
+spent serveral ours on multiple pairings past the scheduled time. I spent alot of
+time with Phylis and Drew. 
+
+Also I installed a dope pull up bar in C.
+
+And dishes and coffee. I did alot of both.
+
+## Final Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+( Leave blanks for reviewers )

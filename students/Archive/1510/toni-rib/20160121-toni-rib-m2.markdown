@@ -1,0 +1,151 @@
+# Toni Rib - M2 Portfolio
+
+## Individual
+
+### Your Mission
+
+To learn how to build a web application in Rails and to become familiar with routing and Rails conventions. Also to learn how to test web applications.
+
+### End of Module Assessment
+
+Evaluator: Mike Dao
+​
+#### Notes
+​
+* Wrote additional tests that covered functionality in the spec.
+* Great communication skills.
+* Good instincts on testing,
+* Definitely let tests drive the development process.
+* Used nth child in testing. :thumbs_up:
+* We used Ruby to calculate.
+* Refactored to remove Ruby and use Activerecord by storing percent_correct in database.
+* Then refactored again to use a scope instead of a class method.
+​
+
+#### Scores
+​
+* __Analytic/Algorithmic Thinking:__ 4
+* __Ruby Syntax & Standard Library:__ 3
+* __Rails Syntax & API:__ 4
+* __Rails Style:__ 4
+* __Testing:__ 4
+* __Collaboration:__ 4
+
+### Attendance
+
+Missed Wednesday, January 20th full day due to being sick. Worked from home on Little Shop and this portfolio.
+
+### Work
+
+### Individual
+
+#### Blog Posts
+
+* [Live Blog](http://tonirib.github.io/personal-blog/)
+
+__Number of Posts:__ 5
+
+I didn't think I would enjoy blogging about coding (and the first entry wasn't, really) but as I got further into December I realized there were a few topics I actually wanted to write about. I ended out blogging about following the errors while using TDD, going 'behind the scenes' of the web by starting with Sinatra before moving to Rails, switching my shell from bash to fish, and building the SHA-1 Hashing Algorithm.
+
+#### Ruby Challenges
+
+* [Pig Latin & Swift Stats](https://github.com/ToniRib/code_challenges)
+* [Event Reporter](https://github.com/ToniRib/event_reporter)
+
+__Total Completed Challenges:__ 3
+
+### Team
+
+The following two projects were the graded team projects for module 2:
+
+#### Traffic Spy
+
+* [GitHub URL](https://github.com/ToniRib/traffic-spy)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/traffic_spy.markdown)
+
+Evaluator: Rachel Warbelow
+
+TrafficSpy is an application that works similar to Google Analytics, tracking data for registered applications. The data from this applications is sent to our server using the curl command from the terminal (see below). The user can then view analytical data for a registered application via our website.
+
+No comments were recorded by Rachel.
+
+##### Scores
+
+* __Functional Expectations:__ 4
+* __Test-Driven Development:__ 4
+* __Encapsulation/Breaking Logic Into Components:__ 3.5
+* __Fundamental Ruby & Style:__ 3.5
+* __Sinatra / Web and Business Logic:__ 4
+* __View Layer:__ 3
+
+
+#### Little Shop of Orders
+
+* [GitHub URL](https://github.com/martensonbj/little_shop)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
+
+This Rails application is a marketplace for artists. An artist can register an account and add art pieces to sell. Users can register accounts to purchase the available art pieces. An admin can regulate the process by transitioning order status and managing art for artists.
+
+* __Feature Completeness:__ 4
+* __Views:__ 4
+* __Controllers:__ 4
+* __Models:__ 4
+* __Testing:__ 3
+* __Usability:__ 4
+* __Workflow:__ 4
+
+## Community
+
+### Giving Feedback
+
+* __To Beth Secor:__ "Beth was a great partner for Traffic Spy. She's a very talented programmer who doesn't mind doing some of the dirty work (like doing 8 migrations in one day!) but is also a very proficient problem solver. When I got stressed on due to an issue on Sunday afternoon before the project was due and had to step away for 30 minutes, Beth stepped in to try to solve the problem without complaint. She's correct in her assessment that I should have listened to her more because her ideas are usually right and I think we sometimes detoured down the wrong path because I pushed too hard for my idea. Overall, I think she did an amazing job for our group and she's always level headed when it comes to handling strong-willed personalities."
+
+* __To Taylor Moore:__ "Taylor is a smart guy who sometimes gets hung up on a problem for a long time before asking for help. We did have some issues in our Little Shop project with Taylor not communicating with the group when he wasn't going to be able to finish a task or even to let us know what he was working on. It wasn't uncommon to have him assign an issue or two to himself then show up the next day without having completed parts of his work and without having told us he wasn't going to be able to complete it. However, I know that he was dealing with personal issues at the time and we talked about these things in person before the project was done and I told him that the best thing he can do in a group project is to communicate early and often if he knows he isn't going to get to something he said he would complete. I think Taylor has the drive and the intelligence to be a great programmer, but he does need to learn to communicate with others better to avoid frustrated team members."
+
+* __To Brenna Martenson:__ "Brenna is a great partner to work with. She is always engaged when the group is working together. She takes on tasks without having to be asked or assigned to them and communicates well to the group what she has completed and what she needs help with. She follows through on her commitments and never complains about taking on more work. She's also AMAZING when it comes to front end coding and styling websites quickly. I would be happy to work with Brenna again on any project!"
+
+* __To Steve Pentler:__ "Steve was really fun to work with on Traffic Spy. He never turns down taking on a task and did a great job with views and partials for our site. He also loves to work on the styling which some of us tend to avoid. Steve doesn't given himself enough credit for the work that he puts in and how much he is able to contribute to the group. I think if he started trusting himself a little more he would realize what a great programmer he is!"
+
+* __To Beth Sebian:__ "Beth, while often soft-spoken, is not afraid to ask for help or to ask the group to recap a difficult concept which is GREAT trait for anyone in a tech field. We worked together on the rails mini-project and I feel like I learned more because Beth made is slow down, go through each step incrementally, and had a really cool idea of rotating through our group of three to fix each individual error as it came up. I didn't think at first that I would like going that slow but I ended out liking it a lot because I feel like I learned more and like our whole group was engaged. She has great refactoring ideas, too. I think she's going to make a fantastic programmer and that she should learn to speak up even more in a group because she has great ideas."
+
+* __To Lenny Myers:__ "Lenny seems to always default to saying he has no idea what is going on, but I think he just needs to learn to trust himself more. I paired with him and Beth S on the rails mini-project and while we were switching who solved the error each time a new one came up, Lenny often knew where and how to fix the error he happened to get. I really think if he put some more confidence into his programming abilities that he surprise himself sometimes. Overall he is a great group member who communicates well and isn't afraid to ask for help when he needs it."
+
+### Being a Community Member
+
+* __From Beth Secor:__ "I was very excited to finally pair with Toni on a project, because I always learn a lot from her when I work with her. It was great to have her by my side as we battled through our first migrations and ActiveRecord associations. Though is was challenging and confusing, we learned a lot together. The only feedback I have for her is to consider the ideas of her group members more often, I wish she had been more trusting of my ideas on how to set up the database and views."
+
+* __From Taylor Moore:__ "During Little Shop, I finally got paired with Toni who is easily one of the best programmers I know. She is a hard worker that brings a lot to any project. When I was stuck, she would easily wave her wand and make it disappear. Toni does a great job with following errors and breaking things down to manageable steps. My only suggestions are when pairing try to be more open minded with other ideas. Calmly explain why your idea is superior and make sure they fully understand why.  I will say I wasn’t the best partner during this project. I was poor at communicating even when she reached out as a friend.  She really picked up my slack and helped me through some issues. She is an excellent programmer and even a better friend. I can’t wait to see what her future holds."
+
+* __From Steve Pentler:__ “Working with Toni allows groups to spend more time exploring new topics and less time debugging. Clean and efficient is her style, and her meticulous attention to detail helped me curve my bad habits. Her motivation to attempt every extension set the tone and made me want to follow her lead. More importantly, she is very patient and willing to slow down to explain her processes. For improvement, she could be more aware of when she is talking over others. She generally has the right answers, which somewhat justifies this tendency, but being more aware will improve team dynamics. As a side note, I am very impressed with the amount of time she invests into 1511."
+
+* __From Lenny Myerson:__ "When I was grouped with Toni for the Rails mini project I was intimidated. She is smart, quick, and her work seem exemplary. She was, however, quick to relieve me of my intimidation and worry. She was always quite happy to explain her understanding of a problem or her solution to it. She showed no ego whatsoever about saying “I don’t know” when appropriate and she seemed eager for the group to be successful. I greatly appreciated her help and insight and I look forward to working with her again."
+
+* __From Brenna Martenson:__ "Working with Toni has been such a positive experience on every level. She has an amazing ability to quickly focus a problem and find an effective solution, which is incredibly beneficial in large projects. Occasionally her impressive forethought can be hard to slow down, making offering other suggestions challenging at times. She is eager to take on difficult tasks and is always ready to offer opinions on project direction and design. I’ve found that our workflow together is extremely fluid and I would be thrilled to have the opportunity to work with her again!"
+
+* __From Beth Sebian:__ "Toni's strength as a programmer is evident, as is her generousness with her time to assist other students, but what has especially impressed me is what a dutiful learner she is. I'm very familiar with practitioners who are so good they are unable to coherently explain the concepts behind what they do, but Toni is different. She is very conscious and conscientious about applying her skills as she tackles problems. For example, as someone who's had the chance to pair with her, I was impressed to see her predict out loud what tests would fail next, and verbalizing why. This approach permeates her work. This makes her a great teacher, but it also speaks to her capacity for learning and the integrity she brings to her work. I had respected her generousness and skills from afar, but after having a chance to work with her I have a deeper appreciation for her humility and dedication to our craft."
+
+### Playing a Part
+
+* Started Tuesdays w/Toni where I paired with 2 people for 45 minutes each every Tuesday through the whole module. It mostly ended out being with 1511 students who seemed to really appreciate the extra help.
+* Had my husband create and helped hang the large glass Turing logo in the hallway.
+* Volunteered on community day to help teach at DSST
+* Made coffee, did the dishes, and changed out toilet paper rolls a few times every week
+* Participated in some of the computability theory (now machine learning) morning classes with Aaron.
+
+## Review
+
+### Notes
+
+( Leave blanks for reviewers )
+
+### Outcome
+
+End of Module Assessment:  4
+
+Individual Work and Projects: 4 
+
+Group Work and Projects:  4
+
+Community Participation: 3
+
+Peer and Instructor Feedback:  4

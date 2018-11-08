@@ -1,0 +1,123 @@
+# Rose Kohn - M3 Portfolio
+
+## Individual
+
+### Mission Statement
+
+This module I was worried about being able to keep up and catch up based on
+where I thought I was and how much time I had been able to invest in prep for it
+to begin, as well as based on the reputation that Module 3 carries.  My goals were
+to be able to keep focused, keep up, get stronger at Rails, and be able to do
+what's required on my own (for the most part).  I've really enjoyed this module.
+The content has been really interesting, the group I had worked exceedingly well
+together, and I felt confident about the projects I put out.
+
+### End of Module Assessment
+
+### Attendance
+
+This module I attended all days and classes on-time.
+
+### Work
+
+I completed the following individual work this module:
+
+#### APIcurious
+
+* [GitHub URL](https://github.com/roseak/photobomber)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/apicurious.md)
+
+In this project, I made an Instagram clone.
+
+It was evaluated by Jorge Téllez with the following results:
+
+* Completion: 4
+* Organization: 4
+* Test-Driven Development: 3
+* Code Quality: 3
+* User Experience: 4
+
+#### RailsEngine
+
+* [GitHub URL](https://github.com/roseak/rails_engine)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/rails_engine.md)
+
+In this project, I used Rails and ActiveRecord to build a JSON API which exposes the Sales Engine data schema.
+
+It was evaluated by Josh Mejia with the following results:
+
+* Completion: 4
+* Test-Driven Development: 4
+* Code Quality: 3
+* API Design: 3
+* Queries: 4
+
+#### Podlist
+
+* [GitHub URL](https://github.com/roseak/podlist)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/self_directed_project.md)
+
+In this project, I used Rails, ActiveRecord, jQuery, and Ajax to login with Twitter and pull from the API from Audiosear.ch to allow users to search for, listen to, and make playlists out of podcast episodes.
+
+It was evaluated by Jorge Téllez with the following results:
+
+* Completion: 4
+* Organization: 4
+* Test-Driven Development: 3
+* Code Quality: 3.5
+* User Experience: 4
+* Performance: 3
+
+## Team
+
+#### The Pivot
+
+* [GitHub URL](https://github.com/jbrr/the_pivot)
+* [Original Assignment](https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/the_pivot.md)
+
+Group: Rose & Jeff & Regis
+
+Assessed By: Mike
+
+In this project we enhanced a Little Shop of Orders (Earmarked) project, simulating working on an existing codebase.
+
+"Twilio verify phone number on login. - There are charts and graphs and progress bars. - 96.23 percent coverage - 100 tests. - Some opportunities to refactor, perhaps look at decorators. - Some sweet graphs - last tweet from candidate - Amazing hero image. <3"
+
+* Feature Completeness: 4
+* Organization: 3
+* Progress: 4
+* TDD: 3
+* Code Quality: 3
+* UX: 4
+
+### Feedback to Me
+
+"You were a great example of a hard worker. Your talent for figuring out the front-end and helping your teammates when they are stuck is what made working you an awesome experience. You understand git workflow very well, and are a very quick learner. Our group was by far the best group I have ever worked with in a deadline based project where our knowledge was tested. I wish I had something negative to say so that you could build on some skills you need help with, but your intuition for figuring out problems and being self aware seems to bring you forward. I look forward to working with you again!"
+
+"Our group was totally rad, I had an absolute blast the whole time through. I was really impressed by your ability to say you would handle some task, and have it fully functional and fleshed out the next morning. Your also very laid back and not quick to get stressed out, and that made working with you really easy. I’m not really sure I have a poopsicle for you, you and Regis were a pleasure to work with, that was the most fun project I’ve worked on since I’ve been at Turing."
+
+## Community
+
+### Giving Feedback
+
+### Playing a Part
+
+* On Tuesday, October 13th, I went to Denver.rb to see Marla give her intro talk.
+* On Friday, October 23rd, I gave a lightning talk on Alan Kay.
+* I attend posse time in the morning to do warmups with my posse and have met up
+  with them outside of school.
+* I attend coffee time with Joan Clarke Society on Tuesdays.
+
+## Review
+
+### Notes
+
+* End of Module Assessment: 4
+* Individual Work and Projects: 4
+* Group Work and Projects: 3
+* Community Participation: 3
+* Peer and Instructor Feedback: 3
+
+### Outcome
+
+Pass

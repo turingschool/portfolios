@@ -1,0 +1,162 @@
+# Rose Kohn - Module 1 Portfolio
+
+## Individual
+
+### Areas of Emphasis
+
+As this was my first module, my primary concerns were whether I'd be able to keep up with my peers in class, whether learning to code would be something I'd actually enjoy long term, and whether I'd pass on to the next module.  I tried to utilize the system set up for us with mentors and members of other cohorts to go over material I found difficult to understand, and was able to successfully pass all of the assignments.  I know far more than I did entering Turing and am glad that I made the decision to come study how to code.
+
+### End of Module Assessment
+
+My progress through the module was assessed by DJ Greenfield.  Here are the results:
+
+#### Notes:
+
+* Rose went to great effort to make the pairing feel like a conversation.
+* She took a very iterative approach to each problem. She never looked ahead of herself for a solution.
+* With a better command of her tools she could have worked much more quickly, but without any signs of obstruction I don't think it is yet an issue.
+
+#### Scores
+
+* Ruby Syntax & API - 3: Developer is able to comfortably implement solutions in Ruby
+* Ruby Style - 3: Developer writes code that is easy to follow
+* Blocks & Enumerations - 3: Developer demonstrates understanding of blocks and can effectively use enumerable methods
+* Testing - 3.5: Developer uses tests to guide development in small chunks
+* Workflow - 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+* Collaboration - 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+### Attendance
+
+I've attended class every day, generally getting in around 8, always in time to do the warmup with my posse.
+
+### Work
+
+I completed two individual projects: Chisel and Linked Lists.
+
+#### (Chisel)
+
+* [GitHub URL](https://github.com/roseak/Chisel)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/chisel.markdown)
+
+In this week long project, I created a Ruby parser that would take markdown and render it to html.
+
+#### Notes:
+
+* Program works, no extensions.
+* More sad path tests would have been nice.
+* Code well organized.
+* Separate FileIO class needed.
+
+#### Scores
+
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Functionality: 3
+* Breaking Logic into Components: 3
+
+#### (Linked Lists)
+
+* [GitHub URL](https://github.com/roseak/linked_list)
+* [Original Assignment](https://github.com/turingschool/challenges/blob/master/linked_lists.markdown)
+
+In this three-day project I implemented a linked list through iteration. It was evaluated by Mike with the following results:
+
+#### Notes
+
+* Could use some additional edge case testing
+* Good #count method
+
+#### Scores
+
+* Functional Expectations: 4
+* Test-Driven Development: 3
+* Encapsulation: 3
+* Fundamental Ruby & Style: 3.5
+* Looping / Recursion: 3
+
+## Team
+
+### Projects
+
+I participated in two group projects: Enigma and Sales Engine.
+
+#### Enigma
+
+* [GitHub URL](https://github.com/rebekahsosa/enigma)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
+
+This was a week long project where we used Ruby to build a tool for encrypting, decrypting, and cracking a code.  I was paired with Rebekah Sosa and we were evaluated by Jeff.
+
+#### Notes
+
+* Strengths: it works
+* 50 tests all pass
+* Good decomposition
+* Like the enumerable work and implementation
+* All functionality looks good
+* Like that you experimented with modules
+
+#### Scores
+
+* Functionality: 4
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Breaking Logic into Components: 4
+
+#### Sales Engine
+
+* [GitHub URL](https://github.com/roseak/sales_engine)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sales_engine.markdown)
+
+This was a two week project where we worked with class relationships in Ruby to create a database.  I was paired with David Stinnette and we were evaluated by Mike Dao.
+
+#### Notes
+
+* 143 tests, 262 assertions
+* 97.73% coverage
+* No sanitation complaints
+* 2 minutes and 42 seconds
+
+#### Scores
+
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3  
+* Fundamental Ruby & Style: 4
+* Enumerable & Collections: 4
+* Code Sanitation: 4
+
+## Community
+
+### Feedback to Me
+
+"Rose has been proactive about becoming an active member of the Turing community. I've heard her talk often about mentors, she has reached out to students in other cohorts, and she is working on the podcast and spending time with other women in the Joan Clarke Society. She's also almost always willing to offer helpful suggestions if I'm feeling stuck and she has a solution."
+
+"From my standpoint, you were always enthusiastic and easy to approach. While I don’t remember you asking me specifically for help, I did see you reaching out to many members within the Turing community. When I was trying to explain something like my experiences with Sales Engine, you listened well and asked engaging questions in response."
+
+"Rose is a super hard working teammate that will go the extra mile if help is requested. She was a positive influence during my first module at Turing and was patient and understanding while helping others. One thing for improvement would be that you can sometimes get a slight bit short when stressed out. Of course this happens rarely, but still something to be cognizant about. Otherwise a true gem! (no pun intended)."
+
+"A privilege to work with. You're a hard worker, intelligent and level headed. I appreciate that you set realistic yet ambitious project expectations. We're crushing sales engine even though our productivity took a slight hit when we discovered we're both practitioners of the fine art of bullshitting. I hope to work with you again soon."
+
+### Playing a Part
+
+* I've done interviews for Course Report and the Turing video/ad.
+* I've started a Turing podcast with a few other students.
+* I brought back all the left items from the park at the end of field day.
+* If anyone needs help on a problem I understand, I offer my assistance.
+* I'm always with my posse every morning to work on the warmup.
+* Attended Women Who Code study group on July 15, 2015.
+
+## Review
+
+### Notes
+
+* End of Module Assessment: 3
+* Individual Work and Projects: 3
+* Group Work: 4
+* Community Participation: 4
+* Feedback: 3
+
+### Outcome
+
+( Leave blanks for reviewers )
