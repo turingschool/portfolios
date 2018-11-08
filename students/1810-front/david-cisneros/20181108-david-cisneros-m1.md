@@ -71,20 +71,24 @@ Build a game where the user guesses a number between 1 and 100. Every time the u
 Throughout the project, one of our focuses will be on providing a fluid and responsive client-side interface. To this end, we’ll rely on JavaScript and to implement snappy filtering in the browser, and localStorage to persist our wonderful ideas between sessions.
 
 ### Evaluation Comments:
-* TBD
-* TBD
-* TBD
+* watch stylistic consistency within the codebase -- alternate between rem and em for font-size and using 0 vs 0px
+* HTML is generally well named and well structured, a couple of places that a more modular approach could be used to make classes more reusable
+* JS has some areas that could use refactor
+* showMoreLessCards() function uses an approach to hide/show cards beyond 10 that is very hacky and won't hold up to user testing (adds or removes a fixed height on the parent card container with no overflow) -- not a true solution for this functionality
 
 ### Evaluation Scores
+* Functional Expectations
+  * Advanced Beginner
+  * Proficient
 * COMP RECREATION / DESIGN
-  * TBD
+  * Proficient
 * HTML
-  * TBD
+  * Advanced Beginner
+  *Proficient
 * CSS
   * Proficient
-  * TBD
 * JS
-  * TBD
+  * Advanced Beginner
   
 ## D: Community Participation
 
