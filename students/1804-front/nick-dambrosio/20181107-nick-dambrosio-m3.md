@@ -53,10 +53,5 @@ I participated in an Iron FE, but _more importantly_, _THREE TIME TOP TALK NICK 
 
 ## Outcome
 
-PASS
+PASS with Concern
 
-- **A: End-of-Module Assessment**: 4
-- **B: Individual Work & Projects**: 3.5
-- **C: Group Work & Projects**: 3.5
-- **D: Community Participation**: 3.5
-- \*\*E: Professional Development: 3
