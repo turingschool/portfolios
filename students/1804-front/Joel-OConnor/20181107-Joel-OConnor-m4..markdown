@@ -20,3 +20,6 @@ I think it will be really fun once I have more experience in the industry to div
 ## What is the most important skill or lesson that you will take from Turing into your next job?
 
 Confidence that I have the problem solving skills to overcome any task I am faced with in a job. Turing also gave me the tools to understand how I can teach myself anything in programming and beyond.
+
+## 30 Day Action Plan
+[Link To My Gist](https://gist.github.com/JoOCon/c125d708aa6fb0ec69ba9a7afed6b91e)
