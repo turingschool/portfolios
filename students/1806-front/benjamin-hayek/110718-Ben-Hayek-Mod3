@@ -1,0 +1,67 @@
+
+# Ben Hayek - FE 1806 Mod3 Portfolio
+ ## Areas of Emphasis
+ This Module i set out to increase my skills in React as weel as gain a solid foundation in Redux. I wanted to set a goal of spending more time after class learning and collaborating with my classmates. Although it was exhausting at times it proved to be a great way to learn new skills. I also wanted to answer more questions in class and with the help of pop-sicle sticks i had the opportunity to answer many. I believe I learned more this mod than I had in either of the previous ones because of the heavy workload.
+ ## Rubric Scores
+ * **A: End-of-Module Assessment**: Passed
+* **B: Individual Work & Projects**: 3.5
+* **C: Group Work & Projects**: 3.5
+* **D: Professional Skills**: 3
+* **E: Community Participation**: 3.25
+ -----------------------
+ A: End of Module Assessment
+Passed
+
+ B: Individual Work & Projects
+ 
+ #### HeadCount2.0
+ 
+ [Github URL](https://github.com/benjaminhayek/headcount2.0)
+[Original Assessment](https://github.com/turingschool-examples/headcount2.0)
+
+ For our first individual project this mod we were assigned HeadCount. This project revolved around manipulating data and creating small reusable react components. I personally got a lot out of this project. I liked the fact that it was individual which allowed me to struggle through it on my own. This was a good intro into test driven development and improving testing skills. This project was a good base foundation for the mod.
+ 
+ 
+ #### Swapi-Box
+ 
+ * [GitHub URL](https://github.com/Salamandastron1/swapi-box)
+* [Original Assignment](http://frontend.turing.io/projects/swapi-box.html)
+
+ SWAPIBox was a great way to learn to navigate API's and get some solid reps in with creating components. I enjoyed working with Tim as a team to create our API and deliver a decent end product. With this project we set the goal of not moving on to the next iteration until we had our app tested to our liking and refactored to the best of our ability. I learned a lot about how to test during this project and now feel confident i could create something similair in amuch shorter amount of time.
+
+ ## Evaluation
+ 
+ [Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-3/swapi/tim-ben/scores.md)
+ 
+ #### MovieTracker
+ 
+ [Github URL](https://github.com/Haub/movieTracker)
+[Original Assessment](https://github.com/turingschool-examples/movie-tracker)
+
+MovieTracker was my first real introduction to Redux beyond what we had in pre-work during the break. I enjoyed working along side graham and megan in order to create a sleek UI on a redux based application. This project allowed me to fiddle with thunks and get a better understanding of how redux works in general being able to dive right in greatly increased my understanding. This is probably one of the nicest UI's i've help build in my time here at Turing.
+ 
+ ## Evaluation
+
+[Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-3/movie-tracker/graham-ben-megan/scores.md)
+
+#### Get Educated!
+
+[Github URL](https://github.com/benjaminhayek/learn-to-vote)
+
+At first i wasn't overly enthused about being assigned an API and audience i actually had a lot of fun with this project. It was intimidating at first to have such a short time-frame to build an app on my own but it allowed me to see just how much i've learned this mod. The ProPublica API was easy to navigate and the documentation was great. I enjoyed finding creative solutions to implement in my app. I enjoyed writing my own iterations and setting goals for myself to accomplish. 
+
+## Evaluation
+
+[Link to scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1806/mod-3/binary-challenge/ben/scores.md)
+ 
+## Contribution
+
+This Mod i helped contribute to the community by hosting iron-fe and pairing with students in the lower mod to work on array iterators. I also spent much more time at school this module which allowed me to work with several of my class mates and help to problem solve (mostly with tests). 
+ 
+ ------------------
+ ## Final Review
+ ### Notes
+ ( Leave blanks for reviewers )
+ ### Outcome
+ 
+ PASS
