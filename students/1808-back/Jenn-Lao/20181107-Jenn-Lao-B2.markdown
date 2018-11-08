@@ -1,0 +1,68 @@
+# M2 Portfolio
+
+## Areas of Emphasis
+
+What did you set out to accomplish this module? Were you successful?
+This module, I set out to try to learn as much as I could about web development. I think I was pretty successful figuring out the components of MVC and how they work together.
+
+What did you struggle most with this module? What did you learn from that struggle?
+I struggled most with building the muscle memory to set-up a project. I learned that typing things out really helps me remember things more.
+
+## Blog
+
+Link: https://medium.com/@jenn.p.lao/the-differences-between-joins-81a25c9e9260
+
+Summary (1-3 sentences):  This blog explains the differences between all the different types of joins.  
+
+## ActiveRecord Obstacle Course
+Link: https://github.com/jplao/activerecord-obstacle-course
+
+Was this helpful for practicing ActiveRecord?
+It was very helpful, even though it was frustrating at times.
+
+## Projects
+
+What were your favorite projects this module? Least favorite? Why?
+I liked all the projects this module.  My least and most favorite were both Little Shop for different reason.s  I liked that we were able to build a fully functioning e-commerce platform, but at the same time the amount of user stories and how some were written also made it the most frustrating project.
+
+What did you learn from your independent projects?
+I learned that I am more capable than I think I am.
+
+What did you learn from your paired/group projects?
+I learned that everyone struggles with different things, and that by working together we can really support each other and help each other grow.
+
+## Community 
+
+How did you contribute to the Turing community this module?
+This module I offered my help to a few 1810 students. I also helpeed alot of my mod-mates in areas I felt strong in (like active-record).  I also offered to host all my mod-mates that don't have a place to go on Thanksgiving.
+
+What would you like to do to contribute next module?
+Next module I would like to join SAB if one of our reps does not want to be a rep anymore.
+
+### Member of a Posse
+I was not a part of a posse this module
+
+What did you do with your posse over this module?
+
+What is your favorite thing about the posse experience?
+
+How has your posse expereince helped you grow as a professional?
+
+## Self-Assessment Scores
+
+Fill in how **you** would grade yourself from 1-4 in the following categories this module.
+
+1. Below Standard
+2. Approaching Standard
+3. Meets Standard
+4. Above Standard
+
+
+| Category                     | Score |
+| -----------------------------| ----- |
+| **Individual Projects**      |   3   |
+| **Group Projects**           |   3   |
+| **Professional Development** |   3   |
+| **Community**                |   3   |
+| **Final Paired**             |   3   |
+| **Final Verbal**             |   3   |
