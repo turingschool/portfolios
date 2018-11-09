@@ -11,15 +11,15 @@ I struggled with understanding how to debug activerecord, the errors are funky.
 
 ## Blog
 
-Link: 
+Link: https://medium.com/@melvinemiliocedeo/my-top-10-vs-code-extensions-first-draft-73f65de0797b
 
-Summary (1-3 sentences):
+Summary (1-3 sentences): A list of my 10 favorite VS code extensions. 
 
 ## ActiveRecord Obstacle Course
 Link: https://github.com/TheCraftedGem/activerecord-obstacle-course
 
 Was this helpful for practicing ActiveRecord?
-Yes it reminded me of mythical creatures. 
+Yes it reminded me of mythical creatures. It was good having examples and figuring out how to 
 
 
 ## Projects
