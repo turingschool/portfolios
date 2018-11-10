@@ -2,9 +2,9 @@
 
 ## Areas of Emphasis
 
-I set out to understand the MVC architecture and successfully implement a Rails app.
+I set out to understand the MVC architecture and successfully implement a Rails app. Specifically how data is made to persist across usage and how that data can be used in meaningful ways.
 
-ActiveRecord. I learned that I need to improve my understanding of the ORM-database interaction.
+I struggled with ActiveRecord. I learned that I need to improve my understanding of the ORM-database interaction.
 
 ## Blog
 
@@ -16,23 +16,23 @@ This article explains how to implement the simplest Chartkick charts in your Rai
 ## ActiveRecord Obstacle Course
 Link: https://github.com/geoffreyadebonojo/activerecord-obstacle-course
 
-I don't think the active record obstacle course was a good measure of what we learned, not was it an effective way to learn it. I found it to be an onerous distraction.
+I don't think the active record obstacle course was a good measure of what we learned, not was it an effective way to learn it. I found it to be an onerous distraction, but it's probably just that my learning style disagrees with the style of the activity. I felt little connection between the actual skills needed to use ActiveRecord in an application and the way it was being used i the obstacle course.
 
 
 ## Projects
 
-The final solo project wasn't all that enjoyable. There wasn't very much time to get into it, and little room for making personal contributions.
+The final solo project wasn't all that enjoyable. There wasn't very much time to get into it, and little room for making personal contributions. Having worked for ten days on our own version of the project, I was ready for something with more opportunity for control over design and implementation.
 
 I learned the overall architecture of a Rails app. Understanding the responsibilities of MVC, specifically the logic each part is responsible for.
 
-How to collaborate with a team, and how to be flexible about the contributions I make.
+I learned how to collaborate with a team, and how to be flexible about the contributions I make. Team members tend to have overlapping skills.
 
 
 ## Community
 
 I announced the 3d printing posse.
 
-I feel as though focussing on the community weakens my learning. I don't have time for posses. I felt too frustrated with my work to want to be in the basement after hours.
+I feel as though focussing on the community distracts from focus I need to put on my learning. I don't have time or inclination to participate posses because I feel like I'm always desperately behind schedule. I felt too frustrated with my work to want to be in the basement after hours.
 
 ## Self-Assessment Scores
 
