@@ -20,6 +20,13 @@ How did you contribute to the Turing community this module?
 
 What would you like to do to contribute next module?
 
+## Gear Up Reflection
+
+Using the gist that you reflected on the 3 Gear Ups that you had this mod, answer the following questions in 4-6 sentences:
+
+* What are your biggest takeaways from Gear Ups this module?
+* How do you think the concepts covered in these Gear Ups will impact you as a software developer? 
+
 ## Self-Assessment Scores
 
 Fill in how you would grade yourself from 1-4 in the following categories this module.
