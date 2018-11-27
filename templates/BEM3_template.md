@@ -17,6 +17,7 @@
 * What have you done this inning that sets you apart from your peers?
 * How did your Mod 3 experience impact what you wanted to be doing after Turing? How did it reframe what you learned in previous modules?
 * What is the most important skill or lesson that you will take from Turing into your next job?
+* What are your biggest takeaways from Gear Ups this module? How do you think the concepts covered in these Gear Ups will impact you as a software developer? 
 
 #### The presentation should not be a series of slides that directly answers each of these questions with bullet points, but instead should:
 
