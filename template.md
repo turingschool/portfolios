@@ -57,6 +57,13 @@
 
 (ways you supported the larger Turing community)
 
+## E: Gear Up Reflection
+
+Using the gist that you reflected on the 3 Gear Ups that you had this mod, answer the following questions in 4-6 sentences:
+
+* What are your biggest takeaways from Gear Ups this module?
+* How do you think the concepts covered in these Gear Ups will impact you as a software developer? 
+
 ------------------
 
 ## Final Review
