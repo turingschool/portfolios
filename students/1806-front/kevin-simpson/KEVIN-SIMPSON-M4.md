@@ -89,6 +89,10 @@ While I have spent quite a bit of my life as a teacher, I have never had to lead
 
 My participation in the community was a bit less-involved than in previous mods, but I did go out of my way to as helpful as possible to my fellow students, particularly those in the earlier mods. I may not be a teacher by trade anymore, but I still really love doing it.
 
+## E: Mod 5
+
+* (30-day action plan link)[https://docs.google.com/document/d/191sDMgI_Dyi4SauKTgcY63YBNpns5Vr7v-y1iopaQag/edit?usp=sharing]
+
 ------------------
 
 ## Final Review
