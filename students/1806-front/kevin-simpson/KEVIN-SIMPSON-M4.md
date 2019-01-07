@@ -56,7 +56,7 @@ This project was to build an Express server to support a modest application for 
 
 * [GitHub Repo](https://github.com/relasine/Formula-1-API)
 
-* [Project Specs]http://frontend.turing.io/projects/build-your-own-backend.html)
+* [Project Specs](http://frontend.turing.io/projects/build-your-own-backend.html)
 
 This project was to build a database using PostgreSQL and knex, to serve up the data with an Express server, and to write documentation for it so that it might be easily consumed.
 
@@ -91,7 +91,7 @@ My participation in the community was a bit less-involved than in previous mods,
 
 ## E: Mod 5
 
-* (30-day action plan link)[https://docs.google.com/document/d/191sDMgI_Dyi4SauKTgcY63YBNpns5Vr7v-y1iopaQag/edit?usp=sharing]
+* [30-day action plan link](https://docs.google.com/document/d/191sDMgI_Dyi4SauKTgcY63YBNpns5Vr7v-y1iopaQag/edit?usp=sharing)
 
 ------------------
 
