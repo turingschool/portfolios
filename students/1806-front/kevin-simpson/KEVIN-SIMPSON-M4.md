@@ -41,10 +41,11 @@ This project was to build an Express server to support a modest application for 
 
 #### (Final Project)
 
-* [GitHub URL]()
-* [Project Specs]()
+* [GitHub URL](https://github.com/relasine/space-cats)
+* [Deployed Application](https://space-cats-in-space.herokuapp.com/)
+* [Project Specs](http://frontend.turing.io/projects/final-countdown.html)
 
--
+- This project was to utilize the NASA Picture-of-the-Day API to build an application that serves up the NASA Picture of the Day and allow user to go back through the last month of pictures with the ability to, with one click, return to the current day. Unfortunately, the NASA POTD API is down, so I built my own API in express and used it to serve up the data. It's a single endpoint that takes a number as a single request parameter, with '0' being the current day, '1' being the day previous, etc.
 
 (evaluation comments)
 
@@ -73,10 +74,13 @@ This project was to build a database using PostgreSQL and knex, to serve up the 
 Pitch Battles is a desktop web application built in React that is designed as a training tool for musicians to practice and learn reading pitches on the staff. The Pitch Battles experience is entirely gamified using 90s-era 16-bit art assets, account tracking with personal performance evaluation and achievements, global leaderboards, and class-based comparison and tracking tools for music teachers to see how their students are doing. I worked incredibly hard on this project, and I am extremely proud of how it turned out. 
 
 (evaluation comments)
+It's real good!
 
 (evaluation scores)
+A+
 
 (feedback to me)
+Using SASS/SCSS would have probably saved me a bit of time with vendor prefixes. 
 
 
 ## D: Community Participation
