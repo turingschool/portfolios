@@ -49,6 +49,8 @@ This project was to build an Express server to support a modest application for 
 
 (evaluation comments)
 
+- Nice pivot on setting up the back-end.
+
 (evaluation scores)
 
 ## C: Group Work & Projects
